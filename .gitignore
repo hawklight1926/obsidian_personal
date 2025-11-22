@@ -1,0 +1,13 @@
+# ワークスペース（ウィンドウ状態）のみ無視
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces-mobile.json
+
+# キャッシュファイル
+.obsidian/cache/
+.obsidian_mobile/cache/
+
+# OS固有ファイル
+.DS_Store
+Thumbs.db
