@@ -11,7 +11,6 @@ category: "Other"
 https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication
 
 ## 要約
-本記事は、ARM64の強力なハードウェアセキュリティ機能「ポインタ認証（PAC）」について、Windows上での内部実装を詳細に分析しています。
-PACはメモリ破損攻撃対策として重要ですが、Windows on ARM64の現行実装は限定的であることが明らかになりました。
-具体的には、保護対象がリターンアドレスと例外ハンドラのポインタに留まっており、他の多くの重要なポインタは保護されていません。
-このため、PACの防御効果は期待値より低く、攻撃者による悪用の余地が残されていると指摘しています。
+Windows ARM64のポインター認証（PA）は、メモリ破損攻撃に対する強力な防御機能です。本記事では、Qualcomm Snapdragon X EliteプロセッサにおけるPAの内部構造と、そのバイパス手法を詳しく解説しています。
+
+特に、Qualcommチップに備わるデバッグ機能「QAx」が悪用されると、特権レベルでPA検証が無効化され、セキュリティが著しく低下する脆弱性を発見しました。これにより、ROP/JOP攻撃などに対する重要な防御が迂回されるリスクがあり、既にMicrosoftに報告されています。
