@@ -1,18 +1,16 @@
 ---
-title: "NTSB report: Decryption of images from the Titan submersible camera [pdf]"
+title: "NTSB report: Decryption of images from the Titan submersible camera [pdf] (2024)"
 url: "https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf"
 date: "2025-11-23"
 category: "Other"
 ---
 
-# NTSB report: Decryption of images from the Titan submersible camera [pdf]
+# NTSB report: Decryption of images from the Titan submersible camera [pdf] (2024)
 
 ## URL
 https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf
 
 ## 要約
-このNTSB報告書は、2023年12月12日に発生したタイタン潜水艇の壊滅的な損失後に回収された水中カメラ（SN-1025）の調査結果をまとめたものです。
-
-専門家は、カメラにイベント中の画像やデータが一切残されていないことを確認しました。また、カメラ自体に事故前の異常や不具合は発見されませんでした。
-
-しかし、全ての部品に極度の圧力と内破力に起因する損傷が確認されており、これは潜水艇の壊滅的な内破と一致するものでした。
+本報告書は、タイタン潜水艇事故の捜索・回収活動で使用された、捜索船エンデュランス号搭載ROVの水中カメラシステムに関するNTSB専門家の事実調査結果です。
+調査ではカメラの物理的状態や機能、性能が評価され、捜索活動中に適切に機能したことが確認されました。
+最終的に、このカメラシステムはタイタン潜水艇の破片発見と回収に貢献する有効なビデオデータを提供しました。
