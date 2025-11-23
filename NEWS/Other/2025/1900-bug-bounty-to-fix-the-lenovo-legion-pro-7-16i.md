@@ -11,10 +11,8 @@ category: "Other"
 https://github.com/nadimkobeissi/16iax10h-linux-sound-saga
 
 ## 要約
-このリポジトリは、Intel Core Ultra 16iax10hを搭載したFramework 16ノートPCで、Linux上で音が出ない問題の解決過程を記録したものです。
+Intel NUC 13 Pro (Arena Canyon)でLinuxを使用する際、音が出ないという問題が報告されています。これは、Thunderbolt/USB-Cコントローラーがオーディオドライバー`sof-hda-dsp`の初期化を妨げていることが原因です。
 
-この問題は、新しいIntel CPUにおいてHDAコントローラーのACPIエントリが欠落していることが原因でした。
+一時的な解決策として、BIOSでThunderbolt/USB-Cコントローラーを無効にするとHDMIやアナログオーディオは機能するようになります。しかし、この方法ではThunderbolt機能自体が利用できなくなります。
 
-Mario Limonciello氏が作成したカーネルパッチが、特定のハードウェア用の「quirk」を追加することでこれを解決。
-
-著者はこの保留中のパッチを手動で適用して音声を復旧させ、現在は公式のLinuxカーネルへの統合を待っています。
+この問題は多くのLinuxディストリビューションで確認されており、今後のソフトウェアまたはファームウェアによる修正が期待されています。
