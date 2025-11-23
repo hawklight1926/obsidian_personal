@@ -11,6 +11,7 @@ category: "Other"
 https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication
 
 ## 要約
-この記事は、Windows ARM64環境におけるポインター認証（PAC）の内部構造を詳細に解説しています。PACは、ポインターに暗号署名を追加し使用前に検証することで、メモリ破損攻撃を防ぐセキュリティ機能です。
-
-Windowsはこれをスタック上のリターンアドレスや特定の関数ポインター保護に活用し、既存のセキュリティ対策を強化しています。記事では、PACの仕組み、実装の詳細、およびControl Flow Guard (CFG)などの他のセキュリティ機能との連携が深く掘り下げられています。
+この記事は、Windows ARM64におけるポインター認証（PA）というセキュリティ機能の内部実装を深く掘り下げています。
+PAは、ポインターに暗号署名を付与し、使用時にその整合性を検証することで、ROP（Return-Oriented Programming）などのポインターベースの攻撃を防ぎます。
+記事では、ARMのハードウェア機能を利用したOSレベルでの動作、PACキーの管理、PEB構造体への統合、そしてプロセスごとの有効化や設定方法が詳細に解説されています。
+これにより、Windows 11 24H2以降で強化された、低レベルのメモリ保護メカニズムが明らかにされています。
