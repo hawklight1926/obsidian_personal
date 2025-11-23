@@ -11,7 +11,6 @@ category: "Other"
 https://canonical.com/blog/canonical-expands-total-coverage-for-ubuntu-lts-releases-to-15-years-with-legacy-add-on
 
 ## 要約
-Canonicalは、Ubuntu LTSリリースの総サポート期間を15年に延長する新サービス「Legacy Add-on」を発表しました。
-これは、従来の5年間の標準サポートと5年間のESM（Extended Security Maintenance）に、さらに5年間が追加されることで実現します。
-この延長は、企業や組織がアップグレード戦略をより柔軟に計画できるよう支援し、特に厳格な規制要件を持つ長期運用システムにおいて、セキュリティと安定性を大幅に強化します。
-これにより、デプロイされたシステムのライフサイクル全体にわたる安心感が提供されます。
+Canonicalは、Ubuntu LTSリリースのトータルカバレッジ期間を最大15年間に延長すると発表しました。これは、既存のUbuntu Proの10年サポートに、新しく導入された「Legacy Add-on」を組み合わせることで実現します。
+
+Ubuntu 14.04 LTS以降のすべてのリリースが対象となり、企業や組織がデジタルインフラをより長く、安全に運用し続けることを可能にします。この拡張により、特に規制の厳しい業界や大規模システムにおいて、セキュリティメンテナンスと技術サポートの長期的な提供が保証されます。
