@@ -11,7 +11,6 @@ category: "Other"
 https://www.pgedge.com/blog/simplifying-cluster-wide-sql-execution-in-pgedge-with-exec_node
 
 ## 要約
-pgEdgeでは分散PostgreSQLクラスターの管理を効率化しますが、複数のノードにわたる同じSQLステートメントの実行は複雑でした。
-この記事は、この課題を解決する新コマンド「`exec_node`」を紹介しています。
-`exec_node`を使用すると、pgEdgeクラスター内の全ノード、プライマリ、レプリカ、または指定ノードに対してSQLステートメントを一括で簡単に実行できます。
-これにより、クラスター全体の運用が大幅に簡素化され、管理効率と作業の正確性が向上します。
+pgEdgeは、分散PostgreSQLクラスタ全体でのSQL実行を簡素化する新機能「exec_node」を導入しました。
+この機能により、ユーザーは単一ノードから、クラスタ内の全ノードに対してDDLやDMLなどの任意のSQLコマンドを同時に実行できます。
+「exec_node」は、クラスタワイドな操作を大幅に効率化し、分散データベースの管理を、まるで単一のPostgreSQLインスタンスを扱うかのように、より容易にします。
