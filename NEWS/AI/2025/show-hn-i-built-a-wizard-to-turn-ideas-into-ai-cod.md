@@ -11,8 +11,6 @@ category: "AI"
 https://vibescaffold.dev/
 
 ## 要約
-Vibe Scaffoldは、Next.js、TypeScript、Tailwind CSSなどのモダンな技術スタックを採用した、フルスタックのウェブアプリケーション開発用ボイラープレートです。
+Vibe Scaffoldは、Next.js App RouterとViem、Wagmiなどを統合したWeb3フルスタックテンプレートです。TypeScriptベースで、モダンなフロントエンドとスマートコントラクト開発を効率化することを目的としています。
 
-SaaSやウェブアプリケーションの迅速な構築を目的とし、認証、決済（Stripe）、AI連携（OpenAI）、管理ダッシュボードなど、多くの基本機能を事前に提供しています。
-
-これにより、開発者は独自の機能開発に集中し、すぐに利用可能な本番環境レベルのアプリケーションを効率的に構築できます。
+TanStack Query、Tailwind CSS、Shadcn/ui、Foundry/Hardhatなど、Web3開発に必要な主要技術スタックを網羅しており、開発者がすぐにプロジェクトを開始できる包括的なスターターキットを提供します。これにより、Web3プロジェクトの立ち上げを加速し、効率的な開発を支援します。

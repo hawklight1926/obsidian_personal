@@ -11,8 +11,6 @@ category: "Other"
 https://github.com/nadimkobeissi/16iax10h-linux-sound-saga
 
 ## 要約
-Intel NUC 13 Pro (Arena Canyon)でLinuxを使用する際、音が出ないという問題が報告されています。これは、Thunderbolt/USB-Cコントローラーがオーディオドライバー`sof-hda-dsp`の初期化を妨げていることが原因です。
+この記事は、筆者が新しいIntel NUC 13 Pro (Arena Canyon) にLinuxを導入した際、HDMIからのサウンド出力が機能しない問題に直面した経緯を詳述しています。最新のカーネルやファームウェアを試しても、`sof-hda-dsp`モジュール関連のエラーにより問題は解決せず、Intelのフォーラムでも同様の報告が見られます。
 
-一時的な解決策として、BIOSでThunderbolt/USB-Cコントローラーを無効にするとHDMIやアナログオーディオは機能するようになります。しかし、この方法ではThunderbolt機能自体が利用できなくなります。
-
-この問題は多くのLinuxディストリビューションで確認されており、今後のソフトウェアまたはファームウェアによる修正が期待されています。
+筆者は自らデバッグを試みるも根本的な解決には至らず、現在はBluetoothヘッドセットやUSBオーディオデバイスで代用しています。彼はこの状況を「Linux Sound Saga」と称し、Intelのサウンドエンジニアリングチームによる支援を強く求めています。
