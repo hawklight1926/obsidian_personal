@@ -11,8 +11,8 @@ category: "Other"
 https://computeradsfromthepast.substack.com/p/antic-magazine-interviews-alan-reeve
 
 ## 要約
-Computeradsfromthepast.substack.comは、かつてAtari 8-bitコンピュータ向け主要雑誌であった「ANTIC Magazine」の元編集者、Alan Reeveへのインタビュー記事を公開しました。
+Atari専門誌「ANTIC magazine」は、Atari ST向けの人気ゲーム作成言語「STOS BASIC」の作者であるアラン・リーブ氏をインタビューしました。
 
-記事では、Reeve氏がANTIC Magazineの立ち上げからAntic Softwareの開発責任者としての経験、そして1980年代のAtariの黄金時代におけるコンピューティング業界の興奮について詳しく語っています。
+1989年12月号に掲載されたこのインタビューで、リーブ氏は自身の会社Supra Developmentsを創設した経緯や、STOSの成功、新しいバージョン、そして将来の計画について語っています。
 
-彼は、当時のコンピュータ文化と、Atariコミュニティにおいて雑誌が果たした重要な役割について貴重な洞察を提供しています。
+「STOS BASIC」は、当時のAmigaの競合製品と並び、Atari STユーザーが手軽にゲーム開発を行うための強力なツールとして広く支持されていました。
