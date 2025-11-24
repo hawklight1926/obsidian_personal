@@ -16,6 +16,7 @@ views:
       - pinned
       - ignored
       - read
+      - summary
       - memo
     sort:
       - property: formula.Untitled
@@ -24,8 +25,9 @@ views:
         direction: DESC
     columnSize:
       formula.Untitled: 230
-      file.name: 358
+      file.name: 232
       note.tags: 140
+      note.summary: 436
     rowHeight: tall
   - type: cards
     name: Cards
