@@ -5,30 +5,14 @@ date: "2025-11-23"
 updated: ""
 categories: []
 authors: ""
-description: "mux - coding agent multiplexer
-
-A desktop application for parallel agentic development.
-
-Here are some specific use cases we enable:
-
-Features
-
-mux has a custom agent loop but much of the core UX is inspired by Claude Code. You'll find familiar features like Plan/Exec mode, vim inputs, /compact and new ones
-like opportunistic compaction and mode prompts.
-
-Read the full documentation →
-
-Install
-
-Warning
-
-mux is in a Preview state. You will encounter bugs and performance issues.
-It's still possi..."
 image: ""
+memo: ""
 read: false
 ignored: false
 pinned: false
 ---
 
 ## 要約
-(要約生成に失敗しました)
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 20.597625566s.)

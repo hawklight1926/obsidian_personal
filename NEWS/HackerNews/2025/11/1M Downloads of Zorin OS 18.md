@@ -5,22 +5,14 @@ date: "2025-11-23"
 updated: ""
 categories: []
 authors: ""
-description: "18 November 2025 ⋅ 2 min read
-
-Test the Upgrade From Zorin OS 17 to 18 & Celebrating 1 Million Downloads of Zorin OS 18
-
-Upgrade directly and keep your existing files, apps, and settings. Available for testing today.
-
-We’re thrilled to announce that Zorin OS 18 has amassed 1 million downloads in just over a month since its release, breaking all previous records.
-
-The response from users, tech reviewers, and creators around the world has been incredible:
-
-“Zorin OS 18 is very polished indee..."
 image: ""
+memo: ""
 read: false
 ignored: false
 pinned: false
 ---
 
 ## 要約
-(要約生成に失敗しました)
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 12.582134432s.)

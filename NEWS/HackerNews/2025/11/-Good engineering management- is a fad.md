@@ -5,24 +5,14 @@ date: "2025-11-23"
 updated: ""
 categories: []
 authors: ""
-description: "\"Good engineering management\" is a fad
-
-As I get older, I increasingly think about
-whether I’m spending my time the right way
-to advance my career and my life.
-This is also a question that your company
-asks about you every performance cycle:
-is this engineering manager spending their
-time effectively to advance the company or their organization?
-
-Confusingly, in my experience, answering these nominally similar questions
-has surprisingly little in common.
-This piece spends some time exploring b..."
 image: ""
+memo: ""
 read: false
 ignored: false
 pinned: false
 ---
 
 ## 要約
-(要約生成に失敗しました)
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 12.772538309s.)

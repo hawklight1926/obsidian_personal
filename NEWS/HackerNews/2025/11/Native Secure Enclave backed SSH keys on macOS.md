@@ -5,18 +5,14 @@ date: "2025-11-23"
 updated: ""
 categories: []
 authors: ""
-description: "Native Secure Enclave backed ssh keys on MacOS
-
-It turns out that MacOS Tahoe can generate and use secure-enclave backed SSH keys! This replaces projects like https://github.com/maxgoedjen/secretive
-
-There is a shared library /usr/lib/ssh-keychain.dylib that traditionally has been used to add smartcard support
-to ssh by implementing PKCS11Provider interface. However since recently it also implements SecurityKeyProivder
-which supports loading keys directly from the secure enclave! SecurityKeyProv..."
 image: ""
+memo: ""
 read: false
 ignored: false
 pinned: false
 ---
 
 ## 要約
-(要約生成に失敗しました)
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 22.693771443s.)

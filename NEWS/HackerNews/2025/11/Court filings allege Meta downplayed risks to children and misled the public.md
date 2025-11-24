@@ -5,14 +5,14 @@ date: "2025-11-23"
 updated: ""
 categories: []
 authors: ""
-description: "Sex trafficking on Meta platforms was both difficult to report and widely tolerated, according to a court filing unsealed Friday. In a plaintiffs’ brief filed as part of a major lawsuit against four social media companies, Instagram’s former head of safety and well-being Vaishnavi Jayakumar testified that when she joined Meta in 2020 she was shocked to learn that the company had a “17x” strike policy for accounts that reportedly engaged in the “trafficking of humans for sex.”
-
-“You..."
 image: ""
+memo: ""
 read: false
 ignored: false
 pinned: false
 ---
 
 ## 要約
-(要約生成に失敗しました)
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 13.223538883s.)

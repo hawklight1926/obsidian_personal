@@ -1,7 +1,7 @@
 ---
-title: "Shaders: How to draw high fidelity graphics with just x and y coordinates"
-url: "https://www.makingsoftware.com/chapters/shaders"
-date: "2025-11-23"
+title: "Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4"
+url: "https://technotes.seastrom.com/2025/11/23/passing-the-torch.html"
+date: "2025-11-24"
 updated: ""
 categories: []
 authors: ""
@@ -15,4 +15,4 @@ pinned: false
 ## 要約
 (要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
 * Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
-Please retry in 19.832283089s.)
+Please retry in 19.573653575s.)

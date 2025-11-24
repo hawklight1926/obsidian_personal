@@ -5,18 +5,14 @@ date: "2025-11-23"
 updated: ""
 categories: []
 authors: ""
-description: "Custom Memory Allocator
-
-A custom implementation of malloc, calloc, realloc, and free in C.
-
-Overview
-
-This project implements a memory allocator from scratch using sbrk for small allocations and mmap for large allocations. It includes optimizations like block splitting to reduce fragmentation and coalescing to merge adjacent free blocks. Please note that this allocator is not thread-safe. Concurrent calls to malloc/free/realloc will cause undefined behavior. I've also written a blog post (~20 m..."
 image: ""
+memo: ""
 read: false
 ignored: false
 pinned: false
 ---
 
 ## 要約
-(要約生成に失敗しました)
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 21.046771309s.)

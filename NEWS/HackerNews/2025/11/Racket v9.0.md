@@ -5,28 +5,14 @@ date: "2025-11-23"
 updated: ""
 categories: []
 authors: ""
-description: "22 Nov 2025
-
-Racket v9.0
-
-posted by Stephen De Gabrielle and John Clements
-
-We are pleased to announce Racket v9.0 is now available from https://download.racket-lang.org/.
-
-Racket 9.0 is here!
-
-A major release is always exciting and Racket 9.0 is no exception in that it introduces Parallel Threads. While Racket has had green threads for some time, and supports parallelism via futures and places, we feel parallel threads is a major addition.
-
-As of this release:
-
-Thank you
-
-The following people c..."
 image: ""
+memo: ""
 read: false
 ignored: false
 pinned: false
 ---
 
 ## 要約
-(要約生成に失敗しました)
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 19.326487969s.)

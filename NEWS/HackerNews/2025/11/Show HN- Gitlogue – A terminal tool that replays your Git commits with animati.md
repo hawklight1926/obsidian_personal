@@ -5,34 +5,14 @@ date: "2025-11-18"
 updated: ""
 categories: []
 authors: ""
-description: "gitlogue
-
-A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
-
-Watch commits unfold with realistic typing animations, syntax highlighting, and file tree transitions, transforming code changes into a visual experience.
-
-Installation
-
-Using Install Script (Recommended)
-
-Using Homebrew
-
-Using Cargo
-
-On Arch Linux
-
-From Source
-
-See the Installation Guide for more options and troubleshooting.
-
-Features
-
-🎬 Commit Replay as Animation — Reali..."
 image: ""
+memo: ""
 read: false
 ignored: false
 pinned: false
 ---
 
 ## 要約
-(要約生成に失敗しました)
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 18.884575586s.)

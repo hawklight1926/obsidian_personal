@@ -5,18 +5,14 @@ date: "2025-11-23"
 updated: ""
 categories: []
 authors: ""
-description: "Here’s what you need to know:
-
-We’re sunsetting Supermaven after our acquisition one year ago.
-
-After bringing features of Supermaven to Cursor Tab, we now recommend any existing VS Code users to migrate to Cursor. Our new and improved autocomplete model has significant improvements.
-
-While deciding the future of Supermaven, we heard feedback from our existing Neovim and JetBrains customers about their love for Supermaven. We will continue to provide autocomplete inference free for these exi..."
 image: ""
+memo: ""
 read: false
 ignored: false
 pinned: false
 ---
 
 ## 要約
-(要約生成に失敗しました)
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 16.410520442s.)

@@ -5,16 +5,14 @@ date: "2025-11-23"
 updated: ""
 categories: []
 authors: ""
-description: "Subscribe Now! Get features like
-
-Elon Musk's X, formerly Twitter, has introduced the country of origin feature that seems to have thrown both the MAGA and Democrats' worlds online into chaos. Several profiles online, that had pushed certain narratives are now being found to have been operating from outside the US.
-
-The social media platform introduced a feature where one can see the country the account is based in. One has to head to an account and click on the date joined tab, which opens up o..."
 image: ""
+memo: ""
 read: false
 ignored: false
 pinned: false
 ---
 
 ## 要約
-(要約生成に失敗しました)
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 12.979987047s.)
