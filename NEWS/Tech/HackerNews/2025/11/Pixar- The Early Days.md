@@ -4,7 +4,7 @@ url: "https://stevejobsarchive.com/stories/pixar-early-days"
 date: "2025-11-19"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-1996年のスティーブ・ジョブズへの未公開インタビューは、世界初のフルCG長編映画「トイ・ストーリー」の成功と、その後のPixarの発展の裏側を明らかにします。
-ジョブズは、Pixarの急成長を支えた長期戦略や、アーティストとエンジニアが創造に貢献できるビジネスモデルについて語りました。
-彼はまた、Disneyから学んだ集中と規律、そして永続的な価値のある物語を創造するというPixarの深い目的を強調しています。
-このPixarでの経験は、後にAppleに復帰した際、技術を通じて時代を超越したアイデアを実現するという彼のCEOとしてのビジョンを形成しました。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 1.034969191s.)

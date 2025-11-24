@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2409.18972"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Christian Perez, Carlos March, Miguel A. Salido"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、コンピュータサイエンスの分散・並列コンピューティング分野に属し、「持続可能なジョブショップスケジューリングのためのインスタンス構成」に焦点を当てています。
-
-複雑な生産環境において、資源効率や環境負荷を考慮した持続可能なジョブの割り当てと順序付けを実現するため、インスタンス構成の役割や最適化手法について研究していると推測されます。
-
-これにより、持続可能性を向上させるスケジューリング問題への新たなアプローチを提供し、実用的な応用を目指していると考えられます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 48.194318226s.)

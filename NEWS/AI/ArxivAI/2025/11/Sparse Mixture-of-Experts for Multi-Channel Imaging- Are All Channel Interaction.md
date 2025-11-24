@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17400"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Sukwon Yun, Heming Yao, Burkhard Hoeckendorf, David Richmond, Aviv Regev, Russell Littman"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本論文は、多チャネル画像処理におけるCNNの高い計算コストとメモリ消費の問題に対し、Sparse Mixture-of-Experts (Sparse-MoE) フレームワークを提案します。これは、すべてのチャネル相互作用が等しく重要ではないという洞察に基づき、学習可能なゲーティングメカニズムを用いて特定のチャネル相互作用にのみ専門家ネットワークを選択的に活性化し、冗長な計算を削減する手法です。
-
-ハイパースペクトル画像超解像や医用画像セグメンテーションなど多様な多チャネル画像タスクにおいて、既存手法より大幅な効率向上と、同等またはそれ以上の性能を実証しました。これにより、より効率的でスケーラブルなCNNアーキテクチャへの道を開きます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 40.46788479s.)

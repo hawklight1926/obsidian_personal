@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16716"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Maurizio Atzori, Eleonora Cal\\`o, Loredana Caruccio, Stefano Cirillo, Giuseppe Polese, Giandomenico Solimando"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この研究は、ソーシャルネットワーク上に露出した個人データがパスワード強度に与える影響を分析するものです。
-データ再構築と生成モデルを組み合わせた新しいアプローチを採用し、ユーザーが一般的に使用するパスワードのパターンをより正確に予測します。
-この手法により、現実的なパスワード攻撃シナリオをシミュレートし、潜在的な脆弱性を特定することで、セキュリティ強化への貢献を目指しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 46.429603399s.)

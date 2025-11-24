@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16680"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Happymore Masoka"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、リソースが不足しているバンツー語族に属するショナ語のために、形態素解析器「Shona spaCy」を開発したことを報告しています。
-これは、広く利用されている自然言語処理ライブラリspaCyを基盤として構築され、ショナ語の形態論的分析を可能にします。
-本研究は、これまで十分なツールがなかったショナ語の言語処理能力を向上させ、他の低リソース言語における類似の課題解決にも貢献することが期待されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 48.000819059s.)

@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2510.27629"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Boyi Wei, Zora Che, Nathaniel Li, Udari Madhushani Sehwag, Jasper G\\\"otting, Samira Nedungadi, Julian Michael, Summer Yue, Dan Hendrycks, Peter Henderson, Zifan Wang, Seth Donoughe, Mantas Mazeika"
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、重みが公開されている生物系基盤モデル（Open-Weight Bio-Foundation Models）における生物学的リスク（Biorisk）の評価に関する最良の手法を提示しています。コンピュータサイエンス、特にセキュリティの観点から、これらのモデルがもたらす潜在的なリスクを特定し、効果的に評価・管理するための実践的なガイドラインを提供することを目的としています。安全なAI開発と責任ある利用を促進するため、バイオリスク評価における具体的な推奨事項を詳述しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 32.583369249s.)

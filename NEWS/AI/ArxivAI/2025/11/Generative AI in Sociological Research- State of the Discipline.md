@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16884"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "AJ Alvero, Dustin S. Stoltz, Oscar Stuhler, Marshall Taylor"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文「Generative AI in Sociological Research: State of the Discipline」は、社会学研究における生成AIの現状とその利用状況に焦点を当てています。
-
-コンピュータと社会の接点という観点から、生成AIが社会学研究にどのような影響を与え、どのような可能性や課題をもたらしているのかを分析していると推測されます。分野の現状を整理し、今後の研究方向性や倫理的考察の基礎を提供する内容と考えられます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 44.754408414s.)

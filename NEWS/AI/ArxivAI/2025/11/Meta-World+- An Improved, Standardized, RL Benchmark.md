@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2505.11289"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Reginald McLean, Evangelos Chatzaroulas, Luc McCutcheon, Frank R\\\"oder, Tianhe Yu, Zhanpeng He, K. R. Zentner, Ryan Julian, J K Terry, Isaac Woungang, Nariman Farsad, Pablo Samuel Castro"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-指定されたURLの論文「Meta-World+: An Improved, Standardized, RL Benchmark」は現在まだ公開されておらず、本文を読むことができません。
-
-しかし、タイトルとカテゴリ（Computer Science > Artificial Intelligence）から、本論文は強化学習（RL）の新たなベンチマークに関する研究であると推測されます。既存の「Meta-World」ベンチマークを改善し、より標準化することで、RL研究における評価と比較の精度向上を目指していると考えられます。詳細な内容については、論文の公開を待つ必要があります。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 38.798451584s.)

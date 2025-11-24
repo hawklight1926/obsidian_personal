@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17184"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Mohammad Zare"
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この研究は、ニューステキスト分類の精度向上を目的としています。
-統計的特徴と意味的特徴を効果的に統合する「Attention-Guided Feature Fusion (AGFF)」モデルを提案しています。
-AGFFモデルは、アテンションメカニズムを活用してこれら異なるタイプの特徴を融合し、分類性能を向上させます。
-これにより、ニュース記事の複雑な内容をより正確に理解し、分類する能力が強化されることが期待されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 42.22316032s.)

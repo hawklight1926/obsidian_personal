@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17165"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Kesheng Chen, Wenjian Luo, Bang Zhang, Zeping Yin, Zipeng Ye"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文「MIR: Efficient Exploration in Episodic Multi-Agent Reinforcement Learning via Mutual Intrinsic Reward」は、人工知能分野におけるエピソード型マルチエージェント強化学習の探索効率の課題に焦点を当てています。
-
-本研究では、エージェント間の「相互内在報酬」を活用する新しい手法「MIR」を提案しています。
-
-このアプローチにより、複雑な環境下でのマルチエージェントシステムの効率的な探索と学習の促進を目指しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 48.693849519s.)

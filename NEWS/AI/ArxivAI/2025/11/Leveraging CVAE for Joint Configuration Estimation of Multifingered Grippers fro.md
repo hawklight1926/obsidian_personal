@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17276"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Julien Merand, Boris Meden, Mathieu Grossard"
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本研究は、点群データから多指ロボットグリッパーの関節構成を推定する新しい手法を提案しています。複雑な多指グリッパーの姿勢を効率的かつ高精度に把握するため、条件付き変分オートエンコーダ（CVAE）を効果的に活用。これにより、多指ロボットの認識能力と精密な操作性の向上に貢献することが期待されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 41.448249719s.)

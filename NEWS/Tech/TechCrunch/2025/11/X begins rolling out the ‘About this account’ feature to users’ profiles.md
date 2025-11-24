@@ -4,7 +4,7 @@ url: "https://techcrunch.com/2025/11/21/x-begins-rolling-out-the-about-this-acco
 date: "2025-11-21"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: "Sarah Perez"
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-Xは、ボットや偽装アカウントによる不正なエンゲージメントを削減するため、「アカウントについて」機能をユーザープロフィールに展開し始めました。
-この機能により、アカウントの拠点、ユーザー名の変更回数、アカウント作成日、アプリダウンロード方法といった情報が表示されます。
-ユーザーはこれらの情報に基づいて、相手が信頼できるアカウントか、あるいは悪意のあるボットであるかを判断できるようになります。
-また、ユーザーは表示する情報を国または地域で設定でき、将来的にはVPNを使用して位置情報を隠した場合に警告を表示する機能も導入される可能性があります。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 59.116754575s.)

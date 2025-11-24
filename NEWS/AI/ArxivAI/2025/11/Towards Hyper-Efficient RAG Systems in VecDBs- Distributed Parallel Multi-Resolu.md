@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16681"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Dong Liu, Yanxuan Yu"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提供された情報によると、この論文はComputer ScienceのComputation and Languageカテゴリに属し、「VecDBsにおける超効率的なRAGシステム：分散並列マルチ解像度ベクトル検索」をテーマとしています。Retrieval-Augmented Generation (RAG) システムの効率化を目指し、分散並列処理とマルチ解像度ベクトル検索の活用を提案していると見られます。
-
-また、本ページではarXivがオープン性、コミュニティ、プライバシーを重視し、協力者と連携して新たな機能を提供する「arXivLabs」というプロジェクトについても説明されています。これは、arXivのプラットフォーム価値を高めるための共同開発フレームワークです。
-
-**注記:** 提供されたURLは未来の日付（2025年11月）であるため、現在アクセスすることはできません。上記の要約は、主にタイトルとカテゴリ情報、および提供されたarXivLabsの説明に基づいています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 47.904725749s.)

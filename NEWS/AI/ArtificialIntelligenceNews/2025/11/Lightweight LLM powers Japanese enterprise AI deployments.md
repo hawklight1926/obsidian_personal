@@ -4,7 +4,7 @@ url: "https://www.artificialintelligence-news.com/news/lightweight-llm-enterpris
 date: "2025-11-20"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Dashveenjit Kaur"
 image: "https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/251020ac.jpg"
 memo: ""
@@ -16,6 +16,6 @@ pinned: false
 ![Lightweight LLM powers Japanese enterprise AI deployments](https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/251020ac.jpg)
 
 ## 要約
-企業は高度な言語モデルを求めるものの、高額なインフラコストとエネルギー消費がAI導入の課題となっています。NTTは、この課題を解決するため、単一GPUで動作する軽量LLM「tsuzumi 2」を開発しました。
-
-これにより、企業はインフラコストとエネルギー消費を大幅に削減しながら、初期の導入事例では最先端システムに匹敵する性能を実現しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 54.20985714s.)

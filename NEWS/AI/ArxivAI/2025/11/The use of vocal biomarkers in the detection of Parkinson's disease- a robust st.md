@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16856"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Katia Pires Nascimento do Sacramento, Elliot Q. C. Garcia, Nic\\'eias Silva Vilela, Vinicius P. Sacramento, Tiago A. E. Ferreira"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご指定いただいたURL (https://arxiv.org/abs/2511.16856) にアクセスを試みましたが、「Document Not Found」と表示され、記事の内容を読み取ることができませんでした。
-
-そのため、誠に申し訳ございませんが、記事の要約を作成することができません。お手数ですが、正しいURLをご確認いただくか、記事の本文をご提供いただけますでしょうか。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 44.857182203s.)

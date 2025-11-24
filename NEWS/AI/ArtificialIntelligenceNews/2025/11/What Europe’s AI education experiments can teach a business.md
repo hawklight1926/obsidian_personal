@@ -4,7 +4,7 @@ url: "https://www.artificialintelligence-news.com/news/ai-education-the-european
 date: "2025-11-19"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "AI News"
 image: "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png"
 memo: ""
@@ -16,6 +16,6 @@ pinned: false
 ![What Europe’s AI education experiments can teach a business](https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png)
 
 ## 要約
-AIスキルの需要が急増する一方で供給が追いつかず、多くの企業がAI専門知識を持つ人材の確保に苦慮しています。OECDもこの問題を指摘しており、企業にとって人材不足が喫緊の課題となっています。
-
-本記事は、ヨーロッパにおけるAI教育の取り組みや経験が、ビジネスが直面するこの課題を克服するための重要な示唆を与え得ることを解説しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 54.019448609s.)

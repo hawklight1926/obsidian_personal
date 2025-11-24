@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17198"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Kaiyu Li, Jiayu Wang, Zhi Wang, Hui Qiao, Weizhan Zhang, Deyu Meng, Xiangyong Cao"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提供されたURLは無効なため、記事の本文にアクセスできませんでした。
-
-しかし、タイトル「Designing Domain-Specific Agents via Hierarchical Task Abstraction Mechanism」と分野「Computer Science > Artificial Intelligence」から推測すると、本稿は人工知能分野において、特定のドメインに特化したエージェントを、タスクを階層的に抽象化するメカニズムを用いてどのように設計するかについて論じていると考えられます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 48.590857617s.)

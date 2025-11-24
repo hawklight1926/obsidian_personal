@@ -4,7 +4,7 @@ url: "https://mathcs.holycross.edu/~ahwang/print/calc.pdf"
 date: "2025-11-23"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-A. P. Hwang氏による「Calculus」は、微積分学の包括的な教科書です。
-極限、導関数、積分といった単変数微積分の基礎から、数列、級数、微分方程式、さらに偏導関数や重積分、ベクトル微積分を含む多変数微積分学までを網羅しています。
-大学レベルのコースに適した、理論と応用を詳細に解説した教材となっています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 4.691205742s.)

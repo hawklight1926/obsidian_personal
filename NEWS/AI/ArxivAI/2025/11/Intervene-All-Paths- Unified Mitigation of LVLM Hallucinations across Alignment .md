@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17254"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Jiaye Qian, Ge Zheng, Yuchen Zhu, Sibei Yang"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、大規模視覚言語モデル（LVLM）が生成する「幻覚」（事実と異なる情報を生成する問題）に対処しています。
-「Intervene-All-Paths」という新しい手法を提案し、この現象を効果的に抑制することを目指します。
-この手法は、様々なアライメント形式にわたって統一的に機能し、LVLMの信頼性を向上させることを目的としています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 41.735835405s.)

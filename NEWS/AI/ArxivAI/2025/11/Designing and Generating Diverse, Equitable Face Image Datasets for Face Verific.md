@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17393"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Georgia Baltsou, Ioannis Sarridis, Christos Koutlis, Symeon Papadopoulos"
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、顔認証タスクにおける多様性と公平性を確保するため、新しい顔画像データセットの設計と生成手法を提案しています。既存データセットの偏りを是正し、より包括的でロバストな顔認証AIモデルの実現を目指します。これにより、倫理的なAI開発と実用的な顔認証システムの信頼性向上に貢献します。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 40.561137706s.)

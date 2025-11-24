@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16193"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Rongxin Cheng, Kai Zhou, Xingda Wei, Siyuan Liu, Mingcong Han, Mingjing Ai, Yeju Zhou, Baoquan Zhong, Wencong Xiao, Rong Chen, Haibo Chen"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、大規模言語モデル（LLM）の学習後プロセスを高速化する新しい手法を提案しています。具体的には、「Decoupled（分離型）」と「Best-of-N Speculation（N個の中から最良のものを推測する）」というアプローチを採用することで、LLMの効率的なポストトレーニングを実現します。
-
-本研究は、コンピューターサイエンスの分散、並列、クラスターコンピューティングの分野に属し、LLM運用のパフォーマンス向上を目指しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 31.111902795s.)

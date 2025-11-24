@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16837"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Oliver Kramer"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-申し訳ありませんが、ご提供いただいたURL（https://arxiv.org/abs/2511.16837）の記事を見つけることができませんでした。「Article not found」と表示され、本文にアクセスできない状態です。
-
-そのため、記事の内容を要約することはできません。もしURLが誤っている場合は、正しいURLを再度ご提示いただけますでしょうか。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 49.59149355s.)

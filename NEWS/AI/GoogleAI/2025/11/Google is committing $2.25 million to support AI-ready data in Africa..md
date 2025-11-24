@@ -4,7 +4,7 @@ url: "https://blog.google/technology/ai/ai-ready-data-in-africa/"
 date: "2025-11-17"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-Googleは、アフリカのAI主導の未来を支援するため、公共データシステムの近代化に225万ドルを投じます。
-同社は、オープン知識リポジトリ「Data Commons」を基盤にUNECAと協力し、アフリカ地域版Data Commonsを立ち上げます。
-さらに、PARIS21を支援して国家統計局にAIトレーニングと技術サポートを提供します。
-これにより、断片化したデータが政策立案に役立つ洞察へと変換され、食料安全保障から経済発展まで、幅広い分野でアフリカの発展に貢献することを目指します。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 51.217569399s.)

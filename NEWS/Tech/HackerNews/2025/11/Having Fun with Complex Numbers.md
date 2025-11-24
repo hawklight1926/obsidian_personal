@@ -4,7 +4,7 @@ url: "https://mathwonder.org/Having-Fun-with-Complex-Numbers/"
 date: "2025-11-18"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-「Having Fun with Complex Numbers」は、8歳から12歳の子どもを対象とした、複素数を楽しく学べる入門書です。
-従来の数直線ではなく、タッチスクリーンのように「面上」で数を捉えるという画期的なアプローチを採用し、直感的に複素数を理解できるよう工夫されています。
-著者の研究に基づき、複素数理論を小学校レベルからアクセス可能に再構築。難解な概念を新鮮で楽しいアイデアと動きのあるイラストで解説します。
-子どもたちは、数直線や数グリッド、四つの主要な計算方法を習得し、数学をスリリングな冒険として体験できるでしょう。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 5.60358492s.)

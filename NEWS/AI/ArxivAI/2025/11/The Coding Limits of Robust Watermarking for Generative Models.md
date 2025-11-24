@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2509.10577"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Danilo Francati, Yevin Nikhel Goonatilake, Shubham Pawar, Daniele Venturi, Giuseppe Ateniese"
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご提示いただいたURLの論文本文にアクセスできないため、詳細な要約は困難です。しかし、タイトル「The Coding Limits of Robust Watermarking for Generative Models」とカテゴリ「Computer Science > Cryptography and Security」から推測すると、本論文はAI生成モデルによるコンテンツへの堅牢な電子透かし技術に関し、その情報符号化における理論的限界やセキュリティ上の性能制約を分析していると考えられます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 33.724464694s.)

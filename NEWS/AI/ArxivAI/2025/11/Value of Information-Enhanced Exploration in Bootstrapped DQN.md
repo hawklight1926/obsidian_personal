@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.02969"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Stergios Plataniotis, Charilaos Akasiadis, Georgios Chalkiadakis"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提供されたURLの記事は、アブストラクトや本文が未公開のため、詳細な内容の要約はできません。
-
-しかし、タイトル「Value of Information-Enhanced Exploration in Bootstrapped DQN」とカテゴリ「Machine Learning」から、本論文は機械学習、特に強化学習分野の研究であると推測されます。具体的には、Bootstrapped DQNという強化学習手法における探索戦略を、「情報価値」の概念を用いて改善することに焦点を当てていると考えられます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 32.292509363s.)

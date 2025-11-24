@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.13646"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Chunqiu Steven Xia, Zhe Wang, Yan Yang, Yuxiang Wei, Lingming Zhang"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文「Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?」は、ソフトウェア工学の分野における重要な問いを探求しています。
-
-具体的には、Live-SWE-agentと呼ばれるソフトウェアエンジニアリングエージェントが、実行中に自身の能力をリアルタイムで適応させ、自己進化することが可能かどうかを検証するものです。
-
-これは、AIエージェントが開発プロセスにおいて動的に改善していく可能性に焦点を当てた研究です。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 31.699637503s.)

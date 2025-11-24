@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.12135"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Letian Chen, Runhan Shi, Gufeng Yu, Yang Yang"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提供されたURL（https://arxiv.org/abs/2511.12135）にアクセスしましたが、「The requested article does not exist」と表示され、論文本文を読み取ることができませんでした。そのため、記事の内容を要約することはできません。
-
-タイトル「RTMol: Rethinking Molecule-text Alignment in a Round-trip View」とカテゴリ「Computer Science > Artificial Intelligence」から推測するに、AIの分野で分子情報とテキスト情報を双方向的に整合させる新しいアプローチ「RTMol」について議論する論文であると考えられます。恐れ入りますが、正確なURLをご確認の上、再度ご依頼いただけますでしょうか。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 37.786357878s.)

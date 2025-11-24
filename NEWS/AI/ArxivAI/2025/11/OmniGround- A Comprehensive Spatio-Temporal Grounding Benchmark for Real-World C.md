@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16937"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Hong Gao, Jingyu Wu, Xiangkai Xu, Kangni Xie, Yunchen Zhang, Bin Zhong, Xurui Gao, Min-Ling Zhang"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-指定されたURL（https://arxiv.org/abs/2511.16937）は、将来の日付（2025年11月）を示しており、現時点ではアクセスできません（404 Not Foundエラーが発生します）。
-
-そのため、記事の内容を取得できず、要約を作成することができません。
-
-もし有効なURLがございましたら、再度ご提示いただければ要約いたします。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 44.469703473s.)

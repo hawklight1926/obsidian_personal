@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2503.09878"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Hariprasath Govindarajan, Maciej K. Wozniak, Marvin Klingner, Camille Maurice, B Ravi Kiran, Senthil Yogamani"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本論文は、クロスモーダル蒸留における空間的な一貫性の課題を解決するため、シンプルかつ効果的な手法「CleverDistiller」を提案します。CleverDistillerは、教師モデルのAttention Mapを利用して、学生モデルがよりきめ細かく空間的に整合性の取れたセマンティックな特徴を学習できるよう導きます。
-
-これにより、Transformerベースの視覚言語モデルの事前学習やファインチューニングにおいて、その性能が大幅に向上します。実験では、ゼロショット画像分類、物体検出、セマンティックセグメンテーションといった多様な下流タスクにおいて、既存の蒸留手法を大きく上回る顕著な性能改善を達成しました。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 35.950320139s.)

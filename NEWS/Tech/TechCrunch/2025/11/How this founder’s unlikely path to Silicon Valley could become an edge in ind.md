@@ -4,7 +4,7 @@ url: "https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silic
 date: "2025-11-22"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: "Connie Loizos"
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-トリニダード・トバゴの石油・ガス産業で育ち、異色の経歴を持つThomas Lee Youngは、COVID-19による困難を乗り越え、ジャガー・ランドローバーでの経験を通じて産業安全管理の課題を発見しました。彼は共同創業者Aaryan Mehtaと共に、AIを活用して産業事故防止を目指すスタートアップInterfaceを設立。Interfaceは、AIを用いて産業現場の安全性プロトコルを改善し、ヒューマンエラーを防ぐことを目的としています。Youngのユニークな生い立ちと産業界への深い理解が、同社の大きな強みとなっています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 59.632177323s.)

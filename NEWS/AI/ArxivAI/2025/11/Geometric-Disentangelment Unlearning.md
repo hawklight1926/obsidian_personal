@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17100"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Duo Zhou, Yuji Zhang, Tianxin Wei, Ruizhong Qiu, Ke Yang, Xiao Lin, Cheng Qian, Jingrui He, Hanghang Tong, Heng Ji, Huan Zhang"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提示されたURLはまだアクセスできないか、将来公開される論文のプレースホルダーのようです。そのため、本文の内容を直接要約することはできません。
-
-提供された情報によると、この論文のタイトルは「Geometric-Disentangelment Unlearning」であり、機械学習の分野に属します。このタイトルから、機械学習モデルにおける幾何学的な分離（disentanglement）の概念を用いて、特定の学習内容を消去する（unlearning）技術に関する研究であると推測されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 43.087640592s.)

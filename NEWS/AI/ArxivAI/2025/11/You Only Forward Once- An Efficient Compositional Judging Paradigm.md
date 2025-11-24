@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16600"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Tianlong Zhang, Hongwei Xue, Shilin Yan, Di Wu, Chen Xu, Yunyun Yang"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文「You Only Forward Once: An Efficient Compositional Judging Paradigm」は、計算機科学の人工知能分野に属します。
-
-しかし、URLにアクセスしても論文本文はまだ公開されておらず、現時点では内容を閲覧できません。
-
-2024年11月26日にarXivへ提出予定（または提出済みで未公開）であることが示されています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 37.501618437s.)

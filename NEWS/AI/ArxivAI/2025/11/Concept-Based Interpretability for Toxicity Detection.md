@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16689"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Samarth Garg, Deeksha Varshney, Divya Singh"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、計算と言語の分野において、テキストの毒性検出モデルの解釈性向上を目的とした研究です。
-具体的には、モデルが特定のテキストを「毒性あり」と判断した根拠を、人間が理解しやすい「コンセプト（概念）」に基づいて説明する手法を提案しています。
-これにより、毒性検出システムの判断プロセスをより透明化し、その信頼性を高めることを目指しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 47.414978659s.)

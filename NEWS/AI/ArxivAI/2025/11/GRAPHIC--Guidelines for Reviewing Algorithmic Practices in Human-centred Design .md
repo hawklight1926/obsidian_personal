@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17443"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Joana Rovira Martins, Pedro Martins, Ana Boavida"
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提供されたURLの論文は、現時点では公開されていません（指定されたIDは未来の日付を示しています）。しかし、タイトルとカテゴリ情報によると、この論文は「創造性のための人間中心デザインとインタラクションにおけるアルゴリズム実践のレビューガイドライン（GRAPHIC）」に関するものです。これは、人間中心の設計と対話の文脈において、創造性を支援するアルゴリズム的アプローチを評価・検証するための具体的な指針を提示する内容であると推測されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 39.774683115s.)

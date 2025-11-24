@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17473"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Zhen Wang, Zhifeng Gao, Guolin Ke"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提示されたURLの記事は論文のメタデータのみで、本文への直接的なリンクがありませんでした。そのため、論文のタイトルとカテゴリ情報のみに基づいた要約となります。
-
-この論文「Masked-and-Reordered Self-Supervision for Reinforcement Learning from Verifiable Rewards」は、検証可能な報酬を活用した強化学習の分野に焦点を当てています。強化学習エージェントがより信頼性の高い報酬から効果的に学習できるよう、「マスク化と再配列」という自己教師あり学習の新しい手法を提案しています。このアプローチは、コンピュータサイエンスの計算と言語の領域で、検証可能性を考慮した学習効率の向上を目指していると考えられます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 39.486294239s.)

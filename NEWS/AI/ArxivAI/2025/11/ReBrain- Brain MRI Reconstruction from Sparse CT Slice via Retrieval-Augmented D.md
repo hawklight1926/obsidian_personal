@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17068"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Junming Liu, Yifei Sun, Weihua Cheng, Yujin Kang, Yirong Chen, Ding Wang, Guosun Zeng"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-「ReBrain」と題された本論文は、疎なCTスライスから脳のMRI画像を再構成する新しい手法を提案しています。この研究は、限られたCTデータから高精度のMRI情報を生成することを目的としています。
-
-提案手法は、検索拡張型拡散モデルという先進的な技術を核としており、計算機科学のコンピュータビジョン分野における画期的なアプローチです。これにより、効率的かつ高精度な脳MRI再構成の実現が期待されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 43.382497403s.)

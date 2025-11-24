@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16675"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Guanlue Li, Xufeng Zhao, Fang Wu, S\\\"oren Laue"
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この研究は、機械学習の分野において、タンパク質の表面と構造を同時に設計する新しいアプローチを提案しています。具体的には、「拡散ブリッジモデル」という手法を用いることで、タンパク質設計の複雑な課題解決を目指しています。これにより、特定の機能を持つタンパク質を効率的に創出する可能性を探り、タンパク質工学に貢献することが期待されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 48.096262131s.)

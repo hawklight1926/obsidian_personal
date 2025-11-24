@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16743"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Adeel Yousaf, Joseph Fioresi, James Beetham, Amrit Singh Bedi, Mubarak Shah"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提供されたURLの論文は、公開予定日（2025年11月）のため現在アクセスできません。そのため、タイトルとカテゴリから推測される内容を要約します。
-
-「SafeR-CLIP」と題されたこの論文は、Vision-Language Models（VLM）が生成または認識する不適切（NSFW）なコンテンツの問題に取り組んでいます。本研究は、既存の学習済み知識を保持しつつ、NSFWコンテンツを効果的に軽減する新しい手法を提案しています。これにより、VLMの安全性と信頼性を高め、より適切で実用的なAIシステムの実現を目指していると考えられます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 46.133467504s.)

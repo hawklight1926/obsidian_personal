@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17085"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Kushal Agrawal, Frank Xiao, Guido Bergman, Asa Cooper Stickland"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご指定いただいたURL `https://arxiv.org/abs/2511.17085` の論文は、現在アクセスできません。
-URLに含まれる日付（2025年11月）が未来であるため、この論文はまだ公開されていないか、URLが誤っている可能性があります。
-そのため、論文の内容を確認することができず、要約を作成することはできません。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 43.284358527s.)

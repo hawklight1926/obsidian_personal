@@ -4,7 +4,7 @@ url: "https://techcrunch.com/2025/11/23/beehiivs-ceo-isnt-worried-about-newslett
 date: "2025-11-23"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: "Anthony Ha"
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ニュースレタープラットフォームのbeehiivは4周年を機に、AIウェブサイトビルダー、ポッドキャスト、デジタル商品販売などの新機能をローンチし、クリエイター向け総合プラットフォームへと事業を拡大しました。
-CEOのタイラー・デンク氏によると、この拡張はユーザーの強い要望に応えたもので、同氏はクリエイター市場の大規模な統合を予測しています。
-一方で、ニュースレターの機会は尽きておらず、質の高いコンテンツは常に評価されると強調。
-beehiivは個人から大手まで、コンテンツをビジネスとする全てのユーザーの「オペレーティングシステム」となることを目指しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 456.930823ms.)

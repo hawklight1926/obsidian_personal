@@ -4,7 +4,7 @@ url: "https://technotes.seastrom.com/2025/11/23/passing-the-torch.html"
 date: "2025-11-24"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ARPANETからインターネットへの進化過程で、スケーラビリティ問題からDNSが誕生しましたが、当時の限定的な利用環境と技術水準のため、当初はセキュリティが不十分でした。セキュリティ上の欠陥を受けてDNSSECが開発されたものの普及は遅れましたが、2008年にDan KaminskyがDNSの深刻な脆弱性を発見したことを契機に、DNSSECの導入と普及が大きく加速しました。
-
-筆者は、2010年の最初のDNSSECルート署名式以来、ICANNのCrypto Officerとして、その重要な運用に長年携わってきた経験と、この取り組みが信頼と透明性をいかに築いてきたかを述べています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 4.198386718s.)

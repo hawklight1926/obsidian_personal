@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17012"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Junjie Hao, Chun Wang, Ying Qiao, Qiuyue Zuo, Qiya Song, Hua Ma, Xieping Gao"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は「大規模言語モデルの教師ありファインチューニングによるドメイン固有知識グラフ構築：湖南省の歴史的著名人に関するケーススタディ」と題され、計算と言語分野の研究として発表されました。
-
-本研究は、大規模言語モデルをファインチューニングすることで、特定のドメイン（湖南省の歴史的著名人）における知識グラフを効率的に構築する手法を探求しています。
-
-論文が掲載されているarXivのページでは、関連コードや引用ツールなどの機能が提供され、さらにコミュニティとの協業で実験的な新機能を開発するプラットフォーム「arXivLabs」についても紹介されています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 43.99181039s.)

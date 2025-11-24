@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2508.18694"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Jaehwan Jeong, Tuan-Anh Vu, Mohammad Jony, Shahab Ahmad, Md. Mukhlesur Rahman, Sangpil Kim, M. Khalid Jawed"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-申し訳ありませんが、提供されたURL (https://arxiv.org/abs/2508.18694) は未来の日付を含んでおり、現在アクセスできません。
-
-そのため、記事の内容を確認し、要約を作成することができません。お手数ですが、有効なURLをご提供いただけますでしょうか。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 33.922702708s.)

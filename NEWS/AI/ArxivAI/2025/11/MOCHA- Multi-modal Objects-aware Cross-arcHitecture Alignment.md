@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2509.14001"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Elena Camuffo, Francesco Barbato, Mete Ozay, Simone Milani, Umberto Michieli"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提供されたURLの論文「MOCHA: Multi-modal Objects-aware Cross-arcHitecture Alignment」は、現時点ではアクセスできません。
-
-URLの形式「2509.14001」から、2025年9月に公開予定の論文であると推測されますが、現在は閲覧できない状態です。
-
-したがって、記事の内容を要約することはできません。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 33.631134816s.)

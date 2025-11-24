@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16685"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Yuetian Zou, Hanlei Zhang, Hua Xu, Songze Li, Long Xiao"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提供された情報には論文の本文が含まれていません。
-
-「Ellipsoid-Based Decision Boundaries for Open Intent Classification」というタイトルの論文についてのご依頼ですが、本文は提供されていません。提供された情報からは、本論文がコンピュータサイエンスの計算と言語分野に属し、楕円体に基づく決定境界を用いて開かれた意図分類を行う研究であると推測されます。論文の内容を正確に要約するためには、本文が必要となります。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 47.614047224s.)

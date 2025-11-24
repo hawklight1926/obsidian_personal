@@ -4,7 +4,7 @@ url: "https://nnethercote.github.io/perf-book/"
 date: "2025-11-19"
 updated: ""
 category: "Tech"
-tags: ["Rust"]
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-Nicholas Nethercoteらが執筆した「The Rust Performance Book」は、Rustコードのパフォーマンスを向上させるための総合的なガイドです。
-本書では、プロファイリングやベンチマークのツール、メモリ、CPU、I/Oなどの具体的な最適化テクニック、そしてパフォーマンスに関する重要な概念まで幅広く解説しています。
-Rustの基礎知識を持つ開発者向けに、実践的なアドバイスと豊富な例を通して、コードのボトルネック特定から最適化までを支援します。
-開発者がより高速で効率的なRustプログラムを書くための実用的な知識とスキルを提供します。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 11.759848525s.)

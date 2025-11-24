@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.00423"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Guojian Zhan, Likun Wang, Xiangteng Zhang, Jiaxin Gao, Masayoshi Tomizuka, Shengbo Eben Li"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、コンピュータサイエンスの機械学習分野に属し、「Bootstrap Off-policy with World Model」と題されています。
-強化学習におけるオフポリシー学習の効率と安定性を向上させるため、ワールドモデルとブートストラップの概念を組み合わせた新しいアプローチを提案していると考えられます。
-これにより、より効果的な学習エージェントの開発を目指し、強化学習の応用範囲拡大に貢献する可能性を秘めています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 32.484747684s.)

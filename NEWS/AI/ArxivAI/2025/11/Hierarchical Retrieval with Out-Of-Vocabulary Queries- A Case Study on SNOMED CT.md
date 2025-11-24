@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16698"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Jonathon Dilworth, Hui Yang, Jiaoyan Chen, Yongsheng Gao"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本研究は、階層的検索システムにおいて、クエリに辞書外語（OOV）が含まれる場合の困難さに着目しています。既存手法がOOV処理に苦戦する中、著者らはOOVを明示的に扱う新しい階層型トランスフォーマーネットワーク（HTN）を提案しました。
-
-HTNは事前学習済み言語モデルとマルチヘッドアテンションを活用し、クエリと階層的概念間の関係を捉えます。SNOMED CT由来の医療データセットを用いた評価では、HTNが特にOOVクエリの状況で既存の最先端手法を大きく上回る性能を示しました。
-
-これにより、階層的検索システムにおけるOOV処理の重要性が強調され、今後の研究の有望な方向性が提示されています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 47.224939608s.)

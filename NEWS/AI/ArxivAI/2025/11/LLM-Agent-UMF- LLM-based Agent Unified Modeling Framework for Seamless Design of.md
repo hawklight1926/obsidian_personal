@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2409.11393"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Amine Ben Hassouna, Hana Chaari, Ines Belhaj"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提供された情報に基づくと、この論文は「LLM-Agent-UMF」という大規模言語モデル（LLM）に基づくエージェント向け統一モデリングフレームワークを提案しています。
-このフレームワークは、複数のアクティブおよびパッシブなコアエージェントを含む複雑なアーキテクチャをシームレスに設計することを目的としています。
-LLMの能力を活用し、多様なエージェント間の連携と管理を効率化することで、より高度なエージェントシステムの開発を支援することを目指しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 36.325071226s.)

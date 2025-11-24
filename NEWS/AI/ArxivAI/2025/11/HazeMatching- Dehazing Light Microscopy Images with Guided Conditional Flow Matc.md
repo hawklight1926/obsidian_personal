@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2506.22397"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Anirban Ray,  Ashesh, Florian Jug"
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本論文は、霞によって品質が低下した光顕微鏡画像の霞除去に特化した新しいフレームワーク「HazeMatching」を提案しています。
-これは、誘導条件付きフローマッチングを活用し、霞あり・霞なし両方の画像事前情報を組み合わせたデュアルパス誘導メカニズムを採用しています。
-さらに、ペアデータなしで性能を向上させる自己教師あり洗練モジュールも開発されました。
-実験では、HazeMatchingが既存の最先端手法を大幅に上回り、より鮮明な画像を提供し、下流の分析精度向上に貢献することを示しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 34.607273437s.)

@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2509.21651"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Abhishek Jindal, Dmitry Kalashnikov, R. Alex Hofer, Oscar Chang, Divya Garikapati, Anirudha Majumdar, Pierre Sermanet, Vikas Sindhwani"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご指定のURL（https://arxiv.org/abs/2509.21651）は現在アクセスできず、記事の内容を確認することができません。
-
-そのため、具体的な要約は不可能ですが、タイトル「Can AI Perceive Physical Danger and Intervene?」から、本稿はAIが物理的な危険を認識し、その状況に介入する能力について論じていると考えられます。AIの知覚能力、安全性、および倫理的な側面が議論されている可能性が高いでしょう。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 38.291258172s.)

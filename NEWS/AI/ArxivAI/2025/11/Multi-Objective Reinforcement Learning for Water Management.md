@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2505.01094"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Zuzanna Osika, Roxana R\\u{a}dulescu, Jazmin Zatarain Salazar, Frans Oliehoek, Pradeep K. Murukannaiah"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本論文は、需要増大や気候変動といった複雑な課題に直面する水管理において、多目的強化学習（MORL）の応用可能性を探求しています。MORLは、水供給最大化やエネルギー消費最小化など、競合する複数の目標をバランス良く達成する最適な方策を学習できる点が注目されます。
-
-研究では、MORLアルゴリズムを複雑な水資源システムに適用する可能性を分析し、その適応性と堅牢な解決策提供能力を強調。既存手法のレビュー、主要課題の特定、および実世界の水管理シナリオへのMORL統合フレームワークを提案しています。
-
-このアプローチは、持続可能で回復力のある水管理のための意思決定支援システムを大幅に強化し、より適応的で効率的な制御戦略の道を拓くことを示唆しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 35.381950961s.)

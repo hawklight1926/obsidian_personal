@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17402"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Javier Alonso Villegas Luis, Marco Antonio Sobrevilla Cabezudo"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-「PUCP-Metrix」は、スペイン語に特化した包括的なオープンソースの言語学的指標リポジトリです。
-このプロジェクトは、計算言語学分野においてスペイン語のテキスト分析や研究を支援することを目的に開発されました。
-多様な言語学的指標を提供することで、研究者や開発者が効率的にスペイン語データを取り扱うための貴重なツールとなることが期待されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 26.56645241s.)

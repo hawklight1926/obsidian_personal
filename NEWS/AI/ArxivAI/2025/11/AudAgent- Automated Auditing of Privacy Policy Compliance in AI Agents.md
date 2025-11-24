@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.07441"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Ye Zheng, Yidan Hu"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご提示いただいたURLは論文本文にアクセスできず、日付も未来であるため、現時点では内容を直接確認できません。
-
-しかし、タイトル「AudAgent: Automated Auditing of Privacy Policy Compliance in AI Agents」とカテゴリ「Computer Science > Cryptography and Security」から推測すると、この論文はAIエージェントがプライバシーポリシーを遵守しているかを自動的に監査するシステム「AudAgent」に関する研究であると考えられます。AIが個人情報を扱う上でのプライバシー保護の課題に対し、セキュリティと暗号技術の観点から自動化された検証手法を提案するものと推測されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 32.103808322s.)

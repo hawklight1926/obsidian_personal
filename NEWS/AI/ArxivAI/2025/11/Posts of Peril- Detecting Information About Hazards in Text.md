@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2405.17838"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Keith Burghardt, Daniel M. T. Fessler, Chyna Tang, Anne Pisor, Kristina Lerman"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、テキスト中の危険情報を検出する包括的なデータセットの不足に対応し、「HazardSense」という新しいデータセットを提案しています。これは、自然災害から技術的故障まで20種類のハザードカテゴリで注釈付けされた12,000以上の文を含みます。
-
-著者らはハザード検出のマルチラベル分類タスクを設定し、最先端のLLMを含む様々な機械学習モデルでベースラインを確立しました。実験ではLLMが競争力ある性能を示す一方、改善の余地も明らかになり、本研究は堅牢なハザード検出システム開発のための貴重なリソースを提供します。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 37.011381997s.)

@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2505.12188"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Hanyu Wang, Xinrui Wu, Zijian Ding, Su Zheng, Chengyue Wang, Neha Prakriya, Tony Nowatzki, Yizhou Sun, Jason Cong"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本論文は、大規模言語モデル（LLM）アクセラレータ設計における複雑なデザイン空間探索（DSE）を効率化する新しいフレームワーク「LLM-DSE」を提案します。
-
-LLM-DSEは、カスタマイズ可能な知識ベースとマルチエージェントシステムを持つLLMエージェントを活用し、人間の設計プロセスを模倣して設計パラメータの探索、評価、最適化を自動で行います。各エージェントがDSEの特定側面を専門とし、協力して制約付き最適化問題を反復的に解決します。
-
-これにより、既存手法と比較して最大3.2倍速い収束と平均5.7%優れた性能を実現し、複雑なハードウェア設計タスクの自動化と最適化に新たな道を開きます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 35.186894996s.)

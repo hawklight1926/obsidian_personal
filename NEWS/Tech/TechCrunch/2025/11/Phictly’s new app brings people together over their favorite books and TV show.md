@@ -4,7 +4,7 @@ url: "https://techcrunch.com/2025/11/21/phictlys-new-app-brings-people-together-
 date: "2025-11-21"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: "Lauren Forristal"
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-「Phictly」は、お気に入りの本、テレビ番組、映画を通じて人々が繋がれる新しいソーシャルアプリです。
-このアプリでは、特定の作品に特化したニッチなクラブを作成し、最大20人の少人数で深い議論を楽しめます。
-ネタバレ隠し機能や、読書・視聴ペースに合わせたクラブ期間設定により、ユーザーは自分のペースで充実した交流が可能です。
-共通の興味を持つ人々が安心して情熱を共有し、ニッチなコミュニティを見つけられる場を提供します。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 58.926114635s.)

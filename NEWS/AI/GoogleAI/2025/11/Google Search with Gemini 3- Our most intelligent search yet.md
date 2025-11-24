@@ -16,8 +16,6 @@ pinned: false
 ![Google Search with Gemini 3: Our most intelligent search yet](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SearchwithGemini3_Hero.max-600x600.format-webp.webp)
 
 ## 要約
-Googleは、最もインテリジェントな最新モデル「Gemini 3」を検索のAIモードに導入しました。これにより、Gemini 3の高度な推論と深い理解力で、ユーザーの複雑な質問に対し、より的確でニュアンスを捉えた回答が可能になります。
-
-さらに、動的なビジュアルレイアウト、インタラクティブなツールやシミュレーションが生成されるGenerative UIが実現され、検索体験が飛躍的に向上します。三体問題のシミュレーションや住宅ローン計算機などがその例です。
-
-現在、米国のGoogle AI Pro/Ultra購読者向けに提供が開始されており、今後、米国全域のユーザーに順次拡大される予定です。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 51.931629191s.)

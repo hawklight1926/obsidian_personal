@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2407.05650"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, Christoph von der Malsburg"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、感覚データから構造化された構成的表現を学習する「Cooperative Network Architecture（CNA）」という新しいフレームワークを提案しています。生物学的ニューラルネットワークに着想を得ており、各層が入力のコンポーネント分解とそれらを組織化するネットワーク構造を同時に学習する多層協調学習パラダイムを採用しています。
-
-CNAによって学習されるネットワークはスパースで抽象的、意味的であり、従来の深層学習モデルに比べ、解釈可能性、堅牢性、転移性に優位性を示します。多様なデータセットでの実験によりその有効性が実証され、階層的な関係を発見し少ないパラメータで効果的に汎化できることが示されました。
-
-このアプローチは、コンピュータビジョン分野などでリソース効率が高く説明可能なAIの新たな道を拓く可能性を秘めています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 36.623733384s.)

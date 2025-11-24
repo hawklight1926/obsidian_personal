@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17331"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Sydney Reis"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-申し訳ありませんが、提供されたURLはarXivの論文情報ページであり、論文本文の要旨や内容がこのテキストには含まれておりません。そのため、記事の内容を要約することはできません。
-
-しかし、タイトル「AI Workers, Geopolitics, and Algorithmic Collective Action」とカテゴリ「Computers and Society」から、この論文はAI技術が労働、地政学的な力学、そしてアルゴリズムを介した集団行動にどのような影響を与えるかについて考察していると推測されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 40.848061106s.)

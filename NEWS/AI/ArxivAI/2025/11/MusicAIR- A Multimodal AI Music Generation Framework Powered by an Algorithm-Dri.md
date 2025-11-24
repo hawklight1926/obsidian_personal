@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17323"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Callie C. Liao, Duoduo Liao, Ellie L. Zhang"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-「MusicAIR: A Multimodal AI Music Generation Framework Powered by an Algorithm-Driven Core」と題された論文がarXivに公開されました。
-この論文はComputer Scienceのサウンド分野に属し、「MusicAIR」というマルチモーダルなAI音楽生成フレームワークについて紹介しています。
-その主な特徴は、アルゴリズム駆動型のコアを中核としている点にあります。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 40.941712248s.)

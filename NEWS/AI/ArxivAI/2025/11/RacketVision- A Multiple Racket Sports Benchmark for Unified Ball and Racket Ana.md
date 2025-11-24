@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17045"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Linfeng Dong, Yuchen Yang, Hao Wu, Wei Wang, Yuenan HouZhihang Zhong, Xiao Sun"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文「RacketVision: A Multiple Racket Sports Benchmark for Unified Ball and Racket Analysis」は、コンピュータビジョンとパターン認識の分野における研究です。
-
-複数のラケットスポーツ（テニスやバドミントンなど）を対象とし、ボールとラケットの動きを統一的に分析するための新しいベンチマーク「RacketVision」を提案しています。このベンチマークは、各スポーツにおける精密なトラッキングやパフォーマンス分析を可能にし、より高度なスポーツ解析技術の発展に貢献することを目指しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 43.585642326s.)

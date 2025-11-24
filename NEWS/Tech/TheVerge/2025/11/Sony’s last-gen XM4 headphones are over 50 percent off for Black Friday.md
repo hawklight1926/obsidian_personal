@@ -4,7 +4,7 @@ url: "https://www.theverge.com/gadgets/826784/sony-wh-1000xm4-noise-canceling-he
 date: "2025-11-23"
 updated: "2025-11-23"
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: "Brandon Russell"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-The Vergeによると、旧モデルながら依然として評価の高いSony WH-1000XM4ノイズキャンセリングヘッドホンが、ベストバイでブラックフライデーセールにより159.99ドル（190ドル引き）の今年最安値で販売されています。
-
-発売から5年以上経つものの、優れた音質、最大30時間のバッテリー、優秀なANC、マルチポイント接続など充実した機能を備え、依然として堅実な選択肢です。
-
-最新のXM6モデルには及ばない点もあるものの、今回の期間限定の大幅な割引により、コストパフォーマンスを重視するユーザーにとって非常に魅力的な購入機会となっています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 58.287957804s.)

@@ -4,7 +4,7 @@ url: "https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-
 date: "2025-11-21"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: "Marina Temkin"
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-元Salesforce共同CEOのBret Taylorらが創業したSierraは、企業向け顧客サービスAIエージェントを提供するスタートアップです。
-同社は設立から2年足らずで年間経常収益（ARR）1億ドルを達成し、その急成長に創業者は驚きを示しています。
-DeliverooやCignaなど、テック企業から伝統的な企業まで幅広い顧客がAIエージェントを導入し、人間が行っていた顧客サービス業務の自動化を進めています。
-昨年9月には100億ドルの評価額で資金調達済みであり、急速に市場での存在感を高めています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 59.532733739s.)

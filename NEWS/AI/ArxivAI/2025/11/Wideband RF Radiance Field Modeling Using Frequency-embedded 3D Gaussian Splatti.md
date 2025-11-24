@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2505.20714"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Zechen Li, Lanqing Yang, Yiheng Bian, Hao Pan, Yongjian Fu, Yezhou Wang, Zhuxi Chen, Yi-Chao Chen, Guangtao Xue"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-「Wideband RF Radiance Field Modeling Using Frequency-embedded 3D Gaussian Splatting」と題されたこの論文は、広帯域無線周波数（RF）の放射場をモデリングする新しい手法を提案しています。
-この研究では、周波数情報を空間的に埋め込んだ3Dガウススプラッティング技術を用いることで、RF信号の複雑な空間的振る舞いを詳細に表現することを目指しています。
-これにより、電磁波環境の正確な把握とシミュレーションが可能となり、無線通信やセンサーネットワークなど、幅広い分野での応用が期待されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 35.088411802s.)

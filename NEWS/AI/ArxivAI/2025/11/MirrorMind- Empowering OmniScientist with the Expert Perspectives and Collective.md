@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16997"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Qingbin Zeng, Bingbing Fan, Zhiyu Chen, Sijian Ren, Zhilun Zhou, Xuhua Zhang, Yuanyi Zhen, Fengli Xu, Yong Li, Tie-Yan Liu"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提供された情報に基づくと、本論文「MirrorMind: Empowering OmniScientist with the Expert Perspectives and Collective Knowledge of Human Scientists」は、AIシステムが人間の科学者の専門的視点と集合的知識を活用し、その能力を強化する研究について述べています。
-
-具体的には、「MirrorMind」というシステムが「OmniScientist」と呼ばれるAIの知見を拡張し、人間の知識を取り込むことで、より高度な「科学者」としてのAIの実現を目指すものと推察されます。この研究は、人工知能が人間の専門性と協力し、その能力を飛躍的に向上させる可能性を探るものです。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 49.191653148s.)

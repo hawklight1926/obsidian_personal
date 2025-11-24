@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.07318"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Shaowen Wang, Yiqi Dong, Ruinian Chang, Tansheng Zhu, Yuebo Sun, Kaifeng Lyu, Jian Li"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご指定のURL (https://arxiv.org/abs/2511.07318) にアクセスしましたが、記事が見つかりませんでした。未来の日付（2511年）が含まれるため、有効なURLではない可能性があります。
-そのため、記事の内容を要約することはできません。
-ただし、タイトル『When Bias Pretends to Be Truth: How Spurious Correlations Undermine Hallucination Detection in LLMs』からは、大規模言語モデル（LLM）におけるハルシネーション（幻覚）検出が、データ内の疑似相関やバイアスによってどのように妨げられるか、という課題を扱った研究であると推測されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 32.19919993s.)

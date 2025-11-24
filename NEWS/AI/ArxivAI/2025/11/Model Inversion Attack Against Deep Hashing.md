@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.12233"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Dongdong Zhao, Qiben Xu, Ranxin Fang, Baogang Song"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご指定のURL (https://arxiv.org/abs/2511.12233) の記事が存在しないか、アクセスできないため、本文を読み取ることができませんでした。そのため、要約を作成することはできません。
-
-提供されたタイトルとカテゴリから判断すると、この論文は深層ハッシュ技術に対する「モデル反転攻撃」に焦点を当てた研究であり、コンピュータービジョンおよびパターン認識の分野に属すると推測されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 31.909552896s.)

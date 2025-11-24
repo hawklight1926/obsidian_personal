@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16717"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Asya Y. Akkus, Bradley T. Wolfe, Pinghan Chu, Chengkun Huang, Chris S. Campbell, Mariana Alvarado Alvarez, Petr Volegov, David Fittinghoff, Robert Reinovsky, Zhehui Wang"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご提示いただいたURLの論文は現在arXivに掲載されておらず、プレースホルダーページとなっています。そのため、具体的な論文内容を要約することはできません。
-
-ただし、タイトルは「A Machine Learning-Driven Solution for Denoising Inertial Confinement Fusion Images」であり、慣性閉じ込め核融合画像のノイズ除去に関する機械学習を用いた解決策を扱っていることが示唆されています。カテゴリは「Computer Science > Computer Vision and Pattern Recognition」です。論文は今後arXivに掲載される予定です。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 46.327660665s.)

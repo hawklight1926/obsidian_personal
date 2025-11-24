@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16979"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Yunyun Wang, Zheng Duan, Xinyue Liao, Ke-Jia Chen, Songcan Chen"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提供されたURL (`https://arxiv.org/abs/2511.16979`) は現在アクセスできません（404 Not Foundエラー）。このURLは未来の日付（2025年11月）を示しているようです。
-
-記事の内容を確認できないため、要約を生成することはできません。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 44.187861899s.)

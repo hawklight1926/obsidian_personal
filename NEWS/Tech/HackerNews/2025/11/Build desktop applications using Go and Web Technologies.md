@@ -4,7 +4,7 @@ url: "https://github.com/wailsapp/wails"
 date: "2025-11-24"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-Wailsは、Go言語とWeb技術（HTML/JS/CSS）を用いてデスクトップアプリケーションを開発するためのフレームワークです。
-GoコードとWebフロントエンドを単一のバイナリとしてバンドルすることを可能にし、プロジェクトの作成からコンパイル、バンドルまでを容易にするツールを提供します。
-軽量なアプリケーションの構築を目指すGoプログラマーを主なターゲットとし、メニューやダイアログなどのネイティブ要素もサポート。
-サーバーを立てずにWeb UIを組み込みたい場合や、Electronのより軽量な代替を探している場合に有用です。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 7.264038416s.)

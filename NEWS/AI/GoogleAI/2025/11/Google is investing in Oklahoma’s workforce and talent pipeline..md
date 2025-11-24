@@ -4,7 +4,7 @@ url: "https://blog.google/inside-google/company-announcements/oklahoma-workforce
 date: "2025-11-07"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oklahoma_Social.max-600x600.format-webp.webp"
 memo: ""
@@ -16,7 +16,6 @@ pinned: false
 ![Google is investing in Oklahoma’s workforce and talent pipeline.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oklahoma_Social.max-600x600.format-webp.webp)
 
 ## 要約
-Googleは、AIがもたらす機会をオクラホマ州が活用し、その変革をリードできるよう支援することを発表しました。
-その一環として、同社はオクラホマ州の学生や労働者がAIおよび実務に必要なスキルを習得できるよう、500万ドルを投資します。
-この資金は、Thunder Community FoundationやOklahoma State University Foundationなどの主要組織に提供されます。
-目的は、需要の高いAIスキル訓練、新たなキャリア機会の創出、経済的流動性の向上、そして地元のイノベーター育成にあります。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 50.361012332s.)

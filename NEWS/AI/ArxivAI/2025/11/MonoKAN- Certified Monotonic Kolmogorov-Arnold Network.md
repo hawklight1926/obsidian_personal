@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2409.11078"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Alejandro Polo-Molina, David Alfaya, Jose Portela"
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、機械学習分野において「MonoKAN」という新しいモデルを提案しています。これは、Kolmogorov-Arnold Network (KAN)を基盤としつつ、モデルの出力が特定の入力に対して常に単調に変化することを数学的に保証する「認定された単調性」を持つことが特徴です。この特性により、高い解釈性と信頼性が求められるアプリケーションでの活用が期待されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 36.424991169s.)

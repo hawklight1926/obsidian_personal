@@ -16,6 +16,6 @@ pinned: false
 ![Introducing the File Search Tool in Gemini API](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FileSearch-Keyword_RD2-V01.max-600x600.format-webp.webp)
 
 ## 要約
-Google Gemini APIに、フルマネージドのRAG（Retrieval-Augmented Generation）システムである「File Search Tool」が導入されました。これにより、開発者は自社データに基づいてGeminiからより正確で関連性の高い応答を簡単に取得できます。
-
-ストレージとクエリ時の埋め込み生成は無料で提供され、初回インデックス作成時にのみ100万トークンあたり0.15ドルという低料金で利用可能なため、非常にコスト効率に優れています。このツールはRAGの複雑さを抽象化し、開発者はGoogle AI Studioのデモアプリなどを通じて、すぐにデータ連携型のGeminiアプリケーションを構築できます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 50.203624005s.)

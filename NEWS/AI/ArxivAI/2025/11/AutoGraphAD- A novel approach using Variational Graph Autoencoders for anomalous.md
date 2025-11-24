@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17113"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Georgios Anyfantis, Pere Barlet-Ros"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提供された情報によると、この論文は「AutoGraphAD」と題され、Variational Graph Autoencoders (VGAEs) を利用した、不正なネットワークフロー検出のための新しいアプローチを提案しています。
-
-この研究は、ネットワーク上の異常なデータトラフィックを効率的に特定することを目指しており、コンピュータサイエンスの暗号とセキュリティの分野に属します。
-
-（注：論文本文や要旨が提供されていないため、要約はタイトルとカテゴリ情報に基づいています。）
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 42.993395429s.)

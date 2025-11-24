@@ -4,7 +4,7 @@ url: "https://techcrunch.com/2025/11/21/impersonators-are-targeting-companies-wi
 date: "2025-11-21"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: "TechCrunch Staff"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-TechCrunchは、同社の記者やイベント担当者を装った詐欺師が増加しており、企業をターゲットに機密情報を引き出そうとしていると警告しています。これらの詐欺師は、巧妙なメールアドレスやライティングスタイルを模倣し、ネットワークアクセスやデータ窃盗を目的としていると推測されます。
-
-TechCrunchは、不審な連絡があった場合は、必ずTechCrunchのスタッフページで身元を確認するか、直接問い合わせて検証するよう強く推奨しています。これにより、企業自身を守り、ジャーナリズムへの信頼を維持する重要性を訴えています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 59.023815474s.)

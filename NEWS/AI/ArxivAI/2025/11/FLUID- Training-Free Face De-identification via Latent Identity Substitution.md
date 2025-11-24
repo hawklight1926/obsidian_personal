@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17005"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Jinhyeong Park, Shaheryar Muhammad, Seangmin Lee, Jong Taek Lee, Soon Ki Jung"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本論文「FLUID: Training-Free Face De-identification via Latent Identity Substitution」は、顔の非特定化（de-identification）のための新しい手法を提案しています。
-
-このFLUIDは、追加の学習を必要としない「Training-Free」であることが特徴で、顔画像のプライバシー保護において効率的なアプローチを提供します。具体的には、顔の潜在空間において身元情報を置き換えることで、個人を特定できないように処理します。これにより、コンピュータビジョン分野におけるプライバシー保護の課題解決に貢献する可能性を秘めています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 44.088649507s.)

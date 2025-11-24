@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2509.18057"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Ansh Nagda, Prabhakar Raghavan, Abhradeep Thakurta"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、強化学習を用いて組み合わせ構造を生成する新しい手法を提案しています。グラフや順列などの離散的な構造を効率的に探索・構築することが可能になります。
-
-本研究の主要な応用は計算複雑性理論にあり、NP完全問題といった困難な問題に対する新たなアプローチを提供することを目指します。これにより、複雑性理論における理論的な進展や実践的な問題解決への貢献が期待されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 33.532082405s.)

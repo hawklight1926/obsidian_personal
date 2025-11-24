@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2506.08708"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Liang Ma, Jiajun Wen, Min Lin, Rongtao Xu, Xiwen Liang, Bingqian Lin, Jun Ma, Yongxin Wang, Ziming Wei, Haokun Lin, Mingfei Han, Meng Cao, Bokui Chen, Ivan Laptev, Xiaodan Liang"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-指定されたURL (https://arxiv.org/abs/2506.08708) の記事は現在アクセスできないか、または存在しないため、その内容を要約することはできませんでした。
-
-しかし、タイトル「PhyBlock: A Progressive Benchmark for Physical Understanding and Planning via 3D Block Assembly」から判断すると、この研究は3Dブロックの組み立てタスクを通じて、ロボットやAIの物理的理解能力および計画能力を評価するための新しいベンチマークを提案するものと推測されます。コンピュータサイエンスのロボティクス分野における、現実世界の問題解決能力向上に貢献する可能性があります。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 34.708224355s.)

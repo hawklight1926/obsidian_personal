@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2505.21535"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Yuxin Ren, Maxwell D Collins, Miao Hu, Huanrui Yang"
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本論文は、IMC (In-Memory Computing) 環境での効率的な推論を目的とし、「FAR」という機能保存型アテンション置き換え手法を提案しています。FARは、元のモデルの性能を維持しつつ、アテンション機構をIMCに適した形に最適化します。これにより、Transformerベースのモデルにおいて、IMCデバイス上での電力効率と推論速度の向上に貢献し、特にComputer Vision分野での応用が期待されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 34.99706632s.)

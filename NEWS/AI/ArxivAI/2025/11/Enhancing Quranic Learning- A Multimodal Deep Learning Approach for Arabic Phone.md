@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17477"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Ayhan Kucukmanisa, Derya Gelmez, Sukru Selim Calik, Zeynep Hilal Kilimci"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本論文は、クルアーン学習の向上を目指し、アラビア語の音素認識に焦点を当てた研究です。
-
-学習者がクルアーンの正確な発音を習得できるよう支援するため、マルチモーダル深層学習アプローチを提案しています。
-
-この手法により、アラビア語の音声認識精度を高め、より効果的なクルアーン学習ツールやシステムへの応用が期待されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 39.391038388s.)

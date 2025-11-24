@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16202"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Pei Yang, Ke Zhang, Ji Wang, Xiao Chen, Yuxin Tang, Eric Yang, Lynn Ai, Bill Shi"
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、強化学習システムにおけるエージェントの推論能力を強化するための新しい手法に焦点を当てています。提案されているのは「マルチエージェント協調的報酬設計」であり、複数のエージェントが互いに協力して報酬関数を設計することで、より洗練された学習と推論プロセスを可能にすると考えられます。これにより、特に複雑な問題設定において、強化学習モデルが効果的に高次の推論を行えるようになることを目指しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 37.593105098s.)

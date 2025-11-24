@@ -4,7 +4,7 @@ url: "https://www.artificialintelligence-news.com/news/worldgen-meta-generative-
 date: "2025-11-21"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Ryan Daws"
 image: "https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/Screenshot-of-Meta-WorldGen-in-action-for-generative-ai-3d-worlds-1024x582.jpg"
 memo: ""
@@ -16,6 +16,6 @@ pinned: false
 ![WorldGen: Meta reveals generative AI for interactive 3D worlds](https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/Screenshot-of-Meta-WorldGen-in-action-for-generative-ai-3d-worlds-1024x582.jpg)
 
 ## 要約
-Metaは、インタラクティブな3Dワールド生成を可能にするジェネレーティブAIシステム「WorldGen」を発表しました。
-このシステムは、従来の静的な3D画像生成から進化し、完全にインタラクティブなアセットを作成できます。
-これにより、ゲーム、産業用デジタルツイン、従業員トレーニングといった没入型空間コンピューティング体験における、労働集約的な3Dモデリングのボトルネック解消が期待されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 55.181843358s.)

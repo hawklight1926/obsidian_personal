@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2504.18777"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Diana Febrita"
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本論文は、人工知能（AI）を活用した地図の自動デジタル化技術の評価に焦点を当てています。地理情報システムQGISの環境下で、AIによって駆動されるこの自動化手法がどの程度の性能と有効性を持つかを検証することが主な目的です。本研究は、地理空間データ処理の効率化におけるAIの潜在的な貢献を探ります。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 38.995049686s.)

@@ -4,7 +4,7 @@ url: "https://techcrunch.com/2025/11/22/waymo-gets-regulatory-approval-to-expand
 date: "2025-11-22"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: "Anthony Ha"
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-Waymoは、カリフォルニア州における完全自動運転車の運行エリアを大幅に拡大する規制当局の承認を得ました。
-これにより、ベイエリアの大部分（イーストベイ、ノースベイ、サクラメントを含む）と南カリフォルニア（サンタクラリタからサンディエゴまで）の広範囲でサービス展開が可能になります。
-同社は2026年半ばまでにサンディエゴで乗客を迎え入れる予定ですが、一部の新エリアで有料乗車を開始するには追加の承認が必要となります。
-今回の承認は、Waymoが全米各地で進める積極的な拡大戦略の一環です。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 152.346229ms.)

@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.00794"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Yan Sun, Jia Guo, Stanley Kok, Zihao Wang, Zujie Wen, Zhiqiang Zhang"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-大規模言語モデル（LLM）を強化学習（RL）に適用する際の探索とサンプル効率の課題に対応するため、本論文は「Intrinsic Exploration Reinforcement Learning (IERL)」を提案します。
-
-IERLは、内在報酬メカニズムと自己教師あり学習を組み合わせ、予測誤差や不確実性に基づいてLLMが新しい状態や行動を積極的に探索するよう促します。実験では、特に報酬が疎な環境において、既存のLLM向けRL手法よりも優れたサンプル効率とタスク性能を達成。
-
-これにより、広範な探索を必要とする複雑な実世界RLアプリケーションにおけるLLMの展開を促進します。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 32.390050763s.)

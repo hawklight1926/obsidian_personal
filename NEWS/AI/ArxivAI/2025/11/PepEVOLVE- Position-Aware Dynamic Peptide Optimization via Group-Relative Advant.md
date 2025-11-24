@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16912"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Trieu Nguyen, Hao-Wei Pang, Shasha Feng"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提供されたarXivのURLは現在アクセスできない状態ですが、タイトルとカテゴリから内容を要約します。
-
-本論文「PepEVOLVE」は、機械学習分野におけるペプチド最適化の新しい手法を提案しています。この手法は、ペプチド配列における位置情報を考慮し、動的に最適なペプチドを生成する点が特徴です。具体的には、グループ間の相対的な優位性に基づいてペプチドを効率的に進化・最適化することで、特定の機能を持つペプチドの設計や発見に貢献します。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 44.566407535s.)

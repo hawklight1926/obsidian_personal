@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2504.21194"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Vedika Srivastava, Hemant Kumar Singh, Jaisal Singh"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、国際宇宙ステーション（ISS）の宇宙飛行士が撮影した写真の地理的位置を正確に特定するための、新たなベンチマークデータセット「ISS-Geo142」を発表しています。
-
-これはコンピュータビジョンおよびパターン認識の分野に属し、写真から地球上の場所を特定するタスクの性能評価を標準化することを目的としています。関連するコードやデータ、デモも提供され、この分野の研究進展に貢献すると考えられます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 35.566651515s.)

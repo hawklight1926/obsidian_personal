@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2306.08543"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Yuxian Gu, Li Dong, Furu Wei, Minlie Huang"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本論文は、大規模言語モデル（LLM）の知識をより小型のモデルへ効率的に転移させる「知識蒸留」に関する研究です。
-具体的には「MiniLLM」という新しいフレームワークを提案しており、教師となるLLMの知識を生徒モデルへ効果的に蒸留します。
-この手法により、LLMの推論性能を維持しつつ、モデルサイズと計算コストを大幅に削減し、より効率的な運用を可能にすると期待されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 37.215895707s.)

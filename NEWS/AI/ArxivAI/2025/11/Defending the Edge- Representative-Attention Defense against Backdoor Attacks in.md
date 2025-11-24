@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2505.10297"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Chibueze Peace Obioma, Youcheng Sun, Mustafa A. Mustafa"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、連合学習（Federated Learning）環境におけるバックドア攻撃（Backdoor Attacks）に対する防御手法を提案しています。
-特に「エッジ」デバイスのセキュリティに焦点を当て、「Representative-Attention Defense」という新しいアプローチを導入。
-これにより、分散学習システムにおける悪意のある攻撃からモデルの堅牢性を守ることを目的としています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 35.281620553s.)

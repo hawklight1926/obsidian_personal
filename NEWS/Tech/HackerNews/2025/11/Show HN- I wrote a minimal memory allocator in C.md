@@ -4,7 +4,7 @@ url: "https://github.com/t9nzin/memory"
 date: "2025-11-23"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-このプロジェクトは、`sbrk`を小規模、`mmap`を大規模な割り当てに利用してゼロから記述されたメモリ・アロケーターです。
-断片化を削減するためのブロック分割や、隣接する空きブロックを結合する合体といった最適化が組み込まれています。
-ただし、このアロケーターはスレッドセーフではなく、並行呼び出しは未定義の動作を引き起こします。
-開発プロセスを詳しく解説したブログ記事も提供されており、静的ライブラリとしてビルドしてC言語プロジェクトで使用可能です。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 3.263709483s.)

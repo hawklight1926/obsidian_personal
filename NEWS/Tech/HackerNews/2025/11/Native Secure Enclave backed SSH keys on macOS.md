@@ -4,7 +4,7 @@ url: "https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf"
 date: "2025-11-23"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-macOS Tahoeでは、Secure Enclaveに裏打ちされたSSHキーがネイティブでサポートされるようになりました。
-これにより、`/usr/lib/ssh-keychain.dylib` の `SecurityKeyProvider` を介して、Touch IDなどの生体認証を必要とするSSHキーを生成・利用できます。
-生成したキーは `ssh-agent` に直接追加でき、`SSH_SK_PROVIDER` 環境変数を設定することで、シームレスなSSH認証が可能です。
-この機能は、サードパーティ製ツールの使用を不要にし、より安全で便利な認証を実現します。エクスポート可能なキーの作成も可能です。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 8.730618165s.)

@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17265"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Shady Agwa, Yikang Shen, Shiwei Wang, Themis Prodromakis"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご提供いただいたURL（https://arxiv.org/abs/2511.17265）の論文は、公開されていないか、または未来の日付のものであるため、本文にアクセスできません。そのため、正確な要約は不可能であることをご了承ください。
-
-しかし、タイトルとカテゴリから推測できる内容は以下の通りです。
-
-本研究は、コンピュータサイエンスのハードウェアアーキテクチャ分野に属し、デジタル方式のインメモリ確率的計算アーキテクチャ「DISCA」を提案しています。このDISCAは、圧縮されたベントピラミッド形式を用いることで、メモリ内での効率的な確率的計算の実現を目指していると考えられます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 41.636398781s.)

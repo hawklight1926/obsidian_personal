@@ -4,7 +4,7 @@ url: "https://www.artificialintelligence-news.com/news/microsoft-nvidia-and-anth
 date: "2025-11-18"
 updated: ""
 category: "AI"
-tags: ["Anthropic"]
+tags: ["Gemini"]
 authors: "Ryan Daws"
 image: "https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/image-8.png"
 memo: ""
@@ -16,7 +16,6 @@ pinned: false
 ![Microsoft, NVIDIA, and Anthropic forge AI compute alliance](https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/image-8.png)
 
 ## 要約
-Microsoft、NVIDIA、Anthropicが、AIコンピューティングアライアンスを締結しました。
-この提携は、クラウドインフラへの投資を促進し、AIモデルの利用可能性を高めることを目的としています。
-単一モデルへの依存から脱却し、多様でハードウェアに最適化されたAIエコシステムを構築することで、AI分野のガバナンス環境に変化をもたらすでしょう。
-MicrosoftのCEOは、この関係を相互統合であると説明しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 53.639177733s.)

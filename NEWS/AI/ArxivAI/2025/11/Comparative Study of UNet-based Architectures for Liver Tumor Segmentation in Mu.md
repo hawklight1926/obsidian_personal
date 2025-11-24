@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2510.25522"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本研究は、マルチフェーズ造影CT画像における肝臓腫瘍の自動セグメンテーションに焦点を当てています。UNetベースの多様な深層学習アーキテクチャの性能を比較検討し、その有効性を評価することを目的としています。この比較分析を通じて、肝臓腫瘍のより正確な検出と診断に寄与する最適なモデルの特定を目指します。コンピュータビジョンおよびパターン認識分野における重要な進展となることが期待されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 32.769529157s.)

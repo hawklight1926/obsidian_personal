@@ -4,7 +4,7 @@ url: "https://www.sydsec.co.uk"
 date: "2025-11-24"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-Sydは、AIを活用して攻撃・防御セキュリティオペレーションを支援する、オフラインのエアギャップ型AIアシスタントです。物理SSDで提供され、ローカルのLLMと35万以上のサイバーセキュリティ知識ベースにより、機密データを保護しつつ迅速な分析を提供します。
-
-NmapやYARAなど20以上のRed/Blue Teamツールの出力を自動検出し、エクスプロイトガイダンスや修復手順を即座に提供。既存ツールと連携し、セキュリティ分析と対応を劇的に加速させます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 6.830610503s.)

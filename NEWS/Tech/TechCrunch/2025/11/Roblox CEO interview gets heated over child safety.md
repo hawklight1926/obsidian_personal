@@ -4,7 +4,7 @@ url: "https://techcrunch.com/2025/11/23/roblox-ceo-interview-gets-heated-over-ch
 date: "2025-11-23"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: "Anthony Ha"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-Robloxのデイブ・バズッキCEOがポッドキャストで新年齢認証機能について語るも、児童の安全性に関する質問が集中し、不満を露わにした。
-同社が安全よりも成長を優先したという疑惑やAIモデル改善について問われると、CEOは皮肉交じりに反論。
-本来は幅広い話題を話すつもりだったが、安全問題ばかりに焦点が当たったことに苛立ちを示した。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 875.735791ms.)

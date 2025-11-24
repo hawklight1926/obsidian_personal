@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16682"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Linus Stuhlmann, Mauricio Fadel Argerich, Jonathan F\\\"urst"
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-このarXivページは、「Bench360: Benchmarking Local LLM Inference from 360°」と題された論文を紹介しています。
-この論文は、ローカルLLM（大規模言語モデル）の推論性能を多角的にベンチマークすることに焦点を当てており、計算と言語の分野に属します。
-ページには、論文の引用情報、関連コード、デモへのリンク、レコメンダーや検索ツールなどの機能が掲載されています。
-また、arXivのコミュニティ共同開発プロジェクトであるarXivLabsに関する説明も提供されています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 47.809922424s.)

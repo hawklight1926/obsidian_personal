@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2510.01612"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Lovely Yeswanth Panchumarthi, Sai Prasad Gudari, Atharva Negi, Praveen Raj Budime, Harsit Upadhya"
 image: ""
 memo: ""
@@ -14,10 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、複雑な生物医学文献からの情報統合が課題とされる長文の生物医学質問応答（BioQA）に対し、新しい検索拡張生成（RAG）フレームワーク「RAG-BioQA」を提案しています。
-
-RAG-BioQAは、2段階の検索メカニズムを用いて関連文書とパッセージを特定し、それらを統合して詳細かつ一貫した回答を生成します。
-
-著者らは、このフレームワークを評価するために新しいデータセット「BioQA-LongForm」を構築しました。
-
-実験結果は、RAG-BioQAが既存の最先端手法を大幅に上回り、より包括的で事実に基づいた医学的に関連性の高い回答を提供することを示しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 33.335267737s.)

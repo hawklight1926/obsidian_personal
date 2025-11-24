@@ -4,7 +4,7 @@ url: "https://www.artificialintelligence-news.com/news/gartner-data-analytics-su
 date: "2025-11-19"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Sarah Hoxsie"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-Gartner Data & Analytics Summit 2026は、AIアジェンダの拡大を発表しました。2027年までにビジネス意思決定の半分がAIエージェントによって強化または自動化されると予測されており、組織の運営方法に大きな変革がもたらされます。
-
-この変化により、AIリーダーには適応、革新、そして複雑な状況下でのチーム指導が強く求められます。同サミットは、こうしたAIリーダーが課題を克服し、進化するAI環境に対応できるよう支援することを目的としています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 53.833015142s.)

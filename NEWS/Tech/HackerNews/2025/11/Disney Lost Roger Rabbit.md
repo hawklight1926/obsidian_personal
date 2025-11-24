@@ -4,7 +4,7 @@ url: "https://pluralistic.net/2025/11/18/im-not-bad/"
 date: "2025-11-18"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本記事は、ディズニーが『ロジャー・ラビット』の続編を制作しない例を挙げ、クリエイターが著作権を大手企業に譲渡後、作品が活用されない問題を提起している。
-これに対し、1976年著作権法で導入された「権利の譲渡の終了」は、クリエイターが35年後に著作権を一方的に取り戻せる強力な制度であると説明。
-著作権保護が拡大してもクリエイターの収入が減少する現状は市場の寡占構造が原因であり、この「権利の譲渡の終了」こそがクリエイターに真の交渉力を与える唯一の有効な手段だと論じている。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 12.116461686s.)

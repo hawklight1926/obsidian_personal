@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2509.23629"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Sihan Hu, Xiansheng Cai, Yuan Huang, Zhiyuan Yao, Linfeng Zhang, Pan Zhang, Youjin Deng, Kun Chen"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご提示いただいたURL `https://arxiv.org/abs/2509.23629` は現在アクセスできないため、論文本文を読み込んで正確に要約することができませんでした。
-
-ただし、タイトル「How LLMs Learn to Reason: A Complex Network Perspective」から推測すると、この研究は大規模言語モデル（LLM）が推論能力をどのように獲得するのかを、複雑ネットワーク理論の視点から分析していると考えられます。LLMの内部構造や学習プロセスをネットワークとして捉え、その構造的特性が推論能力の発展にどう影響するかを探求し、LLMの推論メカニズムに関する新たな洞察を提供することを目指していると推測されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 38.189276357s.)

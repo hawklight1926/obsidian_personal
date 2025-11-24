@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2102.11361"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Xavier Ignacio Gonzalez"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本論文は、コンピュータビジョンにおける難しい課題である顔スケッチからの人物認識について述べています。既存手法が微細な顔の特徴を捉えきれない点に着目し、「FaCells」という新しいフレームワークを提案します。
-
-FaCellsは、顔スケッチを小さなセルに分割し、各セルから「線の言語」としての局所的な各点属性スコアを抽出します。これらのスコアを統合することで、顔の全体的な表現を構築します。
-
-実験の結果、FaCellsは顔スケッチ分類の様々なベンチマークデータセットにおいて、既存の最先端手法を上回る高い性能を示しました。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 37.404483016s.)

@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17301"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Koena Ronny Mabokela, Tim Schlippe, Matthias W\\\"olfel"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本論文は、大規模言語モデル（LLM）を用いた感情分析により、社会が抱える課題を特定する手法を提案しています。
-特に、南アフリカの多様な言語環境におけるLLMの適用可能性を実証するユースケースに焦点を当てています。
-計算言語学の分野において、多言語対応の社会課題検出におけるLLMの有効性を示唆するものです。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 41.24333845s.)

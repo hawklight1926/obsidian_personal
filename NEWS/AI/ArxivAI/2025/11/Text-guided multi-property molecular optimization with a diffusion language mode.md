@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2410.13597"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Yida Xiong, Kun Li, Jiameng Chen, Hongzhi Zhang, Di Lin, Yan Che, Wenbin Hu"
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-arXivには、機械学習分野の論文「Text-guided multi-property molecular optimization with a diffusion language model」が公開されています。この研究は、拡散言語モデルを活用し、テキストの指示に基づいて複数の特性を持つ分子を最適化する新しい手法を探求しています。論文が掲載されているarXivは、研究コミュニティとの協働を促進する「arXivLabs」という実験的プロジェクトも展開しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 36.225304723s.)

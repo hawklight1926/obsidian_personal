@@ -4,7 +4,7 @@ url: "https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.
 date: "2025-11-19"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-長年、光が磁場中の透明な材料を通過する際に偏光面が回転するファラデー効果は、磁場と材料中の電子の相互作用によるものとされてきました。しかし、新しい研究は、この効果に「磁気的」な成分、すなわち光と材料の原子核の磁気モーメントとの直接的な相互作用も存在し、それが何世紀にもわたり見落とされてきたことを明らかにしました。この発見は、ファラデー効果の従来の理解を深め、ナノスケール材料や量子情報技術といった新たな応用分野に重要な意味を持つと期待されています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 8.058971916s.)

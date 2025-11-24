@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.14567"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Chen Chen, Cuong Nguyen, Alexa Siu, Dingzeyu Li, Nadir Weibel"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提供されたURLはアクセスできないため、要約は論文のタイトルとカテゴリ情報に基づいています。
-
-「SweeperBot」と題された本論文は、ビュー解析とビジュアル質問応答（VQA）技術を活用し、3Dブラウジングのアクセシビリティ向上を目指しています。コンピュータサイエンスの人とコンピュータの相互作用（HCI）分野に属し、ユーザーが3D環境をより容易に操作し、理解できるよう支援するシステムを提案します。これにより、3Dコンテンツへの幅広いアクセスを可能にすることを目指しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 31.50406478s.)

@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17419"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Yeamin Kaiser, Muhammed Tasnim Bin Anwar, Bholanath Das, Chowdhury Farhan Ahmed, Md. Tanvir Alam"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提供されたURL（https://arxiv.org/abs/2511.17419）は無効なため、論文の本文にアクセスできず、内容を正確に要約することはできませんでした。
-
-しかし、タイトル「DS-Span: Single-Phase Discriminative Subgraph Mining for Efficient Graph Embeddings」とカテゴリ「コンピュータサイエンス > 機械学習」から、この論文はグラフ埋め込みの効率を向上させることを目的とした研究であると推測されます。具体的には、効率的なグラフ埋め込みのために、単一フェーズで識別的な部分グラフをマイニングする新しい手法「DS-Span」を提案していると考えられます。
-
-もし正しいURLをご提供いただければ、記事の内容を要約することが可能です。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 40.263974538s.)

@@ -4,7 +4,7 @@ url: "https://cruzgodar.com/applets/lambda-calculus"
 date: "2025-11-24"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この記事は、ラムダ計算の評価過程を視覚化するためのインタラクティブなアプレットについて解説しています。
-ユーザーがラムダ計算の式を入力すると、アルファ変換、ベータ簡約、イータ簡約といった段階的なステップが動的に表示され、その仕組みを直感的に理解できます。
-アロンゾ・チャーチが提唱した、関数抽象と関数適用に基づいた計算の形式体系であるラムダ計算の学習ツールとして有用です。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 10.155366618s.)

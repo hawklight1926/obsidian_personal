@@ -4,7 +4,7 @@ url: "https://blog.google/products/google-cloud/westinghouse/"
 date: "2025-11-20"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "<name>Matt A.V. Chaban</name><title>Keyword Contributor</title><department/><company/>"
 image: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Westinghouse-vogtle-plant-georg.max-600x600.format-webp.webp"
 memo: ""
@@ -16,8 +16,6 @@ pinned: false
 ![How Westinghouse is reenergizing nuclear power with — and for — AI](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Westinghouse-vogtle-plant-georg.max-600x600.format-webp.webp)
 
 ## 要約
-ウェスチングハウスは、AIによる増大するエネルギー需要に対応するため、Google Cloudと提携しました。両社はAIを活用してAP1000型原子力発電所の建設プロセスを最適化し、期間とコストの大幅な削減を目指します。
-
-ウェスチングハウスが持つ独自のAI基盤「Hive」とGoogle CloudのAIモデルを組み合わせることで、2030年までに10基の原子炉建設開始という目標達成を加速させます。
-
-AIは建設だけでなく、運用や安全性向上にも応用され、原子力発電の効率化と普及に貢献し、「AIのためのエネルギーとエネルギーのためのAI」というビジョンを追求しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 52.201875914s.)

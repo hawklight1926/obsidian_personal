@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2508.04652"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Shuo Liu, Tianle Chen, Zeyu Liang, Xueguang Lyu, Christopher Amato"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、人工知能分野において、大規模言語モデル（LLM）とマルチエージェント強化学習（MARL）の連携を探求する研究です。
-
-複数のエージェントが協力して学習するMARLのフレームワークの中で、LLMがどのように協調的な役割を果たし、システム全体の性能向上に貢献できるかを探っています。これにより、複雑な環境下でのエージェント間の効果的なコミュニケーションや意思決定の実現を目指しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 38.602201233s.)

@@ -4,7 +4,7 @@ url: "https://www.bbc.com/news/articles/c8676qpxgnqo"
 date: "2025-11-24"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,10 +14,6 @@ pinned: false
 ---
 
 ## 要約
-日本は、半導体産業の再興と経済の未来再構築を目指し、北海道を最先端半導体製造の国際拠点とする大規模な国家プロジェクトを進めています。
-
-その中核である政府支援のRapidus社は、2027年までに2nmチップの量産を目指し、プロトタイプ製造にも成功しました。
-
-しかし、莫大な資金不足、量産経験の欠如、顧客獲得など課題が山積しており、競合他社との厳しい市場で生き残れるかには懐疑的な見方も多いです。
-
-これは、かつて半導体大国だった日本がその地位を取り戻すための、まさに「高リスクな賭け」と言えるでしょう。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 8.429030064s.)

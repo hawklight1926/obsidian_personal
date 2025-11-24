@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2508.16651"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Kushal Kapoor, Wyatt Mackey, Yiannis Aloimonos, Xiaomin Lin"
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-指定されたURLの論文（https://arxiv.org/abs/2508.16651）にアクセスすると、「Article not found」と表示され、論文本文を確認できません。これは、URLの「2508」という部分が未来の日付（2025年8月）を示しているためと考えられます。
-
-そのため、記事の内容を要約することはできませんが、提供された情報からは以下のことが分かります。
-この論文は「HiCL: Hippocampal-Inspired Continual Learning」というタイトルで、分野は「Computer Science > Machine Learning」に属します。タイトルから、海馬の機能に着想を得た継続学習に関する研究であると推測されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 34.023976204s.)

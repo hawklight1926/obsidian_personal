@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16787"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Hossain Shaikh Saadi, Faria Alam, Mario Sanz-Guerrero, Minh Duc Bui, Manuel Mager, Katharina von der Wense"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-指定されたURL (https://arxiv.org/abs/2511.16787) は将来の日付（2511年）を含むため、現在のところ論文にアクセスできません。
-
-そのため、論文の本文を読み込むことができず、内容を要約することが不可能です。
-
-もしアクセス可能な論文のURLをご提供いただければ、改めて要約を作成いたします。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 29.520263698s.)

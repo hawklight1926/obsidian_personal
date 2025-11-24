@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2510.26601"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Anirban Ray, Vera Galinova, Florian Jug"
 image: ""
 memo: ""
@@ -14,10 +14,6 @@ pinned: false
 ---
 
 ## 要約
-このURLは、arXivに「ResMatching: Noise-Resilient Computational Super-Resolution via Guided Conditional Flow Matching」というタイトルの論文が投稿されたことを示す情報ページです。
-
-この論文はコンピュータサイエンスのコンピュータビジョンおよびパターン認識分野に属し、ノイズに強い計算的な超解像技術に関する研究であるとタイトルから推測されます。
-
-しかし、URLが示す日付（2025年10月）から、この論文はまだ公開されておらず、本文へのアクセスはできません。
-
-そのため、現時点では論文の具体的な手法や研究成果について詳細な要約を提供することはできません。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 32.676160024s.)

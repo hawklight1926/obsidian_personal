@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2503.12972"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Junming Liu, Siyuan Meng, Yanting Gao, Song Mao, Pinlong Cai, Guohang Yan, Yirong Chen, Zilin Bian, Ding Wang, Botian Shi"
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、大規模言語モデル（LLMs）の推論能力を向上させる新しいアプローチを提案しています。
-視覚情報とテキスト情報を結びつけるため、「Aligning Vision to Language」という手法を用い、アノテーションなしでマルチモーダル知識グラフを構築します。
-これにより、複雑な視覚言語タスクにおいて、LLMsがより深い理解と推論を行えるようになることを目指しています。
-コンピュータビジョンとパターン認識の分野において、視覚と言語の統合による知識表現の自動化が期待されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 35.853746755s.)

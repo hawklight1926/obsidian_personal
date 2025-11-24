@@ -4,7 +4,7 @@ url: "https://techcrunch.com/2025/11/22/byjus-founder-to-appeal-u-s-court-order-
 date: "2025-11-22"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: "Jagmeet Singh"
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-インドの教育テック企業Byju'sの創業者Byju Raveendranに対し、米国破産裁判所は10億ドル超の支払いを命じるデフォルト判決を下しました。
-裁判所は、彼が度重なる命令を無視し、5億3300万ドルの不明な資金について不完全な回答をしたことを理由にしています。
-Raveendran氏は不正行為を否定し、この判決は誤りであるとして控訴する構えを見せています。
-この判決は、かつてインドのスタートアップを象徴する存在だった彼の劇的な転落を示すものです。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 59.941471137s.)

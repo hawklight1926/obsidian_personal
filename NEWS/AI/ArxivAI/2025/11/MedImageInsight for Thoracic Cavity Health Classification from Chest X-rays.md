@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17043"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Rama Krishna Boya, Mohan Kireeti Magalanadu, Azaruddin Palavalli, Rupa Ganesh Tekuri, Amrit Pattanayak, Prasanthi Enuga, Vignesh Esakki Muthu, Vivek Aditya Boya"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-このarXiv記事は、「MedImageInsight for Thoracic Cavity Health Classification from Chest X-rays」と題された論文を紹介しています。
-
-電気工学およびシステム科学の画像・ビデオ処理分野に属し、胸部X線画像を用いた胸腔の健康状態分類に焦点を当てています。具体的には、胸部X線画像から患者の胸腔の健康状態を診断・分類するための「MedImageInsight」という新しいアプローチやシステムについて研究しているものと推測されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 43.689078362s.)

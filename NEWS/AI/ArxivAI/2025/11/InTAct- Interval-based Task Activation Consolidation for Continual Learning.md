@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17439"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Patryk Krukowski, Jan Miksa, Piotr Helm, Jacek Tabor, Pawe{\\l} Wawrzy\\'nski, Przemys{\\l}aw Spurek"
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、連続学習における壊滅的忘却と、タスク数に比例してモデルサイズが増大する課題を解決します。
-提案手法「InTAct (Interval-based Task Activation Consolidation)」は、タスクを複数の区間にグループ化し、タスク活性化を統合することで、異なるタスク間で活性化を共有可能にします。
-これにより、InTActは従来のタスク別活性化手法と同等以上の性能を維持しつつ、必要なパラメータ数と計算コストを大幅に削減します。
-結果として、連続学習におけるメモリと計算効率の課題を克服し、そのスケーラビリティ向上に貢献します。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 39.969452418s.)

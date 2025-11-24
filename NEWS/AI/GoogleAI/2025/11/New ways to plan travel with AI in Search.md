@@ -4,7 +4,7 @@ url: "https://blog.google/products/search/agentic-plans-booking-travel-canvas-ai
 date: "2025-11-17"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "<name>Julie Farago</name><title>VP of Engineering, Search</title><department/><company/>"
 image: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_Travel.max-600x600.format-webp.webp"
 memo: ""
@@ -16,4 +16,6 @@ pinned: false
 ![New ways to plan travel with AI in Search](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_Travel.max-600x600.format-webp.webp)
 
 ## 要約
-Googleは、AIを活用した新しい旅行計画機能を検索に導入しました。AI Modeの「Canvas」では、フライトやホテル、地図情報などを統合し、ユーザーの好みに合わせた旅行プランを効率的に作成・整理できます。また、AIが格安航空券を提案する「Flight Deals」は世界中で利用可能となり、さらに「Agentic AI」によりレストランやイベントチケットなどの予約が自動化されます。将来的にはフライトやホテルの予約もAI Mode内で完結できるようになり、旅行計画から予約までの一連のプロセスを大幅に簡素化します。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 51.493383846s.)

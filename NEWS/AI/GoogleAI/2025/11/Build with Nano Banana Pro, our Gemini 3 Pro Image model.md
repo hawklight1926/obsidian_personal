@@ -4,7 +4,7 @@ url: "https://blog.google/technology/developers/gemini-3-pro-image-developers/"
 date: "2025-11-20"
 updated: ""
 category: "AI"
-tags: ["Banana", "Gemini"]
+tags: ["Gemini"]
 authors: "<name>Naina Raisinghani</name><title>Product Manager</title><department>Google DeepMind</department><company/>"
 image: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Buildwithnano_hero.max-600x600.format-webp.webp"
 memo: ""
@@ -16,7 +16,6 @@ pinned: false
 ![Build with Nano Banana Pro, our Gemini 3 Pro Image model](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Buildwithnano_hero.max-600x600.format-webp.webp)
 
 ## 要約
-Googleは、開発者向けに高忠実度な画像生成・編集モデル「Nano Banana Pro (Gemini 3 Pro Image)」の提供を開始しました。
-このモデルは、精密な構図制御や2K/4Kの高解像度出力に加え、正確なテキストレンダリングや画像内の多言語翻訳を可能にします。
-Google検索との連携により事実に基づいた画像を生成でき、UIモックアップ、広告、教育コンテンツなど幅広い用途で活用可能です。
-Google AI StudioおよびVertex AIのAPIを通じて有料プレビューで提供され、AdobeやFigmaなどのクリエイティブプラットフォームにも統合されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 52.485192628s.)

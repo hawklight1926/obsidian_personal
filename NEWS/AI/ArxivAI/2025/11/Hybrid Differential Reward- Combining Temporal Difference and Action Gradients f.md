@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16916"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Ye Han, Lijun Zhang, Dejian Meng, Zhuang Zhang"
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この研究は、協調運転のような複雑な環境下でのマルチエージェント強化学習の効率向上を目的としています。具体的には、Temporal Difference（時間差分）学習と行動勾配を統合した「Hybrid Differential Reward」という新しい報酬設計手法を提案。このハイブリッドアプローチにより、各エージェントが協調行動をより効率的に学習し、従来の課題を克服することを目指します。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 49.393016707s.)

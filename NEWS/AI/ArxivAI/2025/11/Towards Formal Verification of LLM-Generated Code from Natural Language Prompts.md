@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2507.13290"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Aaron Councilman, David Jiahao Fu, Aryan Gupta, Chengxiao Wang, David Grove, Yu-Xiong Wang, Vikram Adve"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご提示いただいたURLの論文は、提出履歴の日付（2025年7月）が未来であるため、現時点では論文本文にアクセスできません。
-
-しかし、「Towards Formal Verification of LLM-Generated Code from Natural Language Prompts」というタイトルから、この研究は大規模言語モデル（LLM）が自然言語プロンプトから生成したコードの形式検証に取り組むものと推測されます。これは、AIが生成したコードの信頼性と正確性を形式的に保証するための重要な課題に焦点を当て、プログラミング言語分野におけるLLM生成コードの品質確保に貢献する試みと考えられます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 34.218178859s.)

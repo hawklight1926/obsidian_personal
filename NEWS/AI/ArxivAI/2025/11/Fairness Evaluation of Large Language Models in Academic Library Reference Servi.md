@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2507.04224"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Haining Wang, Jason Clark, Yueru Yan, Star Bradley, Ruiyang Chen, Yiqiong Zhang, Hengyi Fu, Zuoyu Tian"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-お示しいただいたURLは論文の本文やアブストラクトを含んでいないため、正確な内容を要約することはできません。
-
-しかし、提示されたタイトル「Fairness Evaluation of Large Language Models in Academic Library Reference Services」から、本研究が学術図書館のレファレンスサービスにおける大規模言語モデル（LLM）の公平性評価について扱っていると推測されます。具体的には、LLMが提供する情報やサービスの偏り、特定の利用者グループへの対応など、倫理的な側面からの評価が行われていると考えられます。これにより、図書館サービスにおけるLLMの信頼性向上と公正な利用への貢献が期待されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 34.50564186s.)

@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.12797"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Nathan Breslow, Aayush Mishra, Mahler Revsine, Michael C. Schatz, Anqi Liu, Daniel Khashabi"
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本稿では、ゲノムデータを対象とする次トークン予測モデルが「In-Context Learners」として機能することを発見しました。これは、モデルが追加学習なしに、与えられたコンテキストから新しいパターンや関係性を学習し、即座に適用できる能力を持つことを示唆します。この知見は、ゲノム配列の解析におけるAIモデルの適応性と汎用性に関する理解を深め、今後の研究に新たな視点を提供します。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 31.806341462s.)

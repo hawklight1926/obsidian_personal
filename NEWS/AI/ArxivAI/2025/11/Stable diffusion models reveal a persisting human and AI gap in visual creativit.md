@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16814"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Silvia Rondini, Claudia Alvarez-Martin, Paula Angermair-Barkai, Olivier Penacchio, M. Paz, Matthew Pelowski, Dan Dediu, Antoni Rodriguez-Fornells, Xim Cerda-Company"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-申し訳ありませんが、ご提示いただいたURL `https://arxiv.org/abs/2511.16814` は、未来の日付（2025年11月16日）を示すため、現在アクセス可能な論文を指していません。
-
-そのため、論文の内容を読み取ることができず、要約を作成することができません。
-
-もし正確なURLをお持ちでしたら、再度ご提供いただければ、要約を作成いたします。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 49.695912032s.)

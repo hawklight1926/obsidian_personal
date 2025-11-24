@@ -4,7 +4,7 @@ url: "https://www.theverge.com/news/827279/xs-messy-about-this-account-rollout-h
 date: "2025-11-23"
 updated: "2025-11-23"
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: "Terrence O’Brien"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-Xが新たに導入した「About This Account」機能は、アカウントの作成国や拠点国を表示するものの、データに多数の不正確さが確認され、大きな混乱を招いています。
-
-VPN利用や古いIPアドレスなどが原因で誤った情報が表示されるケースが相次ぎ、一部の情報は削除されました。
-
-しかし、ユーザーはこの不正確なデータを利用し、意見の合わないアカウントを「外国の工作員」だと非難することで、プラットフォーム上に甚大な混乱を引き起こしています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 58.398321274s.)

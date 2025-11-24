@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17053"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Teng Fu, Mengyang Zhao, Ke Niu, Kaixin Peng, Bin Li"
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本論文は、大規模視覚言語モデル（LVLM）の潜在能力を最大限に引き出し、歩行者の追跡と理解を深める新しいフレームワーク「OmniPT」を提案しています。OmniPTは、LVLMが持つ視覚とテキスト情報を統合的に処理する能力を活用することで、従来の追跡システムが抱える課題を克服することを目指します。これにより、複雑な環境下でも高精度な歩行者追跡と状況把握を可能にし、コンピュータビジョン分野におけるLVLMの応用範囲を拡大する貢献が期待されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 43.486757679s.)

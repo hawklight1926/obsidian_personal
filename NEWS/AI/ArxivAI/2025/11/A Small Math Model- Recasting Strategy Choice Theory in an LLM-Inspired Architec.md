@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2509.24068"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Roussel Rahman, Jeff Shrager"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提示された情報によると、この記事は「A Small Math Model: Recasting Strategy Choice Theory in an LLM-Inspired Architecture」というタイトルの論文です。これはコンピュータサイエンスの機械学習分野に属し、大規模言語モデル（LLM）から着想を得たアーキテクチャを用いて戦略選択理論を再構築する小さな数学モデルを提案していると推測されます。
-
-しかし、提供されたURL（https://arxiv.org/abs/2509.24068）は現在アクセスできないため、論文の具体的な内容や詳細な研究成果について要約することはできません。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 33.432583619s.)

@@ -4,7 +4,7 @@ url: "https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-sta
 date: "2025-11-22"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: "Anthony Ha"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-トランプ政権は当初、州レベルのAI規制に反対し、連邦統一基準の導入を目指していました。具体的には、州のAI規制を10年間禁止する案や、州法に異議を唱えるAI訴訟タスクフォースを設立し、連邦資金停止を脅かす大統領令の検討が進められていました。
-
-しかし、ロイター通信の報道によると、この大統領令は現在「保留」されています。もし署名されていれば、共和党を含む広範な反対に直面した可能性があり、これによりトランプ政権が州のAI規制と戦う姿勢が緩和される見込みです。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 256.402147ms.)

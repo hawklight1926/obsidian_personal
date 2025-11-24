@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2508.10599"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Xinyan Jiang, Lin Zhang, Jiayi Zhang, Qingsong Yang, Guimin Hu, Di Wang, Lijie Hu"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本論文は、大規模言語モデル（LLMs）における属性アラインメントの課題に対処するため、MSRS（Adaptive Multi-Subspace Representation Steering）という新しい手法を提案しています。
-
-MSRSは、LLMの内部表現を複数のサブ空間で適応的に誘導することで、生成されるテキストの安全性や倫理、特定のスタイルといった属性を効果的に調整します。このアプローチにより、LLMsの振る舞いをより精密に制御し、望ましい特性を強化することを目指します。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 38.500963462s.)

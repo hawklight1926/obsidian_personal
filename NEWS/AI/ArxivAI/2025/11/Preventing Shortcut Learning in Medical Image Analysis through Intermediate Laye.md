@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17421"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Christopher Boland, Sotirios Tsaftaris, Sonia Dahdouh"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-指定されたURL（https://arxiv.org/abs/2511.17421）は未来の日付を含んでおり、現在アクセスできないため、記事の内容を直接確認することができません。
-
-そのため、記事の正確な要約を提供することは不可能です。
-
-しかし、提供されたタイトル「Preventing Shortcut Learning in Medical Image Analysis through Intermediate Layer Knowledge Distillation from Specialist Teachers」から、本研究は医療画像解析におけるショートカット学習を防ぐことを目的とし、専門家教師からの隠れ層知識蒸留をその手法として用いていると推測されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 40.160894968s.)

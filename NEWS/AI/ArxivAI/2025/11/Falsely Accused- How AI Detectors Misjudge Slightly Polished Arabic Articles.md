@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16690"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Saleh Almohaimeed, Saad Almohaimeed, Mousa Jari, Khaled A. Alobaid, Fahad Alotaibi"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この研究は、AI生成テキスト検出器が、人間によってわずかに修正された（"polished"）アラビア語記事を、誤ってAIが作成したものと判断する傾向があることを明らかにしています。
-AI検出器は、微妙な人間の介入を含むコンテンツに対して不正確な判定を下す可能性があり、その信頼性に疑問を投げかけています。
-この結果は、AI検出器の現在の限界と、より洗練された評価手法の必要性を示唆しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 47.319932538s.)

@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2502.10568"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Salom\\'e Lepers, Vincent Thomas, Olivier Buffet"
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本論文は、部分観測下のマルチエージェント環境における複雑な意思決定問題に取り組みます。
-特に、エージェントが異なる観測を持つ状況下で、他のエージェントの観測能力を明示的にモデル化する新しいフレームワーク「Observer-Aware Probabilistic Planning (OAPP)」を提案しています。
-OAPPは、自身の観測だけでなく、他のエージェントの観測とその行動への影響を考慮して行動を最適化することで、従来のPOMDP（部分観測マルコフ決定過程）を拡張します。
-実験では、非対称情報を用いた高度な協調や欺瞞が求められるシナリオにおいて、既存手法と比較して優れた性能を実証しました。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 39.29664799s.)

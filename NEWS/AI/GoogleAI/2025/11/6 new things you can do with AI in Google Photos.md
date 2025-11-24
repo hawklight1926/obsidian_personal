@@ -4,7 +4,7 @@ url: "https://blog.google/products/photos/nano-banana-ai-templates-ask-photos/"
 date: "2025-11-11"
 updated: ""
 category: "AI"
-tags: ["Banana"]
+tags: ["Gemini"]
 authors: "<name>Yael Marzan</name><title>Senior Director of Product Management</title><department>Google Photos and Google One</department><company/>"
 image: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GP_Nov_AI_Feature_Blog_Post_Her.max-600x600.format-webp.webp"
 memo: ""
@@ -16,7 +16,6 @@ pinned: false
 ![6 new things you can do with AI in Google Photos](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GP_Nov_AI_Feature_Blog_Post_Her.max-600x600.format-webp.webp)
 
 ## 要約
-Google PhotosはAI機能を大幅に強化し、写真編集や検索の可能性を広げました。
-新たにNano Bananaを搭載し、ルネサンス風や絵本風など様々なスタイルへの画像変換、およびAIテンプレートによる簡単生成が可能に。
-また、「サングラスを外す」「笑顔にする」といった具体的な指示で写真を修正できるパーソナライズド編集も導入されました。
-さらに、Ask Photosは利用地域と言語を拡大し、写真内の情報検索や編集指示が可能な「Ask」ボタンも追加され、より深い画像操作が可能になります。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 50.792580826s.)

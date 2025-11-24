@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2509.06938"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Praneet Suresh, Jack Stanley, Sonia Joseph, Luca Scimeca, Danilo Bzdok"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、機械学習分野のTransformerモデルにおいて発生する「ハルシネーション（幻覚）」現象の起源を深く探る研究です。モデルが根拠のない、または事実と異なる情報を生成するメカニズムを解明することを目的としています。
-
-「ノイズから物語へ」という視点から、ハルシネーションがどのようにして生まれるのかを追跡し、その根本的な原因を理解することを目指しています。これにより、生成AIの信頼性と精度向上に貢献することが期待されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 33.825527104s.)

@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17225"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Shanshan Li, Da Huang, Yu He, Yanwei Fu, Yu-Gang Jiang, Xiangyang Xue"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご提示いただいたURL `https://arxiv.org/abs/2511.17225` は未来の日付（2511年）を含んでおり、現在アクセスできません。そのため、論文本文を読み取ることができず、内容を要約することが不可能です。
-
-もし論文への正しいアクセスURLがございましたら、改めてご提供いただければ、その内容に基づいて要約を試みます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 42.030905516s.)

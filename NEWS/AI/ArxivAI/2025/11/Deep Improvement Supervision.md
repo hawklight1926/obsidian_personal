@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16886"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Arip Asadulaev, Rayan Banerjee, Fakhri Karray, Martin Takac"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-指定されたarXivの記事（URL: https://arxiv.org/abs/2511.16886）は、現時点では公開されていません。
-
-記事のタイトルは「Deep Improvement Supervision」で、カテゴリは「Computer Science > Computation and Language」とされています。この情報から、深層学習（Deep Learning）を活用して、計算言語学や自然言語処理の分野における何らかの改善プロセスを監督・指導する新しい手法に関する研究であると推測されます。具体的な内容は、記事が公開され次第確認可能となります。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 44.661612861s.)

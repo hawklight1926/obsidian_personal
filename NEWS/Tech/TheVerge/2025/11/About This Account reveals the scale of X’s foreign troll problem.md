@@ -4,7 +4,7 @@ url: "https://www.theverge.com/news/827298/about-this-account-reveals-the-scale-
 date: "2025-11-23"
 updated: "2025-11-23"
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: "Terrence O’Brien"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-X（旧Twitter）の新機能「About This Account」が、アメリカ政治に介入しようとする外国拠点のトロールアカウントの広範な問題を露呈しました。この機能により、MAGA支持を装う多数のアカウントが、実際にはナイジェリア、東欧、バングラデシュ、タイなど米国外に所在し、政治的対立を煽っていたことが判明しました。
-
-問題発覚後、Xはアカウント作成地の情報を削除し、所在地データに関する免責事項を追加。これらのトロール活動は、国家主導のプロパガンダや、途上国での金銭的収益を目的としている可能性が指摘されています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 58.608916352s.)

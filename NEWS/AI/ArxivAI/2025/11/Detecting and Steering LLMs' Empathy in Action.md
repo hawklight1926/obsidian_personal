@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16699"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Juan P. Cadile"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-指定されたURLの論文は、現在アクセスできない未来の日付（2025年11月）のものであり、記事本文を読むことはできません。
-
-しかし、タイトル「Detecting and Steering LLMs' Empathy in Action」から判断すると、本研究は大規模言語モデル（LLM）が示す「共感」の能力をどのように識別し、さらにその共感的な振る舞いをどのように操作・制御するかについて焦点を当てていると推測されます。LLMの人間らしい応答や社会的相互作用における共感の評価と操作手法を探求する内容であると考えられます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 47.120613937s.)

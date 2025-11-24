@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2510.20333"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Chiyu Chen, Xinhao Song, Yunkai Chai, Yang Yao, Haodong Zhao, Lijun Li, Jie Li, Yan Teng, Gongshen Liu, Yingchun Wang"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本論文は、モバイルエージェント（MA）が動的なオンデバイス環境において、環境インジェクション（EI）攻撃に対してどの程度耐性があるかを体系的に評価する。EI攻撃をシミュレートし、MAの動作への影響を定量的に測定するベンチマーク「GhostEI-Bench」を提案。
-
-複数のMAベースのアプリケーションへの適用により、MAがEI攻撃に対し多様な脆弱性を示し、わずかな環境データ操作でも予期せぬ危険な動作を引き起こす可能性が明らかになった。これは、既存のセキュリティ対策が不十分であり、MAの設計・実装においてより堅牢な防御メカニズムが必要であることを示唆している。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 32.962240403s.)

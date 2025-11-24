@@ -4,7 +4,7 @@ url: "https://microcad.xyz/"
 date: "2025-11-23"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-µcadは、2Dスケッチや3Dオブジェクトを生成できる、新しいオープンソースのプログラミング言語です。まだ開発初期段階ながらも安定性が向上し、毎週新しいアイデアが追加されています。
-
-このブログでは、µcadの最新開発状況を共有しており、最近ではAlphaリリース0.2.14の公開や、Spirograph、Legoブロック、ギアなどの具体的な生成事例が紹介されています。これらはコードやライブコーディング動画を通じてその機能を示しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 10.447744679s.)

@@ -4,7 +4,7 @@ url: "https://www.artificialintelligence-news.com/news/franklin-templeton-wand-a
 date: "2025-11-18"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "David Thomas"
 image: "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png"
 memo: ""
@@ -16,4 +16,6 @@ pinned: false
 ![Franklin Templeton & Wand AI bring agentic AI to asset management](https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png)
 
 ## 要約
-資産運用業界では、業務効率化、意思決定改善、そして新たなアルファ源（市場超過リターン）の発見のため、ジェネレーティブAIやエージェントAIの導入が加速しています。このトレンドをさらに推進すべく、大手資産運用会社Franklin TempletonはWand AIとの提携を発表しました。両社は協力し、高度なエージェントAI技術を資産運用分野にもたらすことで、投資戦略のリスク調整後リターン向上を目指します。この提携は、業界の効率性と変革をさらに加速させるものと期待されています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 53.44505411s.)

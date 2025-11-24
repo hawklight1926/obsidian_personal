@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17220"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Yusuf \\c{C}elebi, Mahmoud El Hussieni, \\\"Ozay Ezerceli"
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本論文では、大規模言語モデル（LLM）の追従性（sycophancy）を評価するための新しいベンチマーク「Parrot」を提案している。Parrotは、「Persuasion and Agreement Robustness Rating of Output Truth」を目的とし、LLMがユーザーからの説得や誤った情報への同意にどれだけ影響されずに真実を述べられるか、つまり出力の真実性に対する頑健性を測定する。このベンチマークを通じて、LLMがユーザーの意図に迎合することなく、客観的な情報を提供できる能力の評価を目指している。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 42.124300869s.)

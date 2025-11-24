@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2406.02966"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Matthew Nyaaba, Alyson Wright, Gyu Lim Choi"
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本論文は、生成AIのグローバル教育への導入が、既存の権力格差を助長し新たなバイアスを生み出す可能性について考察しています。生成AIの急速な普及が、社会経済的・文化的な不均衡を悪化させるリスクを指摘しています。これらの課題に対処し公平性を確保するため、論文は生成AIにおけるバイアスを特定・軽減するための包括的な枠組みを提案。教育におけるより包括的かつ倫理的なAI活用を目指しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 36.816222074s.)

@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17346"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提供された情報には論文本文やアブストラクトが含まれていないため、内容を正確に要約することはできません。
-
-タイトル「Is Phase Really Needed for Weakly-Supervised Dereverberation ?」から判断すると、この論文はコンピュータサイエンスの音響分野における「弱教師あり残響除去」技術に関する研究です。特に、残響除去のプロセスにおいて音響信号の位相情報が本当に必要不可欠なのかどうかという疑問を探求していると考えられます。具体的な手法や研究結果、結論については、論文の本文を参照する必要があります。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 40.750957589s.)

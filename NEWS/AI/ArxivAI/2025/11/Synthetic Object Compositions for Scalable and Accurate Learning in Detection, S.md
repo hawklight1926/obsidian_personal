@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2510.09110"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Weikai Huang, Jieyu Zhang, Taoyang Jia, Chenhao Zheng, Ziqi Gao, Jae Sung Park, Winson Han, Ranjay Krishna"
 image: ""
 memo: ""
@@ -14,10 +14,6 @@ pinned: false
 ---
 
 ## 要約
-物体検出、セグメンテーション、グラウンディングにおける大規模データセットの課題（高コスト、多様性不足、ラベルノイズ）に対し、本論文は高忠実度な合成画像生成手法を提案します。
-
-この手法は、生成モデルで多様な背景を作成し、物理ベースレンダリングで3Dオブジェクトを統合することで、精密なグラウンドトゥルースアノテーション付きのフォトリアルな画像を生成します。オブジェクトの配置や照明を細かく制御可能です。
-
-提案する合成データで学習したモデルは、実世界データで学習したモデルと同等かそれ以上の性能を達成し、特にゼロショット・フューショット設定で優位性を示します。
-
-本アプローチはデータ取得・アノテーションコストを大幅に削減し、効率的でロバストなビジョンシステムの開発に貢献します。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 33.242391799s.)

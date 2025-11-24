@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16848"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Feliciano Pedro Francisco Domingos, Isibor Kennedy Ihianle, Omprakash Kaiwartya, Ahmad Lotfi, Nicola Khan, Nicholas Beaudreau, Amaya Albalat, Pedro Machado"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご提示いただいたURL (https://arxiv.org/abs/2511.16848) にアクセスしましたが、『論文が見つかりません』と表示され、記事の本文を読み込むことができませんでした。
-
-タイトルからは、AI強化バイオアコースティックを用いてヨーロッパ産ロブスターの性別と年齢を特定する研究のようですが、本文の内容にアクセスできないため、要約を作成することはできません。
-
-お手数ですが、正しいURLをご提供いただければ、再度要約を試みることができます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 45.053817143s.)

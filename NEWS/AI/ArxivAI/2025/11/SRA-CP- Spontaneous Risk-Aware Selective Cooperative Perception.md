@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17461"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Jiaxi Liu, Chengyuan Ma, Hang Zhou, Weizhe Tang, Shixiao Liang, Haoyang Ding, Xiaopeng Li, Bin Ran"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご指定のURLでは、論文の本文はまだarXiv上で公開されていません。
-
-タイトル「SRA-CP: Spontaneous Risk-Aware Selective Cooperative Perception」とカテゴリ「Computer Science > Artificial Intelligence」から判断すると、本論文はAI分野におけるリスク認識型の協調知覚に関する研究であると推測されます。具体的には、複数のシステムやエージェントが連携して情報を収集・処理する際、自律的にリスクを評価し、選択的に知覚情報を共有・統合する新しいアプローチ「SRA-CP」を提案していると考えられます。これにより、より安全性と効率性の高い協調システムが構築される可能性があります。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 48.298969027s.)

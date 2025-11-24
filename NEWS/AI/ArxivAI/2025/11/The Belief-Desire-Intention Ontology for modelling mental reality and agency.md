@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17162"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Sara Zuppiroli, Carmelo Fabio Longo, Anna Sofia Lippolis, Rocco Paolillo, Lorenzo Giammei, Miguel Ceriani, Francesco Poggi, Antonio Zinilli, Andrea Giovanni Nuzzolese"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-提示された記事は、人工知能分野の論文「The Belief-Desire-Intention Ontology for modelling mental reality and agency」に関する情報を提供しています。この論文は、BDI（信念-欲求-意図）オントロジーを用いて精神的実在とエージェンシー（行為主体性）をモデル化することをテーマとしています。
-
-ページには論文へのアクセス、引用ツール、関連するコード・データ、デモなどへのリンクが示されています。また、arXivの機能を拡張するコミュニティ主導の実験的プロジェクト「arXivLabs」が紹介されており、オープン性やユーザーデータプライバシーを重視するフレームワークであることが説明されています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 48.797831437s.)

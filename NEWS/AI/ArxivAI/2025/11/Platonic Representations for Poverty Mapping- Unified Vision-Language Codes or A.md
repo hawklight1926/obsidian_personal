@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2508.01109"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Satiyabooshan Murugaboopathy, Connor T. Jerzak, Adel Daoud"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-このarXivページは、「Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?」というタイトルの論文に関する情報を提供しています。
-
-この論文はコンピュータサイエンス、特に人工知能の分野に属し、貧困マッピングにおける新しい表現方法を探求しています。具体的には、「プラトン表現」を「統一された視覚言語コード」と「エージェントによって誘発される新規性」のどちらで実現するかを議論していると推測されます。
-
-ただし、提供された情報には論文の要旨や本文が含まれていないため、詳細な内容や結論については不明です。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 38.696913213s.)

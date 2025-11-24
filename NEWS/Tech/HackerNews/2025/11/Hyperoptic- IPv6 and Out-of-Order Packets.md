@@ -4,7 +4,7 @@ url: "https://blog.zakkemble.net/hyperoptic-ipv6-and-out-of-order-packets/"
 date: "2025-11-18"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-HyperopticのIPv6接続において、ルーター再起動後にISPルーターがルーター要請(RS)に応答せず、ルーター広告(RA)が遅れてIPv6接続が不安定になる問題が発生しました。これはWANインターフェースのMACアドレスを変更するか、デフォルトゲートウェイを手動で追加することで一時的に回避可能です。
-
-さらに、WANインターフェースのMACアドレスが「4」または「6」で始まる場合、パケットが順序通りに届かない（Out-of-Order）問題が確認されました。これはルーターがMACアドレスの先頭ニブルを見てパケットタイプを誤認識することが原因です。
-
-MACアドレスを「4」または「6」以外の値に変更することで、このOutOfOrderパケット問題は解消されました。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 5.278853187s.)

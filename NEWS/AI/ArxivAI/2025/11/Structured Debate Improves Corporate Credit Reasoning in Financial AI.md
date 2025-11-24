@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2510.17108"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Yoonjin Lee, Munhee Kim, Hanbi Choi, Juhyeon Park, Seungho Lyoo, Woojin Park"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-本論文は、金融AI分野において、企業の信用推論能力の向上を目指す研究です。
-AIモデルが「構造化された議論」のプロセスを経ることで、より複雑な信用リスク評価を正確に行えるようになることを示しています。
-このアプローチは、金融AIによる意思決定の信頼性と透明性を高め、金融機関におけるAI活用の新たな可能性を提示しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 37.889617297s.)

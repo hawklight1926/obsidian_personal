@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2506.08255"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Patryk Krukowski, {\\L}ukasz Gorczyca, Piotr Helm, Kamil Ksi\\k{a}\\.zek, Przemys{\\l}aw Spurek"
 image: ""
 memo: ""
@@ -14,5 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご指定いただいたURL `https://arxiv.org/abs/2506.08255` は、投稿日が未来の日付（2025年6月）となっているため、現時点では記事が存在しないか、アクセスできません。
-そのため、記事の内容を要約することはできません。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 34.801863999s.)

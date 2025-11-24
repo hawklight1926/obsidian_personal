@@ -4,7 +4,7 @@ url: "https://techcrunch.com/2025/11/21/crowdstrike-fires-suspicious-insider-who
 date: "2025-11-21"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: "Zack Whittaker, Lorenzo Franceschi-Bicchierai"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-サイバーセキュリティ企業CrowdStrikeは、ハッキンググループに情報を流したとされる「不審な内部関係者」を解雇したことを確認しました。ハッカー集団「Scattered Lapsus$ Hunters」は、CrowdStrikeシステムへのアクセスを示すスクリーンショットを公開し、Gainsightへの侵害を通じて侵入したと主張しました。
-
-しかし、CrowdStrikeはこの主張を否定し、システムは侵害されておらず、顧客も保護されていたと述べています。同社は、解雇された内部関係者が「コンピュータ画面の写真を外部に共有した」ため、アクセスを停止したと説明しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 59.325984189s.)

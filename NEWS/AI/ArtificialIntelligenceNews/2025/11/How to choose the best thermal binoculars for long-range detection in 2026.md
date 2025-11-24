@@ -4,7 +4,7 @@ url: "https://www.artificialintelligence-news.com/news/how-to-choose-the-best-th
 date: "2025-11-20"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Bazoom"
 image: ""
 memo: ""
@@ -14,4 +14,6 @@ pinned: false
 ---
 
 ## 要約
-2026年における長距離検出に最適なサーマル双眼鏡の選び方に関するこの記事は、セキュリティやアウトドアの専門家向けに、従来の暗視装置より優れたサーマル技術の重要性を解説しています。鮮明さ、長距離性能、耐候性に優れるサーマル双眼鏡を選ぶ際のポイントとして、センサー解像度、リフレッシュレート、倍率、検出範囲、バッテリー寿命、耐久性、追加機能などを挙げています。市場リーダーであるATNの高性能モデルを例に挙げつつ、これらの要素を総合的に検討することの重要性を強調しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 54.603713882s.)

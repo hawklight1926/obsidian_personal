@@ -4,7 +4,7 @@ url: "https://mastodon.gamedev.place/@TomF/115589875974658415"
 date: "2025-11-21"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ゲーム開発者のTomF氏は、ゲーム開発でLLM（大規模言語モデル）が使われていないという一般的な誤解を否定し、実際には多くの開発者が多様な用途で活用していると指摘します。ボイスラインの仮生成、ストーリーのアイデア出し、QAでのバグ報告洗練、コードのデバッグ、マーケティング資料作成など、様々な工程で生産性向上ツールとして利用されています。
-
-LLMは人間の作業を加速し、クリエイティブな課題解決に貢献する強力なツールであり、完全な自動化を意図するものではないと述べています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 1.351457361s.)

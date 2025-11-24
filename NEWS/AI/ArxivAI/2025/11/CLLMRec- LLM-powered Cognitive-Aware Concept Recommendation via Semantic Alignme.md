@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.17041"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Xiangrui Xiong, Yichuan Lu, Zifei Pan, Chang Sun"
 image: ""
 memo: ""
@@ -14,10 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、ユーザーの認知特性を考慮したコンセプト推薦を目的とし、LLM駆動型の新しいフレームワーク「CLLMRec」を提案しています。
-
-CLLMRecは、大規模言語モデル（LLM）を活用してユーザーの認知状態とコンセプト間のセマンティックアラインメント（意味的整合性）を取り、さらに前提知識の蒸留を通じて個々の学習パスを最適化します。
-
-これにより、ユーザーが特定のコンセプトを理解するために必要な前提知識を特定し、より効果的でパーソナライズされた学習体験を提供することを目指します。
-
-実証実験では、CLLMRecが既存の強力なベースラインを上回るパフォーマンスを示し、その有効性を証明しました。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 43.79308027s.)

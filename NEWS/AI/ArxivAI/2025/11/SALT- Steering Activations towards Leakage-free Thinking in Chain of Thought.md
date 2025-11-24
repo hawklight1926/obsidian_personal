@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.07772"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Shourya Batra, Pierce Tillman, Samarth Gaggar, Shashank Kesineni, Kevin Zhu, Sunishchal Dev, Ashwinee Panda, Vasu Sharma, Maheep Chaudhary"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご提示いただいたURL（https://arxiv.org/abs/2511.07772）は現在アクセスできず、「Error 404 - File not found」が表示されます。
-
-そのため、論文の本文を読み込むことができず、内容を要約することはできません。
-
-しかしながら、タイトル「SALT: Steering Activations towards Leakage-free Thinking in Chain of Thought」およびカテゴリ「Computer Science > Cryptography and Security」から判断すると、この研究はChain of Thought (CoT) 推論プロセスにおいて、情報漏洩を防ぎセキュリティを強化するための手法「SALT」を提案しているものと推測されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 32.009474s.)

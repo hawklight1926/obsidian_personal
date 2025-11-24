@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16683"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Mohamed Mahdi"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご提示いただいたURLは未来の日付（2511年）のためアクセスできませんが、提供されたタイトルとカテゴリ情報に基づき要約します。
-
-この論文は、大規模言語モデル（LLMs）がチュニジア・アラビア語をどの程度理解し、処理できるかを評価する研究です。計算言語学の分野において、LLMの多言語対応能力、特にアラビア語のような特定の方言に対する性能を検証することに焦点を当てています。本研究は、ニッチな言語環境におけるLLMの有効性と課題を明らかにすることを目的としています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 47.712208204s.)

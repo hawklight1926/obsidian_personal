@@ -4,7 +4,7 @@ url: "https://techcrunch.com/2025/11/23/techcrunch-mobility-searching-for-the-ro
 date: "2025-11-23"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: "Kirsten Korosec"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-TechCrunch Mobilityの記事は、Waymoが多数の都市でロボタクシーサービスを急速に拡大するなど、業界の活況を報告しつつ、その「転換点」について考察しています。
-
-筆者は、ロボタクシーが人々の移動方法を根本的に変える転換点にはまだ達していないと指摘。この転換点を迎えるには、Waymoのような単一企業の拡大だけでなく、より多くの主要都市での普及、競合の増加、そしてロボタクシーを基盤とする関連エコシステムの出現が不可欠であると主張しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 563.879694ms.)

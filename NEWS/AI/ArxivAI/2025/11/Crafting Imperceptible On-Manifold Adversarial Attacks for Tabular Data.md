@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2507.10998"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Zhipeng He, Alexander Stevens, Chun Ouyang, Johannes De Smedt, Alistair Barros, Catarina Moreira"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご指定のURL（https://arxiv.org/abs/2507.10998）は未来の論文日付（2025年7月）を示しており、現在アクセス可能な論文としては存在しないため、記事の本文を読み要約することはできません。
-
-タイトル「Crafting Imperceptible On-Manifold Adversarial Attacks for Tabular Data」とカテゴリ「Machine Learning」から推測するに、この研究は表形式データに対して、人間には知覚できない形で、かつデータの自然な分布（多様体）を逸脱しない敵対的攻撃を生成する方法について議論するものと考えられます。これは、機械学習モデルの堅牢性を評価し、その脆弱性を改善するための重要な課題に取り組む論文であると推測されます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 34.315598447s.)

@@ -4,7 +4,7 @@ url: "https://techcrunch.com/2025/11/21/google-says-hackers-stole-data-from-200-
 date: "2025-11-21"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: "Lorenzo Franceschi-Bicchierai"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-Googleは、Gainsightのアプリを介した大規模なサプライチェーン攻撃により、200社以上のSalesforceに保存されていた企業データがハッカーによって盗まれたことを確認しました。
-Scattered Lapsus$ Huntersと名乗るハッカーグループ（ShinyHuntersを含む）が犯行を主張しており、AtlassianやDocusignなど複数の有名企業が標的とされた可能性があります。
-Salesforceは自社プラットフォームの脆弱性を否定し、この問題はGainsightの外部接続に起因すると説明しています。
-Gainsightは現在、Googleのインシデント対応チームMandiantと協力して詳しい調査を進めています。
-ハッカーグループは、盗んだデータを使い被害企業を恐喝するための専用ウェブサイトを来週開設する計画だと発表しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 59.222294745s.)

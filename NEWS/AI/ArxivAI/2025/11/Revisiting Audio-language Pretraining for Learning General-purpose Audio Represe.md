@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16757"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Wei-Cheng Tseng, Xuanru Zhou, Mingyue Huo, Yiwen Shao, Hao Zhang, Dong Yu"
 image: ""
 memo: ""
@@ -14,8 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご提示いただいたURLはarXivの論文ページですが、提供された情報には論文の本文や要約（Abstract）が含まれていません。そのため、記事の内容を要約することはできません。
-
-この論文は「Revisiting Audio-language Pretraining for Learning General-purpose Audio Representation（汎用オーディオ表現学習のための音声言語事前学習の再検討）」というタイトルで、オーディオとテキスト（言語）を組み合わせた事前学習手法を用いて、様々な用途に使える汎用的な音声表現を学習する研究テーマを扱っていると推測されます。
-
-もし論文の概要（Abstract）または本文を提供いただければ、内容を要約することが可能です。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 46.040319101s.)

@@ -4,7 +4,7 @@ url: "https://en.wikipedia.org/wiki/Band_of_Holes"
 date: "2025-11-19"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,10 +14,6 @@ pinned: false
 ---
 
 ## 要約
-「Band of Holes（穴の帯）」は、火星をはじめとする惑星の表面に、規則的な帯状に並んで見られる一連の円錐形の窪みやクレーターの現象です。
-
-これらは主に、溶岩流が地中の氷を覆った際に、氷が蒸発してできた空洞が崩壊することで形成された陥没穴であると考えられています。
-
-特に火星のタルシス地域やエリシウム地域などの火山活動が活発だった地域で多く観測され、その特徴的な形状から初期には異星文明の痕跡とも憶測されました。
-
-しかし、現在の科学的コンセンサスでは、火山性のプロセスによって形成された自然の地形であるとされています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 3.060595024s.)

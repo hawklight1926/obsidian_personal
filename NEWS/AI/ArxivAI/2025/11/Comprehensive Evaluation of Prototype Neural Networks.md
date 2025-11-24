@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2507.06819"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Philipp Schlinge, Steffen Meinert, Martin Atzmueller"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご指定のURL `https://arxiv.org/abs/2507.06819` は、現在アクセスできないか、将来の日付の論文であるため内容を確認できませんでした。
-
-そのため、記事「Comprehensive Evaluation of Prototype Neural Networks」の具体的な要約を作成することは不可能です。もし記事の本文やアブストラクトを直接提供いただければ、その内容に基づいて要約を作成いたします。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 34.410081439s.)

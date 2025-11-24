@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2406.01183"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Lorenzo Chicchi, Lorenzo Buffoni, Diego Febbe, Lorenzo Giambagli, Raffaele Marino, Duccio Fanelli"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この論文は、機械学習モデルの解釈可能性と信頼性向上を目的とし、入力特徴量のグローバルな重要度（GIR）を推定する新しいスペクトルニューラルネットワーク（SNN）フレームワークを提案しています。
-このSNNは、ニューラルネットワークのスペクトル特性を活用することで、計算コストの高い勾配ベースやモンテカルロ法を用いずにGIRを直接、効率的に算出します。
-さらに、表現にスパース性を強制するメカニズムを組み込むことで、より堅牢で解釈可能なモデルを実現し、様々なタスクで重要な特徴量を正確に特定し、競争力のある予測性能を示しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 36.916084647s.)

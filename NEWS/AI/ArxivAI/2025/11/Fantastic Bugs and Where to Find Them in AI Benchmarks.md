@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2511.16842"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Sang Truong, Yuheng Tu, Michael Hardy, Anka Reuel, Zeyu Tang, Jirayu Burapacheep, Jonathan Perera, Chibuike Uwakwe, Ben Domingue, Nick Haber, Sanmi Koyejo"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-ご指定のURL `https://arxiv.org/abs/2511.16842` は無効な論文IDのため、論文の本文にアクセスできませんでした。「Error: Invalid Paper ID」と表示されます。
-
-そのため、記事の内容を要約することができません。もし正しいURLや論文の本文を提供していただければ、要約を試みることができます。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 49.492041023s.)

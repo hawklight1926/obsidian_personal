@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2510.13302"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Pablo Miralles-Gonz\\'alez, Javier Huertas-Tato, Alejandro Mart\\'in, David Camacho"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この研究は、法科学やセキュリティ分野で重要な著者特定および著者検証（AA/AV）タスクに対し、大規模言語モデル（LLM）を用いた新しいアプローチを提案しています。この手法は「one-shot style transfer」を活用し、特定の著者の少量のテキストからその文体を学習させます。
-
-学習したスタイルを疑わしい文章に適用してスタイル変換を行い、変換された文章間の類似性を分析することで著者の特定や検証を行います。実験の結果、提案手法は従来のAA/AV手法を大きく上回る性能を示し、特にデータが少ない環境での有効性が確認されました。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 33.148645826s.)

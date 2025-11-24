@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2505.04736"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Sutapa Dey Tithi, Arun Kumar Ramesh, Clara DiMarco, Xiaoyi Tian, Nazia Alam, Kimia Fazeli, Tiffany Barnes"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この研究は、インテリジェント・チュータリング・システム（ITS）において、大規模言語モデル（LLM）が論理問題の証明構築とヒント生成に果たす役割の可能性と限界を評価しています。LLMは比較的単純な問題では有効な証明やヒントを生成できる一方で、複雑な多段階推論を要する問題では、証明の正確性や論理の一貫性に課題があることが示されました。
-
-特に、誤った推論を混入させる傾向や、学生の学習段階に応じた質の高いヒントを提供することの難しさが指摘されています。本稿は、LLMが有望なツールであるものの、その限界を理解し、人間の監督や他のツールとの組み合わせが不可欠であると結論付けています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 38.894023769s.)

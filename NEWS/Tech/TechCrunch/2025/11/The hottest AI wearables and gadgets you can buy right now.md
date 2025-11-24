@@ -4,7 +4,7 @@ url: "https://techcrunch.com/2025/11/21/the-hottest-ai-wearables-and-gadgets-you
 date: "2025-11-21"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: "Lauren Forristal"
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-近年、AIを日常生活に統合する新しいウェアラブルデバイスやガジェットが続々と登場しています。
-これらはネックレス、リング、リストバンド、携帯型デバイスなど多様な形態をとり、生産性向上ツールやパーソナルコンパニオンとしての役割を果たします。
-音声記録、会話要約、感情認識、タスク実行といった幅広い機能を持ち、ユーザーのルーティン学習や個別のサポートを提供します。
-Bee、Friend、Limitless、Omi、Plaud’s NotePin、Rabbit R1などが注目されており、中にはプライバシーや監視資本主義への懸念も指摘されています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 59.434194024s.)

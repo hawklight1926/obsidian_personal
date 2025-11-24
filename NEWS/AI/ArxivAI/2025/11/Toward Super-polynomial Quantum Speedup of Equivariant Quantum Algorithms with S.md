@@ -4,7 +4,7 @@ url: "https://arxiv.org/abs/2207.07250"
 date: "2025-11-24"
 updated: ""
 category: "AI"
-tags: []
+tags: ["Gemini"]
 authors: "Han Zheng, Zimu Li, Sergii Strelchuk, Risi Kondor, Junyu Liu"
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-この量子物理学に関する論文は、SU($d$)対称性を持つ同変量子アルゴリズムの量子加速を分析しています。
-研究では、SU($d$)既約表現のClebsch-Gordan係数を用いることで、グループパラメータ学習やGrover探索において超多項式の量子加速が達成されうることを示しました。
-さらに、SU($d$)群要素のパラメータ学習を行う量子アルゴリズムも提案し、多様なタスクで高い性能を発揮することを示唆しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 37.310872917s.)
