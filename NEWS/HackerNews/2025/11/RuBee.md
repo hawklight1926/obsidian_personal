@@ -13,6 +13,7 @@ pinned: false
 ---
 
 ## 要約
-(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
-* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
-Please retry in 12.763712626s.)
+米国エネルギー省（DoE）施設で採用されている携帯電話検知システムは、珍しい無線プロトコル「RuBee」に依存している。
+Visible Assets Inc.が開発したRuBeeは、医療サンプルの追跡から着想を得て、資産の継続的な「可視性」を高い信頼性で確保することを目的にしている。
+BluetoothやRFIDとは異なり、アクティブタグを使用し、低周波帯（131 kHz）で電界ではなく磁界を介した近接場通信を行うのが特徴だ。
+これにより、セキュリティや重要な資産管理など、特定のニッチ分野で独自の信頼性と機能を発揮している。
