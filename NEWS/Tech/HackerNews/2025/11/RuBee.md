@@ -4,7 +4,7 @@ url: "https://computer.rip/2025-11-22-RuBee.html"
 date: "2025-11-24"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-RuBeeは、米エネルギー省（DOE）施設での携帯電話検出システムや、物品の信頼性の高い追跡・管理などに用いられる、珍しい無線プロトコルです。
-BluetoothやRFIDとは異なり、131kHzの低周波数帯で磁界結合による「近接場」通信を行う点が特徴です。
-これにより、電磁干渉の多い環境でも高い信頼性でオブジェクトを検知し、特定分野でのアセット可視化を実現しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 44.526903206s.)

@@ -4,7 +4,7 @@ url: "https://github.com/coder/mux"
 date: "2025-11-23"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-muxは、並行エージェント開発を目的としたデスクトップアプリケーションで、コーディングエージェントのマルチプレクサーです。
-Plan/Execモードや統合コードレビュー、Git連携、Mermaid図表示、コスト管理など、AIエージェントとの効率的な協調開発を支援する多彩な機能を搭載しています。
-直感的なUXと、文脈圧縮による効率的なコンテキスト管理が特徴で、開発者の生産性向上を目指します。
-現在プレビュー版として公開されており、開発元では既に主要な開発ツールとして活用されています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 33.333044423s.)

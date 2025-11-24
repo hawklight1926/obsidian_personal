@@ -4,7 +4,7 @@ url: "https://mathstodon.xyz/@tao/115591487350860999"
 date: "2025-11-22"
 updated: ""
 category: "Tech"
-tags: []
+tags: ["Gemini"]
 authors: ""
 image: ""
 memo: ""
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-テレンス・タオ氏は、球面上にランダムに選ばれた3つの点が同一の半球上にある確率という古典的な幾何学的確率問題について考察しています。多くの人が直感的に「1/2」と考えがちですが、これは特定の半球に限定する誤った解釈であると指摘しています。
-
-この問題は、3つの点の凸包が球の中心を含まない確率として正確に定式化でき、その正しい確率は3/4となります。タオ氏の投稿では、この問題に対する様々なアプローチや、幾何学的な直感と厳密な確率計算の間の興味深いギャップが議論されています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 33.997153787s.)
