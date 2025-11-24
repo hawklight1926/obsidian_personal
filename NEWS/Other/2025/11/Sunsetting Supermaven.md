@@ -6,7 +6,7 @@ updated: ""
 category: "Other"
 tags: []
 authors: ""
-description: "<a href=\"https://news.ycombinator.com/item?id=46028033\">Comments</a>"
+description: "Comments"
 image: ""
 read: false
 ignored: false
@@ -14,8 +14,7 @@ pinned: false
 ---
 
 ## 要約
-Supermavenは、1年前の買収後にサービスを終了し、VS Codeユーザーには機能が統合され、改善されたオートコンプリートモデルを搭載するCursorへの移行を推奨しています。
-
-NeovimおよびJetBrainsの既存顧客には、引き続きオートコンプリート機能が無料で提供されますが、利用頻度の低かったエージェント会話機能は廃止されます。
-
-既存の有料顧客には、残りのサブスクリプション期間に応じた日割り計算の返金が本日中に実施されます。
+Supermavenは、買収から1年を経てサービスを終了します。
+VS Codeユーザーは、Supermavenの機能が統合されたCursorへの移行が推奨されており、Cursorでは改善された自動補完モデルが利用可能です。
+既存のNeovimおよびJetBrainsユーザーには、自動補完機能が引き続き無料で提供されます。
+使用頻度の低かったエージェント会話機能は廃止され、既存顧客にはサブスクリプションの残期間に応じた日割り払い戻しが行われます。

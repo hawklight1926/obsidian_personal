@@ -6,7 +6,7 @@ updated: ""
 category: "Other"
 tags: []
 authors: ""
-description: "<a href=\"https://news.ycombinator.com/item?id=46023460\">Comments</a>"
+description: "Comments"
 image: ""
 read: false
 ignored: false
@@ -14,6 +14,4 @@ pinned: false
 ---
 
 ## 要約
-Racket v9.0がリリースされました。このメジャーリリースでは、長らく待望されていた「Parallel Threads」が導入され、既存の並列処理機能（グリーンライトレッド、futures、places）に加え、Racketの並列実行能力が大幅に強化されました。
-
-このバージョンは、多数のコミュニティメンバーの貢献によって実現されており、開発チームはユーザーからのフィードバックを歓迎するとともに、新たな貢献者も募集しています。
+Racket v9.0がリリースされ、最大の目玉として「Parallel Threads（並列スレッド）」が導入されました。これは、既存のグリーン・スレッドやfutures、placesによる並列処理に加え、Racketにとって重要な新機能と位置づけられています。今回のリリースは多くの貢献者によって実現され、プロジェクトは新規コントリビューターを歓迎しており、フィードバックも広く求めています。

@@ -6,7 +6,7 @@ updated: ""
 category: "Other"
 tags: []
 authors: ""
-description: "<a href=\"https://news.ycombinator.com/item?id=46025721\">Comments</a>"
+description: "Comments"
 image: ""
 read: false
 ignored: false
@@ -14,6 +14,8 @@ pinned: false
 ---
 
 ## 要約
-最新のmacOSでは、Secure Enclaveを活用してSSHキーを生成・保存し、Touch IDなどの生体認証でSSHログインができるようになりました。これは`/usr/lib/ssh-keychain.dylib`がFIDO2デバイスと同様の`SecurityKeyProvider`として機能することで実現され、`secretive`のような従来のサードパーティ製ツールが不要になります。
+macOS Sonomaでは、Secure EnclaveをネイティブでSSHキーのバックエンドとして利用できるようになった。これは、`/usr/lib/ssh-keychain.dylib`が`SecurityKeyProvider`インターフェースを実装したことで実現し、Touch IDなどのバイオメトリクス認証でSSHキーを安全に管理できる。
 
-`ssh-keygen -t sk-ecdsa -O resident`コマンドでキーを作成し、`ssh-add -K`で`ssh-agent`に直接登録可能。`SSH_SK_PROVIDER`環境変数を設定することで、Secure Enclaveに格納されたキーをデフォルトで使用できます。これにより、安全かつ非常に便利なSSH認証フローが実現します。
+`ssh-keygen -t sk-ecdsa`コマンドでキーを生成し、`ssh-add`で`ssh-agent`に登録するか、公開鍵をサーバに設定して使用する。環境変数`SSH_SK_PROVIDER`を設定すれば、デフォルトでSecure Enclaveをプロバイダーとして利用可能。
+
+これにより、`secretive`のようなサードパーティツールなしで、高セキュリティなSSH認証環境を構築できる。

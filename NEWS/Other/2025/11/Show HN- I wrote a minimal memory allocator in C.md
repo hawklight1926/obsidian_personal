@@ -6,7 +6,7 @@ updated: ""
 category: "Other"
 tags: []
 authors: ""
-description: "<a href=\"https://news.ycombinator.com/item?id=46027962\">Comments</a>"
+description: "Comments"
 image: ""
 read: false
 ignored: false
@@ -14,10 +14,8 @@ pinned: false
 ---
 
 ## 要約
-このプロジェクトは、C言語で`malloc`、`calloc`、`realloc`、`free`をカスタム実装したメモリPアロケータです。
+このプロジェクトは、C言語で`malloc`、`calloc`、`realloc`、`free`などの標準関数を独自に実装したカスタムメモリSアロケータです。
 
-小規模な割り当てには`sbrk`、大規模な割り当てには`mmap`を使用し、ブロックの分割や結合でフラグメンテーション削減と効率化を図っています。
+小規模な割り当てには`sbrk`、大規模な割り当てには`mmap`を利用し、断片化を減らすためのブロック分割や隣接する空きブロックのマージといった最適化が施されています。
 
-ただし、スレッドセーフではないため、並行処理での利用は未定義動作を引き起こします。
-
-静的ライブラリとして利用可能で、実装の詳細を解説したブログ記事も公開されています。
+ただし、このアロケータはスレッドセーフではないため、並行呼び出しを行うと未定義の動作を引き起こす点に注意が必要です。

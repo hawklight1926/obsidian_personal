@@ -6,7 +6,7 @@ updated: ""
 category: "Other"
 tags: []
 authors: ""
-description: "<a href=\"https://news.ycombinator.com/item?id=46027216\">Comments</a>"
+description: "Comments"
 image: ""
 read: false
 ignored: false
@@ -14,6 +14,6 @@ pinned: false
 ---
 
 ## 要約
-µcad（マイクロカッド）は、2Dスケッチや3Dオブジェクトを生成できる新しいオープンソースのプログラミング言語です。
-プロジェクトはまだ開発初期段階ですが、着実に安定性を増しており、ブログで最新の進捗が共有されています。
-最新のAlpha Release 0.2.14では、スパイログラフ、レゴブロック、歯車などの具体的なオブジェクト生成例が、コードや動画と共に紹介されています。
+µcadは、2Dスケッチや3Dオブジェクトを生成できる新しいオープンソースのプログラミング言語です。開発初期段階ながら安定性を増しており、毎週新機能が追加されています。
+
+このウェブサイトでは、µcadの最新開発状況を共有しており、最新のアルファリリースや、Spirograph、Legoブロック、ギアといった具体的な作例がコードや動画を交えて紹介されています。

@@ -6,7 +6,7 @@ updated: ""
 category: "Other"
 tags: []
 authors: ""
-description: "<a href=\"https://news.ycombinator.com/item?id=46027947\">Comments</a>"
+description: "Comments"
 image: ""
 read: false
 ignored: false
@@ -14,7 +14,6 @@ pinned: false
 ---
 
 ## 要約
-muxは、AIエージェントによる並行開発を支援するためのデスクトップアプリケーションです。
-統合されたコードレビュー、エージェントのステータス表示、Git連携、コスト管理といった機能を備え、AIエージェントを活用した開発プロセスを効率化します。
-Plan/ExecモードやOpportunistic Compactionなどのユニークな機能も提供。
-現在プレビュー版ですが、開発元では主力ツールとして活用されており、macOSとLinux向けにバイナリが提供されています。
+「mux」は、並列的なエージェント開発を効率化するためのデスクトップアプリケーションです。
+カスタムエージェントループとPlan/Execモードを特徴とし、コードレビュー、Git連携、コスト管理など、エージェントとの協調開発を促進する多数の機能を備えています。
+現在macOSとLinux向けにプレビュー版が提供されており、高い生産性を実現し、GNU AGPLv3ライセンスで公開されています。
