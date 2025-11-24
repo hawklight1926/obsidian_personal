@@ -13,6 +13,6 @@ pinned: false
 ---
 
 ## 要約
-この記事は、独自のフォントデザインを夢見る架空のタイポグラファー、フラン・サンセリフの物語です。彼女はフォントに生命を吹き込み、意味や感情を伝える力を信じる一方で、複雑なデザインプロセス、完璧主義、既存フォントの多さに苦悩します。
-
-様々なアイデアを試みるものの、決して「完成」には至りません。彼女の未送信の手紙は、創造的な情熱と実現されない夢の間の葛藤を象徴しています。
+(要約生成に失敗しました: API上限に達しています (RESOURCE_EXHAUSTED): You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 250, model: gemini-2.5-flash
+Please retry in 13.388770445s.)
