@@ -5,15 +5,16 @@ properties:
     displayName: image-view
 views:
   - type: table
-    name: Table
+    name: unread
     filters:
       and:
-        - file.folder.startsWith("NEWS/AI")
+        - file.folder.startsWith("NEWS")
         - read != true
         - ignored != true
     order:
       - formula.Untitled
       - file.name
+      - rss
       - tags
       - read
       - pinned
@@ -21,19 +22,95 @@ views:
       - summary
       - memo
     sort:
-      - property: formula.Untitled
-        direction: ASC
       - property: date
         direction: DESC
     columnSize:
       formula.Untitled: 149
       file.name: 179
-      note.tags: 107
+      note.rss: 97
+      note.tags: 102
       note.pinned: 74
-      note.summary: 377
+      note.summary: 562
     rowHeight: tall
-  - type: cards
-    name: Cards
+  - type: table
+    name: read
+    filters:
+      and:
+        - file.folder.startsWith("NEWS")
+        - read == true
     order:
+      - formula.Untitled
       - file.name
-    image: note.image
+      - rss
+      - tags
+      - read
+      - pinned
+      - ignored
+      - summary
+      - memo
+    sort:
+      - property: date
+        direction: DESC
+    columnSize:
+      formula.Untitled: 149
+      file.name: 179
+      note.rss: 97
+      note.tags: 102
+      note.pinned: 74
+      note.summary: 562
+    rowHeight: tall
+  - type: table
+    name: pinned
+    filters:
+      and:
+        - file.folder.startsWith("NEWS")
+        - pinned == true
+    order:
+      - formula.Untitled
+      - file.name
+      - rss
+      - tags
+      - read
+      - pinned
+      - ignored
+      - summary
+      - memo
+    sort:
+      - property: date
+        direction: DESC
+    columnSize:
+      formula.Untitled: 149
+      file.name: 179
+      note.rss: 97
+      note.tags: 102
+      note.pinned: 74
+      note.summary: 562
+    rowHeight: tall
+  - type: table
+    name: ignored
+    filters:
+      and:
+        - file.folder.startsWith("NEWS")
+        - read != true
+        - ignored == true
+    order:
+      - formula.Untitled
+      - file.name
+      - rss
+      - tags
+      - read
+      - pinned
+      - ignored
+      - summary
+      - memo
+    sort:
+      - property: date
+        direction: DESC
+    columnSize:
+      formula.Untitled: 149
+      file.name: 179
+      note.rss: 97
+      note.tags: 102
+      note.pinned: 74
+      note.summary: 562
+    rowHeight: tall
