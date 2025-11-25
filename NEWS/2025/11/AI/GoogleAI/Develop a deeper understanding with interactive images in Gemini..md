@@ -4,13 +4,13 @@ date: "2025-11-20T20:30:00Z"
 updated: ""
 category: "AI"
 rss: "GoogleAI"
-tags: []
+tags: ["Gemini"]
 image: "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-e6k80n42_thumb.jpg"
 summary: |-
-  ジェミニアプリに導入されたインタラクティブ画像機能は、学習を能動的な探求に変革するものです。
-  - 図表の特定部分をタップすると、定義や詳細な説明が表示されます。
-  - 例えば消化器系や細胞の構造を、静的な画像から対話的に学べます。
-  - これにより、視覚的で動的な学習体験が可能になり、理解が深まります。
+  Geminiアプリに導入されたインタラクティブ画像機能は、複雑な学習概念の視覚的探求を可能にします。
+  - 図表の特定部分をタップすると、定義や詳細説明が表示されるパネルが展開されます
+  - 消化器系や細胞構造などの学術テーマで、能動的な学習体験を提供します
+  - 静止画を超えた対話型機能により、受動的な閲覧から積極的な探求へ学習方法を転換します
 read: false
 ignored: false
 pinned: false
@@ -20,7 +20,7 @@ memo: ""
 ![Develop a deeper understanding with interactive images in Gemini.](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-e6k80n42_thumb.jpg)
 
 ## 要約
-ジェミニアプリに導入されたインタラクティブ画像機能は、学習を能動的な探求に変革するものです。
-- 図表の特定部分をタップすると、定義や詳細な説明が表示されます。
-- 例えば消化器系や細胞の構造を、静的な画像から対話的に学べます。
-- これにより、視覚的で動的な学習体験が可能になり、理解が深まります。
+Geminiアプリに導入されたインタラクティブ画像機能は、複雑な学習概念の視覚的探求を可能にします。
+- 図表の特定部分をタップすると、定義や詳細説明が表示されるパネルが展開されます
+- 消化器系や細胞構造などの学術テーマで、能動的な学習体験を提供します
+- 静止画を超えた対話型機能により、受動的な閲覧から積極的な探求へ学習方法を転換します
