@@ -4,13 +4,13 @@ date: "2025-11-18T23:47:00Z"
 updated: ""
 category: "Tech"
 rss: "ITmedia"
-tags: ["Claude", "Anthropic", "Azure"]
+tags: ["Claude", "Azure", "Anthropic"]
 image: ""
 summary: |-
-  マイクロソフト、NVIDIA、Anthropicは戦略的連携を発表し、両社から最大150億ドルの投資を実施します。
-  - AnthropicのAI「Claude」はMicrosoft Azure上で動作し、同社は300億ドル規模のAzure計算能力を購入します。
-  - また、NVIDIAの技術を活用し、新たな計算基盤を導入する予定です。
-  - これにより、MicrosoftはクラウドサービスとAIモデルの選択肢を強化し、Anthropicは大規模な資金と技術を獲得します。
+  Microsoft、NVIDIA、Anthropicが戦略的連携を発表し、総額150億ドルの投資が行われることになりました。
+  - AnthropicのAI「Claude」はMicrosoft Azure上で動作し、NVIDIAの技術を活用します。
+  - MicrosoftはAzure顧客のAIモデル選択肢を拡大し、NVIDIAは自社プラットフォームの最適化を進めます。
+  - この連携により、各社はクラウドサービスの強化や大規模な計算リソースの確保など、相互にメリットを得ることができます。
 read: false
 ignored: false
 pinned: false
@@ -18,7 +18,7 @@ memo: ""
 ---
 
 ## 要約
-マイクロソフト、NVIDIA、Anthropicは戦略的連携を発表し、両社から最大150億ドルの投資を実施します。
-- AnthropicのAI「Claude」はMicrosoft Azure上で動作し、同社は300億ドル規模のAzure計算能力を購入します。
-- また、NVIDIAの技術を活用し、新たな計算基盤を導入する予定です。
-- これにより、MicrosoftはクラウドサービスとAIモデルの選択肢を強化し、Anthropicは大規模な資金と技術を獲得します。
+Microsoft、NVIDIA、Anthropicが戦略的連携を発表し、総額150億ドルの投資が行われることになりました。
+- AnthropicのAI「Claude」はMicrosoft Azure上で動作し、NVIDIAの技術を活用します。
+- MicrosoftはAzure顧客のAIモデル選択肢を拡大し、NVIDIAは自社プラットフォームの最適化を進めます。
+- この連携により、各社はクラウドサービスの強化や大規模な計算リソースの確保など、相互にメリットを得ることができます。
