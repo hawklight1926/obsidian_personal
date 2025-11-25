@@ -7,10 +7,10 @@ rss: "ITmedia"
 tags: ["Banana"]
 image: ""
 summary: |-
-  AdobeはGoogleの最新画像生成AI「Nano Banana Pro」を「Firefly」および「Photoshop」に統合しました。
-  ・高度な推論能力と豊富な知識を活用し、文脈に沿った高精度な画像生成が可能です。
-  ・テキストからの画像生成や画像編集、解像度向上、スタイル変更など多様な機能を提供します。
-  ・これにより、ユーザーは用途に応じて最適なAIモデルを選択できるようになります。
+  AdobeはGoogleの最新画像生成AI「Nano Banana Pro」を「Firefly」および「Photoshop」に搭載することを発表しました。
+  ・高精度な画像生成や編集、テキストからの画像生成、画像スタイルの変更などが可能です。
+  ・「Firefly」ではテキスト入力による画像生成や「Firefly Boards」での利用が、「Photoshop」では画像の一部修正や高解像度化に対応します。
+  ・Creative Cloudユーザーを対象に、12月1日までFireflyの画像生成が無制限に利用できるキャンペーンも実施されます。
 read: false
 ignored: false
 pinned: false
@@ -18,7 +18,7 @@ memo: ""
 ---
 
 ## 要約
-AdobeはGoogleの最新画像生成AI「Nano Banana Pro」を「Firefly」および「Photoshop」に統合しました。
-・高度な推論能力と豊富な知識を活用し、文脈に沿った高精度な画像生成が可能です。
-・テキストからの画像生成や画像編集、解像度向上、スタイル変更など多様な機能を提供します。
-・これにより、ユーザーは用途に応じて最適なAIモデルを選択できるようになります。
+AdobeはGoogleの最新画像生成AI「Nano Banana Pro」を「Firefly」および「Photoshop」に搭載することを発表しました。
+・高精度な画像生成や編集、テキストからの画像生成、画像スタイルの変更などが可能です。
+・「Firefly」ではテキスト入力による画像生成や「Firefly Boards」での利用が、「Photoshop」では画像の一部修正や高解像度化に対応します。
+・Creative Cloudユーザーを対象に、12月1日までFireflyの画像生成が無制限に利用できるキャンペーンも実施されます。

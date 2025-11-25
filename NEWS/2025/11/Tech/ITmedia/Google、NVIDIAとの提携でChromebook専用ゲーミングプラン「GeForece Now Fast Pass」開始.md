@@ -7,10 +7,10 @@ rss: "ITmedia"
 tags: []
 image: ""
 summary: |-
-  GoogleとNVIDIAは、Chromebook向けに新たなゲーミングサブスクリプション「GeForce Now Fast Pass」を発表しました。
+  GoogleとNVIDIAは、Chromebook向けに新たなゲームサブスクリプション「GeForce Now Fast Pass」を発表しました。
   - 対象は新規にChromebookを購入したユーザーで、1年間無料で利用できます。
-  - 2000以上のクラウドゲームに、待ち時間なく1080p/60fpsで優先アクセス可能です。
-  - 特典を得るには、対象機種の購入とGeForce NOWの無料プランへの登録が必要となります。
+  - 2000以上のPCゲームライブラリへ、待ち時間なく1080p/60fpsでアクセス可能です。
+  - 利用には対象機種の購入とGeForce NOWの無料プランへの登録が必要で、週10時間までプレイできます。
 read: false
 ignored: false
 pinned: false
@@ -18,7 +18,7 @@ memo: ""
 ---
 
 ## 要約
-GoogleとNVIDIAは、Chromebook向けに新たなゲーミングサブスクリプション「GeForce Now Fast Pass」を発表しました。
+GoogleとNVIDIAは、Chromebook向けに新たなゲームサブスクリプション「GeForce Now Fast Pass」を発表しました。
 - 対象は新規にChromebookを購入したユーザーで、1年間無料で利用できます。
-- 2000以上のクラウドゲームに、待ち時間なく1080p/60fpsで優先アクセス可能です。
-- 特典を得るには、対象機種の購入とGeForce NOWの無料プランへの登録が必要となります。
+- 2000以上のPCゲームライブラリへ、待ち時間なく1080p/60fpsでアクセス可能です。
+- 利用には対象機種の購入とGeForce NOWの無料プランへの登録が必要で、週10時間までプレイできます。

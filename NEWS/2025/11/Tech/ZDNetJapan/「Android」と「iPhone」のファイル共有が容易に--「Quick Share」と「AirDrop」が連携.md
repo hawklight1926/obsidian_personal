@@ -8,9 +8,9 @@ tags: []
 image: "https://japan.zdnet.com/storage/2025/11/24/30d2abf7a346c608855b1545b92e49f2/t/184/138/d/dsc07416_hero.jpg"
 summary: |-
   Googleが、Androidの「Quick Share」とiPhoneの「AirDrop」を連携させ、異なるOS間でのファイル共有を可能にすると発表しました。
-  - 現時点では最新モデルの「Pixel 10」シリーズのみが利用可能で、他のAndroid端末では利用できません。
-  - 共有手順は、Android側でQuick Shareを起動し、発見されたiPhoneを選択すると、iPhone側で受信許可を求める通知が表示されます。
-  - この機能は、両OS間のメッセージング規格「RCS」採用に続く、相互接続の新たな進展です。
+  - 現時点では最新モデルの「Pixel 10」シリーズのみが利用可能で、他のAndroid端末ではまだ利用できません。
+  - 共有手順は、Android側でQuick Shareを起動し、発見されたiPhoneを選択すると、iPhone側で転送の承諾を求める通知が表示されます。
+  - この動きは、過去に両社が共同で導入した追跡警告機能や、AppleのRCS採用に続く、ユーザー利便性を高めるための協業の一環です。
 read: false
 ignored: false
 pinned: false
@@ -21,6 +21,6 @@ memo: ""
 
 ## 要約
 Googleが、Androidの「Quick Share」とiPhoneの「AirDrop」を連携させ、異なるOS間でのファイル共有を可能にすると発表しました。
-- 現時点では最新モデルの「Pixel 10」シリーズのみが利用可能で、他のAndroid端末では利用できません。
-- 共有手順は、Android側でQuick Shareを起動し、発見されたiPhoneを選択すると、iPhone側で受信許可を求める通知が表示されます。
-- この機能は、両OS間のメッセージング規格「RCS」採用に続く、相互接続の新たな進展です。
+- 現時点では最新モデルの「Pixel 10」シリーズのみが利用可能で、他のAndroid端末ではまだ利用できません。
+- 共有手順は、Android側でQuick Shareを起動し、発見されたiPhoneを選択すると、iPhone側で転送の承諾を求める通知が表示されます。
+- この動きは、過去に両社が共同で導入した追跡警告機能や、AppleのRCS採用に続く、ユーザー利便性を高めるための協業の一環です。
