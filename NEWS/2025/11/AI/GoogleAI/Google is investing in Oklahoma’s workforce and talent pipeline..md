@@ -7,10 +7,10 @@ rss: "GoogleAI"
 tags: []
 image: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oklahoma_Social.max-600x600.format-webp.webp"
 summary: |-
-  Googleが500万ドルを投じ、オクラホマ州の学生や労働者向けにAIスキル習得プログラムを開始します。
-  - 支援先はオクラホマ州立大学基金やサンダーコミュニティ財団など複数の組織です。
-  - AI人材の育成を通じて、新たなキャリア機会の創出と経済成長を促進します。
-  - 現地パネルディスカッションでは、AIがもたらす可能性について関係者が議論しました。
+  Googleが500万ドルを投じ、オクラホマ州の学生と労働者向けにAIスキル研修プログラムを開始します。
+  -  Thunder Community Foundationやオクラホマ州立大学など現地組織と連携し、AI人材育成を推進します。
+  -  AI分野の職業訓練を通じて、経済的な機会の創出と地元イノベーターの育成を目指します。
+  -  この取り組みは、同州がAI時代の成長を主導する基盤づくりを目的としています。
 read: false
 ignored: false
 pinned: false
@@ -20,7 +20,7 @@ memo: ""
 ![Google is investing in Oklahoma’s workforce and talent pipeline.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oklahoma_Social.max-600x600.format-webp.webp)
 
 ## 要約
-Googleが500万ドルを投じ、オクラホマ州の学生や労働者向けにAIスキル習得プログラムを開始します。
-- 支援先はオクラホマ州立大学基金やサンダーコミュニティ財団など複数の組織です。
-- AI人材の育成を通じて、新たなキャリア機会の創出と経済成長を促進します。
-- 現地パネルディスカッションでは、AIがもたらす可能性について関係者が議論しました。
+Googleが500万ドルを投じ、オクラホマ州の学生と労働者向けにAIスキル研修プログラムを開始します。
+-  Thunder Community Foundationやオクラホマ州立大学など現地組織と連携し、AI人材育成を推進します。
+-  AI分野の職業訓練を通じて、経済的な機会の創出と地元イノベーターの育成を目指します。
+-  この取り組みは、同州がAI時代の成長を主導する基盤づくりを目的としています。
