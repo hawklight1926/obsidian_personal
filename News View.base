@@ -9,13 +9,15 @@ views:
     filters:
       and:
         - file.folder.startsWith("NEWS/AI")
+        - read != true
+        - ignored != true
     order:
       - formula.Untitled
       - file.name
       - tags
+      - read
       - pinned
       - ignored
-      - read
       - summary
       - memo
     sort:
@@ -24,10 +26,11 @@ views:
       - property: date
         direction: DESC
     columnSize:
-      formula.Untitled: 230
-      file.name: 232
-      note.tags: 140
-      note.summary: 436
+      formula.Untitled: 149
+      file.name: 179
+      note.tags: 107
+      note.pinned: 74
+      note.summary: 377
     rowHeight: tall
   - type: cards
     name: Cards

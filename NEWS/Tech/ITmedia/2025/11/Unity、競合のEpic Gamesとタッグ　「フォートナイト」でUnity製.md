@@ -5,7 +5,7 @@ updated: ""
 category: "Tech"
 tags: []
 image: ""
-summary: "UnityがEpic Gamesと提携し、2026年を目標にUnity製ゲームを「Fortnite」内で公開できるようにすることを発表しました。また、Unityの開発環境でUnreal Engineのプロジェクトを管理・公開する機能も追加されます。これにより、開発者はより多くのプラットフォームに向けてゲームを届けられるようになります。"
+summary: "UnityがEpic Gamesと提携し、ゲームエンジン「Unity」で開発したゲームを「Fortnite」内で公開できるようにすることを発表しました。また、UnityのクラウドサービスにUnreal Engineのサポートを追加し、2026年までにUnreal Engineで作られたゲームの配信や課金の管理も可能にする計画です。詳細な提携内容や価格については来年明らかになる予定です。"
 read: false
 ignored: false
 pinned: false
@@ -13,4 +13,4 @@ memo: ""
 ---
 
 ## 要約
-UnityがEpic Gamesと提携し、2026年を目標にUnity製ゲームを「Fortnite」内で公開できるようにすることを発表しました。また、Unityの開発環境でUnreal Engineのプロジェクトを管理・公開する機能も追加されます。これにより、開発者はより多くのプラットフォームに向けてゲームを届けられるようになります。
+UnityがEpic Gamesと提携し、ゲームエンジン「Unity」で開発したゲームを「Fortnite」内で公開できるようにすることを発表しました。また、UnityのクラウドサービスにUnreal Engineのサポートを追加し、2026年までにUnreal Engineで作られたゲームの配信や課金の管理も可能にする計画です。詳細な提携内容や価格については来年明らかになる予定です。

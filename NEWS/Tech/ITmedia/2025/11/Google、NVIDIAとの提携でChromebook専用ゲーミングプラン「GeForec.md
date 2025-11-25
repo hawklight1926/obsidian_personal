@@ -5,7 +5,7 @@ updated: ""
 category: "Tech"
 tags: []
 image: ""
-summary: "GoogleとNVIDIAは、Chromebook購入者向けに「GeForce Now Fast Pass」を発表した。この特典により、1年間無料で2000以上のクラウドゲームがプレイ可能で、待ち時間なく1080p/60fpsの高品質なゲーム体験が保証される。対象となるのは新規のChromebook購入者で、特典の利用にはGeForce NOWの無料プランへの登録が必要となる。"
+summary: "GoogleはNVIDIAと提携し、新たに購入したChromebookユーザー向けに、クラウドゲームサービス「GeForce NOW」の特典「Fast Pass」を提供開始した。この特典では、待ち時間なしで2000以上のゲームに1080p/60fpsで優先アクセスできる。対象ユーザーは、新しいChromebookの購入とGeForce NOWの無料プランへの登録が必要となる。"
 read: false
 ignored: false
 pinned: false
@@ -13,4 +13,4 @@ memo: ""
 ---
 
 ## 要約
-GoogleとNVIDIAは、Chromebook購入者向けに「GeForce Now Fast Pass」を発表した。この特典により、1年間無料で2000以上のクラウドゲームがプレイ可能で、待ち時間なく1080p/60fpsの高品質なゲーム体験が保証される。対象となるのは新規のChromebook購入者で、特典の利用にはGeForce NOWの無料プランへの登録が必要となる。
+GoogleはNVIDIAと提携し、新たに購入したChromebookユーザー向けに、クラウドゲームサービス「GeForce NOW」の特典「Fast Pass」を提供開始した。この特典では、待ち時間なしで2000以上のゲームに1080p/60fpsで優先アクセスできる。対象ユーザーは、新しいChromebookの購入とGeForce NOWの無料プランへの登録が必要となる。
