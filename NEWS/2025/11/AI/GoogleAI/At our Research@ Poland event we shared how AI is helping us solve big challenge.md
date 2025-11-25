@@ -7,10 +7,10 @@ rss: "GoogleAI"
 tags: []
 image: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/researchpoland_social.max-600x600.format-webp.webp"
 summary: |-
-  グーグルがポーランドで開催した研究イベントでは、現実課題から基礎研究・科学的ブレークスルーを生む「マジックサイクル」に基づくAI開発の取り組みが共有されました。
-  ・地球規模課題への対応として、Google Earth AIを防災や公衆衛生対策に活用しています。
-  ・脳マッピング手法の開発や、科学者の仮想共同研究者となるAIの構築を進めています。
-  ・AIリテラシー教育の重要性が強調され、産学官連携による協業の必要性が確認されました。
+  グーグルはポーランドで開催した研究イベントにおいて、現実課題を基礎研究に活かす「マジックサイクル」に基づくAI開発の取り組みを発表しました。
+  ・災害対応や脳マッピングなど、実社会の課題解決に向けたAI応用例を紹介
+  ・科学者と協働するAI「AI Co-Scientist」やAIリテラシー教育の重要性を強調
+  ・研究者や政策関係者との連携により、科学的成果の実装を推進しています。
 read: false
 ignored: false
 pinned: false
@@ -20,7 +20,7 @@ memo: ""
 ![At our Research@ Poland event we shared how AI is helping us solve big challenges.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/researchpoland_social.max-600x600.format-webp.webp)
 
 ## 要約
-グーグルがポーランドで開催した研究イベントでは、現実課題から基礎研究・科学的ブレークスルーを生む「マジックサイクル」に基づくAI開発の取り組みが共有されました。
-・地球規模課題への対応として、Google Earth AIを防災や公衆衛生対策に活用しています。
-・脳マッピング手法の開発や、科学者の仮想共同研究者となるAIの構築を進めています。
-・AIリテラシー教育の重要性が強調され、産学官連携による協業の必要性が確認されました。
+グーグルはポーランドで開催した研究イベントにおいて、現実課題を基礎研究に活かす「マジックサイクル」に基づくAI開発の取り組みを発表しました。
+・災害対応や脳マッピングなど、実社会の課題解決に向けたAI応用例を紹介
+・科学者と協働するAI「AI Co-Scientist」やAIリテラシー教育の重要性を強調
+・研究者や政策関係者との連携により、科学的成果の実装を推進しています。
