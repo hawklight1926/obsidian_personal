@@ -7,10 +7,10 @@ rss: "GoogleAI"
 tags: ["Banana"]
 image: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GP_Nov_AI_Feature_Blog_Post_Her.max-600x600.format-webp.webp"
 summary: |-
-  GoogleフォトにAI機能が追加され、写真編集や検索の利便性が向上しました。
-  ・「Help me edit」でメガネの除去や笑顔の修正など音声・テキストによる編集が可能に
-  ・Nano Banana搭載でルネサンス風など画像のスタイル変更やAIテンプレートを使用した加工が可能
-  ・「Ask Photos」が100カ国以上に拡大し、写真内の詳細な情報検索にも対応しています
+  Googleフォトに新たなAI機能が追加され、写真編集や検索の利便性が向上しました。
+  ・写真に対して「サングラスを外して」「笑顔を修正して」などの指示で編集できる機能を拡充
+  ・Nano Bananaを活用し、画像をルネサンス風ポートレートなど様々なスタイルに変換可能
+  ・Ask Photos機能が100以上の国と17言語に対応し、写真内の分析や編集も「Ask」ボタンで簡単に実行できます
 read: false
 ignored: false
 pinned: false
@@ -20,7 +20,7 @@ memo: ""
 ![6 new things you can do with AI in Google Photos](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GP_Nov_AI_Feature_Blog_Post_Her.max-600x600.format-webp.webp)
 
 ## 要約
-GoogleフォトにAI機能が追加され、写真編集や検索の利便性が向上しました。
-・「Help me edit」でメガネの除去や笑顔の修正など音声・テキストによる編集が可能に
-・Nano Banana搭載でルネサンス風など画像のスタイル変更やAIテンプレートを使用した加工が可能
-・「Ask Photos」が100カ国以上に拡大し、写真内の詳細な情報検索にも対応しています
+Googleフォトに新たなAI機能が追加され、写真編集や検索の利便性が向上しました。
+・写真に対して「サングラスを外して」「笑顔を修正して」などの指示で編集できる機能を拡充
+・Nano Bananaを活用し、画像をルネサンス風ポートレートなど様々なスタイルに変換可能
+・Ask Photos機能が100以上の国と17言語に対応し、写真内の分析や編集も「Ask」ボタンで簡単に実行できます

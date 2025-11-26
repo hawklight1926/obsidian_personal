@@ -4,13 +4,14 @@ date: "2025-11-25T09:38:00+09:00"
 updated: ""
 category: "Tech"
 rss: "ZDNetJapan"
-tags: ["Claude", "GPT", "Anthropic", "OpenAI", "Gemini"]
+tags: ["Anthropic", "GPT", "Gemini", "OpenAI", "Claude"]
 image: "https://japan.zdnet.com/storage/2025/11/25/9f92f6f9abc2599724cea02f4fc32730/t/184/138/d/gettyimages-2242061701_1280.jpg"
 summary: |-
   Anthropicが新AIモデル「Claude Opus 4.5」をリリースしました。
-  ・コーディングではGoogleの「Gemini 3 Pro」やOpenAIの「GPT-5.1」を上回る性能を発揮します。
-  ・視覚認識や推論、数学の能力が向上し、エンジニア採用試験で人間候補を上回るスコアを記録しました。
-  ・「懸念される行動」を示す傾向が他モデルより少なく、主要クラウドプラットフォームで利用可能です。
+  ・コーディング性能がGoogleの「Gemini 3 Pro」やOpenAIの「GPT-5.1」を上回ります
+  ・視覚認識や推論、数学能力が向上し、エージェントツール操作で最高水準の性能を発揮します
+  ・「懸念される行動」を示す傾向が従来モデルより少なく、安全性が高まっています
+  ・現在は「Claude」アプリや主要クラウドプラットフォームで利用可能です
 read: false
 ignored: false
 pinned: false
@@ -21,6 +22,7 @@ memo: ""
 
 ## 要約
 Anthropicが新AIモデル「Claude Opus 4.5」をリリースしました。
-・コーディングではGoogleの「Gemini 3 Pro」やOpenAIの「GPT-5.1」を上回る性能を発揮します。
-・視覚認識や推論、数学の能力が向上し、エンジニア採用試験で人間候補を上回るスコアを記録しました。
-・「懸念される行動」を示す傾向が他モデルより少なく、主要クラウドプラットフォームで利用可能です。
+・コーディング性能がGoogleの「Gemini 3 Pro」やOpenAIの「GPT-5.1」を上回ります
+・視覚認識や推論、数学能力が向上し、エージェントツール操作で最高水準の性能を発揮します
+・「懸念される行動」を示す傾向が従来モデルより少なく、安全性が高まっています
+・現在は「Claude」アプリや主要クラウドプラットフォームで利用可能です

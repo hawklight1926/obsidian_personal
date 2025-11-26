@@ -4,13 +4,14 @@ date: "2025-11-25T17:40:00Z"
 updated: ""
 category: "AI"
 rss: "GoogleAI"
-tags: ["Banana", "Imagen"]
+tags: []
 image: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Changetheweather_social.max-600x600.format-webp.webp"
 summary: |-
-  Flowに新たな編集機能が追加され、動画制作の創造性と制御性が向上しました。
-  - 無料ユーザーはImagenとNano Banana、有料ユーザーはNano Banana Proを使用して、被写界深度や照明などを制御した画像生成が可能です。
-  - 画像への落書きをプロンプトとして認識し、要素を追加できる「プロンプトバイドゥードリング」機能が利用できます。
-  - 動画内のオブジェクトを追加・削除する機能や、カメラの位置や動きを調整する「カメラ調整」機能も提供されています。
+  Flowに新たな編集機能が追加され、より精密な映像制作が可能になりました。
+  - 画像生成・編集機能が強化され、プロ仕様の画質調整や部分的な修正が行えます。
+  - 落書きをプロンプトとして認識し、画像を直感的に編集できます。
+  - 動画内のオブジェクトを追加・削除する機能が利用可能です。
+  - カメラの動きや角度を後から調整する機能も追加されています。
 read: false
 ignored: false
 pinned: false
@@ -20,7 +21,8 @@ memo: ""
 ![4 ways to refine your content in Flow](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Changetheweather_social.max-600x600.format-webp.webp)
 
 ## 要約
-Flowに新たな編集機能が追加され、動画制作の創造性と制御性が向上しました。
-- 無料ユーザーはImagenとNano Banana、有料ユーザーはNano Banana Proを使用して、被写界深度や照明などを制御した画像生成が可能です。
-- 画像への落書きをプロンプトとして認識し、要素を追加できる「プロンプトバイドゥードリング」機能が利用できます。
-- 動画内のオブジェクトを追加・削除する機能や、カメラの位置や動きを調整する「カメラ調整」機能も提供されています。
+Flowに新たな編集機能が追加され、より精密な映像制作が可能になりました。
+- 画像生成・編集機能が強化され、プロ仕様の画質調整や部分的な修正が行えます。
+- 落書きをプロンプトとして認識し、画像を直感的に編集できます。
+- 動画内のオブジェクトを追加・削除する機能が利用可能です。
+- カメラの動きや角度を後から調整する機能も追加されています。
