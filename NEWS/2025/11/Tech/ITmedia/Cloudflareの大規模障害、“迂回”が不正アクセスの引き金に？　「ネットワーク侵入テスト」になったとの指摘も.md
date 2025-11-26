@@ -4,13 +4,13 @@ date: 2025-11-25T23:00:00Z
 updated: 
 category: Tech
 rss: ITmedia
-tags: [Cloudflare, ChatGPT, GPT]
+tags: [Cloudflare, GPT, ChatGPT]
 image: 
 summary: |-
   世界的なCDN事業者であるCloudflareの障害により、多数のWebサイトやサービスが一時的に利用不能となりました。
-  ・障害は長時間化し、ChatGPTやZoom、Microsoft Teamsなど主要サービスに影響が及びました。
-  ・専門家は、この障害が標的型攻撃のテストであった可能性を指摘しています。
-  ・障害中、Cloudflareのセキュリティサービスが正常に機能し、様々な攻撃をブロックしていたことが確認されました。
+  ・障害は11月18日に発生し、ChatGPTやSpotify、Zoom、Microsoft Teamsなど多くのサービスに影響を与えました。
+  ・一部のWebサイトは、サービス継続のためCloudflareを一時的に迂回する措置を取りました。
+  ・専門家は、この障害が攻撃の隠蔽や新たな攻撃の契機となる可能性を指摘しています。
 read: false
 ignored: false
 pinned: false
@@ -19,6 +19,6 @@ memo: ""
 
 ## 要約
 世界的なCDN事業者であるCloudflareの障害により、多数のWebサイトやサービスが一時的に利用不能となりました。
-・障害は長時間化し、ChatGPTやZoom、Microsoft Teamsなど主要サービスに影響が及びました。
-・専門家は、この障害が標的型攻撃のテストであった可能性を指摘しています。
-・障害中、Cloudflareのセキュリティサービスが正常に機能し、様々な攻撃をブロックしていたことが確認されました。
+・障害は11月18日に発生し、ChatGPTやSpotify、Zoom、Microsoft Teamsなど多くのサービスに影響を与えました。
+・一部のWebサイトは、サービス継続のためCloudflareを一時的に迂回する措置を取りました。
+・専門家は、この障害が攻撃の隠蔽や新たな攻撃の契機となる可能性を指摘しています。
