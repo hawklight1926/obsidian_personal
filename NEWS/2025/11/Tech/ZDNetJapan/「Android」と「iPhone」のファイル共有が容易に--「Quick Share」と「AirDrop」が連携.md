@@ -7,10 +7,10 @@ rss: "ZDNetJapan"
 tags: []
 image: "https://japan.zdnet.com/storage/2025/11/24/30d2abf7a346c608855b1545b92e49f2/t/184/138/d/dsc07416_hero.jpg"
 summary: |-
-  Googleが、Androidの「Quick Share」とiPhoneの「AirDrop」を連携させ、異なるOS間でのファイル共有を可能にすると発表しました。
-  - 現時点では対応機種が「Pixel 10」シリーズに限定されており、他のAndroid端末では利用できません。
-  - 共有手順は、Android側でファイルを選択し、表示されたiPhoneを選ぶと、iPhone側で受信許可を行うことで転送が完了します。
-  - この機能には転送中のファイルを保護するための強力なセキュリティ対策が施されています。
+  Googleが、Androidの「Quick Share」とiPhoneの「AirDrop」を連携させ、異なるOS間でのファイル共有を可能にする新機能を発表しました。
+  - 現時点では、対応機種はGoogleの最新モデル「Pixel 10」シリーズに限られています。
+  - 利用方法は、Android側でQuick Shareを起動し、発見されたiPhoneを選択すると、iPhone側で転送の承諾を求める通知が表示されます。
+  - この機能は、転送中のファイルを保護するための強力なセキュリティ対策が施されています。
 read: false
 ignored: false
 pinned: false
@@ -20,7 +20,7 @@ memo: ""
 ![「Android」と「iPhone」のファイル共有が容易に--「Quick Share」と「AirDrop」が連携](https://japan.zdnet.com/storage/2025/11/24/30d2abf7a346c608855b1545b92e49f2/t/184/138/d/dsc07416_hero.jpg)
 
 ## 要約
-Googleが、Androidの「Quick Share」とiPhoneの「AirDrop」を連携させ、異なるOS間でのファイル共有を可能にすると発表しました。
-- 現時点では対応機種が「Pixel 10」シリーズに限定されており、他のAndroid端末では利用できません。
-- 共有手順は、Android側でファイルを選択し、表示されたiPhoneを選ぶと、iPhone側で受信許可を行うことで転送が完了します。
-- この機能には転送中のファイルを保護するための強力なセキュリティ対策が施されています。
+Googleが、Androidの「Quick Share」とiPhoneの「AirDrop」を連携させ、異なるOS間でのファイル共有を可能にする新機能を発表しました。
+- 現時点では、対応機種はGoogleの最新モデル「Pixel 10」シリーズに限られています。
+- 利用方法は、Android側でQuick Shareを起動し、発見されたiPhoneを選択すると、iPhone側で転送の承諾を求める通知が表示されます。
+- この機能は、転送中のファイルを保護するための強力なセキュリティ対策が施されています。

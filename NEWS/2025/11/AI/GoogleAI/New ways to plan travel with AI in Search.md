@@ -7,10 +7,10 @@ rss: "GoogleAI"
 tags: []
 image: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_Travel.max-600x600.format-webp.webp"
 summary: |-
-  Googleが検索にAIを活用した新たな旅行計画・予約機能を導入しました。
-  ・「Canvas」では、AIモードで旅行プランを作成し、フライトやホテルの情報を整理できます。
-  ・「Flight Deals」は、柔軟な旅行者向けにAIが最安値の目的地を提案する機能です。
-  ・エージェント機能により、レストランやイベントの予約をAIが複数サイトから検索・比較します。
+  Google検索がAIを活用した旅行計画機能を強化し、旅程作成から予約までを一元支援します。
+  - **旅程作成**：AIモードの「Canvas」で旅行テーマを入力すると、フライト・ホテル情報や観光スポットを統合した計画を自動生成します。
+  - **航空券検索**：柔軟な条件で検索可能な「Flight Deals」を世界200以上の国・地域に拡大し、最安値航空券を提案します。
+  - **予約支援**：レストランやイベントの予約をAIが代行し、提携先サイトの空き状況を比較して直接予約ページへ誘導します。
 read: false
 ignored: false
 pinned: false
@@ -20,7 +20,7 @@ memo: ""
 ![New ways to plan travel with AI in Search](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_Travel.max-600x600.format-webp.webp)
 
 ## 要約
-Googleが検索にAIを活用した新たな旅行計画・予約機能を導入しました。
-・「Canvas」では、AIモードで旅行プランを作成し、フライトやホテルの情報を整理できます。
-・「Flight Deals」は、柔軟な旅行者向けにAIが最安値の目的地を提案する機能です。
-・エージェント機能により、レストランやイベントの予約をAIが複数サイトから検索・比較します。
+Google検索がAIを活用した旅行計画機能を強化し、旅程作成から予約までを一元支援します。
+- **旅程作成**：AIモードの「Canvas」で旅行テーマを入力すると、フライト・ホテル情報や観光スポットを統合した計画を自動生成します。
+- **航空券検索**：柔軟な条件で検索可能な「Flight Deals」を世界200以上の国・地域に拡大し、最安値航空券を提案します。
+- **予約支援**：レストランやイベントの予約をAIが代行し、提携先サイトの空き状況を比較して直接予約ページへ誘導します。
