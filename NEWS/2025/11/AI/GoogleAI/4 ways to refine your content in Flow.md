@@ -4,14 +4,14 @@ date: 2025-11-25T17:40:00Z
 updated: 
 category: AI
 rss: GoogleAI
-tags: []
+tags: [Banana]
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Changetheweather_social.max-600x600.format-webp.webp
 summary: |-
-  Flowに新たな編集機能が追加され、より精密な創作が可能になりました。
-  - 画像生成・編集機能では、被写界深度や照明などのプロ級の制御ができます。
-  - お絵描きでプロンプトを作成でき、直感的な画像修正が可能です。
-  - 動画内のオブジェクト挿入・削除機能により、部分的な修正ができます。
-  - カメラ位置や動きを調整する機能で、映像の視点を変更できます。
+  Flowは、動画作成のためのクリエイティブな制御を強化する新機能を導入しました。
+  - 画像生成・編集機能「Images」タブでは、Nano Banana Proにより被写界深度やライティングなどのプロ級の調整が可能です。
+  - 手書きの落書きをプロンプトとして画像に反映させる「Prompt by doodling」が利用できます。
+  - 動画内のオブジェクトを挿入または削除する機能により、一部分のみを修正できます。
+  - カメラの位置や動きを調整する「Camera Adjustment」で、生成動画の視点を変更できます。
 read: false
 ignored: false
 pinned: false
@@ -21,8 +21,8 @@ memo: ""
 ![4 ways to refine your content in Flow](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Changetheweather_social.max-600x600.format-webp.webp)
 
 ## 要約
-Flowに新たな編集機能が追加され、より精密な創作が可能になりました。
-- 画像生成・編集機能では、被写界深度や照明などのプロ級の制御ができます。
-- お絵描きでプロンプトを作成でき、直感的な画像修正が可能です。
-- 動画内のオブジェクト挿入・削除機能により、部分的な修正ができます。
-- カメラ位置や動きを調整する機能で、映像の視点を変更できます。
+Flowは、動画作成のためのクリエイティブな制御を強化する新機能を導入しました。
+- 画像生成・編集機能「Images」タブでは、Nano Banana Proにより被写界深度やライティングなどのプロ級の調整が可能です。
+- 手書きの落書きをプロンプトとして画像に反映させる「Prompt by doodling」が利用できます。
+- 動画内のオブジェクトを挿入または削除する機能により、一部分のみを修正できます。
+- カメラの位置や動きを調整する「Camera Adjustment」で、生成動画の視点を変更できます。

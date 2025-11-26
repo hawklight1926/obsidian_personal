@@ -8,9 +8,9 @@ tags: [Gemini]
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2025-11-13_10.23.26_.max-600x600.format-webp.webp
 summary: |-
   Google PixelとGolden Gooseが提携し、AIを活用した靴のパーソナライズ体験を世界40店舗以上で提供します。
-  - 店内ではGoogle PixelとGeminiアプリを使用し、顧客がAIでデジタルアートワークを共同制作できます。
-  - 生成されたデザインはGolden Gooseの職人によってスニーカーに手作業で施され、独自の製品が完成します。
-  - 伝統的な職人技術とAI技術を融合させることで、新しい形の自己表現の可能性を追求しています。
+  - 店頭ではGoogle PixelとGeminiアプリを使用し、画像生成機能でデジタルアートワークを共同制作できます。
+  - 作成されたデザインはGolden Gooseの職人によってスニーカーに手作業で施され、伝統的技術とAI革新が融合します。
+  - この取り組みは、AIがファッション産業の創造性と協働の可能性を広げる事例として位置づけられています。
 read: false
 ignored: false
 pinned: false
@@ -21,6 +21,6 @@ memo: ""
 
 ## 要約
 Google PixelとGolden Gooseが提携し、AIを活用した靴のパーソナライズ体験を世界40店舗以上で提供します。
-- 店内ではGoogle PixelとGeminiアプリを使用し、顧客がAIでデジタルアートワークを共同制作できます。
-- 生成されたデザインはGolden Gooseの職人によってスニーカーに手作業で施され、独自の製品が完成します。
-- 伝統的な職人技術とAI技術を融合させることで、新しい形の自己表現の可能性を追求しています。
+- 店頭ではGoogle PixelとGeminiアプリを使用し、画像生成機能でデジタルアートワークを共同制作できます。
+- 作成されたデザインはGolden Gooseの職人によってスニーカーに手作業で施され、伝統的技術とAI革新が融合します。
+- この取り組みは、AIがファッション産業の創造性と協働の可能性を広げる事例として位置づけられています。
