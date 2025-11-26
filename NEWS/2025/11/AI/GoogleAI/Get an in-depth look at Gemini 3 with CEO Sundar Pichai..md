@@ -7,10 +7,10 @@ rss: GoogleAI
 tags: [Banana, Gemini]
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp
 summary: |-
-  Googleのサンダー・ピチャイCEOがポッドキャストでAI戦略の現状と未来像を語りました。
+  Googleのサンダー・ピチャイCEOがポッドキャストでAI戦略の現状と将来像について語りました。
   - 2016年の「AIファースト」方針が現在の進展の基盤となっています。
-  - 現行のGemini 3やNano Banana Proに加え、量子コンピューティングを今後5〜10年の重要分野と位置づけています。
-  - 量子コンピューティングについては「5年後には現在のAIと同様の興奮を生むだろう」と述べています。
+  - 現行のGeminiやNano Banana Proに加え、量子コンピューティングなど10年先を見据えた投資を重視。
+  - 量子コンピューティングについては「5年後には現在のAIと同様の興奮が生まれる」と将来的な可能性を示唆しています。
 read: false
 ignored: false
 pinned: false
@@ -20,7 +20,7 @@ memo: ""
 ![Get an in-depth look at Gemini 3 with CEO Sundar Pichai.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp)
 
 ## 要約
-Googleのサンダー・ピチャイCEOがポッドキャストでAI戦略の現状と未来像を語りました。
+Googleのサンダー・ピチャイCEOがポッドキャストでAI戦略の現状と将来像について語りました。
 - 2016年の「AIファースト」方針が現在の進展の基盤となっています。
-- 現行のGemini 3やNano Banana Proに加え、量子コンピューティングを今後5〜10年の重要分野と位置づけています。
-- 量子コンピューティングについては「5年後には現在のAIと同様の興奮を生むだろう」と述べています。
+- 現行のGeminiやNano Banana Proに加え、量子コンピューティングなど10年先を見据えた投資を重視。
+- 量子コンピューティングについては「5年後には現在のAIと同様の興奮が生まれる」と将来的な可能性を示唆しています。
