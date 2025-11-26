@@ -1,7 +1,7 @@
 ---
 url: https://japan.zdnet.com/article/35240906/
 date: 2025-11-26T13:38:00+09:00
-updated: 
+updated:
 category: Tech
 rss: ZDNetJapan
 tags: []
@@ -12,7 +12,7 @@ summary: |-
   - 回答精度は約90%を達成し、応対時間を従来比で約70%削減する見込みです。
   - 既に「auチャットサポート窓口」の一部に導入され、社内外への展開や商用提供も目指します。
 read: false
-ignored: false
+ignored: true
 pinned: false
 memo: ""
 ---
