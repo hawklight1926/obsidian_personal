@@ -1,16 +1,16 @@
 ---
-url: "https://japan.zdnet.com/article/35240814/"
-date: "2025-11-25T11:00:00+09:00"
-updated: ""
-category: "Tech"
-rss: "ZDNetJapan"
-tags: ["Copilot"]
-image: "https://japan.zdnet.com/storage/2025/11/24/ca3bcc47defde2bfae925bd82d1cff5e/t/184/138/d/copilotapp5gettyimages-2233012551_hero.jpg"
+url: https://japan.zdnet.com/article/35240814/
+date: 2025-11-25T11:00:00+09:00
+updated: 
+category: Tech
+rss: ZDNetJapan
+tags: [Copilot]
+image: https://japan.zdnet.com/storage/2025/11/24/ca3bcc47defde2bfae925bd82d1cff5e/t/184/138/d/copilotapp5gettyimages-2233012551_hero.jpg
 summary: |-
   マイクロソフトは「Ignite」カンファレンスにおいて、AIを駆使した次世代セキュリティ戦略を発表しました。
-  - 攻撃側がAIを悪用して巧妙化する一方で、守る側もAIで対抗する「いたちごっこ」の様相を強めています。
-  - 同社は「Microsoft Security Copilot」として、12種類のAIエージェントをセキュリティ関連製品群に統合します。
-  - これらのエージェントは、インシデント対応や脅威分析などを能動的に支援し、セキュリティ運用の変革を目指します。
+  - 攻撃側もAIを悪用して高度化しており、防御側もAIで対応する必要性が高まっています。
+  - 同社は「Microsoft Security Copilot」として、セキュリティ製品群に12種類のAIエージェントを導入します。
+  - これらのエージェントは、脅威のトリアージやインシデント対応などを自動化し、受動的対応から能動的戦略への転換を実現します。
 read: false
 ignored: false
 pinned: false
@@ -21,6 +21,6 @@ memo: ""
 
 ## 要約
 マイクロソフトは「Ignite」カンファレンスにおいて、AIを駆使した次世代セキュリティ戦略を発表しました。
-- 攻撃側がAIを悪用して巧妙化する一方で、守る側もAIで対抗する「いたちごっこ」の様相を強めています。
-- 同社は「Microsoft Security Copilot」として、12種類のAIエージェントをセキュリティ関連製品群に統合します。
-- これらのエージェントは、インシデント対応や脅威分析などを能動的に支援し、セキュリティ運用の変革を目指します。
+- 攻撃側もAIを悪用して高度化しており、防御側もAIで対応する必要性が高まっています。
+- 同社は「Microsoft Security Copilot」として、セキュリティ製品群に12種類のAIエージェントを導入します。
+- これらのエージェントは、脅威のトリアージやインシデント対応などを自動化し、受動的対応から能動的戦略への転換を実現します。

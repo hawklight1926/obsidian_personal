@@ -1,14 +1,14 @@
 ---
-url: "https://japan.zdnet.com/article/35240871/"
-date: "2025-11-26T08:14:00+09:00"
-updated: ""
-category: "Tech"
-rss: "ZDNetJapan"
-tags: ["Perplexity"]
-image: "https://japan.zdnet.com/storage/2025/11/26/e26281f7fce4050a09b8733f5a147f3e/t/184/138/d/meet-hashjack-a-new-way-to-hijack-ai-browser-assistants_hero.jpg"
+url: https://japan.zdnet.com/article/35240871/
+date: 2025-11-26T08:14:00+09:00
+updated: 
+category: Tech
+rss: ZDNetJapan
+tags: [Perplexity]
+image: https://japan.zdnet.com/storage/2025/11/26/e26281f7fce4050a09b8733f5a147f3e/t/184/138/d/meet-hashjack-a-new-way-to-hijack-ai-browser-assistants_hero.jpg
 summary: |-
-  「HashJack」は、正規Webサイトを悪用してAIブラウザーを操作し、ユーザー情報を窃取する新しい間接プロンプトインジェクション技術です。
-  - URLの「#」以降に隠された悪意ある指示が、AIアシスタントのLLMに処理されます。
+  「HashJack」は、正規Webサイトを悪用してAIブラウザーを操作し、ユーザー情報を窃取する新しい間接プロンプトインジェクション攻撃です。
+  - URLの「#」以降に隠された悪意ある指示をAIアシスタントが処理し、ユーザーに悪意あるコンテンツを送信します。
   - 正規サイトを経由するため、不審なURLを必要とせず、従来の防御策では検出が困難です。
   - 特にPerplexityの「Comet」のようなエージェント型AIブラウザーでは、自動的にユーザーデータが攻撃者に送信されるリスクがあります。
 read: false
@@ -20,7 +20,7 @@ memo: ""
 ![AIブラウザーを狙う新手の攻撃「HashJack」--正規サイトを悪用し情報窃取も](https://japan.zdnet.com/storage/2025/11/26/e26281f7fce4050a09b8733f5a147f3e/t/184/138/d/meet-hashjack-a-new-way-to-hijack-ai-browser-assistants_hero.jpg)
 
 ## 要約
-「HashJack」は、正規Webサイトを悪用してAIブラウザーを操作し、ユーザー情報を窃取する新しい間接プロンプトインジェクション技術です。
-- URLの「#」以降に隠された悪意ある指示が、AIアシスタントのLLMに処理されます。
+「HashJack」は、正規Webサイトを悪用してAIブラウザーを操作し、ユーザー情報を窃取する新しい間接プロンプトインジェクション攻撃です。
+- URLの「#」以降に隠された悪意ある指示をAIアシスタントが処理し、ユーザーに悪意あるコンテンツを送信します。
 - 正規サイトを経由するため、不審なURLを必要とせず、従来の防御策では検出が困難です。
 - 特にPerplexityの「Comet」のようなエージェント型AIブラウザーでは、自動的にユーザーデータが攻撃者に送信されるリスクがあります。

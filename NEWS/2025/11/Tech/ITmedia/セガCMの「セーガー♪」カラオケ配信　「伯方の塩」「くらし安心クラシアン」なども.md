@@ -1,16 +1,16 @@
 ---
-url: "https://www.itmedia.co.jp/news/articles/2511/20/news105.html"
-date: "2025-11-20T06:32:00Z"
-updated: ""
-category: "Tech"
-rss: "ITmedia"
+url: https://www.itmedia.co.jp/news/articles/2511/20/news105.html
+date: 2025-11-20T06:32:00Z
+updated: 
+category: Tech
+rss: ITmedia
 tags: []
-image: ""
+image: 
 summary: |-
-  「TikTok歌姫」21組の楽曲が12月1日よりJOYSOUNDでカラオケ配信されます。
-  ・Adoの「唱」、ヨルシカの「晴る」など、SNSで人気の楽曲が追加されました。
-  ・楽曲は15秒以内、歌唱パートが1秒以上10秒以内という「TikTok歌姫」の定義に沿っています。
-  ・併せて、歌唱回数などを競う「TikTok歌姫カラオケAWARD」も開催されます。
+  「TikTokショート」21曲が12月1日より、全国のJOYSOUNDでカラオケ配信されます。
+  ・Creepy Nutsの「ビリケン」、Adoの「うっせぇわ」など、CMでおなじみの楽曲が追加されました。
+  ・歌唱時間が15秒以内、歌唱部分が1秒以上10秒以内の楽曲を「TikTokショート」と定義しています。
+  ・また、歌唱回数などを競う「TikTokショートカラオケAWARD」も開催されます。
 read: false
 ignored: false
 pinned: false
@@ -18,7 +18,7 @@ memo: ""
 ---
 
 ## 要約
-「TikTok歌姫」21組の楽曲が12月1日よりJOYSOUNDでカラオケ配信されます。
-・Adoの「唱」、ヨルシカの「晴る」など、SNSで人気の楽曲が追加されました。
-・楽曲は15秒以内、歌唱パートが1秒以上10秒以内という「TikTok歌姫」の定義に沿っています。
-・併せて、歌唱回数などを競う「TikTok歌姫カラオケAWARD」も開催されます。
+「TikTokショート」21曲が12月1日より、全国のJOYSOUNDでカラオケ配信されます。
+・Creepy Nutsの「ビリケン」、Adoの「うっせぇわ」など、CMでおなじみの楽曲が追加されました。
+・歌唱時間が15秒以内、歌唱部分が1秒以上10秒以内の楽曲を「TikTokショート」と定義しています。
+・また、歌唱回数などを競う「TikTokショートカラオケAWARD」も開催されます。
