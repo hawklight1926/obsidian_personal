@@ -1,7 +1,7 @@
 ---
 url: https://japan.zdnet.com/article/35240891/
 date: 2025-11-27T10:05:00+09:00
-updated: 
+updated:
 category: Tech
 rss: ZDNetJapan
 tags: []
@@ -12,7 +12,7 @@ summary: |-
   ・従業員とAIエージェントを人事管理として捉え、相互連携とデータプラットフォーム連携を実現します。  
   ・人事・財務管理の強みを活かし、エージェント管理のプラットフォーマーを目指しています。
 read: false
-ignored: false
+ignored: true
 pinned: false
 memo: ""
 ---
