@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/InvestinginAmerica_CollectionHe.max-600x600.format-webp.webp
 summary: |-
-  Googleは米国におけるAI分野の世界領導力維持と経済機会創出を目的に、大規模な投資を実施しています。
-  - アーカンソー、アイオワ、オクラホマなど複数州にデータセンターやAIインフラへ巨額を投資します。
-  - AI経済に対応するエネルギー基盤の拡大や、電気作業員10万人の育成など人材開発を推進します。
-  - 中小企業向けAI支援プログラムや教育機関との連携により、AIスキル習得の機会を提供します。
+  Googleは米国におけるAI分野の世界覇権を維持するため、技術インフラや研究開発に大規模投資を実施しています。
+  ・アーカンソーやアイオワなど複数州にデータセンターやAIインフラへ計数兆円規模を投資
+  ・AI経済に対応するエネルギー基盤の拡大と、10万人の電気工作者育成プログラムを支援
+  ・小企業向けAI支援制度や学生向け奨学金を通じて、人材育成と経済機会の創出を推進
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![Investing in America 2025](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/InvestinginAmerica_CollectionHe.max-600x600.format-webp.webp)
 
 ## 要約
-Googleは米国におけるAI分野の世界領導力維持と経済機会創出を目的に、大規模な投資を実施しています。
-- アーカンソー、アイオワ、オクラホマなど複数州にデータセンターやAIインフラへ巨額を投資します。
-- AI経済に対応するエネルギー基盤の拡大や、電気作業員10万人の育成など人材開発を推進します。
-- 中小企業向けAI支援プログラムや教育機関との連携により、AIスキル習得の機会を提供します。
+Googleは米国におけるAI分野の世界覇権を維持するため、技術インフラや研究開発に大規模投資を実施しています。
+・アーカンソーやアイオワなど複数州にデータセンターやAIインフラへ計数兆円規模を投資
+・AI経済に対応するエネルギー基盤の拡大と、10万人の電気工作者育成プログラムを支援
+・小企業向けAI支援制度や学生向け奨学金を通じて、人材育成と経済機会の創出を推進

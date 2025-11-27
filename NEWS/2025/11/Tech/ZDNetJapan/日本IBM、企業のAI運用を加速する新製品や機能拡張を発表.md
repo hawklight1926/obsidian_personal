@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/09/30/e3d5360845f24894b778caaf811bdbc7/t/184/138/d/250930_engineer_as_1280_726498075.jpg
 summary: |-
-  日本IBMは、企業のAI実用化を支援する新製品と機能拡張を発表しました。
-  ・エージェント型AIフレームワーク「watsonx Orchestrate」の機能強化と、AI開発ツール「Project Bob」を公開しました。
-  ・AnthropicのLLM「Claude」やGroqのLPUを統合し、高速かつセキュアなAI基盤を提供します。
-  ・これにより、AIエージェントの開発効率化、ガバナンス強化、処理速度の向上を実現します。
+  日本IBMは企業のAI実用化を支援するため、新製品と機能拡張を発表しました。
+  - エージェント型AIフレームワーク「watsonx Orchestrate」の機能強化と、AI開発ツール「Project Bob」を公開しました。
+  - AnthropicのLLM「Claude」を統合し、安全なAI基盤を提供するとともに、Groqとの提携で処理速度を大幅に向上させます。
+  - これにより、業務自動化や開発生産性の向上を図り、AIの実用段階への移行を推進します。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![日本IBM、企業のAI運用を加速する新製品や機能拡張を発表](https://japan.zdnet.com/storage/2025/09/30/e3d5360845f24894b778caaf811bdbc7/t/184/138/d/250930_engineer_as_1280_726498075.jpg)
 
 ## 要約
-日本IBMは、企業のAI実用化を支援する新製品と機能拡張を発表しました。
-・エージェント型AIフレームワーク「watsonx Orchestrate」の機能強化と、AI開発ツール「Project Bob」を公開しました。
-・AnthropicのLLM「Claude」やGroqのLPUを統合し、高速かつセキュアなAI基盤を提供します。
-・これにより、AIエージェントの開発効率化、ガバナンス強化、処理速度の向上を実現します。
+日本IBMは企業のAI実用化を支援するため、新製品と機能拡張を発表しました。
+- エージェント型AIフレームワーク「watsonx Orchestrate」の機能強化と、AI開発ツール「Project Bob」を公開しました。
+- AnthropicのLLM「Claude」を統合し、安全なAI基盤を提供するとともに、Groqとの提携で処理速度を大幅に向上させます。
+- これにより、業務自動化や開発生産性の向上を図り、AIの実用段階への移行を推進します。
