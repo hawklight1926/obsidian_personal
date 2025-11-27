@@ -7,9 +7,9 @@ rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg
 summary: |-
   primeNumberはデータに基づく意思決定を支援するエージェント型AI「primeBusinessAgent」の提供を開始しました。
-  - 第一弾として営業向け「primeSalesAgent」とマーケティング向け「primeMarketingAgent」を展開します。
-  - 自社でデータ基盤を構築せず、多様な既存サービスデータをAIで活用できる環境を提供します。
-  - これにより、データドリブンな意思決定を迅速に実現し、組織の属人化解消を目指します。
+  - 第1弾として営業向け「primeSalesAgent」とマーケティング向け「primeMarketingAgent」を展開します。
+  - 自社でデータ基盤を構築せず、既存のCRMやSFAなどのデータを活用して迅速なAI導入を実現します。
+  - これにより、データドリブンな意思決定を支援し、効率的な営業・マーケティング活動を目指します。
 read: false
 ignored: false
 pinned: false
@@ -20,6 +20,6 @@ memo: ""
 
 ## 要約
 primeNumberはデータに基づく意思決定を支援するエージェント型AI「primeBusinessAgent」の提供を開始しました。
-- 第一弾として営業向け「primeSalesAgent」とマーケティング向け「primeMarketingAgent」を展開します。
-- 自社でデータ基盤を構築せず、多様な既存サービスデータをAIで活用できる環境を提供します。
-- これにより、データドリブンな意思決定を迅速に実現し、組織の属人化解消を目指します。
+- 第1弾として営業向け「primeSalesAgent」とマーケティング向け「primeMarketingAgent」を展開します。
+- 自社でデータ基盤を構築せず、既存のCRMやSFAなどのデータを活用して迅速なAI導入を実現します。
+- これにより、データドリブンな意思決定を支援し、効率的な営業・マーケティング活動を目指します。
