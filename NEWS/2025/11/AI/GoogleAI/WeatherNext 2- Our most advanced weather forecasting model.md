@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext2_KeywordHero_2096x1.max-600x600.format-webp.webp
 summary: |-
-  Google DeepMindとGoogle Researchが開発したWeatherNext 2は、AIを活用した最も高度で効率的な気象予報モデルです。
-  - 従来モデルより8倍高速で、解像度は最大1時間単位の予測を実現します。
-  - 単一の入力から数百の気象シナリオを1分以内に生成し、物理的に現実的な予測が可能です。
-  - 予報データはEarth EngineやBigQueryで利用でき、Google CloudのVertex AIでは早期アクセスプログラムも提供されています。
+  GoogleはAIを活用した気象予報モデル「WeatherNext 2」を発表しました。
+  ・従来モデルより8倍高速で、1時間単位の高解像度予測が可能です。
+  ・1分以内に数百通りの気象シナリオを生成し、台風予測などの意思決定を支援します。
+  ・予測データはEarth EngineやBigQueryで利用でき、Google検索やマップなどのサービスにも順次組み込まれています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![WeatherNext 2: Our most advanced weather forecasting model](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext2_KeywordHero_2096x1.max-600x600.format-webp.webp)
 
 ## 要約
-Google DeepMindとGoogle Researchが開発したWeatherNext 2は、AIを活用した最も高度で効率的な気象予報モデルです。
-- 従来モデルより8倍高速で、解像度は最大1時間単位の予測を実現します。
-- 単一の入力から数百の気象シナリオを1分以内に生成し、物理的に現実的な予測が可能です。
-- 予報データはEarth EngineやBigQueryで利用でき、Google CloudのVertex AIでは早期アクセスプログラムも提供されています。
+GoogleはAIを活用した気象予報モデル「WeatherNext 2」を発表しました。
+・従来モデルより8倍高速で、1時間単位の高解像度予測が可能です。
+・1分以内に数百通りの気象シナリオを生成し、台風予測などの意思決定を支援します。
+・予測データはEarth EngineやBigQueryで利用でき、Google検索やマップなどのサービスにも順次組み込まれています。

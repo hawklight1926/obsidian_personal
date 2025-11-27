@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_SynthID_Keyword_Blog_Heade.max-600x600.format-webp.webp
 summary: |-
-  GoogleはGeminiアプリにAI生成画像を検証する機能を導入し、コンテンツの透明性を高めています。
-  - 画像をアップロードすると、Google AIで生成・編集されたかどうかを確認できます。
-  - 透かし技術「SynthID」を検出し、AI生成コンテンツの判別を可能にします。
-  - 今後は動画・音声への検証拡大や、業界標準規格「C2PA」への対応も予定されています。
+  GoogleはGeminiアプリにAI画像検証機能を導入し、画像がGoogle AIで生成または編集されたかどうかを確認できるようにします。
+  - ユーザーは画像をアップロードし、SynthID透かし技術を通じてAI生成コンテンツを検証できます。
+  - 現在は画像に対応していますが、今後は動画や音声にも検証対象を拡大する予定です。
+  - 業界団体C2PAとの連携により、Google以外のAIで作成されたコンテンツの出所確認も可能にする方針です。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![How we’re bringing AI image verification to the Gemini app](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_SynthID_Keyword_Blog_Heade.max-600x600.format-webp.webp)
 
 ## 要約
-GoogleはGeminiアプリにAI生成画像を検証する機能を導入し、コンテンツの透明性を高めています。
-- 画像をアップロードすると、Google AIで生成・編集されたかどうかを確認できます。
-- 透かし技術「SynthID」を検出し、AI生成コンテンツの判別を可能にします。
-- 今後は動画・音声への検証拡大や、業界標準規格「C2PA」への対応も予定されています。
+GoogleはGeminiアプリにAI画像検証機能を導入し、画像がGoogle AIで生成または編集されたかどうかを確認できるようにします。
+- ユーザーは画像をアップロードし、SynthID透かし技術を通じてAI生成コンテンツを検証できます。
+- 現在は画像に対応していますが、今後は動画や音声にも検証対象を拡大する予定です。
+- 業界団体C2PAとの連携により、Google以外のAIで作成されたコンテンツの出所確認も可能にする方針です。
