@@ -7,10 +7,10 @@ rss: GoogleAI
 tags: [Gemini, Banana]
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_holiday_hosting_tips.max-600x600.format-webp.webp
 summary: |-
-  Googleは、2025年の休日のホスト業務を支援するAIツールを複数提供しています。
-  ・Geminiではパーティー計画の作成や装飾のアイデア出しを対話的に行えます。
-  ・Nano Banana Proで招待状用の画像生成、Pixel Screenshotsでレシピなどの情報整理が可能です。
-  ・さらにSearchでは会話形式での買い物支援、Gemini for Homeでは調理中の手順確認などもサポートします。
+  Googleは2025年の休日シーズンのホスト業務を支援するAIツールを多数提供します。
+  ・Geminiではパーティー計画の立案や装飾のアイデア考案を対話的にサポートします。
+  ・Nano Banana Proで招待状用の画像生成、Pixel Screenshotsで情報整理が可能です。
+  ・検索機能では会話型ショッピングや在庫確認、Gemini in Chromeでは情報の統合管理を実現します。
 read: false
 ignored: false
 pinned: false
@@ -20,7 +20,7 @@ memo: ""
 ![16 Google AI tips for stress-free holiday hosting in 2025](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_holiday_hosting_tips.max-600x600.format-webp.webp)
 
 ## 要約
-Googleは、2025年の休日のホスト業務を支援するAIツールを複数提供しています。
-・Geminiではパーティー計画の作成や装飾のアイデア出しを対話的に行えます。
-・Nano Banana Proで招待状用の画像生成、Pixel Screenshotsでレシピなどの情報整理が可能です。
-・さらにSearchでは会話形式での買い物支援、Gemini for Homeでは調理中の手順確認などもサポートします。
+Googleは2025年の休日シーズンのホスト業務を支援するAIツールを多数提供します。
+・Geminiではパーティー計画の立案や装飾のアイデア考案を対話的にサポートします。
+・Nano Banana Proで招待状用の画像生成、Pixel Screenshotsで情報整理が可能です。
+・検索機能では会話型ショッピングや在庫確認、Gemini in Chromeでは情報の統合管理を実現します。
