@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  Jedit ���は、macOS 26（Tahoe）以降のサポートを終了します。
-  - 現在提供中の「Jedit �� plus」および「Jedit �� pro」の販売も終了されます。
-  - ユーザーにはmacOS 15（Sequoia）以前のMacでの利用が推奨されています。
-  - 1995年に登場した歴史あるテキストエディタで、30年にわたりMacユーザーに親しまれてきました。
+  テキストエディタ「Jedit シリーズ」のサポートが、macOS26以降で終了します。
+  - 現在提供中の「Jedit  plus」および「Jedit  pro」の販売も終了となります。
+  - ユーザーには、macOS15以前のMacでJedit シリーズを利用することが推奨されています。
+  - Jeditは1995年に登場し、約30年にわたりMacユーザーに親しまれてきた歴史のあるテキストエディタです。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-Jedit ���は、macOS 26（Tahoe）以降のサポートを終了します。
-- 現在提供中の「Jedit �� plus」および「Jedit �� pro」の販売も終了されます。
-- ユーザーにはmacOS 15（Sequoia）以前のMacでの利用が推奨されています。
-- 1995年に登場した歴史あるテキストエディタで、30年にわたりMacユーザーに親しまれてきました。
+テキストエディタ「Jedit シリーズ」のサポートが、macOS26以降で終了します。
+- 現在提供中の「Jedit  plus」および「Jedit  pro」の販売も終了となります。
+- ユーザーには、macOS15以前のMacでJedit シリーズを利用することが推奨されています。
+- Jeditは1995年に登場し、約30年にわたりMacユーザーに親しまれてきた歴史のあるテキストエディタです。
