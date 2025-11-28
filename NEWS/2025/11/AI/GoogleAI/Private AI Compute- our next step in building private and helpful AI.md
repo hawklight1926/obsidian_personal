@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/25933_Google_Private_Inference_.max-600x600.format-webp.webp
 summary: |-
-  Googleがクラウド上のGeminiモデルを活用しつつ、ユーザーデータのプライバシーを保護する新たなAI処理基盤「Private AI Compute」を発表しました。
-  - クラウドの高度な処理能力と、オンデバイス並みの高いプライバシー保証を両立させています。
-  - ユーザーデータは隔離された安全な領域で処理され、Googleを含む第三者からも保護されます。
-  - 具体的には、Pixel端末のMagic CueやRecorderアプリなどで、より有用かつプライベートなAI体験の実現に活用されています。
+  Googleが、クラウド上のGeminiモデルの能力を活用しながらユーザーデータを保護する新たなAI処理基盤「Private AI Compute」を発表しました。
+  - クラウドの高性能AIとオンデバイス処理と同等のプライバシー保証を両立させます。
+  - ユーザーデータは隔離された安全な領域で処理され、Googleを含む他者からも保護されます。
+  - この技術により、Pixel端末のMagic CueやRecorderアプリなどが、より高度でプライベートなAI体験を実現しています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![Private AI Compute: our next step in building private and helpful AI](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/25933_Google_Private_Inference_.max-600x600.format-webp.webp)
 
 ## 要約
-Googleがクラウド上のGeminiモデルを活用しつつ、ユーザーデータのプライバシーを保護する新たなAI処理基盤「Private AI Compute」を発表しました。
-- クラウドの高度な処理能力と、オンデバイス並みの高いプライバシー保証を両立させています。
-- ユーザーデータは隔離された安全な領域で処理され、Googleを含む第三者からも保護されます。
-- 具体的には、Pixel端末のMagic CueやRecorderアプリなどで、より有用かつプライベートなAI体験の実現に活用されています。
+Googleが、クラウド上のGeminiモデルの能力を活用しながらユーザーデータを保護する新たなAI処理基盤「Private AI Compute」を発表しました。
+- クラウドの高性能AIとオンデバイス処理と同等のプライバシー保証を両立させます。
+- ユーザーデータは隔離された安全な領域で処理され、Googleを含む他者からも保護されます。
+- この技術により、Pixel端末のMagic CueやRecorderアプリなどが、より高度でプライベートなAI体験を実現しています。
