@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  テキストエディタ「Jedit」のサポートがmacOS26以降で終了します。
-  - 開発元のアスキーコード21は、公式サイトで告知しました。
-  - 「Jedit 5 plus」と「Jedit 5 pro」の販売も終了します。
-  - ユーザーにはmacOS15以前のMacでの利用が推奨されています。
+  Jedit ���は、macOS 26（Tahoe）以降のサポートを終了します。
+  - 現在提供中の「Jedit �� plus」および「Jedit �� pro」の販売も終了されます。
+  - ユーザーにはmacOS 15（Sequoia）以前のMacでの利用が推奨されています。
+  - 1995年に登場した歴史あるテキストエディタで、30年にわたりMacユーザーに親しまれてきました。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-テキストエディタ「Jedit」のサポートがmacOS26以降で終了します。
-- 開発元のアスキーコード21は、公式サイトで告知しました。
-- 「Jedit 5 plus」と「Jedit 5 pro」の販売も終了します。
-- ユーザーにはmacOS15以前のMacでの利用が推奨されています。
+Jedit ���は、macOS 26（Tahoe）以降のサポートを終了します。
+- 現在提供中の「Jedit �� plus」および「Jedit �� pro」の販売も終了されます。
+- ユーザーにはmacOS 15（Sequoia）以前のMacでの利用が推奨されています。
+- 1995年に登場した歴史あるテキストエディタで、30年にわたりMacユーザーに親しまれてきました。

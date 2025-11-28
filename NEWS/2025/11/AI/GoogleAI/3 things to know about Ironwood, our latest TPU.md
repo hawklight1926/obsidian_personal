@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ironwood-hero.max-600x600.format-webp.webp
 summary: |-
-  Googleの第7世代TPU「Ironwood」がGoogle Cloudで利用可能となりました。
-  ・大規模なAI推論とモデルサービス向けに設計され、前世代比4倍以上の性能とエネルギー効率を実現しています。
-  ・最大9,216チップを超高速接続するスーパーポッド構成により、大規模モデルの計算効率が大幅に向上しました。
-  ・GoogleはAI技術を活用した設計手法「AlphaChip」を採用し、ハードウェアとAI研究の相互発展を促進しています。
+  Googleが第7世代TPU「Ironwood」を発表し、クラウドで利用可能となりました。
+  ・大規模なAI推論とモデルサービス向けに設計され、前世代比4倍以上の性能向上を実現しています。
+  ・最大9,216チップを接続可能なスーパーポッド構成により、計算時間とエネルギー消費を大幅に削減します。
+  ・GoogleはAI技術を活用したチップ設計手法「AlphaChip」を採用し、ハードウェアの最適化を進めています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![3 things to know about Ironwood, our latest TPU](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ironwood-hero.max-600x600.format-webp.webp)
 
 ## 要約
-Googleの第7世代TPU「Ironwood」がGoogle Cloudで利用可能となりました。
-・大規模なAI推論とモデルサービス向けに設計され、前世代比4倍以上の性能とエネルギー効率を実現しています。
-・最大9,216チップを超高速接続するスーパーポッド構成により、大規模モデルの計算効率が大幅に向上しました。
-・GoogleはAI技術を活用した設計手法「AlphaChip」を採用し、ハードウェアとAI研究の相互発展を促進しています。
+Googleが第7世代TPU「Ironwood」を発表し、クラウドで利用可能となりました。
+・大規模なAI推論とモデルサービス向けに設計され、前世代比4倍以上の性能向上を実現しています。
+・最大9,216チップを接続可能なスーパーポッド構成により、計算時間とエネルギー消費を大幅に削減します。
+・GoogleはAI技術を活用したチップ設計手法「AlphaChip」を採用し、ハードウェアの最適化を進めています。
