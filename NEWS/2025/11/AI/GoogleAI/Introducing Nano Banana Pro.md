@@ -6,11 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nanobananaprohero.max-600x600.format-webp.webp
 summary: |-
-  Google DeepMindが画像生成・編集モデル「Nano Banana Pro」を発表しました。
-  ・Gemini 3 Proを基盤とし、正確で文脈に富んだビジュアルの生成が可能です。
-  ・複数言語で正確で読みやすいテキストを画像内に直接描画する機能に優れています。
-  ・Google検索の知識ベースと連携し、レシピや天気などの実情報を可視化できます。
-  ・GeminiアプリやGoogle AI Studioなど、各種Google製品で利用を開始しています。
+  Google DeepMindが、高精度な画像生成・編集モデル「Nano Banana Pro」を発表しました。
+  ・Gemini 3 Proを基盤とし、高度な推論力と豊富な世界知識に基づいて正確で文脈豊かなビジュアルを生成します。
+  ・画像内に複数言語で正確かつ読みやすいテキストを直接レンダリングできることが特長です。
+  ・Google検索と連携し、レシピや天気などの実世界情報を元にインフォグラフィックを作成する機能も備えています。
 read: false
 ignored: false
 pinned: false
@@ -20,8 +19,7 @@ memo: ""
 ![Introducing Nano Banana Pro](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nanobananaprohero.max-600x600.format-webp.webp)
 
 ## 要約
-Google DeepMindが画像生成・編集モデル「Nano Banana Pro」を発表しました。
-・Gemini 3 Proを基盤とし、正確で文脈に富んだビジュアルの生成が可能です。
-・複数言語で正確で読みやすいテキストを画像内に直接描画する機能に優れています。
-・Google検索の知識ベースと連携し、レシピや天気などの実情報を可視化できます。
-・GeminiアプリやGoogle AI Studioなど、各種Google製品で利用を開始しています。
+Google DeepMindが、高精度な画像生成・編集モデル「Nano Banana Pro」を発表しました。
+・Gemini 3 Proを基盤とし、高度な推論力と豊富な世界知識に基づいて正確で文脈豊かなビジュアルを生成します。
+・画像内に複数言語で正確かつ読みやすいテキストを直接レンダリングできることが特長です。
+・Google検索と連携し、レシピや天気などの実世界情報を元にインフォグラフィックを作成する機能も備えています。
