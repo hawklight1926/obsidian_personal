@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/11/26/fb2a5d0e7b111bd1b801d0e7a2a733ec/t/184/138/d/sp_13matsuokaopinion_251126_l.jpg
 summary: |-
-  ワークデイはエージェンティックAI環境に向け、「Workday Agent System of Record（ASOR）」を展開しています。
-  - ASORは、自社提供・顧客開発・他社提供のAIエージェントを一元管理し、「野良AI」の乱立を防ぎます。
-  - 従業員とAIエージェントを人事管理として捉え、HCM分野の強みを活かした独自アプローチです。
-  - 多様なAIエージェントの相互連携とデータプラットフォームとの接続を実現し、管理をシンプルにします。
+  ワークデイはエージェンティックAI環境に向け「Workday Agent System of Record（ASOR）」を展開しています。
+  - ASORは自社・他社・顧客開発のAIエージェントを一元管理し、「野良AI」の乱立を防ぎます。
+  - 従業員とAIエージェントを人事管理として捉え、HCMの強みを活かした独自アプローチです。
+  - これにより、マルチベンダー環境下でのエージェント管理をシンプルに実現することを目指しています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![ワークデイはエージェンティックAIのプラットフォーマーになり得るか](https://japan.zdnet.com/storage/2025/11/26/fb2a5d0e7b111bd1b801d0e7a2a733ec/t/184/138/d/sp_13matsuokaopinion_251126_l.jpg)
 
 ## 要約
-ワークデイはエージェンティックAI環境に向け、「Workday Agent System of Record（ASOR）」を展開しています。
-- ASORは、自社提供・顧客開発・他社提供のAIエージェントを一元管理し、「野良AI」の乱立を防ぎます。
-- 従業員とAIエージェントを人事管理として捉え、HCM分野の強みを活かした独自アプローチです。
-- 多様なAIエージェントの相互連携とデータプラットフォームとの接続を実現し、管理をシンプルにします。
+ワークデイはエージェンティックAI環境に向け「Workday Agent System of Record（ASOR）」を展開しています。
+- ASORは自社・他社・顧客開発のAIエージェントを一元管理し、「野良AI」の乱立を防ぎます。
+- 従業員とAIエージェントを人事管理として捉え、HCMの強みを活かした独自アプローチです。
+- これにより、マルチベンダー環境下でのエージェント管理をシンプルに実現することを目指しています。

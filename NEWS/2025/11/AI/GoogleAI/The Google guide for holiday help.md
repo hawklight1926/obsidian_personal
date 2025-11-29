@@ -6,10 +6,11 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp
 summary: |-
-  GoogleがAIツールを活用した2025年の休日シーズン対策を紹介しています。
-  - Geminiによる作業の効率化や、Google Mapsを活用した混雑回避・トレンド調査が可能です。
-  - ショッピングではAIが最適な価格や人気商品を提案し、Pixelカメラで写真撮影をサポートします。
-  - さらに、AIが店舗に代わって電話で情報収集する機能など、様々な便利機能を提供しています。
+  GoogleはAIを活用した年末年始の計画・準備を支援する様々な機能を提供しています。
+  - **Gemini**を活用して面倒な作業を効率化したり、買い物を支援します。
+  - **Google Maps**では混雑回避やトレンドに基づいた計画立案が可能です。
+  - **Pixelカメラ**のプロ設定で休暇中の写真撮影を向上させられます。
+  - 人気ギフトの検索トレンド「Holiday 100」など、最新情報を活用できます。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +20,8 @@ memo: ""
 ![The Google guide for holiday help](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp)
 
 ## 要約
-GoogleがAIツールを活用した2025年の休日シーズン対策を紹介しています。
-- Geminiによる作業の効率化や、Google Mapsを活用した混雑回避・トレンド調査が可能です。
-- ショッピングではAIが最適な価格や人気商品を提案し、Pixelカメラで写真撮影をサポートします。
-- さらに、AIが店舗に代わって電話で情報収集する機能など、様々な便利機能を提供しています。
+GoogleはAIを活用した年末年始の計画・準備を支援する様々な機能を提供しています。
+- **Gemini**を活用して面倒な作業を効率化したり、買い物を支援します。
+- **Google Maps**では混雑回避やトレンドに基づいた計画立案が可能です。
+- **Pixelカメラ**のプロ設定で休暇中の写真撮影を向上させられます。
+- 人気ギフトの検索トレンド「Holiday 100」など、最新情報を活用できます。
