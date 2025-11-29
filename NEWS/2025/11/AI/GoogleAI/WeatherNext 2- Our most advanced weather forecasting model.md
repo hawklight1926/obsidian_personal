@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext2_KeywordHero_2096x1.max-600x600.format-webp.webp
 summary: |-
-  Google DeepMindとGoogle Researchが開発したAI気象予測モデル「WeatherNext 2」は、より効率的で正確な高解像度の全球予報を実現しています。
-  - 従来比8倍の速度で、1時間単位の解像度を含む最大15日間の予測を生成できます。
-  - 単一の入力から数百の気象シナリオを1分以内に予測し、物理的に現実的な結果を提供します。
-  - 予測データはEarth EngineやBigQueryで利用可能で、Google CloudのVertex AIでは早期アクセスプログラムも開始されています。
+  Googleは気象予報AIモデル「WeatherNext 2」を発表し、より効率的で正確な高解像度の全球予報を実現しました。
+  - 従来比8倍の速度で1時間単位の予測が可能であり、数百の気象シナリオを1分以内に生成できます。
+  - 新開発のFunctional Generative Network（FGN）を採用し、個別気象要素から複雑な連携システムの予測を学習します。
+  - 予報データはEarth EngineやBigQueryで利用可能となり、Google検索やMaps等の自社サービスにも順次組み込まれています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![WeatherNext 2: Our most advanced weather forecasting model](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext2_KeywordHero_2096x1.max-600x600.format-webp.webp)
 
 ## 要約
-Google DeepMindとGoogle Researchが開発したAI気象予測モデル「WeatherNext 2」は、より効率的で正確な高解像度の全球予報を実現しています。
-- 従来比8倍の速度で、1時間単位の解像度を含む最大15日間の予測を生成できます。
-- 単一の入力から数百の気象シナリオを1分以内に予測し、物理的に現実的な結果を提供します。
-- 予測データはEarth EngineやBigQueryで利用可能で、Google CloudのVertex AIでは早期アクセスプログラムも開始されています。
+Googleは気象予報AIモデル「WeatherNext 2」を発表し、より効率的で正確な高解像度の全球予報を実現しました。
+- 従来比8倍の速度で1時間単位の予測が可能であり、数百の気象シナリオを1分以内に生成できます。
+- 新開発のFunctional Generative Network（FGN）を採用し、個別気象要素から複雑な連携システムの予測を学習します。
+- 予報データはEarth EngineやBigQueryで利用可能となり、Google検索やMaps等の自社サービスにも順次組み込まれています。
