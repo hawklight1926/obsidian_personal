@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  デンソーはAIデータセンター向け冷却技術の強化を目的に、関連企業の買収を進めています。
-  - 2023年にDaikin Applied Americasの技術を取得し、2024年にはAlliance Air ProductsとDynamic Data Centers Solutionsを買収しました。
-  - さらに液体冷却技術を持つChilldyneを買収し、AIサーバーの発熱対策を強化しています。
-  - 米国テキサス州に新拠点を設け、買収した企業の技術を組み合わせた高効率冷却システムの提供を目指します。
+  富士通はAIデータセンター事業の拡大戦略として、冷却技術に特化した企業の買収を進めています。
+  - 2025年11月時点で、Daikin Applied AmericasやAlliance Air Productsなど、複数の関連企業を買収済みです。
+  - 液体冷却技術を有するChilldyneの買収により、AIサーバーの発熱問題への対応力を強化しました。
+  - 2026年度末までに自社工場で冷却部品の生産体制を構築し、事業規模を5年で3倍以上に拡大する計画です。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-デンソーはAIデータセンター向け冷却技術の強化を目的に、関連企業の買収を進めています。
-- 2023年にDaikin Applied Americasの技術を取得し、2024年にはAlliance Air ProductsとDynamic Data Centers Solutionsを買収しました。
-- さらに液体冷却技術を持つChilldyneを買収し、AIサーバーの発熱対策を強化しています。
-- 米国テキサス州に新拠点を設け、買収した企業の技術を組み合わせた高効率冷却システムの提供を目指します。
+富士通はAIデータセンター事業の拡大戦略として、冷却技術に特化した企業の買収を進めています。
+- 2025年11月時点で、Daikin Applied AmericasやAlliance Air Productsなど、複数の関連企業を買収済みです。
+- 液体冷却技術を有するChilldyneの買収により、AIサーバーの発熱問題への対応力を強化しました。
+- 2026年度末までに自社工場で冷却部品の生産体制を構築し、事業規模を5年で3倍以上に拡大する計画です。

@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/11/28/2b15c25265a04a3bbf70de3da49909b6/t/184/138/d/251128_new_003.JPG
 summary: |-
-  New Relicは、エージェンティックAI時代に対応するため、AIシステムの監視と運用を支援する新機能を発表しました。
-  ・「AIのためのオブザーバビリティ」として、マルチエージェントシステムの処理を可視化する「Agentic AI Monitoring」を提供します。
-  ・「オブザーバビリティのためのAI」では、複数コンポーネント中の異常を検知する「Outlier Detection」や、アラートログ分析を支援する「AI Log Alerts Summarization」を導入します。
-  ・これにより、AIが生成したコードの運用課題や、複雑化するシステムの全体像把握、問題の迅速な特定に対応します。
+  New Relicは、エージェンティックAI時代に対応するため、AIシステムの監視と運用を強化する新機能を発表しました。
+  - AIが生成した複雑なシステムの状態を把握する「オブザーバビリティ」の重要性を強調しています。
+  - 新機能には、マルチエージェントシステムの動作を可視化する「Agentic AI Monitoring」や、異常を検知する「Outlier Detection」が含まれます。
+  - また、AIがログ分析を支援する「AI Log Alerts Summarization」など、AI運用を支える機能も提供されます。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![New Relic、エージェンティックAI時代の監視機能を強化](https://japan.zdnet.com/storage/2025/11/28/2b15c25265a04a3bbf70de3da49909b6/t/184/138/d/251128_new_003.JPG)
 
 ## 要約
-New Relicは、エージェンティックAI時代に対応するため、AIシステムの監視と運用を支援する新機能を発表しました。
-・「AIのためのオブザーバビリティ」として、マルチエージェントシステムの処理を可視化する「Agentic AI Monitoring」を提供します。
-・「オブザーバビリティのためのAI」では、複数コンポーネント中の異常を検知する「Outlier Detection」や、アラートログ分析を支援する「AI Log Alerts Summarization」を導入します。
-・これにより、AIが生成したコードの運用課題や、複雑化するシステムの全体像把握、問題の迅速な特定に対応します。
+New Relicは、エージェンティックAI時代に対応するため、AIシステムの監視と運用を強化する新機能を発表しました。
+- AIが生成した複雑なシステムの状態を把握する「オブザーバビリティ」の重要性を強調しています。
+- 新機能には、マルチエージェントシステムの動作を可視化する「Agentic AI Monitoring」や、異常を検知する「Outlier Detection」が含まれます。
+- また、AIがログ分析を支援する「AI Log Alerts Summarization」など、AI運用を支える機能も提供されます。
