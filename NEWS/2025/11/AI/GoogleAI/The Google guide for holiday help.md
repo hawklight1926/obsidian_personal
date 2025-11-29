@@ -8,8 +8,8 @@ image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_C
 summary: |-
   GoogleはAIを活用した年末年始の休暇を快適に過ごすための様々な機能を提供しています。
   ・Geminiによる作業の効率化や、Google Mapsを活用した混雑回避・トレンド調査が可能です。
-  ・Google ShoppingではAIを活用した買い物支援や、人気ギフトを確認できる「Holiday 100」を提供しています。
-  ・Pixelカメラのプロ設定を使った写真撮影や、AIによる店舗への電話代行などの機能も利用できます。
+  ・Google ShoppingではAIを活用した買い物支援や人気ギフトの検索トレンドを確認できます。
+  ・Pixelカメラのプロ設定を用いた写真撮影や、AIによる店舗への電話代行などの機能も利用できます。
 read: false
 ignored: false
 pinned: false
@@ -21,5 +21,5 @@ memo: ""
 ## 要約
 GoogleはAIを活用した年末年始の休暇を快適に過ごすための様々な機能を提供しています。
 ・Geminiによる作業の効率化や、Google Mapsを活用した混雑回避・トレンド調査が可能です。
-・Google ShoppingではAIを活用した買い物支援や、人気ギフトを確認できる「Holiday 100」を提供しています。
-・Pixelカメラのプロ設定を使った写真撮影や、AIによる店舗への電話代行などの機能も利用できます。
+・Google ShoppingではAIを活用した買い物支援や人気ギフトの検索トレンドを確認できます。
+・Pixelカメラのプロ設定を用いた写真撮影や、AIによる店舗への電話代行などの機能も利用できます。

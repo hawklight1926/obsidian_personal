@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/02/13/a79d190ed078238bb849c8f1683cd326/t/184/138/d/250213_bigdata_as_1280_1088481721.jpeg
 summary: |-
-  住友商事は「Sansan MCPサーバー」をトライアル導入し、Sansan上のビジネスデータをMicrosoft 365 Copilotで活用できるようにしました。
-  - Sansanに蓄積された名刺情報や商談履歴などを生成AI上で連携させます。
-  - 会議準備での参加者間の関係性把握や、取引履歴を踏まえた提案資料の作成に活用されます。
-  - これにより、営業活動や社内外コミュニケーションの効率化が期待されています。
+  住友商事は生成AI活用の一環として「Sansan MCPサーバー」をトライアル導入しました。
+  - Sansanに蓄積された名刺情報や商談履歴をMicrosoft 365 Copilotで活用できるようにします。
+  - MCP（Model Context Protocol）を活用し、外部データとAIの連携を実現します。
+  - 会議準備や商談資料作成時に、過去の接点情報を自動抽出するなどの効果が見込まれます。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![住友商事、「Sansan MCPサーバー」をトライアル導入--ビジネスデータの有効活用に](https://japan.zdnet.com/storage/2025/02/13/a79d190ed078238bb849c8f1683cd326/t/184/138/d/250213_bigdata_as_1280_1088481721.jpeg)
 
 ## 要約
-住友商事は「Sansan MCPサーバー」をトライアル導入し、Sansan上のビジネスデータをMicrosoft 365 Copilotで活用できるようにしました。
-- Sansanに蓄積された名刺情報や商談履歴などを生成AI上で連携させます。
-- 会議準備での参加者間の関係性把握や、取引履歴を踏まえた提案資料の作成に活用されます。
-- これにより、営業活動や社内外コミュニケーションの効率化が期待されています。
+住友商事は生成AI活用の一環として「Sansan MCPサーバー」をトライアル導入しました。
+- Sansanに蓄積された名刺情報や商談履歴をMicrosoft 365 Copilotで活用できるようにします。
+- MCP（Model Context Protocol）を活用し、外部データとAIの連携を実現します。
+- 会議準備や商談資料作成時に、過去の接点情報を自動抽出するなどの効果が見込まれます。
