@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  富士通はAIデータセンター事業の拡大戦略として、冷却技術に特化した企業の買収を進めています。
-  - 2025年11月時点で、Daikin Applied AmericasやAlliance Air Productsなど、複数の関連企業を買収済みです。
-  - 液体冷却技術を有するChilldyneの買収により、AIサーバーの発熱問題への対応力を強化しました。
-  - 2026年度末までに自社工場で冷却部品の生産体制を構築し、事業規模を5年で3倍以上に拡大する計画です。
+  富士通はAIデータセンター事業の拡大に向け、冷却技術に特化した企業を相次いで買収しています。
+  - 2023年にDaikin Applied Americasの技術部門を取得し、2024年にはAlliance Air ProductsとDynamic Data Centers Solutionsを買収しました。
+  - さらに液冷技術のChilldyneを買収し、AIサーバーの発熱対策を強化しています。
+  - これにより、自社の排熱利用システムと組み合わせ、エネルギー効率に優れたデータセンターの提供を目指しています。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-富士通はAIデータセンター事業の拡大戦略として、冷却技術に特化した企業の買収を進めています。
-- 2025年11月時点で、Daikin Applied AmericasやAlliance Air Productsなど、複数の関連企業を買収済みです。
-- 液体冷却技術を有するChilldyneの買収により、AIサーバーの発熱問題への対応力を強化しました。
-- 2026年度末までに自社工場で冷却部品の生産体制を構築し、事業規模を5年で3倍以上に拡大する計画です。
+富士通はAIデータセンター事業の拡大に向け、冷却技術に特化した企業を相次いで買収しています。
+- 2023年にDaikin Applied Americasの技術部門を取得し、2024年にはAlliance Air ProductsとDynamic Data Centers Solutionsを買収しました。
+- さらに液冷技術のChilldyneを買収し、AIサーバーの発熱対策を強化しています。
+- これにより、自社の排熱利用システムと組み合わせ、エネルギー効率に優れたデータセンターの提供を目指しています。

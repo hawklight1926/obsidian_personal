@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/11/28/2b15c25265a04a3bbf70de3da49909b6/t/184/138/d/251128_new_003.JPG
 summary: |-
-  New Relicは、エージェンティックAI時代に対応するため、AIシステムの監視と運用を強化する新機能を発表しました。
-  - AIが生成した複雑なシステムの状態を把握する「オブザーバビリティ」の重要性を強調しています。
-  - 新機能には、マルチエージェントシステムの動作を可視化する「Agentic AI Monitoring」や、異常を検知する「Outlier Detection」が含まれます。
-  - また、AIがログ分析を支援する「AI Log Alerts Summarization」など、AI運用を支える機能も提供されます。
+  New Relicは、エージェンティックAI時代に対応するため、AIシステムの監視機能とAIを活用した監視機能の両面を強化しました。
+  ・AIが生成した複雑なシステムの状態を把握する「オブザーバビリティ」の重要性を強調しています。
+  ・具体的には、マルチエージェントシステムを可視化する「Agentic AI Monitoring」や、異常を検知する「Outlier Detection」などの新機能を発表しました。
+  ・これにより、AIシステムのパフォーマンス問題の特定や、効率的な異常検知が可能となります。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![New Relic、エージェンティックAI時代の監視機能を強化](https://japan.zdnet.com/storage/2025/11/28/2b15c25265a04a3bbf70de3da49909b6/t/184/138/d/251128_new_003.JPG)
 
 ## 要約
-New Relicは、エージェンティックAI時代に対応するため、AIシステムの監視と運用を強化する新機能を発表しました。
-- AIが生成した複雑なシステムの状態を把握する「オブザーバビリティ」の重要性を強調しています。
-- 新機能には、マルチエージェントシステムの動作を可視化する「Agentic AI Monitoring」や、異常を検知する「Outlier Detection」が含まれます。
-- また、AIがログ分析を支援する「AI Log Alerts Summarization」など、AI運用を支える機能も提供されます。
+New Relicは、エージェンティックAI時代に対応するため、AIシステムの監視機能とAIを活用した監視機能の両面を強化しました。
+・AIが生成した複雑なシステムの状態を把握する「オブザーバビリティ」の重要性を強調しています。
+・具体的には、マルチエージェントシステムを可視化する「Agentic AI Monitoring」や、異常を検知する「Outlier Detection」などの新機能を発表しました。
+・これにより、AIシステムのパフォーマンス問題の特定や、効率的な異常検知が可能となります。
