@@ -7,9 +7,10 @@ rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/11/27/f15d99404b0894c63d6e522f9097686d/t/184/138/d/generation-242ced88-d71e-4ff8-8da3-23f9a00480b3_1280.jpg
 summary: |-
   Black Forest Labsが画像生成AIの最新モデル「FLUX.2」を発表しました。
-  - 「FLUX.2 pro」は最高品質を、「FLUX.2 flex」は速度と品質のバランスを追求しています。
-  - 最大10枚の参照画像を利用でき、文字描画やプロンプトへの忠実性などが向上しています。
-  - 主要モデルとの性能比較では、コスト面で優位性があり、「FLUX Playground」で無料体験が可能です。
+  - 「FLUX.2 pro」は最高品質を、「FLUX.2 flex」はスピードと品質のバランスを追求しています。
+  - 最大10枚の参照画像を利用可能で、文字描画やプロンプトへの忠実性などが向上しています。
+  - Googleの「Nano Banana Pro」と比較して、コスト面で優位性があるとされています。
+  - 無料で試用可能な「FLUX Playground」では、1日50回までのレンダリングが利用できます。
 read: false
 ignored: false
 pinned: false
@@ -20,6 +21,7 @@ memo: ""
 
 ## 要約
 Black Forest Labsが画像生成AIの最新モデル「FLUX.2」を発表しました。
-- 「FLUX.2 pro」は最高品質を、「FLUX.2 flex」は速度と品質のバランスを追求しています。
-- 最大10枚の参照画像を利用でき、文字描画やプロンプトへの忠実性などが向上しています。
-- 主要モデルとの性能比較では、コスト面で優位性があり、「FLUX Playground」で無料体験が可能です。
+- 「FLUX.2 pro」は最高品質を、「FLUX.2 flex」はスピードと品質のバランスを追求しています。
+- 最大10枚の参照画像を利用可能で、文字描画やプロンプトへの忠実性などが向上しています。
+- Googleの「Nano Banana Pro」と比較して、コスト面で優位性があるとされています。
+- 無料で試用可能な「FLUX Playground」では、1日50回までのレンダリングが利用できます。
