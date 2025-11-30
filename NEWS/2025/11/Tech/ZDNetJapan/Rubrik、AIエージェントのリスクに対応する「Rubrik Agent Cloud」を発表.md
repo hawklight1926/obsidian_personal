@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/05/22/7a5b7626b49ce9e8092c74d672ef23f6/t/184/138/d/250522_security_as_1280_355152474.jpg
 summary: |-
-  RubrikはAIエージェントの誤動作や不正利用によるリスクに対応する「Rubrik Agent Cloud」を発表しました。
-  ・AIエージェントの動作を可視化・監視し、ポリシー逸脱を検知します。
-  ・問題発生時はRubrik Security Cloudと連携し、アクションを任意の時点に巻き戻して復旧を可能にします。
-  ・将来的には復旧シミュレーション機能やAIによるバックアップ提案機能の追加を検討しています。
+  Rubrikは、AIエージェントの誤動作や不正操作によるリスクに対応する新サービス「Rubrik Agent Cloud」を発表しました。
+  ・AIエージェントの動作を可視化・監視し、ポリシー逸脱を管理します。
+  ・不具合発生時は、Rubrik Security Cloudと連携し、アクションを任意の時点に巻き戻して復旧を可能にします。
+  ・これにより、AIエージェントの活用を安全に進めるための基盤を提供します。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![Rubrik、AIエージェントのリスクに対応する「Rubrik Agent Cloud」を発表](https://japan.zdnet.com/storage/2025/05/22/7a5b7626b49ce9e8092c74d672ef23f6/t/184/138/d/250522_security_as_1280_355152474.jpg)
 
 ## 要約
-RubrikはAIエージェントの誤動作や不正利用によるリスクに対応する「Rubrik Agent Cloud」を発表しました。
-・AIエージェントの動作を可視化・監視し、ポリシー逸脱を検知します。
-・問題発生時はRubrik Security Cloudと連携し、アクションを任意の時点に巻き戻して復旧を可能にします。
-・将来的には復旧シミュレーション機能やAIによるバックアップ提案機能の追加を検討しています。
+Rubrikは、AIエージェントの誤動作や不正操作によるリスクに対応する新サービス「Rubrik Agent Cloud」を発表しました。
+・AIエージェントの動作を可視化・監視し、ポリシー逸脱を管理します。
+・不具合発生時は、Rubrik Security Cloudと連携し、アクションを任意の時点に巻き戻して復旧を可能にします。
+・これにより、AIエージェントの活用を安全に進めるための基盤を提供します。
