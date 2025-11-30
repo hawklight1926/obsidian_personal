@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_model-blog_header-dark.max-600x600.format-webp.webp
 summary: |-
-  Googleが最も高度なAIモデル「Gemini 3」を発表し、様々な製品を通じて提供を開始しました。
-  - 従来モデルを上回る推論能力とマルチモーダル機能を備え、複雑な問題解決が可能です。
-  - GeminiアプリやAI Studio、Vertex AIなどGoogle製品群で利用できます。
-  - 今後「Deep Thinkモード」をUltra加入者に提供予定であり、更なるモデル拡充を計画しています。
+  Googleが最も高度なAIモデル「Gemini 3」を発表し、推論能力とマルチモーダル機能を強化しました。
+  - 検索やGeminiアプリ、AI StudioなどGoogle製品で利用可能です。
+  - 複雑な問題解決が可能で、主要AIベンチマークで従来モデルを大幅に上回る性能を示しています。
+  - Ultra加入者向けに推論機能を強化した「Deep Thinkモード」も近日提供予定です。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![A new era of intelligence with Gemini 3](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_model-blog_header-dark.max-600x600.format-webp.webp)
 
 ## 要約
-Googleが最も高度なAIモデル「Gemini 3」を発表し、様々な製品を通じて提供を開始しました。
-- 従来モデルを上回る推論能力とマルチモーダル機能を備え、複雑な問題解決が可能です。
-- GeminiアプリやAI Studio、Vertex AIなどGoogle製品群で利用できます。
-- 今後「Deep Thinkモード」をUltra加入者に提供予定であり、更なるモデル拡充を計画しています。
+Googleが最も高度なAIモデル「Gemini 3」を発表し、推論能力とマルチモーダル機能を強化しました。
+- 検索やGeminiアプリ、AI StudioなどGoogle製品で利用可能です。
+- 複雑な問題解決が可能で、主要AIベンチマークで従来モデルを大幅に上回る性能を示しています。
+- Ultra加入者向けに推論機能を強化した「Deep Thinkモード」も近日提供予定です。
