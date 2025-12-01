@@ -1,16 +1,16 @@
 ---
 url: https://www.itmedia.co.jp/news/articles/2512/01/news051.html
 date: 2025-11-30T22:32:00Z
-updated: 
+updated:
 category: Tech
 rss: ITmedia
-image: 
+image:
 summary: |-
   悪意あるLLMがサイバー攻撃の主要な脅威となり、犯罪サービスとして提供・進化しています。
   - **WormGPT 4**は、フィッシングメール作成やマルウェア生成など多機能な有料サービスです。
   - **KawaiiGPT**は、初心者向けに公開された無料ツールで、容易に設定でき攻撃を支援します。
   - 専門家は、AIを悪用した犯罪に対処するため、国際的な協力と規制の強化を求めています。
-read: false
+read: true
 ignored: false
 pinned: false
 memo: ""

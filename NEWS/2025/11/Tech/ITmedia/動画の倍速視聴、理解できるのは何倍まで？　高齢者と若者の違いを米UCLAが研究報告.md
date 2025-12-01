@@ -1,16 +1,16 @@
 ---
 url: https://www.itmedia.co.jp/news/articles/2512/01/news021.html
 date: 2025-11-30T23:00:00Z
-updated: 
+updated:
 category: Tech
 rss: ITmedia
-image: 
+image:
 summary: |-
   動画の倍速視聴は2倍速までなら学習効果に影響せず、2.5倍速で初めて理解度が低下することがUCLAの研究で明らかになりました。
   - 若年層では2倍速視聴でも通常速度と同等の理解度を維持できます。
   - 高齢者は速度上昇による理解度の低下が顕著で、0.75倍速などの低速設定が効果的です。
   - 速度が上がると注意力が向上する一方、内容が複雑になるほど適切な速度設定が重要となります。
-read: false
+read: true
 ignored: false
 pinned: false
 memo: ""

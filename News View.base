@@ -1,5 +1,6 @@
 formulas:
   Untitled: image(file.properties.image)
+  Untitled 2: ""
 properties:
   formula.Untitled:
     displayName: image-view
@@ -14,23 +15,24 @@ views:
     order:
       - formula.Untitled
       - file.name
+      - summary
       - rss
-      - tags
       - read
       - pinned
       - ignored
-      - summary
+      - url
       - memo
+      - formula.Untitled 2
     sort:
       - property: date
         direction: DESC
     columnSize:
       formula.Untitled: 149
-      file.name: 179
-      note.rss: 97
-      note.tags: 102
+      file.name: 184
+      note.summary: 728
+      note.rss: 73
       note.pinned: 74
-      note.summary: 562
+      note.url: 53
     rowHeight: tall
   - type: table
     name: read

@@ -1,16 +1,16 @@
 ---
 url: https://www.itmedia.co.jp/news/articles/2512/01/news070.html
 date: 2025-12-01T03:52:00Z
-updated: 
+updated:
 category: Tech
 rss: ITmedia
-image: 
+image:
 summary: |-
   NECは2026年1月より、AIを活用して駐車場の車両サイズを自動判別する実証実験を開始します。
   ・従来はスタッフの経験に依存していた車両サイズ判別をAIが支援し、負担軽減と人為的ミス低減を目指します。
   ・実験では、AIによる車種・ナンバー・付属品の認識精度や、運用データに基づく人員配置の最適化などを検証します。
   ・背景には、車両増加に伴うスタッフの心理的負担や教育コスト、新人への負荷といった課題があります。
-read: false
+read: true
 ignored: false
 pinned: false
 memo: ""
