@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  Japan Mobility Show 2025では、中国メーカーが本格的な電気自動車（EV）を多数出品し、存在感を示しました。
-  ・BYDは高級スポーツEV「Yangwang U9」や小型車「Seagull」を出展し、2026年の日本発売を予定しています。
-  ・Xpengの「MONA M03」は、スポーティなデザインと高性能を備え、Tesla Model 3と同等の加速を目指すモデルです。
-  ・中国メーカー各社は、多様なEVラインナップで日本市場への本格参入を図っています。
+  Japan Mobility Show 2025では、中国メーカーによる本格的なEVの出展が目立ちました。
+  ・Xpengの「G9」は、高級感のあるSUV型EVで、高性能モデルは0-100km/h加速4.5秒を目指しています。
+  ・BYDの「海豚」は、小型で手頃な価格のEVとして、日本市場への投入が予定されています。
+  ・BYDの高級ブランド「Yangwang U9」は、最高速度496.22km/hの世界最速EV記録を保持しています。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-Japan Mobility Show 2025では、中国メーカーが本格的な電気自動車（EV）を多数出品し、存在感を示しました。
-・BYDは高級スポーツEV「Yangwang U9」や小型車「Seagull」を出展し、2026年の日本発売を予定しています。
-・Xpengの「MONA M03」は、スポーティなデザインと高性能を備え、Tesla Model 3と同等の加速を目指すモデルです。
-・中国メーカー各社は、多様なEVラインナップで日本市場への本格参入を図っています。
+Japan Mobility Show 2025では、中国メーカーによる本格的なEVの出展が目立ちました。
+・Xpengの「G9」は、高級感のあるSUV型EVで、高性能モデルは0-100km/h加速4.5秒を目指しています。
+・BYDの「海豚」は、小型で手頃な価格のEVとして、日本市場への投入が予定されています。
+・BYDの高級ブランド「Yangwang U9」は、最高速度496.22km/hの世界最速EV記録を保持しています。
