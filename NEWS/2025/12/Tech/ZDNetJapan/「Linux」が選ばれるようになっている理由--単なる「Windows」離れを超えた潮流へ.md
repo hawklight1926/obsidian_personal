@@ -7,9 +7,9 @@ rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/01/6af5d64b9a11e201f8694383da41e0cc/t/184/138/d/gettyimages-140396190_hero.jpg
 summary: |-
   WindowsからLinuxへの移行が進み、Linuxはすでに支配的なOSとなりつつあります。
-  ・Zorin OS 18は公開1カ月で100万ダウンロードを達成し、その78%以上がWindowsユーザーによるものでした。
-  ・StatCounterのデータでは、Linuxデスクトップの世界シェアは2020年の1.5%から2025年には米国で5%超に成長しています。
-  ・PCだけでなく、Androidを含むエンドユーザーOS全体では、Linuxのシェアはさらに高くなっています。
+  - Zorin OS 18は公開1カ月で100万ダウンロードを達成し、その78%以上がWindowsユーザーによるものでした。
+  - デスクトップOSとしてのLinuxシェアはStatCounterで米国5%超、DAPデータでは5.8%と成長しています。
+  - さらにChromeOSやAndroidを含めると、エンドユーザーOS全体ではLinuxのシェアは大幅に拡大します。
 read: false
 ignored: false
 pinned: false
@@ -20,6 +20,6 @@ memo: ""
 
 ## 要約
 WindowsからLinuxへの移行が進み、Linuxはすでに支配的なOSとなりつつあります。
-・Zorin OS 18は公開1カ月で100万ダウンロードを達成し、その78%以上がWindowsユーザーによるものでした。
-・StatCounterのデータでは、Linuxデスクトップの世界シェアは2020年の1.5%から2025年には米国で5%超に成長しています。
-・PCだけでなく、Androidを含むエンドユーザーOS全体では、Linuxのシェアはさらに高くなっています。
+- Zorin OS 18は公開1カ月で100万ダウンロードを達成し、その78%以上がWindowsユーザーによるものでした。
+- デスクトップOSとしてのLinuxシェアはStatCounterで米国5%超、DAPデータでは5.8%と成長しています。
+- さらにChromeOSやAndroidを含めると、エンドユーザーOS全体ではLinuxのシェアは大幅に拡大します。
