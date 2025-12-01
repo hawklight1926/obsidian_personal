@@ -7,9 +7,9 @@ rss: ITmedia
 image: 
 summary: |-
   AdobeとGoogleがそれぞれAIを活用した「アイデア整理ボード」サービスを発表しました。
-  - Adobeは「Firefly Boards」を、Googleは「Mixboard」を新たに公開しました。
-  - これらはAIで画像生成やアイデア整理を支援するサービスで、両社は既に動画編集AIで連携実績があります。
-  - 背景には、リモートワーク需要の高まりや、Miroなどの共同作業ツールの普及があります。
+  - Adobe「Firefly Boards」は、生成AIでビジュアルコンテンツを作成・整理する機能です。
+  - Google「Mixboard」も同様に、AIを使ってアイデアをボード上で整理するサービスです。
+  両社は過去にもPremiereとYouTube連携などで提携実績があり、AI分野での協力関係が背景にあります。
 read: false
 ignored: false
 pinned: false
@@ -18,6 +18,6 @@ memo: ""
 
 ## 要約
 AdobeとGoogleがそれぞれAIを活用した「アイデア整理ボード」サービスを発表しました。
-- Adobeは「Firefly Boards」を、Googleは「Mixboard」を新たに公開しました。
-- これらはAIで画像生成やアイデア整理を支援するサービスで、両社は既に動画編集AIで連携実績があります。
-- 背景には、リモートワーク需要の高まりや、Miroなどの共同作業ツールの普及があります。
+- Adobe「Firefly Boards」は、生成AIでビジュアルコンテンツを作成・整理する機能です。
+- Google「Mixboard」も同様に、AIを使ってアイデアをボード上で整理するサービスです。
+両社は過去にもPremiereとYouTube連携などで提携実績があり、AI分野での協力関係が背景にあります。
