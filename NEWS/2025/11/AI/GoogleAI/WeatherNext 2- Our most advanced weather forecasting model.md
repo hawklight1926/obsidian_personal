@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext2_KeywordHero_2096x1.max-600x600.format-webp.webp
 summary: |-
-  Googleは天気予報AIモデル「WeatherNext 2」を発表し、より効率的で高精度な予測を実現しました。
-  ・従来モデルより8倍高速で、解像度は1時間単位、数百のシナリオを1分以内に生成できます。
-  ・予測データはEarth EngineやBigQueryで利用可能で、Vertex AIでは早期アクセスプログラムが開始されました。
-  ・この技術はGoogle検索やGemini、Pixel Weather、Google Maps Platformの天気予報にも統合されています。
+  Google DeepMindとGoogle Researchは、最も先進的で効率的な天気予報モデル「WeatherNext 2」を発表しました。
+  ・従来モデルより8倍高速で、解像度は1時間単位まで高く、99.9%の変数で精度が向上しています。
+  ・新しいAIモデル「Functional Generative Network」により、単一出発点から数百の可能性のある気象シナリオを1分以内に生成できます。
+  ・予報データはEarth EngineやBigQueryで利用可能となり、Vertex AIでの早期アクセスプログラムも開始されました。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![WeatherNext 2: Our most advanced weather forecasting model](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext2_KeywordHero_2096x1.max-600x600.format-webp.webp)
 
 ## 要約
-Googleは天気予報AIモデル「WeatherNext 2」を発表し、より効率的で高精度な予測を実現しました。
-・従来モデルより8倍高速で、解像度は1時間単位、数百のシナリオを1分以内に生成できます。
-・予測データはEarth EngineやBigQueryで利用可能で、Vertex AIでは早期アクセスプログラムが開始されました。
-・この技術はGoogle検索やGemini、Pixel Weather、Google Maps Platformの天気予報にも統合されています。
+Google DeepMindとGoogle Researchは、最も先進的で効率的な天気予報モデル「WeatherNext 2」を発表しました。
+・従来モデルより8倍高速で、解像度は1時間単位まで高く、99.9%の変数で精度が向上しています。
+・新しいAIモデル「Functional Generative Network」により、単一出発点から数百の可能性のある気象シナリオを1分以内に生成できます。
+・予報データはEarth EngineやBigQueryで利用可能となり、Vertex AIでの早期アクセスプログラムも開始されました。
