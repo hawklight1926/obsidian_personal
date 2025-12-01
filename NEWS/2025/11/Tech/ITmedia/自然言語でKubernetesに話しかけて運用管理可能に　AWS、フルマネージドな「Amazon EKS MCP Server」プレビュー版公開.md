@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  AWSが、自然言語でKubernetesの操作・管理を可能にする新サービス「Amazon EKS MCP Server」の提供を開始しました。
-  - 従来のkubectlコマンドの知識がなくても、AIを活用した自然言語による指示で操作できます。
-  - 主な機能として、Amazon EKSクラスターの作成・管理や、Kubernetesリソースの管理、アプリケーション展開のためのマニフェスト生成が挙げられます。
-  - これにより、運用管理の負担軽減と、ベストプラクティスに沿った安全な設定が可能になります。
+  AWSは、自然言語でKubernetesの操作・管理を可能にする新サービス「Amazon EKS MCP Server」の提供を開始しました。
+  ・kubectlコマンドの知識がなくても、Amazon EKSクラスターの作成・管理やKubernetesリソースの操作が可能です。
+  ・AIによるコード生成や、問題診断と解決手順の提示などの機能を備えています。
+  ・これにより、インフラ運用の専門知識を持たない開発者でもKubernetesを扱いやすくなります。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-AWSが、自然言語でKubernetesの操作・管理を可能にする新サービス「Amazon EKS MCP Server」の提供を開始しました。
-- 従来のkubectlコマンドの知識がなくても、AIを活用した自然言語による指示で操作できます。
-- 主な機能として、Amazon EKSクラスターの作成・管理や、Kubernetesリソースの管理、アプリケーション展開のためのマニフェスト生成が挙げられます。
-- これにより、運用管理の負担軽減と、ベストプラクティスに沿った安全な設定が可能になります。
+AWSは、自然言語でKubernetesの操作・管理を可能にする新サービス「Amazon EKS MCP Server」の提供を開始しました。
+・kubectlコマンドの知識がなくても、Amazon EKSクラスターの作成・管理やKubernetesリソースの操作が可能です。
+・AIによるコード生成や、問題診断と解決手順の提示などの機能を備えています。
+・これにより、インフラ運用の専門知識を持たない開発者でもKubernetesを扱いやすくなります。

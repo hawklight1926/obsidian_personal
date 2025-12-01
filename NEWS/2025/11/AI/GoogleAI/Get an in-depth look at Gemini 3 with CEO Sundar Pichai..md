@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp
 summary: |-
-  Googleのサンダー・ピチャイCEOがポッドキャストに出演し、AI戦略の現状と将来展望を語りました。
-  - 2016年の「AIファースト」方針が現在の進展の基盤となっています。
-  - 現行のGemini 3やNano Banana Proに加え、量子コンピューティングを今後10年の重要分野と位置付けています。
-  - 量子コンピューティングについては「5年後には現在のAIと同様の興奮が生まれる」と期待を示しました。
+  GoogleのCEOサンダー・ピチャイは、AIの進歩と将来性について語りました。
+  ・2016年の「AIファースト」方針が現在の基盤を築きました。
+  ・Geminiや量子コンピューティングなど、長期的な投資にも期待しています。
+  ・ピチャイは、約5年後には量子技術が現在のAIのような興奮を生むと予測しています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![Get an in-depth look at Gemini 3 with CEO Sundar Pichai.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp)
 
 ## 要約
-Googleのサンダー・ピチャイCEOがポッドキャストに出演し、AI戦略の現状と将来展望を語りました。
-- 2016年の「AIファースト」方針が現在の進展の基盤となっています。
-- 現行のGemini 3やNano Banana Proに加え、量子コンピューティングを今後10年の重要分野と位置付けています。
-- 量子コンピューティングについては「5年後には現在のAIと同様の興奮が生まれる」と期待を示しました。
+GoogleのCEOサンダー・ピチャイは、AIの進歩と将来性について語りました。
+・2016年の「AIファースト」方針が現在の基盤を築きました。
+・Geminiや量子コンピューティングなど、長期的な投資にも期待しています。
+・ピチャイは、約5年後には量子技術が現在のAIのような興奮を生むと予測しています。
