@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/02/261b69d5a7e5be544ba368b46dd19175/t/184/138/d/aws-marketplace_hero.jpg
 summary: |-
-  AWS Marketplaceは、AIエージェントの導入を効率化する新機能「Agent mode」を発表しました。  
-  ・自然言語での検索やチャットインターフェースにより、エージェントの選定と比較が容易になります。  
-  ・「Express private offers」では、販売者がカスタム価格を自動化し、顧客は迅速に個別オファーを受け取れます。  
-  ・また、現地通貨対応や税務処理のサポートにより、グローバルな取引促進も強化しています。
+  AWS MarketplaceはAIエージェントの検索・導入を効率化する新機能「Agent mode」を発表しました。  
+  ・自然言語での検索や社内文書のアップロードにより、要件に合うエージェントを迅速に絞り込めます。  
+  ・複数のエージェントを並べて比較する機能も備え、導入判断を支援します。  
+  ・さらに「Express private offers」では、販売者が定義するカスタム価格のオファーを数分で自動化できます。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![「AWS Marketplace」に新機能--「Agent mode」でAIエージェントの選定を効率化](https://japan.zdnet.com/storage/2025/12/02/261b69d5a7e5be544ba368b46dd19175/t/184/138/d/aws-marketplace_hero.jpg)
 
 ## 要約
-AWS Marketplaceは、AIエージェントの導入を効率化する新機能「Agent mode」を発表しました。  
-・自然言語での検索やチャットインターフェースにより、エージェントの選定と比較が容易になります。  
-・「Express private offers」では、販売者がカスタム価格を自動化し、顧客は迅速に個別オファーを受け取れます。  
-・また、現地通貨対応や税務処理のサポートにより、グローバルな取引促進も強化しています。
+AWS MarketplaceはAIエージェントの検索・導入を効率化する新機能「Agent mode」を発表しました。  
+・自然言語での検索や社内文書のアップロードにより、要件に合うエージェントを迅速に絞り込めます。  
+・複数のエージェントを並べて比較する機能も備え、導入判断を支援します。  
+・さらに「Express private offers」では、販売者が定義するカスタム価格のオファーを数分で自動化できます。
