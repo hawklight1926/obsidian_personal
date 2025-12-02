@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  AppleはAI人材の獲得を強化し、2026年までにAI部門の責任者を増員する計画です。
-  ・GoogleやMicrosoftのAI責任者を採用し、AI戦略の強化を図っています。
-  ・具体的には、MicrosoftのAI部門責任者やGoogleのAI担当副社長を迎え入れました。
-  ・これにより、Siriの改善などユーザー向けAI機能の開発を加速させる方針です。
+  AppleはAI人材の獲得を強化し、GoogleやMicrosoftの元幹部を採用しました。
+  ・元GoogleのAI責任者であるジョン・ジャンダニアをAI戦略担当シニアバイスプレジデントとして迎え入れます。
+  ・また、AI企業Metawebの創業者で元Google幹部のダン・アリフを機械学習・AI戦略担当シニアバイスプレジデントとして採用しています。
+  ・これらの人材獲得は、Siriの強化を含むAppleのAI戦略を推進する上で重要と位置付けられています。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-AppleはAI人材の獲得を強化し、2026年までにAI部門の責任者を増員する計画です。
-・GoogleやMicrosoftのAI責任者を採用し、AI戦略の強化を図っています。
-・具体的には、MicrosoftのAI部門責任者やGoogleのAI担当副社長を迎え入れました。
-・これにより、Siriの改善などユーザー向けAI機能の開発を加速させる方針です。
+AppleはAI人材の獲得を強化し、GoogleやMicrosoftの元幹部を採用しました。
+・元GoogleのAI責任者であるジョン・ジャンダニアをAI戦略担当シニアバイスプレジデントとして迎え入れます。
+・また、AI企業Metawebの創業者で元Google幹部のダン・アリフを機械学習・AI戦略担当シニアバイスプレジデントとして採用しています。
+・これらの人材獲得は、Siriの強化を含むAppleのAI戦略を推進する上で重要と位置付けられています。
