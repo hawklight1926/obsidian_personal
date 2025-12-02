@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_holiday_hosting_tips.max-600x600.format-webp.webp
 summary: |-
-  Googleは、2025年の休日ホスティングをストレスフリーにするためのAIツールを複数提供しています。  
-  ・Geminiアプリでは、パーティー計画を支援するカスタムAI「Gem」の作成や、会話型AI「Gemini Live」による装飾の相談が可能です。  
-  ・画像生成モデル「Nano Banana Pro」を使えば、招待状用のクリエイティブなビジュアルを簡単に制作できます。  
-  ・Pixelのスクリーンショット検索機能や、ChromeのGemini連携により、計画情報の整理や効率的なリサーチも行えます。
+  Googleは2025年のホリデーシーズンに向け、AIツールを活用したストレスフリーなホームパーティーの準備・運営方法を提案しています。  
+  ・Geminiアプリでパーティー計画を支援する「Gem」の作成や、音声対話による装飾のアイデア出しが可能です。  
+  ・画像生成モデル「Nano Banana Pro」で招待状用の画像を作成したり、Pixelのスクリーンショット機能で情報を整理できます。  
+  ・料理中はスマートディスプレイ向け「Gemini for Home」が音声でレシピを読み上げるなど、作業を効率化します。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![16 Google AI tips for stress-free holiday hosting in 2025](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_holiday_hosting_tips.max-600x600.format-webp.webp)
 
 ## 要約
-Googleは、2025年の休日ホスティングをストレスフリーにするためのAIツールを複数提供しています。  
-・Geminiアプリでは、パーティー計画を支援するカスタムAI「Gem」の作成や、会話型AI「Gemini Live」による装飾の相談が可能です。  
-・画像生成モデル「Nano Banana Pro」を使えば、招待状用のクリエイティブなビジュアルを簡単に制作できます。  
-・Pixelのスクリーンショット検索機能や、ChromeのGemini連携により、計画情報の整理や効率的なリサーチも行えます。
+Googleは2025年のホリデーシーズンに向け、AIツールを活用したストレスフリーなホームパーティーの準備・運営方法を提案しています。  
+・Geminiアプリでパーティー計画を支援する「Gem」の作成や、音声対話による装飾のアイデア出しが可能です。  
+・画像生成モデル「Nano Banana Pro」で招待状用の画像を作成したり、Pixelのスクリーンショット機能で情報を整理できます。  
+・料理中はスマートディスプレイ向け「Gemini for Home」が音声でレシピを読み上げるなど、作業を効率化します。

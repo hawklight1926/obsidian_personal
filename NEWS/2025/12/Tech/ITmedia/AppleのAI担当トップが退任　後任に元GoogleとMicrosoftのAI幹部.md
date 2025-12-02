@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  AppleはAI人材の獲得を強化し、2026年までにAI部門の責任者を増員する計画です。
-  ・GoogleやMicrosoftの元幹部を含むAI専門家を採用しています。
-  ・具体的には、GoogleでAI責任者を務めたJohn Giannandreaや、MicrosoftのAI部門責任者だったMustafa Suleymanが加わりました。
-  ・これらの人材は、Apple Intelligenceの開発やSiriの改善など、AI戦略の推進に重要な役割を担うと見られています。
+  AppleはAI人材の獲得を強化しており、2026年までにAI戦略の責任者を増員する計画です。  
+  ・GoogleやMicrosoftのAI責任者を採用し、AI開発体制を強化しています。  
+  ・新たに採用した人材は、Apple Intelligenceの開発において重要な役割を担うと見られています。  
+  ・CEOはAIを戦略の中心に位置づけ、Siriの改善などユーザー体験の向上を目指しています。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-AppleはAI人材の獲得を強化し、2026年までにAI部門の責任者を増員する計画です。
-・GoogleやMicrosoftの元幹部を含むAI専門家を採用しています。
-・具体的には、GoogleでAI責任者を務めたJohn Giannandreaや、MicrosoftのAI部門責任者だったMustafa Suleymanが加わりました。
-・これらの人材は、Apple Intelligenceの開発やSiriの改善など、AI戦略の推進に重要な役割を担うと見られています。
+AppleはAI人材の獲得を強化しており、2026年までにAI戦略の責任者を増員する計画です。  
+・GoogleやMicrosoftのAI責任者を採用し、AI開発体制を強化しています。  
+・新たに採用した人材は、Apple Intelligenceの開発において重要な役割を担うと見られています。  
+・CEOはAIを戦略の中心に位置づけ、Siriの改善などユーザー体験の向上を目指しています。

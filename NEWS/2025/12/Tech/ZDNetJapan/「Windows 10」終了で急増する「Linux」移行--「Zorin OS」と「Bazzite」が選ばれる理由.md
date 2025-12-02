@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/02/7b68934a8bc59f0e16e5e2f3c3ace915/t/184/138/d/the-top-two-linux-distros-that-windows-10-users-are-choosing-now_hero.jpg
 summary: |-
-  Windows 10サポート終了を機に、ハードウェア要件を満たせないユーザーがLinuxへの移行を進めています。
-  - 特に、Windowsに近い操作性の「Zorin OS」は、短期間で多数のダウンロードを記録しました。
-  - また、ゲームに特化した「Bazzite」も一定のダウンロード数を達成するなど、選択肢が広がっています。
-  - 本格的なOSを求めるユーザーにとって、Linuxは有力な代替手段となっています。
+  Windows 10サポート終了を機に、多くのユーザーがLinuxへの移行を選択しています。
+  - ハードウェア要件でWindows 11に移行できないPCユーザーがLinuxを代替手段として採用しています。
+  - 特に、Windowsに近い操作性の「Zorin OS」やゲーミング特化の「Bazzite」といったディストリビューションの利用が急増しています。
+  - これはMicrosoftの施策に対する反発も背景にあり、本格的なデスクトップOSを求めるユーザーにとってLinuxが現実的な選択肢となっています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![「Windows 10」終了で急増する「Linux」移行--「Zorin OS」と「Bazzite」が選ばれる理由](https://japan.zdnet.com/storage/2025/12/02/7b68934a8bc59f0e16e5e2f3c3ace915/t/184/138/d/the-top-two-linux-distros-that-windows-10-users-are-choosing-now_hero.jpg)
 
 ## 要約
-Windows 10サポート終了を機に、ハードウェア要件を満たせないユーザーがLinuxへの移行を進めています。
-- 特に、Windowsに近い操作性の「Zorin OS」は、短期間で多数のダウンロードを記録しました。
-- また、ゲームに特化した「Bazzite」も一定のダウンロード数を達成するなど、選択肢が広がっています。
-- 本格的なOSを求めるユーザーにとって、Linuxは有力な代替手段となっています。
+Windows 10サポート終了を機に、多くのユーザーがLinuxへの移行を選択しています。
+- ハードウェア要件でWindows 11に移行できないPCユーザーがLinuxを代替手段として採用しています。
+- 特に、Windowsに近い操作性の「Zorin OS」やゲーミング特化の「Bazzite」といったディストリビューションの利用が急増しています。
+- これはMicrosoftの施策に対する反発も背景にあり、本格的なデスクトップOSを求めるユーザーにとってLinuxが現実的な選択肢となっています。

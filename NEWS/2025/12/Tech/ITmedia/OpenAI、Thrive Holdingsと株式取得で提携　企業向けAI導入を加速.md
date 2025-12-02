@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  OpenAIはベンチャーキャピタルのThrive Capitalが設立したThrive Holdingsの株式を取得し、AI技術の開発加速を目指すパートナーシップを結びました。
-  ・Thrive HoldingsはAI関連企業への投資を目的とする持株会社であり、OpenAIはその株主となります。
-  ・両社は協力して最先端のAI技術を開発し、顧客サービスへの応用を進めます。
-  ・同時に、OpenAIはアクセンチュアとの提携も発表し、同社のAIサービス拡充を支援します。
+  OpenAIは投資会社Thrive Capitalが設立したThrive Holdingsの株式を取得し、戦略的提携を発表しました。
+  ・AI技術の開発加速と事業拡大を目的としており、具体的な投資額は明らかにされていません。
+  ・Thrive Holdingsは、AI企業などへの投資を目的とする持株会社です。
+  ・同時に、OpenAIはアクセンチュアとの提携も発表し、同社のAIサービス向上を支援します。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-OpenAIはベンチャーキャピタルのThrive Capitalが設立したThrive Holdingsの株式を取得し、AI技術の開発加速を目指すパートナーシップを結びました。
-・Thrive HoldingsはAI関連企業への投資を目的とする持株会社であり、OpenAIはその株主となります。
-・両社は協力して最先端のAI技術を開発し、顧客サービスへの応用を進めます。
-・同時に、OpenAIはアクセンチュアとの提携も発表し、同社のAIサービス拡充を支援します。
+OpenAIは投資会社Thrive Capitalが設立したThrive Holdingsの株式を取得し、戦略的提携を発表しました。
+・AI技術の開発加速と事業拡大を目的としており、具体的な投資額は明らかにされていません。
+・Thrive Holdingsは、AI企業などへの投資を目的とする持株会社です。
+・同時に、OpenAIはアクセンチュアとの提携も発表し、同社のAIサービス向上を支援します。
