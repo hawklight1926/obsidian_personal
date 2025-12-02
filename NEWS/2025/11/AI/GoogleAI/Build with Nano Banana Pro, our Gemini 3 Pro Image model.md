@@ -8,8 +8,8 @@ image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Buildwith
 summary: |-
   Gemini 3 Pro Imageは、高精細な画像生成と編集が可能な開発者向けAIモデルです。
   * テキストの高精度なレンダリングや、照明・構図などの詳細な制御が特徴です。
-  * 画像内の言語を文脈を保ちながら翻訳するローカライズ機能や、Google検索による情報のグラウンディングにも対応しています。
-  * このモデルは、Google AI StudioやVertex AIを通じて提供され、広告制作や教育コンテンツなど多様な応用が期待されています。
+  * Google検索によるグラウンディング機能で、事実に基づいた画像生成も可能となります。
+  * このモデルは、Google AI StudioやVertex AIを通じて提供され、マーケティング素材や教育コンテンツの作成など多様な応用が期待されています。
 read: false
 ignored: false
 pinned: false
@@ -21,5 +21,5 @@ memo: ""
 ## 要約
 Gemini 3 Pro Imageは、高精細な画像生成と編集が可能な開発者向けAIモデルです。
 * テキストの高精度なレンダリングや、照明・構図などの詳細な制御が特徴です。
-* 画像内の言語を文脈を保ちながら翻訳するローカライズ機能や、Google検索による情報のグラウンディングにも対応しています。
-* このモデルは、Google AI StudioやVertex AIを通じて提供され、広告制作や教育コンテンツなど多様な応用が期待されています。
+* Google検索によるグラウンディング機能で、事実に基づいた画像生成も可能となります。
+* このモデルは、Google AI StudioやVertex AIを通じて提供され、マーケティング素材や教育コンテンツの作成など多様な応用が期待されています。

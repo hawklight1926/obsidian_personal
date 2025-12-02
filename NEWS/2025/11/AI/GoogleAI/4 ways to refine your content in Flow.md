@@ -6,11 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Changetheweather_social.max-600x600.format-webp.webp
 summary: |-
-  Flowは動画編集アプリにおいて、コンテンツの精密な調整と編集のための新機能を導入しました。
-  - 無料ユーザーはImagenとNano Banana、有料ユーザーはNano Banana Proを利用し、被写界深度や照明などを制御した画像の生成・編集が可能です。
-  - 画像への落書きをプロンプトとして認識し、要素を追加できます。
-  - 動画クリップ内でオブジェクトの挿入や削除が可能になり、来月からはオブジェクト削除機能が実験的に提供されます。
-  - 生成された動画のカメラ位置や軌道を調整する「カメラ調整」機能も追加されました。
+  Googleの動画作成アプリ「Flow」に、コンテンツの編集と精密化を可能にする新機能が追加されました。  
+  ・「Nano Banana Pro」による画像の生成・編集で、被写界深度や照明などを細かく調整できます。  
+  ・画像への落書きをプロンプトとして認識し、要素を追加する機能が利用可能です。  
+  ・動画内のオブジェクトを挿入・削除したり、カメラの動きを調整したりする編集が行えます。
 read: false
 ignored: false
 pinned: false
@@ -20,8 +19,7 @@ memo: ""
 ![4 ways to refine your content in Flow](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Changetheweather_social.max-600x600.format-webp.webp)
 
 ## 要約
-Flowは動画編集アプリにおいて、コンテンツの精密な調整と編集のための新機能を導入しました。
-- 無料ユーザーはImagenとNano Banana、有料ユーザーはNano Banana Proを利用し、被写界深度や照明などを制御した画像の生成・編集が可能です。
-- 画像への落書きをプロンプトとして認識し、要素を追加できます。
-- 動画クリップ内でオブジェクトの挿入や削除が可能になり、来月からはオブジェクト削除機能が実験的に提供されます。
-- 生成された動画のカメラ位置や軌道を調整する「カメラ調整」機能も追加されました。
+Googleの動画作成アプリ「Flow」に、コンテンツの編集と精密化を可能にする新機能が追加されました。  
+・「Nano Banana Pro」による画像の生成・編集で、被写界深度や照明などを細かく調整できます。  
+・画像への落書きをプロンプトとして認識し、要素を追加する機能が利用可能です。  
+・動画内のオブジェクトを挿入・削除したり、カメラの動きを調整したりする編集が行えます。
