@@ -1,7 +1,7 @@
 ---
 url: https://japan.zdnet.com/article/35241113/
 date: 2025-12-02T07:50:00+09:00
-updated: 
+updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/02/d07455e037338b44096084b3cc253d59/t/184/138/d/gettyimages-510855345_hero.jpg
@@ -11,7 +11,7 @@ summary: |-
   - 企業が真に重視するのは、特定のAIスキルよりも、好奇心や学習意欲、人間ならではの創造性や言語能力です。
   - そのため、面接ではAIという言葉の適切な使用や、技術を業務でどう活用できるかといった具体的な理解が評価されます。
 read: false
-ignored: false
+ignored: true
 pinned: false
 memo: ""
 ---

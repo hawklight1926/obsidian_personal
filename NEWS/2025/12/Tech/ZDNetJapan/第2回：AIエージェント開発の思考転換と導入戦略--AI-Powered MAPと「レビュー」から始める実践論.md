@@ -1,7 +1,7 @@
 ---
 url: https://japan.zdnet.com/article/35240627/
 date: 2025-12-02T07:00:00+09:00
-updated: 
+updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg
@@ -10,7 +10,7 @@ summary: |-
   ・人間は創造と価値判断に集中し、AIはアイデアの具体化と拡張を担います。
   ・開発プロセスでは、最小労力で高度な機能を試作できる「AI-Powered MAP」の考え方が有効です。
   ・具体的な導入は、AIによる成果物を「レビュー」することから始めることが推奨されています。
-read: false
+read: true
 ignored: false
 pinned: false
 memo: ""

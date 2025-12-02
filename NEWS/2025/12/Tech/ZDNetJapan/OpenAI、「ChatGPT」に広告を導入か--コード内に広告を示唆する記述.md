@@ -1,7 +1,7 @@
 ---
 url: https://japan.zdnet.com/article/35241116/
 date: 2025-12-02T09:33:00+09:00
-updated: 
+updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/02/96eaec3eae414a58719e49d6ada6ec54/t/184/138/d/chatgpt-ads_1280.jpg
@@ -10,7 +10,7 @@ summary: |-
   ・Androidアプリのベータ版コードに広告関連の記述が複数確認されました。  
   ・CEOのSam Altman氏は以前は消極的でしたが、最近では条件付きで容認する発言をしています。  
   ・広告導入の背景には、同社の大幅な損失という収益面の課題が指摘されています。
-read: false
+read: true
 ignored: false
 pinned: false
 memo: ""

@@ -1,7 +1,7 @@
 ---
 url: https://japan.zdnet.com/article/35241114/
 date: 2025-12-02T08:30:00+09:00
-updated: 
+updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/02/7b68934a8bc59f0e16e5e2f3c3ace915/t/184/138/d/the-top-two-linux-distros-that-windows-10-users-are-choosing-now_hero.jpg
@@ -10,7 +10,7 @@ summary: |-
   ・Windows 11の厳しいハードウェア要件により、従来機種がアップグレードできない状況が背景にあります。
   ・特にWindowsに操作性が近く、ユーザーフレンドリーな「Zorin OS」のダウンロード数が急増しました。
   ・また、ゲーミング特化型の「Bazzite」など、ニーズに応じた多様なディストリビューションが選択肢となっています。
-read: false
+read: true
 ignored: false
 pinned: false
 memo: ""

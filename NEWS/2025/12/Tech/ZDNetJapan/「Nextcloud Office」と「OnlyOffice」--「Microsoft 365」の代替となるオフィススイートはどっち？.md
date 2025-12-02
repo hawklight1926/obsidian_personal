@@ -1,7 +1,7 @@
 ---
 url: https://japan.zdnet.com/article/35241035/
 date: 2025-12-02T07:00:00+09:00
-updated: 
+updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/11/29/17fe1d1a84c1f6f511c987014df4ca0c/t/184/138/d/gettyimages-1358476152_hero.jpg
@@ -12,7 +12,7 @@ summary: |-
   ・OnlyOfficeはMicrosoft Officeとの高い互換性と使いやすさが特徴です。
   いずれもAI機能は搭載されていません。
 read: false
-ignored: false
+ignored: true
 pinned: false
 memo: ""
 ---

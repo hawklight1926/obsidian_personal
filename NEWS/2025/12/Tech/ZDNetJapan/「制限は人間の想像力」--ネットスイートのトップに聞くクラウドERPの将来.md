@@ -1,7 +1,7 @@
 ---
 url: https://japan.zdnet.com/article/35240931/
 date: 2025-12-02T07:00:00+09:00
-updated: 
+updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/11/29/4581de4724921f7169b880ca52d27f59/t/184/138/d/251129_netsuite_goldberg_hero.jpg
@@ -11,7 +11,7 @@ summary: |-
   ・非構造化データの活用や外部AIとの連携を強化し、業務の自動化を推進します。
   ・創業者は、AIがビジネス運営を改善し、可能性はユーザーの想像力が鍵だと述べています。
 read: false
-ignored: false
+ignored: true
 pinned: false
 memo: ""
 ---

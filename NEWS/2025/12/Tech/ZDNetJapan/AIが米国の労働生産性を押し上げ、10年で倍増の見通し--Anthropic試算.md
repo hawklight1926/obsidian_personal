@@ -1,7 +1,7 @@
 ---
 url: https://japan.zdnet.com/article/35241110/
 date: 2025-12-02T06:59:00+09:00
-updated: 
+updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/02/5557228ecde97e32e7ebec7fa35df1ba/t/184/138/d/gettyimages-2222307220.jpg
@@ -11,7 +11,7 @@ summary: |-
   - 生産性向上の効果は職種によって差があり、ソフトウェア開発や管理職で大きく、介護や販売では比較的小さい結果でした。
   - この試算は現状の利用パターンに基づくもので、技術の進歩により実際の影響はさらに大きくなる可能性があります。
 read: false
-ignored: false
+ignored: true
 pinned: false
 memo: ""
 ---
