@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  AppleはAI人材の獲得を強化し、2026年までにAI関連のエンジニアを増員する計画です。
-  ・GoogleやMicrosoftでAI責任者を務めた経験を持つ専門家を採用しました。
-  ・具体的には、MicrosoftのAI部門責任者やGoogleのAI担当副社長などが加わっています。
-  ・これにより、Siriの改善などApple Intelligenceの開発を加速させる狙いがあります。
+  AppleはAI人材の獲得を強化しており、GoogleやMicrosoftのAI責任者を採用しました。  
+  ・GoogleのAI責任者だったジョン・ジャナンドレアをAI戦略上級副社長として迎え、Apple Intelligenceの開発を主導させます。  
+  ・また、Metaweb Technologies創業者でGoogleのAI責任者も務めたサミール・ガンディを機械学習・AI戦略上級副社長に採用しています。  
+  ・これらの人材獲得により、Siriの改善を含むAI戦略の推進を加速させる狙いです。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-AppleはAI人材の獲得を強化し、2026年までにAI関連のエンジニアを増員する計画です。
-・GoogleやMicrosoftでAI責任者を務めた経験を持つ専門家を採用しました。
-・具体的には、MicrosoftのAI部門責任者やGoogleのAI担当副社長などが加わっています。
-・これにより、Siriの改善などApple Intelligenceの開発を加速させる狙いがあります。
+AppleはAI人材の獲得を強化しており、GoogleやMicrosoftのAI責任者を採用しました。  
+・GoogleのAI責任者だったジョン・ジャナンドレアをAI戦略上級副社長として迎え、Apple Intelligenceの開発を主導させます。  
+・また、Metaweb Technologies創業者でGoogleのAI責任者も務めたサミール・ガンディを機械学習・AI戦略上級副社長に採用しています。  
+・これらの人材獲得により、Siriの改善を含むAI戦略の推進を加速させる狙いです。
