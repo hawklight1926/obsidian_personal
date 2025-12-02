@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  AppleはAI人材の獲得を強化しており、GoogleやMicrosoftのAI責任者を採用しました。  
-  ・GoogleのAI責任者だったジョン・ジャナンドレアをAI戦略上級副社長として迎え、Apple Intelligenceの開発を主導させます。  
-  ・また、Metaweb Technologies創業者でGoogleのAI責任者も務めたサミール・ガンディを機械学習・AI戦略上級副社長に採用しています。  
-  ・これらの人材獲得により、Siriの改善を含むAI戦略の推進を加速させる狙いです。
+  AppleはAI人材の獲得を強化し、2026年までにAI部門の責任者を増員する計画です。
+  ・GoogleやMicrosoftのAI責任者を採用し、AI戦略の強化を図っています。
+  ・具体的には、MicrosoftのAI部門責任者やGoogleのAI担当副社長を迎え入れました。
+  ・これにより、Siriの改善などユーザー向けAI機能の開発を加速させる方針です。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-AppleはAI人材の獲得を強化しており、GoogleやMicrosoftのAI責任者を採用しました。  
-・GoogleのAI責任者だったジョン・ジャナンドレアをAI戦略上級副社長として迎え、Apple Intelligenceの開発を主導させます。  
-・また、Metaweb Technologies創業者でGoogleのAI責任者も務めたサミール・ガンディを機械学習・AI戦略上級副社長に採用しています。  
-・これらの人材獲得により、Siriの改善を含むAI戦略の推進を加速させる狙いです。
+AppleはAI人材の獲得を強化し、2026年までにAI部門の責任者を増員する計画です。
+・GoogleやMicrosoftのAI責任者を採用し、AI戦略の強化を図っています。
+・具体的には、MicrosoftのAI部門責任者やGoogleのAI担当副社長を迎え入れました。
+・これにより、Siriの改善などユーザー向けAI機能の開発を加速させる方針です。
