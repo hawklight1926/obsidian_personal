@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  AppleはAI人材の獲得を強化し、GoogleやMicrosoftの元幹部を採用しました。
-  ・GoogleでAI責任者を務めたジョン・ジャナンドレアをAI戦略上級副社長として迎え入れました。
-  ・MicrosoftのAI部門責任者だったサム・アルトマンもAI関連の役割を担うことになりました。
-  ・これらの人材は、Siriの改善を含むAppleのAI戦略を推進する上で重要な役割を果たすと見られています。
+  AppleはAI人材の獲得を強化し、2026年までにAI部門の責任者を増員する計画です。
+  ・GoogleやMicrosoftのAI責任者を採用し、AI戦略の強化を図っています。
+  ・新たに採用した人材は、Siriの改善やApple Intelligenceの発展に重要な役割を担います。
+  ・CEOはAIを戦略の中心に位置づけ、ユーザー体験の向上に注力する方針を示しています。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-AppleはAI人材の獲得を強化し、GoogleやMicrosoftの元幹部を採用しました。
-・GoogleでAI責任者を務めたジョン・ジャナンドレアをAI戦略上級副社長として迎え入れました。
-・MicrosoftのAI部門責任者だったサム・アルトマンもAI関連の役割を担うことになりました。
-・これらの人材は、Siriの改善を含むAppleのAI戦略を推進する上で重要な役割を果たすと見られています。
+AppleはAI人材の獲得を強化し、2026年までにAI部門の責任者を増員する計画です。
+・GoogleやMicrosoftのAI責任者を採用し、AI戦略の強化を図っています。
+・新たに採用した人材は、Siriの改善やApple Intelligenceの発展に重要な役割を担います。
+・CEOはAIを戦略の中心に位置づけ、ユーザー体験の向上に注力する方針を示しています。

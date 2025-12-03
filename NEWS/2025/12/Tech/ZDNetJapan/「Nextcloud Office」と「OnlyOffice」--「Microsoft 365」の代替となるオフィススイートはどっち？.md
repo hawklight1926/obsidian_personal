@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/11/29/17fe1d1a84c1f6f511c987014df4ca0c/t/184/138/d/gettyimages-1358476152_hero.jpg
 summary: |-
-  中小企業向けのMicrosoft 365代替として、Nextcloud OfficeとOnlyOfficeという2つのオープンソースオフィススイートが台頭しています。
+  Nextcloud OfficeとOnlyOfficeは、Microsoft 365の代替となる、プライバシー重視のオープンソースオフィススイートです。
   ・両者ともクラウドベースで、ドキュメントの共同編集やセルフホストが可能です。
-  ・Nextcloud Officeはプライバシー重視で自社インフラ内にデータを保持でき、OnlyOfficeはMicrosoft Officeとの高い互換性が特徴です。
-  ・ただし、AI機能は搭載されておらず、自社サーバーへの導入には技術的知識が必要となる場合があります。
+  ・Nextcloud Officeはデータの自社管理に強く、OnlyOfficeはMicrosoft Officeとの高い互換性が特徴です。
+  ・AI機能は搭載されていませんが、ブラウザやモバイルアプリから利用できます。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![「Nextcloud Office」と「OnlyOffice」--「Microsoft 365」の代替となるオフィススイートはどっち？](https://japan.zdnet.com/storage/2025/11/29/17fe1d1a84c1f6f511c987014df4ca0c/t/184/138/d/gettyimages-1358476152_hero.jpg)
 
 ## 要約
-中小企業向けのMicrosoft 365代替として、Nextcloud OfficeとOnlyOfficeという2つのオープンソースオフィススイートが台頭しています。
+Nextcloud OfficeとOnlyOfficeは、Microsoft 365の代替となる、プライバシー重視のオープンソースオフィススイートです。
 ・両者ともクラウドベースで、ドキュメントの共同編集やセルフホストが可能です。
-・Nextcloud Officeはプライバシー重視で自社インフラ内にデータを保持でき、OnlyOfficeはMicrosoft Officeとの高い互換性が特徴です。
-・ただし、AI機能は搭載されておらず、自社サーバーへの導入には技術的知識が必要となる場合があります。
+・Nextcloud Officeはデータの自社管理に強く、OnlyOfficeはMicrosoft Officeとの高い互換性が特徴です。
+・AI機能は搭載されていませんが、ブラウザやモバイルアプリから利用できます。
