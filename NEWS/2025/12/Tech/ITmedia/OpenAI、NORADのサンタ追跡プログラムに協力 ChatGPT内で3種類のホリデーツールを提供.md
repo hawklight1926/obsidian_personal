@@ -6,11 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  OpenAIは、北米航空宇宙防衛司令部（NORAD）の「NORAD Tracks Santa」プロジェクトに協力し、ChatGPTで利用可能な3種類のクリスマス向けカスタムGPTを発表しました。  
-  ・「Elf Enrollment」は、自分の写真をエルフのアバターに変える体験を提供します。  
-  ・「Santa's Toy Lab」では、子供が描いたおもちゃの絵を、AIが詳細な画像に変換します。  
-  ・「Christmas Story Creator」は、家族の情報を入力すると、パーソナライズされた物語を生成します。  
-  この取り組みにより、NORADは長年続く伝統的なプロジェクトに、新たなインタラクティブな体験を加えています。
+  OpenAIは、NORADの「NORAD Tracks Santa」プロジェクトに協力し、ChatGPTで利用可能な3種類のクリスマス向けカスタムGPTを発表しました。  
+  - 具体的には、写真をエルフのスタンプに変える「Elf Enrollment」、おもちゃのアイデアをデジタル模型化する「Santa's Toy Lab」、家族向けの物語を生成する「Christmas Story Creator」を提供しています。  
+  - これらのツールは、NORADが長年続けるクリスマス・イブのサンタ追跡伝統に、AI技術を用いた新たな体験を加えることを目的としています。  
+  - 同プロジェクトは1955年から続く人気企画で、2012年以降はMicrosoftの技術も活用されていました。
 read: false
 ignored: false
 pinned: false
@@ -18,8 +17,7 @@ memo: ""
 ---
 
 ## 要約
-OpenAIは、北米航空宇宙防衛司令部（NORAD）の「NORAD Tracks Santa」プロジェクトに協力し、ChatGPTで利用可能な3種類のクリスマス向けカスタムGPTを発表しました。  
-・「Elf Enrollment」は、自分の写真をエルフのアバターに変える体験を提供します。  
-・「Santa's Toy Lab」では、子供が描いたおもちゃの絵を、AIが詳細な画像に変換します。  
-・「Christmas Story Creator」は、家族の情報を入力すると、パーソナライズされた物語を生成します。  
-この取り組みにより、NORADは長年続く伝統的なプロジェクトに、新たなインタラクティブな体験を加えています。
+OpenAIは、NORADの「NORAD Tracks Santa」プロジェクトに協力し、ChatGPTで利用可能な3種類のクリスマス向けカスタムGPTを発表しました。  
+- 具体的には、写真をエルフのスタンプに変える「Elf Enrollment」、おもちゃのアイデアをデジタル模型化する「Santa's Toy Lab」、家族向けの物語を生成する「Christmas Story Creator」を提供しています。  
+- これらのツールは、NORADが長年続けるクリスマス・イブのサンタ追跡伝統に、AI技術を用いた新たな体験を加えることを目的としています。  
+- 同プロジェクトは1955年から続く人気企画で、2012年以降はMicrosoftの技術も活用されていました。
