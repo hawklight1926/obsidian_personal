@@ -6,11 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  OpenAIは、NORADの「NORAD Tracks Santa」プロジェクトに協力し、ChatGPTで利用可能な3種類のクリスマス向けツールを発表しました。  
-  ・「Elf Enrollment」は、自分の写真をエルフのアバターに変換します。  
-  ・「Santa's Toy Lab」は、子供が描いたおもちゃの絵を、3Dアニメーションに変えて表示します。  
-  ・「Christmas Story Creator」は、家族の情報を入力すると、パーソナライズされた物語を生成します。  
-  これらのツールは、同プロジェクトの伝統を継承しつつ、AI技術で新しい体験を提供することを目指しています。
+  OpenAIは、NORADの「NORAD Tracks Santa」プロジェクトに協力し、ChatGPTで利用可能な3種類のクリスマス向けカスタムGPTを発表しました。  
+  - 発表されたのは「Elf Enrollment」「Santa's Toy Lab」「Christmas Story Creator」の3種類です。  
+  - これらは、写真をエルフのスタンプに変えたり、おもちゃのデザインを生成したり、家族向けの物語を作成したりするインタラクティブな体験を提供します。  
+  - この取り組みは、長年続く伝統的なプロジェクトに、AI技術を活用して新たな楽しみを加えることを目的としています。
 read: false
 ignored: false
 pinned: false
@@ -18,8 +17,7 @@ memo: ""
 ---
 
 ## 要約
-OpenAIは、NORADの「NORAD Tracks Santa」プロジェクトに協力し、ChatGPTで利用可能な3種類のクリスマス向けツールを発表しました。  
-・「Elf Enrollment」は、自分の写真をエルフのアバターに変換します。  
-・「Santa's Toy Lab」は、子供が描いたおもちゃの絵を、3Dアニメーションに変えて表示します。  
-・「Christmas Story Creator」は、家族の情報を入力すると、パーソナライズされた物語を生成します。  
-これらのツールは、同プロジェクトの伝統を継承しつつ、AI技術で新しい体験を提供することを目指しています。
+OpenAIは、NORADの「NORAD Tracks Santa」プロジェクトに協力し、ChatGPTで利用可能な3種類のクリスマス向けカスタムGPTを発表しました。  
+- 発表されたのは「Elf Enrollment」「Santa's Toy Lab」「Christmas Story Creator」の3種類です。  
+- これらは、写真をエルフのスタンプに変えたり、おもちゃのデザインを生成したり、家族向けの物語を作成したりするインタラクティブな体験を提供します。  
+- この取り組みは、長年続く伝統的なプロジェクトに、AI技術を活用して新たな楽しみを加えることを目的としています。
