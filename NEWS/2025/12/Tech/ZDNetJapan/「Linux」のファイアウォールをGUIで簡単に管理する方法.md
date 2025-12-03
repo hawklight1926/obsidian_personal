@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/01/6b8e63e639801d85c610a6f81eb6a719/t/184/138/d/linux-guis-for-simplifying-firewall-management_hero.jpg
 summary: |-
-  Linuxファイアウォールは、GUIツールを用いることで簡単に管理できるようになりました。
-  ・従来は複雑なコマンドラインツール「iptables」の習得が必要でしたが、現在は「UFW」や「firewalld」といった簡易なツールが主流です。
-  ・例えば「GUFW」はUFW用のGUIで、スライダーで有効化し、SSHなど特定の通信を許可するルールを視覚的に追加できます。
-  ・同様に「firewalld」にもGUIツールがあり、コマンドラインを使わずにファイアウォールを設定することが可能です。
+  Linuxファイアウォールは、従来は複雑なiptablesの知識が必要でしたが、現在ではGUIツールにより簡単に管理できるようになりました。
+  ・UFW用のGUI「GUFW」では、スライダーで有効化し、SSHなどアプリケーション名でルールを直感的に追加できます。
+  ・firewalld用のGUI「Firewall-Config」や「Cockpit」も同様に、視覚的な操作でファイアウォール設定を管理可能です。
+  ・これらのツールにより、コマンドライン操作に不慣れなユーザーでも、ポートの開放や遮断などのセキュリティ設定を容易に行えます。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![「Linux」のファイアウォールをGUIで簡単に管理する方法](https://japan.zdnet.com/storage/2025/12/01/6b8e63e639801d85c610a6f81eb6a719/t/184/138/d/linux-guis-for-simplifying-firewall-management_hero.jpg)
 
 ## 要約
-Linuxファイアウォールは、GUIツールを用いることで簡単に管理できるようになりました。
-・従来は複雑なコマンドラインツール「iptables」の習得が必要でしたが、現在は「UFW」や「firewalld」といった簡易なツールが主流です。
-・例えば「GUFW」はUFW用のGUIで、スライダーで有効化し、SSHなど特定の通信を許可するルールを視覚的に追加できます。
-・同様に「firewalld」にもGUIツールがあり、コマンドラインを使わずにファイアウォールを設定することが可能です。
+Linuxファイアウォールは、従来は複雑なiptablesの知識が必要でしたが、現在ではGUIツールにより簡単に管理できるようになりました。
+・UFW用のGUI「GUFW」では、スライダーで有効化し、SSHなどアプリケーション名でルールを直感的に追加できます。
+・firewalld用のGUI「Firewall-Config」や「Cockpit」も同様に、視覚的な操作でファイアウォール設定を管理可能です。
+・これらのツールにより、コマンドライン操作に不慣れなユーザーでも、ポートの開放や遮断などのセキュリティ設定を容易に行えます。

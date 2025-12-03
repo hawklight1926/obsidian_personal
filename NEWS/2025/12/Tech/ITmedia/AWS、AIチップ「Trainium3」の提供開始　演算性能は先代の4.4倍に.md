@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  AWSはAI学習専用チップ「Trainium3」と、それを搭載した新サーバー「Trainium3 UltraServer」を発表しました。  
-  ・Trainium3は前世代比で学習性能が2倍に向上しています。  
-  ・Trainium3 UltraServerは最大144チップを搭載可能で、システム全体として性能とエネルギー効率が大幅に改善されました。  
-  ・これらは既に一部顧客に提供が開始され、Amazon Bedrockなどのサービスで利用されます。
+  AWSはAI学習専用チップ「Trainium3」と、それを搭載した新システム「Trainium3 UltraServer」を発表しました。  
+  ・Trainium3は前世代比で性能が2倍向上し、最大144個を搭載可能な新システムは最大4.4倍の性能向上を実現しています。  
+  ・新ネットワーク技術「NeuronSwitch-v1」により、チップ間通信速度も大幅に改善されました。  
+  ・既に一部顧客に提供を開始しており、従来比で最大50%のコスト削減が可能とされています。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-AWSはAI学習専用チップ「Trainium3」と、それを搭載した新サーバー「Trainium3 UltraServer」を発表しました。  
-・Trainium3は前世代比で学習性能が2倍に向上しています。  
-・Trainium3 UltraServerは最大144チップを搭載可能で、システム全体として性能とエネルギー効率が大幅に改善されました。  
-・これらは既に一部顧客に提供が開始され、Amazon Bedrockなどのサービスで利用されます。
+AWSはAI学習専用チップ「Trainium3」と、それを搭載した新システム「Trainium3 UltraServer」を発表しました。  
+・Trainium3は前世代比で性能が2倍向上し、最大144個を搭載可能な新システムは最大4.4倍の性能向上を実現しています。  
+・新ネットワーク技術「NeuronSwitch-v1」により、チップ間通信速度も大幅に改善されました。  
+・既に一部顧客に提供を開始しており、従来比で最大50%のコスト削減が可能とされています。
