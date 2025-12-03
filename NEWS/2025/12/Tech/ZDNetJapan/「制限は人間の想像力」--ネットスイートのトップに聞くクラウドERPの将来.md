@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/11/29/4581de4724921f7169b880ca52d27f59/t/184/138/d/251129_netsuite_goldberg_hero.jpg
 summary: |-
-  Oracle NetSuiteはAI搭載による次世代クラウドERP「NetSuite Next」を発表しました。  
+  OracleはクラウドERP「NetSuite」の次世代版「NetSuite Next」を発表し、AI統合による業務革新を提示しました。  
   ・自然言語で操作できる「Ask Oracle」を中心に、対話形式でのシステム利用を可能にします。  
-  ・非構造化データの活用や外部AIとの連携により、業務の自動化と効率化を推進します。  
-  ・創業者のEvan Goldberg氏は、AIがビジネス運営を改善し、可能性はユーザーの想像力にかかると述べています。
+  ・非構造化データの活用や外部AIとの連携により、業務プロセスの自動化と高度な分析を実現します。  
+  ・創業者は、AIが業務効率を飛躍的に高め、革新の制約はユーザーの想像力のみと述べています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![「制限は人間の想像力」--ネットスイートのトップに聞くクラウドERPの将来](https://japan.zdnet.com/storage/2025/11/29/4581de4724921f7169b880ca52d27f59/t/184/138/d/251129_netsuite_goldberg_hero.jpg)
 
 ## 要約
-Oracle NetSuiteはAI搭載による次世代クラウドERP「NetSuite Next」を発表しました。  
+OracleはクラウドERP「NetSuite」の次世代版「NetSuite Next」を発表し、AI統合による業務革新を提示しました。  
 ・自然言語で操作できる「Ask Oracle」を中心に、対話形式でのシステム利用を可能にします。  
-・非構造化データの活用や外部AIとの連携により、業務の自動化と効率化を推進します。  
-・創業者のEvan Goldberg氏は、AIがビジネス運営を改善し、可能性はユーザーの想像力にかかると述べています。
+・非構造化データの活用や外部AIとの連携により、業務プロセスの自動化と高度な分析を実現します。  
+・創業者は、AIが業務効率を飛躍的に高め、革新の制約はユーザーの想像力のみと述べています。

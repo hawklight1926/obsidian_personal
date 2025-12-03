@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  AppleはAI人材の獲得を強化し、元GoogleのAI責任者をはじめとする複数の専門家を採用しました。
-  ・元GoogleのAI責任者であるジョン・ジャンダプリカをAIシニアバイスプレジデントとして迎え入れました。
-  ・また、元MicrosoftのAI責任者や、AIスタートアップの創業者なども採用しています。
-  ・これらの人材は、Apple Intelligenceの開発やSiriの改善など、同社のAI戦略を推進する重要な役割を担うと見られます。
+  Appleは、AI戦略強化のためGoogleとMicrosoftからAI部門の責任者を採用し、2026年までにAIエンジニアを増員する計画です。
+  ・GoogleでAI責任者を務めたジョン・ジャナンドレアをAI戦略上級副社長として採用しました。
+  ・MicrosoftのAI部門責任者だったサミール・バルマンもAI上級副社長として迎えています。
+  ・これにより、Apple Intelligenceの開発やSiriの改善など、AI関連の取り組みを加速させる方針です。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-AppleはAI人材の獲得を強化し、元GoogleのAI責任者をはじめとする複数の専門家を採用しました。
-・元GoogleのAI責任者であるジョン・ジャンダプリカをAIシニアバイスプレジデントとして迎え入れました。
-・また、元MicrosoftのAI責任者や、AIスタートアップの創業者なども採用しています。
-・これらの人材は、Apple Intelligenceの開発やSiriの改善など、同社のAI戦略を推進する重要な役割を担うと見られます。
+Appleは、AI戦略強化のためGoogleとMicrosoftからAI部門の責任者を採用し、2026年までにAIエンジニアを増員する計画です。
+・GoogleでAI責任者を務めたジョン・ジャナンドレアをAI戦略上級副社長として採用しました。
+・MicrosoftのAI部門責任者だったサミール・バルマンもAI上級副社長として迎えています。
+・これにより、Apple Intelligenceの開発やSiriの改善など、AI関連の取り組みを加速させる方針です。
