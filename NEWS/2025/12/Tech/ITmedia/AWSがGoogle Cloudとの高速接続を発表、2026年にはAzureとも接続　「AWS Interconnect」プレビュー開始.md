@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  AWSがGoogle CloudやAzureなど他クラウドとの高速接続サービス「AWS Interconnect - multicloud」の提供を開始しました。
-  - これにより、複数のクラウドを組み合わせるマルチクラウド環境でも、安定したネットワーク構築が容易になります。
-  - 最初の接続先としてGoogle Cloudが利用可能で、2026年にはMicrosoft Azureとの接続も予定されています。
-  - このサービスは、AWSの既存ネットワークサービスとシームレスに連携し、最大5種類の接続速度をサポートします。
+  AWSがGoogle CloudやMicrosoft Azureなど他クラウドとの高速接続サービス「AWS Interconnect - multicloud」の提供を開始しました。  
+  ・従来、複数クラウドを組み合わせる際には顧客自身がネットワーク構築を行う必要がありました。  
+  ・このサービスにより、AWSのサービスと他クラウドとのシームレスな連携が可能になります。  
+  ・まずGoogle Cloudとの接続が可能で、2026年にはMicrosoft Azureとの接続も予定されています。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-AWSがGoogle CloudやAzureなど他クラウドとの高速接続サービス「AWS Interconnect - multicloud」の提供を開始しました。
-- これにより、複数のクラウドを組み合わせるマルチクラウド環境でも、安定したネットワーク構築が容易になります。
-- 最初の接続先としてGoogle Cloudが利用可能で、2026年にはMicrosoft Azureとの接続も予定されています。
-- このサービスは、AWSの既存ネットワークサービスとシームレスに連携し、最大5種類の接続速度をサポートします。
+AWSがGoogle CloudやMicrosoft Azureなど他クラウドとの高速接続サービス「AWS Interconnect - multicloud」の提供を開始しました。  
+・従来、複数クラウドを組み合わせる際には顧客自身がネットワーク構築を行う必要がありました。  
+・このサービスにより、AWSのサービスと他クラウドとのシームレスな連携が可能になります。  
+・まずGoogle Cloudとの接続が可能で、2026年にはMicrosoft Azureとの接続も予定されています。
