@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  Appleは、AI戦略強化のためGoogleやMicrosoftなどからAI専門家を相次いで採用しています。
-  ・GoogleでAI責任者を務めたジョン・ジャナンドレアをAI戦略上級副社長として迎え入れました。
-  ・MicrosoftのAI部門責任者だったムスタファ・スレイマンもAI上級副社長として採用しています。
-  ・これらの人材獲得は、Apple Intelligenceの開発加速とSiriの高度化を目指す取り組みの一環です。
+  AppleはAI人材の獲得を強化し、2026年までにAIヘリコプターの開発を目指すと発表しました。
+  ・GoogleやMicrosoftのAI部門責任者を採用し、AI戦略の責任者を配置しています。
+  ・新たに採用したAI責任者は、Apple Intelligenceの発展に重要な役割を果たすと見られています。
+  ・CEOはAIを戦略の中心に位置づけ、Siriの改善などユーザー体験向上に注力すると述べています。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-Appleは、AI戦略強化のためGoogleやMicrosoftなどからAI専門家を相次いで採用しています。
-・GoogleでAI責任者を務めたジョン・ジャナンドレアをAI戦略上級副社長として迎え入れました。
-・MicrosoftのAI部門責任者だったムスタファ・スレイマンもAI上級副社長として採用しています。
-・これらの人材獲得は、Apple Intelligenceの開発加速とSiriの高度化を目指す取り組みの一環です。
+AppleはAI人材の獲得を強化し、2026年までにAIヘリコプターの開発を目指すと発表しました。
+・GoogleやMicrosoftのAI部門責任者を採用し、AI戦略の責任者を配置しています。
+・新たに採用したAI責任者は、Apple Intelligenceの発展に重要な役割を果たすと見られています。
+・CEOはAIを戦略の中心に位置づけ、Siriの改善などユーザー体験向上に注力すると述べています。
