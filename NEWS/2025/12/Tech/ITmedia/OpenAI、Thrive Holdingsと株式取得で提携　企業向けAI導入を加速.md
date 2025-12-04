@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  OpenAIはベンチャーキャピタルのThrive Capitalが設立したThrive Holdingsの株式を取得しました。
-  ・AI技術の開発促進と事業拡大を目的とした戦略的投資です。
-  ・Thrive HoldingsはAI関連企業への投資を専門とするファンドです。
-  ・同時にOpenAIはアクセンチュアと提携し、企業向けAIソリューションの強化を進めています。
+  OpenAIは、投資会社Thrive Capitalが設立したThrive Holdingsの株式を取得し、AI技術開発のための資金調達と戦略的連携を目指すことを発表しました。  
+  ・Thrive Holdingsは、AI技術を持つ企業への投資を目的とするファンドです。  
+  ・今回の資本提携により、OpenAIはAI技術の開発加速と顧客への最適な提供を目指します。  
+  ・同時に、OpenAIはアクセンチュアとの連携も発表し、企業向けAIサービスの拡充を図っています。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-OpenAIはベンチャーキャピタルのThrive Capitalが設立したThrive Holdingsの株式を取得しました。
-・AI技術の開発促進と事業拡大を目的とした戦略的投資です。
-・Thrive HoldingsはAI関連企業への投資を専門とするファンドです。
-・同時にOpenAIはアクセンチュアと提携し、企業向けAIソリューションの強化を進めています。
+OpenAIは、投資会社Thrive Capitalが設立したThrive Holdingsの株式を取得し、AI技術開発のための資金調達と戦略的連携を目指すことを発表しました。  
+・Thrive Holdingsは、AI技術を持つ企業への投資を目的とするファンドです。  
+・今回の資本提携により、OpenAIはAI技術の開発加速と顧客への最適な提供を目指します。  
+・同時に、OpenAIはアクセンチュアとの連携も発表し、企業向けAIサービスの拡充を図っています。

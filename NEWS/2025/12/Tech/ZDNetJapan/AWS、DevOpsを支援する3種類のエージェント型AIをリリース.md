@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/03/9f7413c1373b62d7150240da4aa195b2/t/184/138/d/amazon-aws-frontier-agents-graphic-2025_1280.jpg
 summary: |-
-  AWSはre:Inventカンファレンスで、DevOpsとセキュリティタスクを自動化する3種類のエージェント型AIを発表しました。  
-  ・「フロンティアエージェント」は、人間の介入なしに長時間稼働し、関連タスクをまとめて処理します。  
-  ・具体的には、コードリポジトリーの更新やアプリケーション障害の監視、コード脆弱性の分析などを自動化します。  
-  ・Kiroエージェントは開発者サイトから、Security AgentとDevOps AgentはAWS管理コンソールから利用可能です。
+  AWSが「フロンティアエージェント」と称する3種類のエージェント型AIを発表しました。  
+  ・これらは、コード記述だけでなく、コードライブラリーの管理やセキュリティ監視など関連タスクを一括処理します。  
+  ・特に、DevOps関連タスクやコード脆弱性分析といったサイバーセキュリティ作業の自動化を目的としています。  
+  ・Kiroエージェントは開発者サイトから、Security AgentとDevOps AgentはAWS管理コンソールからそれぞれ利用可能です。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![AWS、DevOpsを支援する3種類のエージェント型AIをリリース](https://japan.zdnet.com/storage/2025/12/03/9f7413c1373b62d7150240da4aa195b2/t/184/138/d/amazon-aws-frontier-agents-graphic-2025_1280.jpg)
 
 ## 要約
-AWSはre:Inventカンファレンスで、DevOpsとセキュリティタスクを自動化する3種類のエージェント型AIを発表しました。  
-・「フロンティアエージェント」は、人間の介入なしに長時間稼働し、関連タスクをまとめて処理します。  
-・具体的には、コードリポジトリーの更新やアプリケーション障害の監視、コード脆弱性の分析などを自動化します。  
-・Kiroエージェントは開発者サイトから、Security AgentとDevOps AgentはAWS管理コンソールから利用可能です。
+AWSが「フロンティアエージェント」と称する3種類のエージェント型AIを発表しました。  
+・これらは、コード記述だけでなく、コードライブラリーの管理やセキュリティ監視など関連タスクを一括処理します。  
+・特に、DevOps関連タスクやコード脆弱性分析といったサイバーセキュリティ作業の自動化を目的としています。  
+・Kiroエージェントは開発者サイトから、Security AgentとDevOps AgentはAWS管理コンソールからそれぞれ利用可能です。

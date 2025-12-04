@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  AppleはAI人材の獲得を強化し、2026年までにAIヘリコプターの開発を目指すと発表しました。
-  ・GoogleやMicrosoftのAI部門責任者を採用し、AI戦略の責任者を配置しています。
-  ・新たに採用したAI責任者は、Apple Intelligenceの発展に重要な役割を果たすと見られています。
-  ・CEOはAIを戦略の中心に位置づけ、Siriの改善などユーザー体験向上に注力すると述べています。
+  AppleはAI人材の獲得を強化しており、GoogleやMicrosoftの元幹部を採用しました。  
+  ・GoogleでAI責任者を務めたジョン・ジャナンドレアをAI戦略上級副社長として迎え、Apple Intelligenceの開発を主導させます。  
+  ・また、GoogleのAI部門責任者だったアーロン・ウッドマンもAI戦略上級副社長として採用し、AI関連の責任範囲を拡大しています。  
+  ・これらの人事は、Siriの改善などAppleのAI戦略を推進する上で重要な役割を果たすと見られています。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-AppleはAI人材の獲得を強化し、2026年までにAIヘリコプターの開発を目指すと発表しました。
-・GoogleやMicrosoftのAI部門責任者を採用し、AI戦略の責任者を配置しています。
-・新たに採用したAI責任者は、Apple Intelligenceの発展に重要な役割を果たすと見られています。
-・CEOはAIを戦略の中心に位置づけ、Siriの改善などユーザー体験向上に注力すると述べています。
+AppleはAI人材の獲得を強化しており、GoogleやMicrosoftの元幹部を採用しました。  
+・GoogleでAI責任者を務めたジョン・ジャナンドレアをAI戦略上級副社長として迎え、Apple Intelligenceの開発を主導させます。  
+・また、GoogleのAI部門責任者だったアーロン・ウッドマンもAI戦略上級副社長として採用し、AI関連の責任範囲を拡大しています。  
+・これらの人事は、Siriの改善などAppleのAI戦略を推進する上で重要な役割を果たすと見られています。
