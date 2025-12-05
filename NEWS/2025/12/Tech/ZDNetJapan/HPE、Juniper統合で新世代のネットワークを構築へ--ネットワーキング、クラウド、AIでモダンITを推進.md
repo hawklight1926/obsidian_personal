@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/04/69ab8b5e3aad9aef4d860c4b7e7ecc56/t/184/138/d/251204_hpe_neri_hero.jpg
 summary: |-
-  HPEはJuniper Networks買収完了を受け、AI時代に対応する「モダンなIT」の基盤としてネットワーキング、クラウド、AIの強化を推進しています。
-  - 買収により統合された「HPE Networking」では、AIワークロードに不可欠な高性能・低遅延ネットワークの構築を目指します。
-  - 具体的には、自律動作する「セルフドライビングネットワーク」や、両社の管理ソフトウェアを選択可能なWi-Fi 7アクセスポイントなどを開発中です。
-  - さらに、NVIDIAとの「AI Factory」構想にもJuniperのルーティング技術を統合し、大規模AIクラスター接続を支援します。
+  HPEはJuniper Networks買収完了を受け、ネットワーキング、クラウド、AIを3本柱とする「モダンIT」の構築を推進しています。
+  ・AI時代には、自己修復・最適化する「セルフドライビングネットワーク」が重要と位置付けています。
+  ・買収したJuniperと既存のArubaを「HPE Networking」ブランドに統合し、両社の技術を組み合わせた新製品・サービスを2026年から提供予定です。
+  ・具体的には、Wi-Fi 7アクセスポイントの管理プラットフォーム統合や、NVIDIAとの協業によるAI Factory向けネットワーク強化などを進めます。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![HPE、Juniper統合で新世代のネットワークを構築へ--ネットワーキング、クラウド、AIでモダンITを推進](https://japan.zdnet.com/storage/2025/12/04/69ab8b5e3aad9aef4d860c4b7e7ecc56/t/184/138/d/251204_hpe_neri_hero.jpg)
 
 ## 要約
-HPEはJuniper Networks買収完了を受け、AI時代に対応する「モダンなIT」の基盤としてネットワーキング、クラウド、AIの強化を推進しています。
-- 買収により統合された「HPE Networking」では、AIワークロードに不可欠な高性能・低遅延ネットワークの構築を目指します。
-- 具体的には、自律動作する「セルフドライビングネットワーク」や、両社の管理ソフトウェアを選択可能なWi-Fi 7アクセスポイントなどを開発中です。
-- さらに、NVIDIAとの「AI Factory」構想にもJuniperのルーティング技術を統合し、大規模AIクラスター接続を支援します。
+HPEはJuniper Networks買収完了を受け、ネットワーキング、クラウド、AIを3本柱とする「モダンIT」の構築を推進しています。
+・AI時代には、自己修復・最適化する「セルフドライビングネットワーク」が重要と位置付けています。
+・買収したJuniperと既存のArubaを「HPE Networking」ブランドに統合し、両社の技術を組み合わせた新製品・サービスを2026年から提供予定です。
+・具体的には、Wi-Fi 7アクセスポイントの管理プラットフォーム統合や、NVIDIAとの協業によるAI Factory向けネットワーク強化などを進めます。

@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/03/5177aa82a903a2f89bc50d15b926d6b2/t/184/138/d/ultramarin43hero.jpg
 summary: |-
-  Ultramarine Linux 43は、Fedora派生のイミュータブルなデスクトップディストリビューションです。
-  ・OSのコア部分が読み取り専用で、高いセキュリティと安定性を提供します。
-  ・パッケージマネージャーとしてRPMオプションが復活し、新インストーラー「Readymade」で導入が容易になりました。
-  ・推奨デスクトップ環境がBudgieからKDE Plasmaに変更され、洗練されたモダンな体験を提供します。
+  Ultramarine Linux 43は、Fedora派生のイミュータブル（不変）なデスクトップディストリビューションです。
+  - OSのコア部分が読み取り専用で、高いセキュリティと安定性を提供します。
+  - パッケージ管理にRPMオプションが復活し、新インストーラー「Readymade」によりインストールが簡素化されました。
+  - 推奨デスクトップ環境がBudgieからKDE Plasmaに変更され、洗練されたモダンな体験を提供します。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![「Ultramarine Linux 43」レビュー--「Fedora」派生のイミュータブルディストロ](https://japan.zdnet.com/storage/2025/12/03/5177aa82a903a2f89bc50d15b926d6b2/t/184/138/d/ultramarin43hero.jpg)
 
 ## 要約
-Ultramarine Linux 43は、Fedora派生のイミュータブルなデスクトップディストリビューションです。
-・OSのコア部分が読み取り専用で、高いセキュリティと安定性を提供します。
-・パッケージマネージャーとしてRPMオプションが復活し、新インストーラー「Readymade」で導入が容易になりました。
-・推奨デスクトップ環境がBudgieからKDE Plasmaに変更され、洗練されたモダンな体験を提供します。
+Ultramarine Linux 43は、Fedora派生のイミュータブル（不変）なデスクトップディストリビューションです。
+- OSのコア部分が読み取り専用で、高いセキュリティと安定性を提供します。
+- パッケージ管理にRPMオプションが復活し、新インストーラー「Readymade」によりインストールが簡素化されました。
+- 推奨デスクトップ環境がBudgieからKDE Plasmaに変更され、洗練されたモダンな体験を提供します。
