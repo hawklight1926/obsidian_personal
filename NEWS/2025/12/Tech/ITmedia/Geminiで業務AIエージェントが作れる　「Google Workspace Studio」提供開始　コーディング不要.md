@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  Googleが、AIを活用して業務効率化のためのワークフローを自動生成できる「Google Workspace Studio」の提供を開始しました。
-  ・Gemini 3の推論能力を利用し、自然言語の指示から数秒でワークフローを作成できます。
-  ・GmailやGoogle ChatなどのWorkspaceアプリと連携し、メール処理や通知などの業務を自動化します。
-  ・作成したワークフローはチームで共有可能で、外部サービスとの連携機能も備えています。
+  Googleは、AIを活用して業務効率化の自動化ワークフローを作成できる「Google Workspace Studio」の提供を開始しました。  
+  - GeminiのAI機能を利用し、自然言語の指示から数分でワークフローを生成できます。  
+  - GmailやGoogle DriveなどWorkspaceアプリと連携し、メール処理やファイル管理を自動化可能です。  
+  - 作成したワークフローはチームで共有でき、外部サービスとの連携機能も備えています。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-Googleが、AIを活用して業務効率化のためのワークフローを自動生成できる「Google Workspace Studio」の提供を開始しました。
-・Gemini 3の推論能力を利用し、自然言語の指示から数秒でワークフローを作成できます。
-・GmailやGoogle ChatなどのWorkspaceアプリと連携し、メール処理や通知などの業務を自動化します。
-・作成したワークフローはチームで共有可能で、外部サービスとの連携機能も備えています。
+Googleは、AIを活用して業務効率化の自動化ワークフローを作成できる「Google Workspace Studio」の提供を開始しました。  
+- GeminiのAI機能を利用し、自然言語の指示から数分でワークフローを生成できます。  
+- GmailやGoogle DriveなどWorkspaceアプリと連携し、メール処理やファイル管理を自動化可能です。  
+- 作成したワークフローはチームで共有でき、外部サービスとの連携機能も備えています。
