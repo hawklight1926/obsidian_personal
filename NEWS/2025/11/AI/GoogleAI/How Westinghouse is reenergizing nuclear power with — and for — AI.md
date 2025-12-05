@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Westinghouse-vogtle-plant-georg.max-600x600.format-webp.webp
 summary: |-
-  ウェスティングハウス社は、AIの電力需要増に対応するため、2030年までに10基の新型原子炉建設を目指しています。  
-  ・Google Cloudと連携し、AIプラットフォームを用いて建設プロセスの最適化と加速を図っています。  
-  ・同社の既存AI基盤「Hive」や3Dデジタルツインと組み合わせ、工程のボトルネック予測やコスト削減を実現しています。  
-  ・このAI技術は建設だけでなく、運転保守や安全性向上にも応用され、エネルギー分野の変革を推進しています。
+  ウェスティングハウス社は、AIの電力需要増に対応しつつAIを活用した原子力発電所建設の加速を目指し、Google Cloudと連携しています。  
+  - 2030年までに最新型原子炉10基の建設を計画し、AIと3Dデジタルツインを活用したプラットフォームで工程を最適化します。  
+  - 既存のAI基盤「Hive」や生成AI「Bertha」を活用し、建設コスト削減と工期短縮を実現しています。  
+  - 同技術は建設だけでなく、運転保守や燃料交換の効率化にも応用され、原子力発電の競争力向上を図っています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![How Westinghouse is reenergizing nuclear power with — and for — AI](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Westinghouse-vogtle-plant-georg.max-600x600.format-webp.webp)
 
 ## 要約
-ウェスティングハウス社は、AIの電力需要増に対応するため、2030年までに10基の新型原子炉建設を目指しています。  
-・Google Cloudと連携し、AIプラットフォームを用いて建設プロセスの最適化と加速を図っています。  
-・同社の既存AI基盤「Hive」や3Dデジタルツインと組み合わせ、工程のボトルネック予測やコスト削減を実現しています。  
-・このAI技術は建設だけでなく、運転保守や安全性向上にも応用され、エネルギー分野の変革を推進しています。
+ウェスティングハウス社は、AIの電力需要増に対応しつつAIを活用した原子力発電所建設の加速を目指し、Google Cloudと連携しています。  
+- 2030年までに最新型原子炉10基の建設を計画し、AIと3Dデジタルツインを活用したプラットフォームで工程を最適化します。  
+- 既存のAI基盤「Hive」や生成AI「Bertha」を活用し、建設コスト削減と工期短縮を実現しています。  
+- 同技術は建設だけでなく、運転保守や燃料交換の効率化にも応用され、原子力発電の競争力向上を図っています。
