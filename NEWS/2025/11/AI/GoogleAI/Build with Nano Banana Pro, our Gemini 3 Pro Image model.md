@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Buildwithnano_hero.max-600x600.format-webp.webp
 summary: |-
-  Gemini 3 Pro Imageは、高精細な画像生成と編集が可能な開発者向けAIモデルです。
-  ・高画質（2K/4K）出力や照明・構図の制御により、広告制作などのプロ用途に対応します。
-  ・従来モデルよりテキストの描画精度が高く、看板やメニューの多言語書き換えも可能です。
-  ・Google検索によるグラウンディング機能で、情報に基づいた正確な図表の生成が行えます。
+  Gemini 3 Pro Imageは、高精細な画像生成と編集が可能な開発者向けの最新モデルです。
+  * テキストの高精度なレンダリングや、照明・構図などの詳細な制御により、プロ品質の画像を生成できます。
+  * 多言語対応やGoogle検索との連携による情報の接地機能により、多様なアプリケーション開発を支援します。
+  * このモデルは、Google AI StudioやVertex AIを通じて有料プレビューとして提供が開始されています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![Build with Nano Banana Pro, our Gemini 3 Pro Image model](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Buildwithnano_hero.max-600x600.format-webp.webp)
 
 ## 要約
-Gemini 3 Pro Imageは、高精細な画像生成と編集が可能な開発者向けAIモデルです。
-・高画質（2K/4K）出力や照明・構図の制御により、広告制作などのプロ用途に対応します。
-・従来モデルよりテキストの描画精度が高く、看板やメニューの多言語書き換えも可能です。
-・Google検索によるグラウンディング機能で、情報に基づいた正確な図表の生成が行えます。
+Gemini 3 Pro Imageは、高精細な画像生成と編集が可能な開発者向けの最新モデルです。
+* テキストの高精度なレンダリングや、照明・構図などの詳細な制御により、プロ品質の画像を生成できます。
+* 多言語対応やGoogle検索との連携による情報の接地機能により、多様なアプリケーション開発を支援します。
+* このモデルは、Google AI StudioやVertex AIを通じて有料プレビューとして提供が開始されています。
