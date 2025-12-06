@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  Cloudflareの障害が12月5日午後6時頃から発生し、一部サービスに影響が出ています。  
-  ・ShopifyやZoom、Perplexity、BOOTHなどが正常に表示できないなどの問題が生じました。  
-  ・過去の11月18日にも大規模障害が発生し、ChatGPTやMicrosoft Teamsなど広範囲に影響が及びました。  
-  ・Cloudflareは同日午後8時頃に復旧したことを発表しています。
+  Cloudflareの障害が12月5日午後6時頃から発生し、複数の主要サービスに影響を与えました。
+  ・ShopifyやZoom、Perplexity、BOOTHなどでウェブサイトの表示やAPI接続に問題が生じました。
+  ・これは11月18日に発生した大規模障害以来の事例で、復旧までに約7時間を要しています。
+  ・Cloudflareは同日午後8時頃にサービスの復旧を発表しました。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-Cloudflareの障害が12月5日午後6時頃から発生し、一部サービスに影響が出ています。  
-・ShopifyやZoom、Perplexity、BOOTHなどが正常に表示できないなどの問題が生じました。  
-・過去の11月18日にも大規模障害が発生し、ChatGPTやMicrosoft Teamsなど広範囲に影響が及びました。  
-・Cloudflareは同日午後8時頃に復旧したことを発表しています。
+Cloudflareの障害が12月5日午後6時頃から発生し、複数の主要サービスに影響を与えました。
+・ShopifyやZoom、Perplexity、BOOTHなどでウェブサイトの表示やAPI接続に問題が生じました。
+・これは11月18日に発生した大規模障害以来の事例で、復旧までに約7時間を要しています。
+・Cloudflareは同日午後8時頃にサービスの復旧を発表しました。
