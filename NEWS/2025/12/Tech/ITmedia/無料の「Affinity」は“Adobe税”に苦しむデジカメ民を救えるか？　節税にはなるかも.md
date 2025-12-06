@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  Adobe Creative Cloudの価格改定により、個人ユーザーには負担増となっています。
-  ・AI関連機能の追加に伴い、年間プランが6480円から9080円に値上げされました。
-  ・一方で、LightroomとPhotoshopのセットプランは2380円と比較的抑えられています。
-  ・代替ソフトとしてAffinityシリーズやCanva Proなど、買い切りや低価格の選択肢も注目されています。
+  Adobe Creative Cloudの価格改定により、個人ユーザーへの負担増が懸念されています。
+  - 新料金は年間6480円から9080円へ値上げされ、AI機能の追加が背景にあります。
+  - これに対し、買い切り型ソフトのAffinityシリーズが注目を集めています。
+  - CanvaによるAffinity開発元の買収後、AI機能強化が進む可能性も示唆されています。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-Adobe Creative Cloudの価格改定により、個人ユーザーには負担増となっています。
-・AI関連機能の追加に伴い、年間プランが6480円から9080円に値上げされました。
-・一方で、LightroomとPhotoshopのセットプランは2380円と比較的抑えられています。
-・代替ソフトとしてAffinityシリーズやCanva Proなど、買い切りや低価格の選択肢も注目されています。
+Adobe Creative Cloudの価格改定により、個人ユーザーへの負担増が懸念されています。
+- 新料金は年間6480円から9080円へ値上げされ、AI機能の追加が背景にあります。
+- これに対し、買い切り型ソフトのAffinityシリーズが注目を集めています。
+- CanvaによるAffinity開発元の買収後、AI機能強化が進む可能性も示唆されています。
