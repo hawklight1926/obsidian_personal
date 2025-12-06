@@ -6,9 +6,9 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/04/6bec2483b735b1fe9cc9d7380d945b34/t/184/138/d/theres-a-new-office-suite-desktop-app-for-linux-macos-and-windows_hero.jpg
 summary: |-
-  Collabora Officeは、AI機能を押し付けない無料のローカル型オフィススイートです。
-  - LibreOfficeをベースとしつつ、操作性を改善し、Microsoft Officeに似たリボンUIを採用しています。
-  - Writer、Calc、Impress、Drawといった主要アプリを含み、Microsoft Officeファイルとの高い互換性を持ちます。
+  Collabora Officeは、AIを押し付けない無料のローカル型オフィススイートです。
+  - LibreOfficeをベースとしつつ、Microsoft Officeに近いリボンUIを採用し操作性を改善しています。
+  - Writer、Calc、Impress、Drawを含み、Microsoft Officeファイルとの高い互換性を備えています。
   - オンライン版は以前から存在しましたが、ローカル版の正式リリースは最近行われました。
 read: false
 ignored: false
@@ -19,7 +19,7 @@ memo: ""
 ![「Collabora Office」レビュー--AIを押し付けない無料のオフィススイート](https://japan.zdnet.com/storage/2025/12/04/6bec2483b735b1fe9cc9d7380d945b34/t/184/138/d/theres-a-new-office-suite-desktop-app-for-linux-macos-and-windows_hero.jpg)
 
 ## 要約
-Collabora Officeは、AI機能を押し付けない無料のローカル型オフィススイートです。
-- LibreOfficeをベースとしつつ、操作性を改善し、Microsoft Officeに似たリボンUIを採用しています。
-- Writer、Calc、Impress、Drawといった主要アプリを含み、Microsoft Officeファイルとの高い互換性を持ちます。
+Collabora Officeは、AIを押し付けない無料のローカル型オフィススイートです。
+- LibreOfficeをベースとしつつ、Microsoft Officeに近いリボンUIを採用し操作性を改善しています。
+- Writer、Calc、Impress、Drawを含み、Microsoft Officeファイルとの高い互換性を備えています。
 - オンライン版は以前から存在しましたが、ローカル版の正式リリースは最近行われました。
