@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/researchpoland_social.max-600x600.format-webp.webp
 summary: |-
-  Google Researchの責任者Yossi Matias氏は、現実の課題が基礎研究を駆動する「マジックサイクル」について講演しました。
-  ・同イベントでは、AIを活用した地球規模の課題解決や脳マッピング手法の開発など、多岐にわたる研究が紹介されました。
-  ・すべての対話を通じて、研究者や政策立案者との「協働」がイノベーションの鍵であるという共通認識が示されました。
-  ・具体的には、科学者の仮想共同研究者となるAIや、災害対応に役立つGoogle Earth AIなどの実用例が示されています。
+  Google Researchのポーランドでのイベントでは、現実課題から基礎研究・科学的突破を生む「マジックサイクル」に基づくAI研究が共有されました。  
+  ・公共衛生や災害対応のため、Google Earth AIの地理空間モデルを活用しています。  
+  ・脳マッピングの新手法開発や、科学者の仮想共同研究者となるAIの構築も進めています。  
+  ・責任あるAIリテラシー教育の重要性が強調され、研究者や政策関係者との連携が成果の鍵とされています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![At our Research@ Poland event we shared how AI is helping us solve big challenges.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/researchpoland_social.max-600x600.format-webp.webp)
 
 ## 要約
-Google Researchの責任者Yossi Matias氏は、現実の課題が基礎研究を駆動する「マジックサイクル」について講演しました。
-・同イベントでは、AIを活用した地球規模の課題解決や脳マッピング手法の開発など、多岐にわたる研究が紹介されました。
-・すべての対話を通じて、研究者や政策立案者との「協働」がイノベーションの鍵であるという共通認識が示されました。
-・具体的には、科学者の仮想共同研究者となるAIや、災害対応に役立つGoogle Earth AIなどの実用例が示されています。
+Google Researchのポーランドでのイベントでは、現実課題から基礎研究・科学的突破を生む「マジックサイクル」に基づくAI研究が共有されました。  
+・公共衛生や災害対応のため、Google Earth AIの地理空間モデルを活用しています。  
+・脳マッピングの新手法開発や、科学者の仮想共同研究者となるAIの構築も進めています。  
+・責任あるAIリテラシー教育の重要性が強調され、研究者や政策関係者との連携が成果の鍵とされています。
