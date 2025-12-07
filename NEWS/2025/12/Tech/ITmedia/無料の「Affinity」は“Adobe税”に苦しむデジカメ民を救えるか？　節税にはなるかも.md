@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  Adobe Creative Cloudの価格上昇により、一部ユーザーが代替ソフト「Affinity」への乗り換えを検討しています。  
-  ・AdobeはAI機能強化を理由にサブスクリプション価格を引き上げ、個人ユーザーには負担が増加しました。  
-  ・一方、Affinityは買い切り型のソフトウェアを提供し、Canvaによる買収後も価格を維持しています。  
-  ・特に写真編集ソフト「Affinity Photo」はLightroomやPhotoshopの代替として注目されています。
+  Adobe Creative Cloudの価格改定により、特に個人ユーザーにとって負担が増加しています。
+  - 価格はスタンダードプランで年額約6,480円、プロプランで約9,080円に引き上げられました。
+  - 一方、買い切り型ソフト「Affinity」シリーズは、Canvaに買収後も買い切りモデルを維持しています。
+  - 写真編集に特化したユーザーには、LightroomとPhotoshopの組み合わせプラン（年額約23,800円）などの選択肢もあります。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-Adobe Creative Cloudの価格上昇により、一部ユーザーが代替ソフト「Affinity」への乗り換えを検討しています。  
-・AdobeはAI機能強化を理由にサブスクリプション価格を引き上げ、個人ユーザーには負担が増加しました。  
-・一方、Affinityは買い切り型のソフトウェアを提供し、Canvaによる買収後も価格を維持しています。  
-・特に写真編集ソフト「Affinity Photo」はLightroomやPhotoshopの代替として注目されています。
+Adobe Creative Cloudの価格改定により、特に個人ユーザーにとって負担が増加しています。
+- 価格はスタンダードプランで年額約6,480円、プロプランで約9,080円に引き上げられました。
+- 一方、買い切り型ソフト「Affinity」シリーズは、Canvaに買収後も買い切りモデルを維持しています。
+- 写真編集に特化したユーザーには、LightroomとPhotoshopの組み合わせプラン（年額約23,800円）などの選択肢もあります。

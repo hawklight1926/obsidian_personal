@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  CloudflareのCDNサービスで障害が発生し、複数の主要Webサービスに影響が出ました。  
-  ・ShopifyやZoom、Perplexity、BOOTHなどでWebサイトの表示やAPI接続に問題が生じました。  
-  ・同様の障害は11月18日にも発生し、ChatGPTやSpotify、Microsoft Teamsなど広範囲に影響を与えています。  
-  ・Cloudflareは、障害が約14時間後に解消したことを発表しました。
+  Cloudflareの障害により、複数の主要オンラインサービスが影響を受けました。  
+  ・ShopifyやZoom、Perplexity、BOOTHなどでWebサイトの表示やAPI接続に問題が発生しました。  
+  ・同様の障害は11月18日にも発生し、ChatGPTやSpotifyなど広範囲のサービスが長時間利用できなくなりました。  
+  ・Cloudflareは12月5日午後に障害を復旧させ、原因調査を進めています。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-CloudflareのCDNサービスで障害が発生し、複数の主要Webサービスに影響が出ました。  
-・ShopifyやZoom、Perplexity、BOOTHなどでWebサイトの表示やAPI接続に問題が生じました。  
-・同様の障害は11月18日にも発生し、ChatGPTやSpotify、Microsoft Teamsなど広範囲に影響を与えています。  
-・Cloudflareは、障害が約14時間後に解消したことを発表しました。
+Cloudflareの障害により、複数の主要オンラインサービスが影響を受けました。  
+・ShopifyやZoom、Perplexity、BOOTHなどでWebサイトの表示やAPI接続に問題が発生しました。  
+・同様の障害は11月18日にも発生し、ChatGPTやSpotifyなど広範囲のサービスが長時間利用できなくなりました。  
+・Cloudflareは12月5日午後に障害を復旧させ、原因調査を進めています。
