@@ -7,9 +7,9 @@ rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_SynthID_Keyword_Blog_Heade.max-600x600.format-webp.webp
 summary: |-
   GoogleはGeminiアプリ内で、AI生成画像を検証する機能を導入しました。
-  - ユーザーは画像をアップロードし、Google AIで作成・編集されたか質問できます。
-  - 検証には、AI生成コンテンツに埋め込まれた透かし技術「SynthID」が利用されます。
-  - 今後は検証対象を動画や音声に拡大し、業界標準のC2PAメタデータにも対応予定です。
+  ・ユーザーは画像をアップロードし、Google AIで作成・編集されたか質問できます。
+  ・検証には透かし技術「SynthID」が利用され、AI生成コンテンツに埋め込まれた信号を確認します。
+  ・今後は検証対象を動画や音声に拡大し、業界標準のC2PAメタデータにも対応する予定です。
 read: false
 ignored: false
 pinned: false
@@ -20,6 +20,6 @@ memo: ""
 
 ## 要約
 GoogleはGeminiアプリ内で、AI生成画像を検証する機能を導入しました。
-- ユーザーは画像をアップロードし、Google AIで作成・編集されたか質問できます。
-- 検証には、AI生成コンテンツに埋め込まれた透かし技術「SynthID」が利用されます。
-- 今後は検証対象を動画や音声に拡大し、業界標準のC2PAメタデータにも対応予定です。
+・ユーザーは画像をアップロードし、Google AIで作成・編集されたか質問できます。
+・検証には透かし技術「SynthID」が利用され、AI生成コンテンツに埋め込まれた信号を確認します。
+・今後は検証対象を動画や音声に拡大し、業界標準のC2PAメタデータにも対応する予定です。
