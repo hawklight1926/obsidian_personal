@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/researchpoland_social.max-600x600.format-webp.webp
 summary: |-
-  グーグルはポーランドで開催した研究イベントにおいて、現実課題の解決と基礎研究を循環させる「マジックサイクル」に基づくAI研究を推進しています。
-  ・公共衛生や災害対応のためのGoogle Earth AI活用、脳マッピング手法の開発など、協働が成果の鍵となっています。
-  ・AIリテラシー教育の重要性や、科学者の仮想共同研究者としてのAI開発など、多岐にわたる取り組みが紹介されました。
-  ・同イベントでは、研究者や政策関係者らと共に、AIが科学・健康・教育分野にもたらす実践的影響について議論が交わされています。
+  Google Researchの責任者であるYossi Matias氏は、現実世界の課題が基礎研究を推進する「マジックサイクル」について説明しました。
+  - イベントでは、AIを活用した地球環境問題への取り組みや脳マッピング手法の開発など、多様な研究が紹介されました。
+  - 科学者と協働するAIの開発やAIリテラシー教育の重要性など、協調がテーマとして浮かび上がりました。
+  - 研究者や政策立案者らが集い、研究成果を日常的な解決策へ転換するための協業の可能性が探られています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![At our Research@ Poland event we shared how AI is helping us solve big challenges.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/researchpoland_social.max-600x600.format-webp.webp)
 
 ## 要約
-グーグルはポーランドで開催した研究イベントにおいて、現実課題の解決と基礎研究を循環させる「マジックサイクル」に基づくAI研究を推進しています。
-・公共衛生や災害対応のためのGoogle Earth AI活用、脳マッピング手法の開発など、協働が成果の鍵となっています。
-・AIリテラシー教育の重要性や、科学者の仮想共同研究者としてのAI開発など、多岐にわたる取り組みが紹介されました。
-・同イベントでは、研究者や政策関係者らと共に、AIが科学・健康・教育分野にもたらす実践的影響について議論が交わされています。
+Google Researchの責任者であるYossi Matias氏は、現実世界の課題が基礎研究を推進する「マジックサイクル」について説明しました。
+- イベントでは、AIを活用した地球環境問題への取り組みや脳マッピング手法の開発など、多様な研究が紹介されました。
+- 科学者と協働するAIの開発やAIリテラシー教育の重要性など、協調がテーマとして浮かび上がりました。
+- 研究者や政策立案者らが集い、研究成果を日常的な解決策へ転換するための協業の可能性が探られています。
