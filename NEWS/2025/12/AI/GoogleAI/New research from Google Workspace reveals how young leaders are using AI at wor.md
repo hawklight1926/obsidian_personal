@@ -6,10 +6,9 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp
 summary: |-
-  Google Workspaceが実施した調査によると、22歳から39歳の若手リーダー層の職場におけるAI活用が進んでいます。
-  - 調査はハリス・ポールとの共同で実施され、AI活用に関する3つの主要なテーマが明らかになりました。
-  - 具体的なデータや詳細な分析結果は、プレスリリースで公開されています。
-  - 同社のプロダクト担当バイスプレジデント、Yulie Kwon Kimによる見解も示されています。
+  Google Workspaceが実施した22〜39歳の職場におけるAI利用に関する調査結果を発表しました。
+  ・調査はハリス世論調査と共同で実施され、主に3つの重要なテーマが明らかになりました。
+  ・具体的な調査データの詳細や、Google Workspace製品担当副社長からの見解は、プレスリリースで確認できます。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +18,6 @@ memo: ""
 ![New research from Google Workspace reveals how young leaders are using AI at work.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp)
 
 ## 要約
-Google Workspaceが実施した調査によると、22歳から39歳の若手リーダー層の職場におけるAI活用が進んでいます。
-- 調査はハリス・ポールとの共同で実施され、AI活用に関する3つの主要なテーマが明らかになりました。
-- 具体的なデータや詳細な分析結果は、プレスリリースで公開されています。
-- 同社のプロダクト担当バイスプレジデント、Yulie Kwon Kimによる見解も示されています。
+Google Workspaceが実施した22〜39歳の職場におけるAI利用に関する調査結果を発表しました。
+・調査はハリス世論調査と共同で実施され、主に3つの重要なテーマが明らかになりました。
+・具体的な調査データの詳細や、Google Workspace製品担当副社長からの見解は、プレスリリースで確認できます。

@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/05/0c62efe5de994a06af89241b6ed0b886/t/184/138/d/251204_aws_001.JPG
 summary: |-
-  AWSはAIエージェントをPoCから本番環境に対応させる新サービスを発表しました。  
-  ・オープンソースSDK「STRANDS AGENTS SDK」により、AIエージェントの構築と実装が容易になります。  
-  ・TypeScriptのサポート追加やエッジデバイス対応など、開発環境の拡充が図られています。  
-  ・これにより、開発者は自然言語で目標を記述するだけで、AIエージェントが自律的に計画と実行を行えるようになります。
+  AWSはAIエージェントを本番環境で活用するための新機能を発表しました。  
+  ・AIエージェント構築を容易にするオープンソースSDK「STRANDS AGENTS SDK」にTypeScript対応などを追加  
+  ・低遅延が求められるエッジデバイス上でのAIエージェント実行をサポート  
+  ・概念実証（PoC）から本番環境への移行を支援するサービスを強化しています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![AIエージェントをより効果的に使うための機能を発表--「Amazon Nova Act」など](https://japan.zdnet.com/storage/2025/12/05/0c62efe5de994a06af89241b6ed0b886/t/184/138/d/251204_aws_001.JPG)
 
 ## 要約
-AWSはAIエージェントをPoCから本番環境に対応させる新サービスを発表しました。  
-・オープンソースSDK「STRANDS AGENTS SDK」により、AIエージェントの構築と実装が容易になります。  
-・TypeScriptのサポート追加やエッジデバイス対応など、開発環境の拡充が図られています。  
-・これにより、開発者は自然言語で目標を記述するだけで、AIエージェントが自律的に計画と実行を行えるようになります。
+AWSはAIエージェントを本番環境で活用するための新機能を発表しました。  
+・AIエージェント構築を容易にするオープンソースSDK「STRANDS AGENTS SDK」にTypeScript対応などを追加  
+・低遅延が求められるエッジデバイス上でのAIエージェント実行をサポート  
+・概念実証（PoC）から本番環境への移行を支援するサービスを強化しています。
