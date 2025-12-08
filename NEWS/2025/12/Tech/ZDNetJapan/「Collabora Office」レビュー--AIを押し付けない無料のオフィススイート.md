@@ -9,7 +9,7 @@ summary: |-
   Collabora Officeは、AI機能を押し付けない無料のローカル型オフィススイートです。
   - LibreOfficeを基盤としつつ、Microsoft Officeに近いリボンUIを採用し、操作性を改善しています。
   - Writer、Calc、Impress、Drawを含み、Microsoft Office形式など多様なファイルに対応しています。
-  - クラウド版は以前から存在しましたが、ローカルアプリケーションとしての正式リリースは最近となります。
+  - オンライン版は以前から存在しましたが、ローカル版の正式リリースは比較的最近となっています。
 read: false
 ignored: false
 pinned: false
@@ -22,4 +22,4 @@ memo: ""
 Collabora Officeは、AI機能を押し付けない無料のローカル型オフィススイートです。
 - LibreOfficeを基盤としつつ、Microsoft Officeに近いリボンUIを採用し、操作性を改善しています。
 - Writer、Calc、Impress、Drawを含み、Microsoft Office形式など多様なファイルに対応しています。
-- クラウド版は以前から存在しましたが、ローカルアプリケーションとしての正式リリースは最近となります。
+- オンライン版は以前から存在しましたが、ローカル版の正式リリースは比較的最近となっています。

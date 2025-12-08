@@ -7,9 +7,9 @@ rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/07/28cfd97e039887a6acfe8d79d160c40a/t/184/138/d/studentsclass5555gettyimages-2029597236_hero.jpg
 summary: |-
   Linuxには学生の学習効率と整理能力を向上させる多様なソフトウェアが用意されています。
-  ・LibreOfficeは、レポート作成などに対応する無料のオフィススイートです。
-  ・OllamaとMstyの組み合わせは、プライバシーを保ちながらローカルでAIを利用するのに適しています。
-  ・Kalziumは化学の学習に役立つ周期表アプリであり、Stellariumは天文学の学習を支援します。
+  - オフィススイート「LibreOffice」は、文書作成からデータベースまで幅広く対応し、ローカル環境で利用可能です。
+  - ローカルAIツール「Ollama/Msty」は、プライバシーを保ちながら調査研究に活用できます。
+  - 化学学習支援の「Kalzium」や天文シミュレータ「Stellarium」など、専門的な授業にも役立つアプリが提供されています。
 read: false
 ignored: false
 pinned: false
@@ -20,6 +20,6 @@ memo: ""
 
 ## 要約
 Linuxには学生の学習効率と整理能力を向上させる多様なソフトウェアが用意されています。
-・LibreOfficeは、レポート作成などに対応する無料のオフィススイートです。
-・OllamaとMstyの組み合わせは、プライバシーを保ちながらローカルでAIを利用するのに適しています。
-・Kalziumは化学の学習に役立つ周期表アプリであり、Stellariumは天文学の学習を支援します。
+- オフィススイート「LibreOffice」は、文書作成からデータベースまで幅広く対応し、ローカル環境で利用可能です。
+- ローカルAIツール「Ollama/Msty」は、プライバシーを保ちながら調査研究に活用できます。
+- 化学学習支援の「Kalzium」や天文シミュレータ「Stellarium」など、専門的な授業にも役立つアプリが提供されています。
