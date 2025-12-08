@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/04/d9d699f5cecc7f41d4180d8ce650df21/t/184/138/d/251204_panasonic_l.jpg
-summary: |-
-  パナソニックはSCMソフトウェア事業のBlue Yonderへの戦略投資を拡大し、2026年度までにAI統合型のエンドツーエンドソリューションを完成させる計画です。
-  ・投資額は当初の2億ドルから約3億ドルに増額され、新たなコグニティブAIや統合プラットフォームの開発が進められています。
-  ・同社は2026年度以降の安定した利益創出を目指し、SCMソフトウェア業界でのトッププレーヤーを標榜しています。
-  ・また、Blue Yonderの事業は投資フェーズから収益改善フェーズへ移行し、将来的な上場計画も継続されています。
+summary: "(要約生成に失敗しました: failed to decode response: EOF)"
 read: false
 ignored: false
 pinned: false
@@ -19,7 +15,4 @@ memo: ""
 ![パナソニック、ハード売り切りからソリューションへ--成長戦略の核にSCM](https://japan.zdnet.com/storage/2025/12/04/d9d699f5cecc7f41d4180d8ce650df21/t/184/138/d/251204_panasonic_l.jpg)
 
 ## 要約
-パナソニックはSCMソフトウェア事業のBlue Yonderへの戦略投資を拡大し、2026年度までにAI統合型のエンドツーエンドソリューションを完成させる計画です。
-・投資額は当初の2億ドルから約3億ドルに増額され、新たなコグニティブAIや統合プラットフォームの開発が進められています。
-・同社は2026年度以降の安定した利益創出を目指し、SCMソフトウェア業界でのトッププレーヤーを標榜しています。
-・また、Blue Yonderの事業は投資フェーズから収益改善フェーズへ移行し、将来的な上場計画も継続されています。
+(要約生成に失敗しました: failed to decode response: EOF)

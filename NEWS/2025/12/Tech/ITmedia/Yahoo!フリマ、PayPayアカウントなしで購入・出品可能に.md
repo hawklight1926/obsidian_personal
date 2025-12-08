@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: |-
-  LINEヤフーは、Yahoo!オークションにおいて、従来必須だったPayPay連携を任意に変更しました。
-  ・Yahoo! JAPAN IDのログインと携帯電話番号のSMS認証のみで、購入や出品が可能となります。
-  ・PayPay連携が不要になったため、PayPay決済やPayPayポイントの利用はできません。
-  ・PCやスマートフォンからWebブラウザでの直接出品も可能となり、アプリ版では商品の閲覧・購入のみ対応しています。
+summary: "(要約生成に失敗しました: failed to decode response: EOF)"
 read: false
 ignored: false
 pinned: false
@@ -17,7 +13,4 @@ memo: ""
 ---
 
 ## 要約
-LINEヤフーは、Yahoo!オークションにおいて、従来必須だったPayPay連携を任意に変更しました。
-・Yahoo! JAPAN IDのログインと携帯電話番号のSMS認証のみで、購入や出品が可能となります。
-・PayPay連携が不要になったため、PayPay決済やPayPayポイントの利用はできません。
-・PCやスマートフォンからWebブラウザでの直接出品も可能となり、アプリ版では商品の閲覧・購入のみ対応しています。
+(要約生成に失敗しました: failed to decode response: EOF)

@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/07/23/fe3153eacec3e348dba9464bd8035fee/t/184/138/d/250723_money_as_1280_514546307.jpg
-summary: |-
-  ちゅうぎんフィナンシャルグループは、営業力強化のためSalesforceの金融業界向けCRM「Agentforce Financial Services」を導入しました。
-  - 顧客データを一元管理し、ライフイベントに基づくパーソナライズ提案を可能にします。
-  - 属人的な営業から脱却し、グループ内で共通の顧客情報を活用した連携を強化します。
-  - ノーコードツールなどを活用し、環境変化への迅速な対応と開発コストの削減を図ります。
+summary: "(要約生成に失敗しました: failed to decode response: EOF)"
 read: false
 ignored: false
 pinned: false
@@ -19,7 +15,4 @@ memo: ""
 ![ちゅうぎんフィナンシャルG、Salesforceの「Agentforce Financial Services」を導入--営業力強化へ](https://japan.zdnet.com/storage/2025/07/23/fe3153eacec3e348dba9464bd8035fee/t/184/138/d/250723_money_as_1280_514546307.jpg)
 
 ## 要約
-ちゅうぎんフィナンシャルグループは、営業力強化のためSalesforceの金融業界向けCRM「Agentforce Financial Services」を導入しました。
-- 顧客データを一元管理し、ライフイベントに基づくパーソナライズ提案を可能にします。
-- 属人的な営業から脱却し、グループ内で共通の顧客情報を活用した連携を強化します。
-- ノーコードツールなどを活用し、環境変化への迅速な対応と開発コストの削減を図ります。
+(要約生成に失敗しました: failed to decode response: EOF)

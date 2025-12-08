@@ -5,11 +5,7 @@ updated:
 category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp
-summary: |-
-  GoogleのCEOサンダー・ピチャイは、AIの進歩と将来性について語りました。
-  - 2016年の「AIファースト」方針が現在の基盤を築きました。
-  - 現在はGemini 3やNano Banana Proなどのリリースを進めています。
-  - 今後10年では量子コンピューティングなどに大きな期待を寄せています。
+summary: "(要約生成に失敗しました: failed to decode response: EOF)"
 read: false
 ignored: false
 pinned: false
@@ -19,7 +15,4 @@ memo: ""
 ![Get an in-depth look at Gemini 3 with CEO Sundar Pichai.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp)
 
 ## 要約
-GoogleのCEOサンダー・ピチャイは、AIの進歩と将来性について語りました。
-- 2016年の「AIファースト」方針が現在の基盤を築きました。
-- 現在はGemini 3やNano Banana Proなどのリリースを進めています。
-- 今後10年では量子コンピューティングなどに大きな期待を寄せています。
+(要約生成に失敗しました: failed to decode response: EOF)

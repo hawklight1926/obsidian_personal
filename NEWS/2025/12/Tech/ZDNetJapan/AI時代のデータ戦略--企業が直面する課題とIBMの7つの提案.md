@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/04/bd5f00821f1b1336542d2273af373c42/t/184/138/d/gettyimages-2242943155-cropped_hero.jpg
-summary: |-
-  IBMの調査によると、生成AIの進展に伴い、データ関連人材の需要が急増しています。
-  - データ専門家の82％が、2024年には存在しなかった新職種を採用しています。
-  - しかし、データ準備が課題となり、自社データでAI収益を支えられると確信するCDOは26％のみです。
-  - 一方、AIエージェント導入のメリットを評価する企業が多く、IT予算のデータ戦略への割合も13％に増加しました。
+summary: "(要約生成に失敗しました: failed to decode response: EOF)"
 read: false
 ignored: false
 pinned: false
@@ -19,7 +15,4 @@ memo: ""
 ![AI時代のデータ戦略--企業が直面する課題とIBMの7つの提案](https://japan.zdnet.com/storage/2025/12/04/bd5f00821f1b1336542d2273af373c42/t/184/138/d/gettyimages-2242943155-cropped_hero.jpg)
 
 ## 要約
-IBMの調査によると、生成AIの進展に伴い、データ関連人材の需要が急増しています。
-- データ専門家の82％が、2024年には存在しなかった新職種を採用しています。
-- しかし、データ準備が課題となり、自社データでAI収益を支えられると確信するCDOは26％のみです。
-- 一方、AIエージェント導入のメリットを評価する企業が多く、IT予算のデータ戦略への割合も13％に増加しました。
+(要約生成に失敗しました: failed to decode response: EOF)

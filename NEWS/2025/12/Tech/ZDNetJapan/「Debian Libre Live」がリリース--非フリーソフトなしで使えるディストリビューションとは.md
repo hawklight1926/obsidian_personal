@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/06/a646d99cf7c79ccb80baaac7e78c1f98/t/184/138/d/how-debian-13s-little-improvements-add-up-to-the-distros-surprisingly-big-leap-forward_hero.jpg
-summary: |-
-  Debianプロジェクトは、非フリーソフトウェアを一切含まないライブディストリビューション「Debian Libre Live」をリリースしました。
-  - これは、2022年にハードウェア互換性向上のため非フリーファームウェアを含めた方針変更に対するユーザーの批判への対応です。
-  - 完全にフリーなオープンソースソフトウェアのみを求めるユーザーの要望を満たすことを目的としています。
-  - 現時点ではamd64アーキテクチャのみ対応し、デフォルトのGUIデスクトップ環境は搭載されていません。
+summary: "(要約生成に失敗しました: failed to decode response: EOF)"
 read: false
 ignored: false
 pinned: false
@@ -19,7 +15,4 @@ memo: ""
 ![「Debian Libre Live」がリリース--非フリーソフトなしで使えるディストリビューションとは](https://japan.zdnet.com/storage/2025/12/06/a646d99cf7c79ccb80baaac7e78c1f98/t/184/138/d/how-debian-13s-little-improvements-add-up-to-the-distros-surprisingly-big-leap-forward_hero.jpg)
 
 ## 要約
-Debianプロジェクトは、非フリーソフトウェアを一切含まないライブディストリビューション「Debian Libre Live」をリリースしました。
-- これは、2022年にハードウェア互換性向上のため非フリーファームウェアを含めた方針変更に対するユーザーの批判への対応です。
-- 完全にフリーなオープンソースソフトウェアのみを求めるユーザーの要望を満たすことを目的としています。
-- 現時点ではamd64アーキテクチャのみ対応し、デフォルトのGUIデスクトップ環境は搭載されていません。
+(要約生成に失敗しました: failed to decode response: EOF)

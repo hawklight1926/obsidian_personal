@@ -5,11 +5,7 @@ updated:
 category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Westinghouse-vogtle-plant-georg.max-600x600.format-webp.webp
-summary: |-
-  ウェスティングハウス社は、AIの電力需要増に対応するため、2030年までに10基の新型原子炉建設を目指しています。  
-  ・Google Cloudと連携し、AIプラットフォームを開発、建設工程の最適化で時間とコストを削減しています。  
-  ・同社は独自のAI基盤「Hive」や生成AI「Bertha」を保有し、厳格な規制環境下でのAI活用基盤を整えています。  
-  ・AIは建設プロセスだけでなく、運転保守や燃料交換の効率化にも応用され、原子力発電の推進力を高めています。
+summary: "(要約生成に失敗しました: failed to decode response: EOF)"
 read: false
 ignored: false
 pinned: false
@@ -19,7 +15,4 @@ memo: ""
 ![How Westinghouse is reenergizing nuclear power with — and for — AI](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Westinghouse-vogtle-plant-georg.max-600x600.format-webp.webp)
 
 ## 要約
-ウェスティングハウス社は、AIの電力需要増に対応するため、2030年までに10基の新型原子炉建設を目指しています。  
-・Google Cloudと連携し、AIプラットフォームを開発、建設工程の最適化で時間とコストを削減しています。  
-・同社は独自のAI基盤「Hive」や生成AI「Bertha」を保有し、厳格な規制環境下でのAI活用基盤を整えています。  
-・AIは建設プロセスだけでなく、運転保守や燃料交換の効率化にも応用され、原子力発電の推進力を高めています。
+(要約生成に失敗しました: failed to decode response: EOF)

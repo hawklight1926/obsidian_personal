@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/04/2d9c261099b8aaf3b939fd1277f4dee7/t/184/138/d/20251204_adobestock_261206839_1280x960.jpg
-summary: |-
-  NECはウェブ業務アプリの操作ノウハウを自動抽出し組織資産として蓄積・活用するAIエージェント「cotomi Act」を発表しました。
-  - 2026年1月より提供され、ブラウザ操作ログから暗黙知をデータ化して業務を自動化します。
-  - 国際ベンチマークで人間を上回る成功率を達成し、経費精算など複雑な業務にも対応可能です。
-  - 企業固有のルールを反映した安全な運用ができ、属人化防止と業務の均質化に貢献します。
+summary: "(要約生成に失敗しました: failed to decode response: EOF)"
 read: false
 ignored: false
 pinned: false
@@ -19,7 +15,4 @@ memo: ""
 ![NEC、ウェブ業務アプリの操作自動化支援を提供--AIエージェントが組織資産に](https://japan.zdnet.com/storage/2025/12/04/2d9c261099b8aaf3b939fd1277f4dee7/t/184/138/d/20251204_adobestock_261206839_1280x960.jpg)
 
 ## 要約
-NECはウェブ業務アプリの操作ノウハウを自動抽出し組織資産として蓄積・活用するAIエージェント「cotomi Act」を発表しました。
-- 2026年1月より提供され、ブラウザ操作ログから暗黙知をデータ化して業務を自動化します。
-- 国際ベンチマークで人間を上回る成功率を達成し、経費精算など複雑な業務にも対応可能です。
-- 企業固有のルールを反映した安全な運用ができ、属人化防止と業務の均質化に貢献します。
+(要約生成に失敗しました: failed to decode response: EOF)
