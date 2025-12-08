@@ -5,7 +5,11 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/04/23/27bbac9b83c7ded844ea39e720c2d340/t/184/138/d/thumb_sp_22carbon-neutral_1280.jpg
-summary: "(要約生成に失敗しました: failed to decode response: EOF)"
+summary: |-
+  NTTデータとCBAは、廃棄物処理に伴う温室効果ガス排出量の算定で連携し、2026年4月に新サービスを提供予定です。
+  ・両社のプラットフォーム「C-Turtle」と「CBA wellfest」を連携させ、排出量を効率的に算定します。
+  ・京王電鉄を対象とした実証では、データ連携により業務負荷の軽減効果を確認しました。
+  ・現状の手作業集計に比べ、正確性の担保と効率化が期待されます。
 read: false
 ignored: false
 pinned: false
@@ -15,4 +19,7 @@ memo: ""
 ![NTTデータとCBA、廃棄物処理での温室効果ガス排出量算定で連携](https://japan.zdnet.com/storage/2025/04/23/27bbac9b83c7ded844ea39e720c2d340/t/184/138/d/thumb_sp_22carbon-neutral_1280.jpg)
 
 ## 要約
-(要約生成に失敗しました: failed to decode response: EOF)
+NTTデータとCBAは、廃棄物処理に伴う温室効果ガス排出量の算定で連携し、2026年4月に新サービスを提供予定です。
+・両社のプラットフォーム「C-Turtle」と「CBA wellfest」を連携させ、排出量を効率的に算定します。
+・京王電鉄を対象とした実証では、データ連携により業務負荷の軽減効果を確認しました。
+・現状の手作業集計に比べ、正確性の担保と効率化が期待されます。

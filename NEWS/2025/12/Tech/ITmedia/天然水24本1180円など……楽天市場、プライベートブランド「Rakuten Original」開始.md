@@ -5,7 +5,11 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: "(要約生成に失敗しました: failed to decode response: EOF)"
+summary: |-
+  楽天グループは12月4日、ECサイト「楽天市場」でプライベートブランド「Rakuten Original」の販売を開始しました。
+  - 飲料や日用品などを中心に、低価格で提供されています。
+  - 同日には実店舗「楽天インストア」も開設し、複数の商品を販売開始しました。
+  - 一部商品では、価格を抑えるために容量を調整するなどの工夫がなされています。
 read: false
 ignored: false
 pinned: false
@@ -13,4 +17,7 @@ memo: ""
 ---
 
 ## 要約
-(要約生成に失敗しました: failed to decode response: EOF)
+楽天グループは12月4日、ECサイト「楽天市場」でプライベートブランド「Rakuten Original」の販売を開始しました。
+- 飲料や日用品などを中心に、低価格で提供されています。
+- 同日には実店舗「楽天インストア」も開設し、複数の商品を販売開始しました。
+- 一部商品では、価格を抑えるために容量を調整するなどの工夫がなされています。

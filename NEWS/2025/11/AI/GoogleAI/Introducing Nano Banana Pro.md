@@ -5,7 +5,11 @@ updated:
 category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nanobananaprohero.max-600x600.format-webp.webp
-summary: "(要約生成に失敗しました: failed to decode response: EOF)"
+summary: |-
+  Google DeepMindは、画像生成・編集モデル「Nano Banana Pro」を発表しました。
+  ・Gemini 3 Proを基盤とし、正確で文脈に富んだビジュアルの生成が可能です。
+  ・画像内に複数言語で正確なテキストをレンダリングできる点が大きな特徴です。
+  ・Google検索の知識と連携し、レシピや天気などの実世界情報を可視化する用途にも対応しています。
 read: false
 ignored: false
 pinned: false
@@ -15,4 +19,7 @@ memo: ""
 ![Introducing Nano Banana Pro](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nanobananaprohero.max-600x600.format-webp.webp)
 
 ## 要約
-(要約生成に失敗しました: failed to decode response: EOF)
+Google DeepMindは、画像生成・編集モデル「Nano Banana Pro」を発表しました。
+・Gemini 3 Proを基盤とし、正確で文脈に富んだビジュアルの生成が可能です。
+・画像内に複数言語で正確なテキストをレンダリングできる点が大きな特徴です。
+・Google検索の知識と連携し、レシピや天気などの実世界情報を可視化する用途にも対応しています。

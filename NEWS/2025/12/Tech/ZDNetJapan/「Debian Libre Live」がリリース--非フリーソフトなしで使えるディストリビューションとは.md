@@ -5,7 +5,11 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/06/a646d99cf7c79ccb80baaac7e78c1f98/t/184/138/d/how-debian-13s-little-improvements-add-up-to-the-distros-surprisingly-big-leap-forward_hero.jpg
-summary: "(要約生成に失敗しました: failed to decode response: EOF)"
+summary: |-
+  Debianプロジェクトは、非フリーソフトウェアを一切含まないライブディストリビューション「Debian Libre Live」をリリースしました。
+  - これは、2022年に非フリーファームウェアを含める方針変更に反発した純粋主義者ユーザーへの対応策です。
+  - 完全なフリーソフトウェア環境を提供しますが、現状ではamd64アーキテクチャのみ対応で、デフォルトのGUIはありません。
+  - 安定性はDebianベースですが、初期リリースのため、上級ユーザー向けと位置付けられています。
 read: false
 ignored: false
 pinned: false
@@ -15,4 +19,7 @@ memo: ""
 ![「Debian Libre Live」がリリース--非フリーソフトなしで使えるディストリビューションとは](https://japan.zdnet.com/storage/2025/12/06/a646d99cf7c79ccb80baaac7e78c1f98/t/184/138/d/how-debian-13s-little-improvements-add-up-to-the-distros-surprisingly-big-leap-forward_hero.jpg)
 
 ## 要約
-(要約生成に失敗しました: failed to decode response: EOF)
+Debianプロジェクトは、非フリーソフトウェアを一切含まないライブディストリビューション「Debian Libre Live」をリリースしました。
+- これは、2022年に非フリーファームウェアを含める方針変更に反発した純粋主義者ユーザーへの対応策です。
+- 完全なフリーソフトウェア環境を提供しますが、現状ではamd64アーキテクチャのみ対応で、デフォルトのGUIはありません。
+- 安定性はDebianベースですが、初期リリースのため、上級ユーザー向けと位置付けられています。

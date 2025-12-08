@@ -5,7 +5,11 @@ updated:
 category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini3inGoogleSearch_Social.max-600x600.format-webp.webp
-summary: "(要約生成に失敗しました: failed to decode response: EOF)"
+summary: |-
+  Googleが最も高性能なAIモデル「Gemini 3」を、約120の国と地域でGoogle検索のAIモードに導入します。
+  - 有料プラン加入者は、複雑な質問のニュアンスを理解するGemini 3 Proを利用可能です。
+  - マルチモーダル理解と強力なコーディング機能により、動的な視覚的レイアウトやカスタムシミュレーションを生成できます。
+  - 画像生成モデル「Nano Banana Pro」も拡大導入され、インフォグラフィックなどの視覚化を支援します。
 read: false
 ignored: false
 pinned: false
@@ -15,4 +19,7 @@ memo: ""
 ![Gemini 3 and Nano Banana Pro in Search are coming to more countries around the world.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini3inGoogleSearch_Social.max-600x600.format-webp.webp)
 
 ## 要約
-(要約生成に失敗しました: failed to decode response: EOF)
+Googleが最も高性能なAIモデル「Gemini 3」を、約120の国と地域でGoogle検索のAIモードに導入します。
+- 有料プラン加入者は、複雑な質問のニュアンスを理解するGemini 3 Proを利用可能です。
+- マルチモーダル理解と強力なコーディング機能により、動的な視覚的レイアウトやカスタムシミュレーションを生成できます。
+- 画像生成モデル「Nano Banana Pro」も拡大導入され、インフォグラフィックなどの視覚化を支援します。

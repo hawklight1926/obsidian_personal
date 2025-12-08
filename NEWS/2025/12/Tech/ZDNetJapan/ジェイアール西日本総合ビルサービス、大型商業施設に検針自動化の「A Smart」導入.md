@@ -5,7 +5,11 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/02/06/7b3f1d1a553a69e429778932132dc789/t/184/138/d/250206_city_as_1280_616656624.jpg
-summary: "(要約生成に失敗しました: failed to decode response: EOF)"
+summary: |-
+  JR西日本総合ビルサービスが、大型商業施設の検針業務を自動化するため「A Smart」を導入しました。
+  ・「A Smart」はアナログメーターにAIカメラを取り付けてIoT化し、検針業務を自動化するサービスです。
+  ・既存メーターの交換が不要で、多種多様なメーターに短時間で設置でき、平均90%の業務負荷削減が期待できます。
+  ・エッジAI技術により通信量を抑え、ランニングコストの削減にも貢献します。
 read: false
 ignored: false
 pinned: false
@@ -15,4 +19,7 @@ memo: ""
 ![ジェイアール西日本総合ビルサービス、大型商業施設に検針自動化の「A Smart」導入](https://japan.zdnet.com/storage/2025/02/06/7b3f1d1a553a69e429778932132dc789/t/184/138/d/250206_city_as_1280_616656624.jpg)
 
 ## 要約
-(要約生成に失敗しました: failed to decode response: EOF)
+JR西日本総合ビルサービスが、大型商業施設の検針業務を自動化するため「A Smart」を導入しました。
+・「A Smart」はアナログメーターにAIカメラを取り付けてIoT化し、検針業務を自動化するサービスです。
+・既存メーターの交換が不要で、多種多様なメーターに短時間で設置でき、平均90%の業務負荷削減が期待できます。
+・エッジAI技術により通信量を抑え、ランニングコストの削減にも貢献します。

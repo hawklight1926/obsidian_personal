@@ -5,7 +5,11 @@ updated:
 category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp
-summary: "(要約生成に失敗しました: failed to decode response: EOF)"
+summary: |-
+  GoogleのCEOサンダー・ピチャイは、AIの進歩と未来について語りました。
+  ・2016年の「AIファースト」方針が現在の基盤を築きました。
+  ・現在のGemini 3やNano Banana Proに加え、量子コンピューティングなど今後10年の長期投資に期待を示しています。
+  ・ピチャイは、約5年後には量子コンピューティングが現在のAIのような興奮を生むと予測しています。
 read: false
 ignored: false
 pinned: false
@@ -15,4 +19,7 @@ memo: ""
 ![Get an in-depth look at Gemini 3 with CEO Sundar Pichai.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Release_Notes_Sundar_Pichai_003.max-600x600.format-webp.webp)
 
 ## 要約
-(要約生成に失敗しました: failed to decode response: EOF)
+GoogleのCEOサンダー・ピチャイは、AIの進歩と未来について語りました。
+・2016年の「AIファースト」方針が現在の基盤を築きました。
+・現在のGemini 3やNano Banana Proに加え、量子コンピューティングなど今後10年の長期投資に期待を示しています。
+・ピチャイは、約5年後には量子コンピューティングが現在のAIのような興奮を生むと予測しています。

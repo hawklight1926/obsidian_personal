@@ -5,7 +5,11 @@ updated:
 category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-e6k80n42_thumb.jpg
-summary: "(要約生成に失敗しました: failed to decode response: EOF)"
+summary: |-
+  GoogleはGeminiアプリに、複雑な学術概念を視覚的に探求できるインタラクティブ画像機能を導入しました。  
+  ・図表の特定部分をタップすると、定義や詳細説明が表示されるパネルが開きます。  
+  ・例えば消化器系や細胞の構造を、ラベルだけでなく直接操作しながら学べます。  
+  ・これにより、受動的な閲覧から能動的な探索へと学習方法が転換され、視覚的で動的な学びが可能になります。
 read: false
 ignored: false
 pinned: false
@@ -15,4 +19,7 @@ memo: ""
 ![Develop a deeper understanding with interactive images in Gemini.](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-e6k80n42_thumb.jpg)
 
 ## 要約
-(要約生成に失敗しました: failed to decode response: EOF)
+GoogleはGeminiアプリに、複雑な学術概念を視覚的に探求できるインタラクティブ画像機能を導入しました。  
+・図表の特定部分をタップすると、定義や詳細説明が表示されるパネルが開きます。  
+・例えば消化器系や細胞の構造を、ラベルだけでなく直接操作しながら学べます。  
+・これにより、受動的な閲覧から能動的な探索へと学習方法が転換され、視覚的で動的な学びが可能になります。

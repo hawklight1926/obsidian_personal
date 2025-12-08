@@ -5,7 +5,11 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/05/0c62efe5de994a06af89241b6ed0b886/t/184/138/d/251204_aws_001.JPG
-summary: "(要約生成に失敗しました: failed to decode response: EOF)"
+summary: |-
+  AWSはAIエージェントをPoCから本番環境に対応させる新サービスを発表しました。  
+  ・オープンソースSDK「STRANDS AGENTS SDK」により、AIエージェントの構築と実装が容易になります。  
+  ・TypeScriptのサポート追加やエッジデバイス対応など、開発環境の拡充が図られています。  
+  ・これにより、開発者は自然言語で目標を記述するだけで、AIエージェントが自律的に計画と実行を行えるようになります。
 read: false
 ignored: false
 pinned: false
@@ -15,4 +19,7 @@ memo: ""
 ![AIエージェントをより効果的に使うための機能を発表--「Amazon Nova Act」など](https://japan.zdnet.com/storage/2025/12/05/0c62efe5de994a06af89241b6ed0b886/t/184/138/d/251204_aws_001.JPG)
 
 ## 要約
-(要約生成に失敗しました: failed to decode response: EOF)
+AWSはAIエージェントをPoCから本番環境に対応させる新サービスを発表しました。  
+・オープンソースSDK「STRANDS AGENTS SDK」により、AIエージェントの構築と実装が容易になります。  
+・TypeScriptのサポート追加やエッジデバイス対応など、開発環境の拡充が図られています。  
+・これにより、開発者は自然言語で目標を記述するだけで、AIエージェントが自律的に計画と実行を行えるようになります。

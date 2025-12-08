@@ -5,7 +5,11 @@ updated:
 category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_7.max-600x600.format-webp.webp
-summary: "(要約生成に失敗しました: failed to decode response: EOF)"
+summary: |-
+  Googleは、詐欺的なテキストメッセージの見分け方を支援する新機能を「Circle to Search」と「Lens」に追加しました。
+  - メッセージやそのリンクを選択して検索すると、AIが詐欺の可能性を評価します。
+  - 結果には、詐欺の特徴や次の行動に関するガイダンスが表示されます。
+  - この機能は世界中で利用可能で、信頼性の高い判断が可能な場合に作動します。
 read: false
 ignored: false
 pinned: false
@@ -15,4 +19,7 @@ memo: ""
 ![Use Circle to Search and Google Lens to spot scam messages.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_7.max-600x600.format-webp.webp)
 
 ## 要約
-(要約生成に失敗しました: failed to decode response: EOF)
+Googleは、詐欺的なテキストメッセージの見分け方を支援する新機能を「Circle to Search」と「Lens」に追加しました。
+- メッセージやそのリンクを選択して検索すると、AIが詐欺の可能性を評価します。
+- 結果には、詐欺の特徴や次の行動に関するガイダンスが表示されます。
+- この機能は世界中で利用可能で、信頼性の高い判断が可能な場合に作動します。

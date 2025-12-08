@@ -5,7 +5,11 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: "(要約生成に失敗しました: failed to decode response: EOF)"
+summary: |-
+  NTTグループが、独自の音響技術を活用したワイヤレスイヤホン「cocoe Ear」を発表しました。
+  ・独自の「PSZ技術」により、周囲の音を遮断せずに音声を鮮明に聞き取れることが特徴です。
+  ・専用アプリで聴取環境の調整や、複数人での音声共有機能を利用できます。
+  ・また、テレビ音声を直接イヤホンに飛ばす補助機器「cocoe Link」も用意されています。
 read: false
 ignored: false
 pinned: false
@@ -13,4 +17,7 @@ memo: ""
 ---
 
 ## 要約
-(要約生成に失敗しました: failed to decode response: EOF)
+NTTグループが、独自の音響技術を活用したワイヤレスイヤホン「cocoe Ear」を発表しました。
+・独自の「PSZ技術」により、周囲の音を遮断せずに音声を鮮明に聞き取れることが特徴です。
+・専用アプリで聴取環境の調整や、複数人での音声共有機能を利用できます。
+・また、テレビ音声を直接イヤホンに飛ばす補助機器「cocoe Link」も用意されています。

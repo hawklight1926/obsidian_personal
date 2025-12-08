@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  The New York Timesは、AI企業のPerplexityを著作権侵害で提訴しました。
-  ・Perplexityが同紙の有料記事を含む著作物を無断で学習・回答生成に使用したと主張しています。
-  ・同社のサービスが有料コンテンツを回避する仕組みなく表示することも問題視されています。
-  ・この訴訟は、メディア各社が生成AI企業を相手取った一連の法的措置の最新例です。
+  The New York Timesは、AI企業Perplexityを著作権侵害で提訴しました。
+  - Perplexityが、同紙の有料記事を含む著作物を許可なく収集・配信したと主張しています。
+  - また、ログインが必要なコンテンツを「閲覧」したことで、コンピュータ詐欺法にも違反したと指摘しています。
+  - The New York Timesは、2023年にもOpenAIとMicrosoftを同様の理由で提訴しています。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-The New York Timesは、AI企業のPerplexityを著作権侵害で提訴しました。
-・Perplexityが同紙の有料記事を含む著作物を無断で学習・回答生成に使用したと主張しています。
-・同社のサービスが有料コンテンツを回避する仕組みなく表示することも問題視されています。
-・この訴訟は、メディア各社が生成AI企業を相手取った一連の法的措置の最新例です。
+The New York Timesは、AI企業Perplexityを著作権侵害で提訴しました。
+- Perplexityが、同紙の有料記事を含む著作物を許可なく収集・配信したと主張しています。
+- また、ログインが必要なコンテンツを「閲覧」したことで、コンピュータ詐欺法にも違反したと指摘しています。
+- The New York Timesは、2023年にもOpenAIとMicrosoftを同様の理由で提訴しています。

@@ -5,7 +5,12 @@ updated:
 category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Changetheweather_social.max-600x600.format-webp.webp
-summary: "(要約生成に失敗しました: failed to decode response: EOF)"
+summary: |-
+  Googleの動画作成アプリ「Flow」に、コンテンツを精密に編集する新機能が追加されました。
+  - 高精度画像モデル「Nano Banana Pro」により、被写体や照明などを細かく調整できます。
+  - 画像への落書きをプロンプトとして認識し、要素の追加や修正が可能です。
+  - 動画内のオブジェクトを挿入または削除する機能が利用できます。
+  - カメラの位置や動きを後から調整する「リシュート」機能で映像表現を強化できます。
 read: false
 ignored: false
 pinned: false
@@ -15,4 +20,8 @@ memo: ""
 ![4 ways to refine your content in Flow](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Changetheweather_social.max-600x600.format-webp.webp)
 
 ## 要約
-(要約生成に失敗しました: failed to decode response: EOF)
+Googleの動画作成アプリ「Flow」に、コンテンツを精密に編集する新機能が追加されました。
+- 高精度画像モデル「Nano Banana Pro」により、被写体や照明などを細かく調整できます。
+- 画像への落書きをプロンプトとして認識し、要素の追加や修正が可能です。
+- 動画内のオブジェクトを挿入または削除する機能が利用できます。
+- カメラの位置や動きを後から調整する「リシュート」機能で映像表現を強化できます。

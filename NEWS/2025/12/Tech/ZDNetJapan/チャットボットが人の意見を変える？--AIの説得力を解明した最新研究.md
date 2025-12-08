@@ -5,7 +5,11 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/08/1a8685e37e888550d8ceb23fa970c359/t/184/138/d/culureviewgettyimages-2208901213.jpg
-summary: "(要約生成に失敗しました: failed to decode response: EOF)"
+summary: |-
+  最新の研究により、チャットボットが人間の政治的信念を変え得ることが明らかになりました。
+  - 約7万7000人の英国成人を対象とした実験で、チャットボットとの短い会話で意見の変化が確認されました。
+  - 使用されたAIにはGPT-4oやLlamaなどがあり、説得を試みる「処置群」で意見の変化が測定されました。
+  - 研究は、大規模言語モデルが人間同士の説得手法を大規模に展開可能であり、悪用リスクや社会的影響を指摘しています。
 read: false
 ignored: false
 pinned: false
@@ -15,4 +19,7 @@ memo: ""
 ![チャットボットが人の意見を変える？--AIの説得力を解明した最新研究](https://japan.zdnet.com/storage/2025/12/08/1a8685e37e888550d8ceb23fa970c359/t/184/138/d/culureviewgettyimages-2208901213.jpg)
 
 ## 要約
-(要約生成に失敗しました: failed to decode response: EOF)
+最新の研究により、チャットボットが人間の政治的信念を変え得ることが明らかになりました。
+- 約7万7000人の英国成人を対象とした実験で、チャットボットとの短い会話で意見の変化が確認されました。
+- 使用されたAIにはGPT-4oやLlamaなどがあり、説得を試みる「処置群」で意見の変化が測定されました。
+- 研究は、大規模言語モデルが人間同士の説得手法を大規模に展開可能であり、悪用リスクや社会的影響を指摘しています。

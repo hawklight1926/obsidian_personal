@@ -5,7 +5,12 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: "(要約生成に失敗しました: failed to decode response: EOF)"
+summary: |-
+  Windows 95は1995年11月22日に日本で発売され、PC市場に大きな変革をもたらしました。  
+  ・当時はNECのPC-98シリーズが主流で、OSはMS-DOSやWindows 3.1が中心でした。  
+  ・IBMの「DOS/V」の登場により、日本語表示可能な汎用PCが普及し始めました。  
+  ・Windows 95は直感的なGUIを備え、DOS/Vマシンでもそのまま動作する点が画期的でした。  
+  ・このOSの普及は、日本におけるインターネット一般化の契機ともなっています。
 read: false
 ignored: false
 pinned: false
@@ -13,4 +18,8 @@ memo: ""
 ---
 
 ## 要約
-(要約生成に失敗しました: failed to decode response: EOF)
+Windows 95は1995年11月22日に日本で発売され、PC市場に大きな変革をもたらしました。  
+・当時はNECのPC-98シリーズが主流で、OSはMS-DOSやWindows 3.1が中心でした。  
+・IBMの「DOS/V」の登場により、日本語表示可能な汎用PCが普及し始めました。  
+・Windows 95は直感的なGUIを備え、DOS/Vマシンでもそのまま動作する点が画期的でした。  
+・このOSの普及は、日本におけるインターネット一般化の契機ともなっています。
