@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  Googleは、Google WorkspaceでAIを活用した業務自動化ツール「Google Workspace Studio」の提供を開始しました。
-  - AIがメールやチャットの内容から自動で返信や通知用のメッセージを生成します。
-  - 作成された自動化ワークフローは、チームで共有・編集が可能です。
-  - 外部サービスとの連携や、Apps Scriptを用いたカスタマイズにも対応しています。
+  Googleは、Google Workspace内でAIを活用した業務自動化ツール「Google Workspace Studio」の提供を開始しました。
+  - AIがメールやチャットの内容から、返信文や通知などのワークフローを自動生成します。
+  - 作成したワークフローはチームで共有可能で、GmailやGoogle Chatなどと連携して実行できます。
+  - 外部サービスとの連携や、Apps Scriptを用いたカスタマイズも可能です。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-Googleは、Google WorkspaceでAIを活用した業務自動化ツール「Google Workspace Studio」の提供を開始しました。
-- AIがメールやチャットの内容から自動で返信や通知用のメッセージを生成します。
-- 作成された自動化ワークフローは、チームで共有・編集が可能です。
-- 外部サービスとの連携や、Apps Scriptを用いたカスタマイズにも対応しています。
+Googleは、Google Workspace内でAIを活用した業務自動化ツール「Google Workspace Studio」の提供を開始しました。
+- AIがメールやチャットの内容から、返信文や通知などのワークフローを自動生成します。
+- 作成したワークフローはチームで共有可能で、GmailやGoogle Chatなどと連携して実行できます。
+- 外部サービスとの連携や、Apps Scriptを用いたカスタマイズも可能です。
