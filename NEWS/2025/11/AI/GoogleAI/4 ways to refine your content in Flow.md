@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Changetheweather_social.max-600x600.format-webp.webp
 summary: |-
-  Googleの動画作成アプリ「Flow」に、コンテンツの編集と精密化を可能にする新機能が追加されました。  
-  ・「Nano Banana Pro」による画像生成・編集で、被写界深度や照明などを細かく調整できます。  
-  ・画像への落書きをプロンプトとして認識し、要素を追加する機能が利用可能です。  
-  ・動画内のオブジェクトを挿入・削除したり、カメラの動きを調整したりできます。
+  Googleの動画作成アプリ「Flow」に、コンテンツを精密に編集する新機能が追加されました。
+  - 高機能画像モデル「Nano Banana Pro」により、被写体や照明などを細かく調整できます。
+  - 画像への落書きをプロンプトとして認識し、要素の追加や修正が可能です。
+  - 動画内のオブジェクトを挿入・削除したり、カメラの動きを調整したりできます。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![4 ways to refine your content in Flow](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Changetheweather_social.max-600x600.format-webp.webp)
 
 ## 要約
-Googleの動画作成アプリ「Flow」に、コンテンツの編集と精密化を可能にする新機能が追加されました。  
-・「Nano Banana Pro」による画像生成・編集で、被写界深度や照明などを細かく調整できます。  
-・画像への落書きをプロンプトとして認識し、要素を追加する機能が利用可能です。  
-・動画内のオブジェクトを挿入・削除したり、カメラの動きを調整したりできます。
+Googleの動画作成アプリ「Flow」に、コンテンツを精密に編集する新機能が追加されました。
+- 高機能画像モデル「Nano Banana Pro」により、被写体や照明などを細かく調整できます。
+- 画像への落書きをプロンプトとして認識し、要素の追加や修正が可能です。
+- 動画内のオブジェクトを挿入・削除したり、カメラの動きを調整したりできます。
