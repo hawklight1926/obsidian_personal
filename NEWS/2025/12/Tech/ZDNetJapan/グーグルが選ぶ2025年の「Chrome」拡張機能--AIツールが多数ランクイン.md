@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/05/1ba35b5a2421c88d3afe88aeae7d599a/t/184/138/d/screenshot-2025-12-04-at-11-13-46am_hero.png
 summary: |-
-  Googleは2025年の優秀なChrome拡張機能リストを発表し、AIツールが多数選出されました。
-  - 選ばれた10種類の拡張機能のうち、4つはAIブラウザーコンパニオンで、残りもAIを活用しています。
-  - AIツールには、PDFのチャットや要約ができる「Monica」、ワークフローを自動化する「HARPA AI」、文章推敲を支援する「Quillbot」などが含まれます。
-  - 生産性向上ツールとして会議の文字起こしを行う「Fireflies.ai」や、学習支援の「eJOY」も選ばれ、創造性を重視し「Adobe Photoshop」ウェブ版などもリスト入りしました。
+  Googleが発表した2025年の優秀なChrome拡張機能リストでは、AIツールが多数を占めています。
+  - 選出された10種類のうち4つはAIブラウザーコンパニオンで、PDFのチャットや文章要約などを支援します。
+  - 生産性向上ツールには、会議の自動文字起こしや学習支援など、AIを活用した拡張機能が含まれます。
+  - リストはAIに偏らないよう、Adobe Photoshopのウェブ版ツールなど、創造性を促す拡張機能も選出しています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![グーグルが選ぶ2025年の「Chrome」拡張機能--AIツールが多数ランクイン](https://japan.zdnet.com/storage/2025/12/05/1ba35b5a2421c88d3afe88aeae7d599a/t/184/138/d/screenshot-2025-12-04-at-11-13-46am_hero.png)
 
 ## 要約
-Googleは2025年の優秀なChrome拡張機能リストを発表し、AIツールが多数選出されました。
-- 選ばれた10種類の拡張機能のうち、4つはAIブラウザーコンパニオンで、残りもAIを活用しています。
-- AIツールには、PDFのチャットや要約ができる「Monica」、ワークフローを自動化する「HARPA AI」、文章推敲を支援する「Quillbot」などが含まれます。
-- 生産性向上ツールとして会議の文字起こしを行う「Fireflies.ai」や、学習支援の「eJOY」も選ばれ、創造性を重視し「Adobe Photoshop」ウェブ版などもリスト入りしました。
+Googleが発表した2025年の優秀なChrome拡張機能リストでは、AIツールが多数を占めています。
+- 選出された10種類のうち4つはAIブラウザーコンパニオンで、PDFのチャットや文章要約などを支援します。
+- 生産性向上ツールには、会議の自動文字起こしや学習支援など、AIを活用した拡張機能が含まれます。
+- リストはAIに偏らないよう、Adobe Photoshopのウェブ版ツールなど、創造性を促す拡張機能も選出しています。
