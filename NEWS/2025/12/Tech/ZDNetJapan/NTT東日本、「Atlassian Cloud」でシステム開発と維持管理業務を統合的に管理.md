@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/09/30/e3d5360845f24894b778caaf811bdbc7/t/184/138/d/250930_engineer_as_1280_726498075.jpg
 summary: |-
-  NTT東日本はアトラシアンの「Atlassian Cloud」を導入し、システム開発と維持管理業務の統合管理を実現しました。
-  ・プロジェクト管理「Jira」や情報共有「Confluence」などを活用し、業務状況の組織横断的な可視化と効率化を推進しています。
-  ・ITサービスマネジメントには「Jira Service Management」を採用し、問い合わせ対応などの情報を一元管理できる環境を構築しました。
-  ・「Atlassian Guard」と「Microsoft Entra ID」を連携させることで、利便性向上とセキュリティ強化も図っています。
+  NTT東日本はアトラシアンの「Atlassian Cloud」を導入し、システム開発と維持管理業務の統合管理を実現しました。  
+  ・プロジェクト管理の「Jira」やITサービス管理の「Jira Service Management」などを活用し、業務を一元化しています。  
+  ・これにより、業務状況の可視化や問い合わせ対応の効率化を推進しています。  
+  ・また、セキュリティツール「Atlassian Guard」と連携し、利便性と安全性の向上も図っています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![NTT東日本、「Atlassian Cloud」でシステム開発と維持管理業務を統合的に管理](https://japan.zdnet.com/storage/2025/09/30/e3d5360845f24894b778caaf811bdbc7/t/184/138/d/250930_engineer_as_1280_726498075.jpg)
 
 ## 要約
-NTT東日本はアトラシアンの「Atlassian Cloud」を導入し、システム開発と維持管理業務の統合管理を実現しました。
-・プロジェクト管理「Jira」や情報共有「Confluence」などを活用し、業務状況の組織横断的な可視化と効率化を推進しています。
-・ITサービスマネジメントには「Jira Service Management」を採用し、問い合わせ対応などの情報を一元管理できる環境を構築しました。
-・「Atlassian Guard」と「Microsoft Entra ID」を連携させることで、利便性向上とセキュリティ強化も図っています。
+NTT東日本はアトラシアンの「Atlassian Cloud」を導入し、システム開発と維持管理業務の統合管理を実現しました。  
+・プロジェクト管理の「Jira」やITサービス管理の「Jira Service Management」などを活用し、業務を一元化しています。  
+・これにより、業務状況の可視化や問い合わせ対応の効率化を推進しています。  
+・また、セキュリティツール「Atlassian Guard」と連携し、利便性と安全性の向上も図っています。
