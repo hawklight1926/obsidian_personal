@@ -6,10 +6,11 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Changetheweather_social.max-600x600.format-webp.webp
 summary: |-
-  Googleの動画作成アプリ「Flow」に、コンテンツの編集と精密化を可能にする新機能が追加されました。
-  - 無料ユーザーはImagenとNano Banana、有料ユーザーはNano Banana Proを利用し、画像の生成や被写体の衣装・照明などの編集が可能です。
-  - 画像に直接落書きして指示する「プロンプト・バイ・ドゥードゥル」や、動画内のオブジェクトの挿入・削除機能が利用できます。
-  - 生成された動画のカメラ位置や動きを調整する「カメラ調整」機能も追加され、創作の制御精度が向上しています。
+  Flowは動画編集アプリに、コンテンツを精密に調整する新機能を追加しました。
+  - 高精度画像モデル「Nano Banana Pro」で、被写界深度や照明などを制御した画像の生成・編集が可能です。
+  - 画像に直接描画（落書き）することで、その意図を反映した編集が行えます。
+  - 動画内のオブジェクトを追加または削除でき、不要な要素を除去できます。
+  - カメラの位置や動きを調整する「リシュート」機能で、撮影後の視点変更が可能です。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +20,8 @@ memo: ""
 ![4 ways to refine your content in Flow](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Changetheweather_social.max-600x600.format-webp.webp)
 
 ## 要約
-Googleの動画作成アプリ「Flow」に、コンテンツの編集と精密化を可能にする新機能が追加されました。
-- 無料ユーザーはImagenとNano Banana、有料ユーザーはNano Banana Proを利用し、画像の生成や被写体の衣装・照明などの編集が可能です。
-- 画像に直接落書きして指示する「プロンプト・バイ・ドゥードゥル」や、動画内のオブジェクトの挿入・削除機能が利用できます。
-- 生成された動画のカメラ位置や動きを調整する「カメラ調整」機能も追加され、創作の制御精度が向上しています。
+Flowは動画編集アプリに、コンテンツを精密に調整する新機能を追加しました。
+- 高精度画像モデル「Nano Banana Pro」で、被写界深度や照明などを制御した画像の生成・編集が可能です。
+- 画像に直接描画（落書き）することで、その意図を反映した編集が行えます。
+- 動画内のオブジェクトを追加または削除でき、不要な要素を除去できます。
+- カメラの位置や動きを調整する「リシュート」機能で、撮影後の視点変更が可能です。
