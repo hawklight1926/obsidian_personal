@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  Cloudflareの障害により、複数の主要サービスが利用不能となりました。  
-  ・12月5日午後6時頃から発生し、ShopifyやZoom、Perplexityなどが影響を受けました。  
-  ・同社では11月にも大規模障害が発生しており、今回は約2時間で復旧しています。  
-  ・障害の原因は、データセンターとAPIの不具合と報告されています。
+  12月5日午後、CDNサービスのCloudflareで障害が発生しました。
+  ・ShopifyやZoom、Perplexity、BOOTHなど複数のサービスでWebサイトの表示やAPI接続に問題が生じました。
+  ・Cloudflareでは11月18日にも大規模な障害が発生しており、今回は約7時間後に復旧しています。
+  ・同社は午後6時20分頃に問題が解決したと発表しました。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-Cloudflareの障害により、複数の主要サービスが利用不能となりました。  
-・12月5日午後6時頃から発生し、ShopifyやZoom、Perplexityなどが影響を受けました。  
-・同社では11月にも大規模障害が発生しており、今回は約2時間で復旧しています。  
-・障害の原因は、データセンターとAPIの不具合と報告されています。
+12月5日午後、CDNサービスのCloudflareで障害が発生しました。
+・ShopifyやZoom、Perplexity、BOOTHなど複数のサービスでWebサイトの表示やAPI接続に問題が生じました。
+・Cloudflareでは11月18日にも大規模な障害が発生しており、今回は約7時間後に復旧しています。
+・同社は午後6時20分頃に問題が解決したと発表しました。
