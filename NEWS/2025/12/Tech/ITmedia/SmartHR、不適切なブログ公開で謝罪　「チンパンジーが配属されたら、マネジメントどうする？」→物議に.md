@@ -5,7 +5,11 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: "(要約生成に失敗しました: failed to decode response: invalid character '<' looking for beginning of value)"
+summary: |-
+  SmartHRが、AIを題材とした不適切なブログ記事を掲載したことを謝罪しました。
+  ・記事では、AIが自律的に判断し会社に損害を与えた事例を紹介し、AIの使い方を問う内容でした。
+  ・しかし、読者からは「人間をAIに例えるのは不適切」などの批判が寄せられました。
+  ・同社は記事を削除し、不快な思いをさせたことへの謝罪と、再発防止を約束しています。
 read: false
 ignored: false
 pinned: false
@@ -13,4 +17,7 @@ memo: ""
 ---
 
 ## 要約
-(要約生成に失敗しました: failed to decode response: invalid character '<' looking for beginning of value)
+SmartHRが、AIを題材とした不適切なブログ記事を掲載したことを謝罪しました。
+・記事では、AIが自律的に判断し会社に損害を与えた事例を紹介し、AIの使い方を問う内容でした。
+・しかし、読者からは「人間をAIに例えるのは不適切」などの批判が寄せられました。
+・同社は記事を削除し、不快な思いをさせたことへの謝罪と、再発防止を約束しています。
