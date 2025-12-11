@@ -6,11 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIquests_Social.max-600x600.format-webp.webp
 summary: |-
-  Googleはコンピュータサイエンス教育週間に合わせ、AIリテラシー向上のための新たな教育プログラムを開始し、教育支援に500万ドル以上を拠出します。
-  
-  - ゲーム形式の学習プログラム「AI Quests」に、糖尿病網膜症の検出を題材にした新クエストを追加し、無料で提供します。
-  - 2026年にはRaspberry Pi財団などとの連携により、より多くの教室にAI Questsを導入する計画です。
-  - Google.orgは500万ドル以上の新資金を提供し、教育者向けのコンピュータサイエンス及びAIカリキュラム構築などを支援します。
+  Googleはコンピュータサイエンス教育週間に合わせ、AIリテラシー向上のための新たな教育プログラムを開始し、500万ドル以上の資金提供を発表しました。  
+  ・ゲーム形式の学習シリーズ「AI Quests」に、糖尿病網膜症の研究を基にした新コンテンツを追加し、無料で提供します。  
+  ・2026年にはRaspberry Pi財団などと連携し、より多くの教室にAI教育を拡大する計画です。  
+  ・Google.orgによる500万ドル超の新規資金は、教育者の育成やK-12向けカリキュラム整備などに充てられます。
 read: false
 ignored: false
 pinned: false
@@ -20,8 +19,7 @@ memo: ""
 ![How we’re supporting the next generation of innovators](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIquests_Social.max-600x600.format-webp.webp)
 
 ## 要約
-Googleはコンピュータサイエンス教育週間に合わせ、AIリテラシー向上のための新たな教育プログラムを開始し、教育支援に500万ドル以上を拠出します。
-
-- ゲーム形式の学習プログラム「AI Quests」に、糖尿病網膜症の検出を題材にした新クエストを追加し、無料で提供します。
-- 2026年にはRaspberry Pi財団などとの連携により、より多くの教室にAI Questsを導入する計画です。
-- Google.orgは500万ドル以上の新資金を提供し、教育者向けのコンピュータサイエンス及びAIカリキュラム構築などを支援します。
+Googleはコンピュータサイエンス教育週間に合わせ、AIリテラシー向上のための新たな教育プログラムを開始し、500万ドル以上の資金提供を発表しました。  
+・ゲーム形式の学習シリーズ「AI Quests」に、糖尿病網膜症の研究を基にした新コンテンツを追加し、無料で提供します。  
+・2026年にはRaspberry Pi財団などと連携し、より多くの教室にAI教育を拡大する計画です。  
+・Google.orgによる500万ドル超の新規資金は、教育者の育成やK-12向けカリキュラム整備などに充てられます。
