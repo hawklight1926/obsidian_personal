@@ -8,8 +8,8 @@ image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EOY_2025_
 summary: |-
   Googleは2025年の主要なサービス動向を振り返りました。  
   ・Chrome拡張機能ではAIを活用したブラウザ強化が進みました。  
-  ・「Year in Search 2025」では検索トレンドや過去と未来を結ぶ映像を公開しています。  
-  ・Google PhotosやYouTubeでは個人向けの年間振り返り機能が提供されています。
+  ・「Year in Search 2025」では検索トレンドや記録動画を公開しています。  
+  ・Google PhotosやYouTubeでも個人向けの年間振り返り機能が提供されています。
 read: false
 ignored: false
 pinned: false
@@ -21,5 +21,5 @@ memo: ""
 ## 要約
 Googleは2025年の主要なサービス動向を振り返りました。  
 ・Chrome拡張機能ではAIを活用したブラウザ強化が進みました。  
-・「Year in Search 2025」では検索トレンドや過去と未来を結ぶ映像を公開しています。  
-・Google PhotosやYouTubeでは個人向けの年間振り返り機能が提供されています。
+・「Year in Search 2025」では検索トレンドや記録動画を公開しています。  
+・Google PhotosやYouTubeでも個人向けの年間振り返り機能が提供されています。

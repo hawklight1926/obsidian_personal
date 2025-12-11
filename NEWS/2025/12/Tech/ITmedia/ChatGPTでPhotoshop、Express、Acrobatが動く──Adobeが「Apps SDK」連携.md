@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  AdobeがChatGPT内で「Adobe apps for ChatGPT」の提供を開始し、自然言語でPhotoshopなどの操作が可能になりました。
-  - ユーザーはChatGPT上で、画像編集やPDF処理などの指示を出せます。
-  - 利用にはWeb、iOS版ChatGPTと、該当するAdobeの有料プランが必要です。
-  - 現在は各アプリの基本機能が利用可能で、高度な作業は従来のアプリに切り替える必要があります。
+  AdobeがChatGPT内で「Adobe Photoshop」「Adobe Express」「Adobe Acrobat」を利用可能にする「Adobe apps for ChatGPT」の提供を開始しました。
+  ・ChatGPTのユーザーは、自然な指示で画像編集やPDF操作などの作業を実行できるようになります。
+  ・利用には各Adobeアプリの有料サブスクリプションが必要で、Web、iOS、デスクトップで使用可能です。
+  ・具体的には、ChatGPTに指示を出すと、該当するAdobeアプリが起動し、作業を支援するインターフェースが提供されます。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-AdobeがChatGPT内で「Adobe apps for ChatGPT」の提供を開始し、自然言語でPhotoshopなどの操作が可能になりました。
-- ユーザーはChatGPT上で、画像編集やPDF処理などの指示を出せます。
-- 利用にはWeb、iOS版ChatGPTと、該当するAdobeの有料プランが必要です。
-- 現在は各アプリの基本機能が利用可能で、高度な作業は従来のアプリに切り替える必要があります。
+AdobeがChatGPT内で「Adobe Photoshop」「Adobe Express」「Adobe Acrobat」を利用可能にする「Adobe apps for ChatGPT」の提供を開始しました。
+・ChatGPTのユーザーは、自然な指示で画像編集やPDF操作などの作業を実行できるようになります。
+・利用には各Adobeアプリの有料サブスクリプションが必要で、Web、iOS、デスクトップで使用可能です。
+・具体的には、ChatGPTに指示を出すと、該当するAdobeアプリが起動し、作業を支援するインターフェースが提供されます。
