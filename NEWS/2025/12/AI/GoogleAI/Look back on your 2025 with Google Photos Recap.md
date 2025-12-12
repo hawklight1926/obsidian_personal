@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BlogPostIn-Line_ShareCard_ANV01.max-600x600.format-webp.webp
 summary: |-
-  Googleフォトの「2025年 Recap」が公開され、よりカスタマイズや共有が容易になりました。  
-  ・特定の人物や写真を非表示にできるなど、パーソナライズ機能が強化されています。  
-  ・CapCut連携により専用テンプレートで編集し、ソーシャルメディアやWhatsAppへ直接共有できます。  
-  ・米国ユーザー向けには、Gemini機能により趣味やハイライトを自動でまとめる新要素も追加されています。
+  Googleフォトが2025年の思い出をまとめた動画「リキャップ」を提供しています。  
+  ・写真や動画を自動で選び、グラフィックや効果を加えたハイライト動画を作成できます。  
+  ・特定の人物や写真を非表示にしたり、CapCutで編集するなど、カスタマイズ機能が強化されました。  
+  ・作成したリキャップはソーシャルメディアやWhatsAppなどへ直接共有することが可能です。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![Look back on your 2025 with Google Photos Recap](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BlogPostIn-Line_ShareCard_ANV01.max-600x600.format-webp.webp)
 
 ## 要約
-Googleフォトの「2025年 Recap」が公開され、よりカスタマイズや共有が容易になりました。  
-・特定の人物や写真を非表示にできるなど、パーソナライズ機能が強化されています。  
-・CapCut連携により専用テンプレートで編集し、ソーシャルメディアやWhatsAppへ直接共有できます。  
-・米国ユーザー向けには、Gemini機能により趣味やハイライトを自動でまとめる新要素も追加されています。
+Googleフォトが2025年の思い出をまとめた動画「リキャップ」を提供しています。  
+・写真や動画を自動で選び、グラフィックや効果を加えたハイライト動画を作成できます。  
+・特定の人物や写真を非表示にしたり、CapCutで編集するなど、カスタマイズ機能が強化されました。  
+・作成したリキャップはソーシャルメディアやWhatsAppなどへ直接共有することが可能です。

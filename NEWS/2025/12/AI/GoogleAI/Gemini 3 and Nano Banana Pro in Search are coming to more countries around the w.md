@@ -7,9 +7,9 @@ rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini3inGoogleSearch_Social.max-600x600.format-webp.webp
 summary: |-
   Googleが最も高性能なAIモデル「Gemini 3」を、約120の国と地域でGoogle検索のAIモードに導入しました。
-  - Gemini 3 Proは、複雑な質問のニュアンスを理解する高度な推論能力を備えています。
-  - マルチモーダル理解と強力なコーディング機能により、動的な視覚レイアウトやインタラクティブなツールを生成できます。
-  - 画像生成モデル「Nano Banana Pro」も拡大導入され、インフォグラフィックなどの可視化を支援します。
+  - 有料サブスクリプション「Google AI Pro/Ultra」ユーザーは、複雑な質問のニュアンスを理解するGemini 3 Proを利用できます。
+  - このモデルは、動的な視覚的レイアウトやインタラクティブなツールなどを、質問に応じてその場で生成する機能を提供します。
+  - 同時に、画像生成モデル「Nano Banana Pro」も拡大導入され、インフォグラフィックなどの視覚化を支援します。
 read: false
 ignored: false
 pinned: false
@@ -20,6 +20,6 @@ memo: ""
 
 ## 要約
 Googleが最も高性能なAIモデル「Gemini 3」を、約120の国と地域でGoogle検索のAIモードに導入しました。
-- Gemini 3 Proは、複雑な質問のニュアンスを理解する高度な推論能力を備えています。
-- マルチモーダル理解と強力なコーディング機能により、動的な視覚レイアウトやインタラクティブなツールを生成できます。
-- 画像生成モデル「Nano Banana Pro」も拡大導入され、インフォグラフィックなどの可視化を支援します。
+- 有料サブスクリプション「Google AI Pro/Ultra」ユーザーは、複雑な質問のニュアンスを理解するGemini 3 Proを利用できます。
+- このモデルは、動的な視覚的レイアウトやインタラクティブなツールなどを、質問に応じてその場で生成する機能を提供します。
+- 同時に、画像生成モデル「Nano Banana Pro」も拡大導入され、インフォグラフィックなどの視覚化を支援します。
