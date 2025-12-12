@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleBeam_Hero.max-600x600.format-webp.webp
 summary: |-
-  GoogleはAIを活用した3D映像通信プラットフォーム「Google Beam」を発表し、2025年に大きな進展を見せました。
-  ・5月のI/Oでは、2D映像を3D体験に変換するAIモデルを発表し、進化した通信体験を提示しました。
-  ・業界リーダーとの連携を進め、HPとの共同製品発表やZoomとの統合など、事業展開を拡大しています。
-  ・Googleを含む多くの企業が導入を開始し、対面に近いコミュニケーションが可能な主要ユースケースを特定しました。
+  Googleは2025年、AIを駆使した没入型3Dビデオ通信プラットフォーム「Google Beam」を発表し、遠隔通信の体験を革新しました。
+  ・Google I/Oでは2Dビデオを3D体験に変換するAI技術や、リアルタイム音声翻訳の可能性が示されました。
+  ・HPとの協業でビジネス向け製品を開発し、Zoomとの連携や業界関係者から高い評価を得ています。
+  ・Googleを含む多くの企業が導入を開始し、面接やチーム協業などでの効果が確認され、USOとのパイロットプログラムも始動しました。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![4 highlights from Google Beam in 2025](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleBeam_Hero.max-600x600.format-webp.webp)
 
 ## 要約
-GoogleはAIを活用した3D映像通信プラットフォーム「Google Beam」を発表し、2025年に大きな進展を見せました。
-・5月のI/Oでは、2D映像を3D体験に変換するAIモデルを発表し、進化した通信体験を提示しました。
-・業界リーダーとの連携を進め、HPとの共同製品発表やZoomとの統合など、事業展開を拡大しています。
-・Googleを含む多くの企業が導入を開始し、対面に近いコミュニケーションが可能な主要ユースケースを特定しました。
+Googleは2025年、AIを駆使した没入型3Dビデオ通信プラットフォーム「Google Beam」を発表し、遠隔通信の体験を革新しました。
+・Google I/Oでは2Dビデオを3D体験に変換するAI技術や、リアルタイム音声翻訳の可能性が示されました。
+・HPとの協業でビジネス向け製品を開発し、Zoomとの連携や業界関係者から高い評価を得ています。
+・Googleを含む多くの企業が導入を開始し、面接やチーム協業などでの効果が確認され、USOとのパイロットプログラムも始動しました。
