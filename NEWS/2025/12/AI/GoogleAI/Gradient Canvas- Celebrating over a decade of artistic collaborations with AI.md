@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gradient_Canvas_hero_FS1ek3X.max-600x600.format-webp.webp
 summary: |-
-  GoogleはAIとアートの10年以上の協業を記念し、新たな展示「Gradient Canvas」を公開しました。
-  ・13点の新作アートは、サンフランシスコ・ベイエリアの生態系に着想を得て制作されています。
-  ・作品は、人間の知覚、機械の視覚、自然界の関係性をAIを架け橋として探求しています。
-  ・展示はオンライン（Google Arts & Culture）と、カリフォルニア州マウンテンビューの物理的インスタレーションで鑑賞できます。
+  GoogleはAIとアートの10年以上の協業を記念し、13点の新作を展示する「Gradient Canvas」を公開しました。  
+  ・サンフランシスコ湾岸の生態系に着想を得た作品群は、人間、自然、機械の相互関係を探求しています。  
+  ・世界各国のアーティストがGoogleのツールとAIを活用し、知覚や相互作用の新たな可能性を提示しました。  
+  ・オンライン展示はGoogle Arts & Cultureで公開され、物理展示はカリフォルニア州マウンテンビューのオフィスで開催されています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![Gradient Canvas: Celebrating over a decade of artistic collaborations with AI](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gradient_Canvas_hero_FS1ek3X.max-600x600.format-webp.webp)
 
 ## 要約
-GoogleはAIとアートの10年以上の協業を記念し、新たな展示「Gradient Canvas」を公開しました。
-・13点の新作アートは、サンフランシスコ・ベイエリアの生態系に着想を得て制作されています。
-・作品は、人間の知覚、機械の視覚、自然界の関係性をAIを架け橋として探求しています。
-・展示はオンライン（Google Arts & Culture）と、カリフォルニア州マウンテンビューの物理的インスタレーションで鑑賞できます。
+GoogleはAIとアートの10年以上の協業を記念し、13点の新作を展示する「Gradient Canvas」を公開しました。  
+・サンフランシスコ湾岸の生態系に着想を得た作品群は、人間、自然、機械の相互関係を探求しています。  
+・世界各国のアーティストがGoogleのツールとAIを活用し、知覚や相互作用の新たな可能性を提示しました。  
+・オンライン展示はGoogle Arts & Cultureで公開され、物理展示はカリフォルニア州マウンテンビューのオフィスで開催されています。
