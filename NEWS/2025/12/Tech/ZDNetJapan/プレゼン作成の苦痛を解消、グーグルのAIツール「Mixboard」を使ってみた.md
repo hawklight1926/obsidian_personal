@@ -5,7 +5,11 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/11/62641292fb6cec4ca7a79eb5c2297684/t/184/138/d/mixboardhero_hero.jpg
-summary: "(要約生成に失敗しました: Post \"https://api.deepseek.com/v1/chat/completions\": read tcp 10.1.1.61:40722->3.173.21.63:443: read: connection reset by peer)"
+summary: |-
+  GoogleはAIツール「Mixboard」をパブリックベータ版として無料提供しています。
+  - 写真やドキュメントをアップロードすると、AIが解析しプレゼンテーションを自動生成します。
+  - 現在はChromiumベースのブラウザーでのみ動作し、PDFファイルなどのアップロードに対応しています。
+  - 生成されたプレゼンテーションはダウンロードや共有が可能で、Mixboard内から直接発表することもできます。
 read: false
 ignored: false
 pinned: false
@@ -15,4 +19,7 @@ memo: ""
 ![プレゼン作成の苦痛を解消、グーグルのAIツール「Mixboard」を使ってみた](https://japan.zdnet.com/storage/2025/12/11/62641292fb6cec4ca7a79eb5c2297684/t/184/138/d/mixboardhero_hero.jpg)
 
 ## 要約
-(要約生成に失敗しました: Post "https://api.deepseek.com/v1/chat/completions": read tcp 10.1.1.61:40722->3.173.21.63:443: read: connection reset by peer)
+GoogleはAIツール「Mixboard」をパブリックベータ版として無料提供しています。
+- 写真やドキュメントをアップロードすると、AIが解析しプレゼンテーションを自動生成します。
+- 現在はChromiumベースのブラウザーでのみ動作し、PDFファイルなどのアップロードに対応しています。
+- 生成されたプレゼンテーションはダウンロードや共有が可能で、Mixboard内から直接発表することもできます。
