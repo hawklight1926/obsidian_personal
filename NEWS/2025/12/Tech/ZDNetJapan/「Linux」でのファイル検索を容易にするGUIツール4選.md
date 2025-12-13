@@ -6,9 +6,9 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/11/fec0be3094c55b16e388f277c435b554/t/184/138/d/an-easier-way-to-read-linux-manual-pages_hero.jpg
 summary: |-
-  Linuxでは、初心者でも扱いやすいGUIファイル検索ツールが複数提供されています。  
+  Linuxでは、初心者でも使いやすいGUIファイル検索ツールが複数利用できます。  
   ・Catfishはシンプルで高速な検索が可能で、ファジー検索に対応しています。  
-  ・FSearchは入力と同時に検索が進み、圧倒的な速度でファイル名を検索できます。  
+  ・FSearchは入力中にリアルタイムで結果を表示し、圧倒的な検索速度が特徴です。  
   ・Snoopはファイル名だけでなく、ファイル内の文字列検索も行うことができます。
 read: false
 ignored: false
@@ -19,7 +19,7 @@ memo: ""
 ![「Linux」でのファイル検索を容易にするGUIツール4選](https://japan.zdnet.com/storage/2025/12/11/fec0be3094c55b16e388f277c435b554/t/184/138/d/an-easier-way-to-read-linux-manual-pages_hero.jpg)
 
 ## 要約
-Linuxでは、初心者でも扱いやすいGUIファイル検索ツールが複数提供されています。  
+Linuxでは、初心者でも使いやすいGUIファイル検索ツールが複数利用できます。  
 ・Catfishはシンプルで高速な検索が可能で、ファジー検索に対応しています。  
-・FSearchは入力と同時に検索が進み、圧倒的な速度でファイル名を検索できます。  
+・FSearchは入力中にリアルタイムで結果を表示し、圧倒的な検索速度が特徴です。  
 ・Snoopはファイル名だけでなく、ファイル内の文字列検索も行うことができます。
