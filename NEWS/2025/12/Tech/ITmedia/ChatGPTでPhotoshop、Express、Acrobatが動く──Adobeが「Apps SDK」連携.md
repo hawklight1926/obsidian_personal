@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  AdobeがOpenAIの「ChatGPT」から「Adobe Photoshop」などの自社アプリを利用できる機能の提供を開始しました。
-  ・ChatGPT内で自然言語の指示により、画像編集やPDF操作などの作業を実行できます。
-  ・利用にはAdobe Creative Cloudへの登録が必要で、Web版とiOS版で使用可能です。
-  ・ChatGPTからアプリを呼び出すことで、複雑な作業を効率的に進めることができます。
+  AdobeはChatGPT内でPhotoshopなどの自社アプリを利用できる新機能を開始しました。
+  ・ChatGPTから自然言語で指示を出すことで、画像編集やPDF処理などの作業を実行できます。
+  ・利用にはAdobeアカウントが必要で、Web版とiOS版でまず提供され、Android版はAdobe Expressのみ対応です。
+  ・この連携により、ユーザーはChatGPTの対話インターフェースを通じて、より直感的にAdobeのツールを操作できるようになります。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-AdobeがOpenAIの「ChatGPT」から「Adobe Photoshop」などの自社アプリを利用できる機能の提供を開始しました。
-・ChatGPT内で自然言語の指示により、画像編集やPDF操作などの作業を実行できます。
-・利用にはAdobe Creative Cloudへの登録が必要で、Web版とiOS版で使用可能です。
-・ChatGPTからアプリを呼び出すことで、複雑な作業を効率的に進めることができます。
+AdobeはChatGPT内でPhotoshopなどの自社アプリを利用できる新機能を開始しました。
+・ChatGPTから自然言語で指示を出すことで、画像編集やPDF処理などの作業を実行できます。
+・利用にはAdobeアカウントが必要で、Web版とiOS版でまず提供され、Android版はAdobe Expressのみ対応です。
+・この連携により、ユーザーはChatGPTの対話インターフェースを通じて、より直感的にAdobeのツールを操作できるようになります。
