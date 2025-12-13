@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/11/2234ee198d678c7af0358c3d4c8bf70a/t/184/138/d/251211_nttdata_l.jpg
 summary: |-
-  NTTデータは生成AIを活用したグローバル受注が2000件を突破し、シリコンバレーに新会社を設立してエージェンティックAI事業を加速します。
+  NTTデータは生成AI関連のグローバル受注が2000件を突破し、シリコンバレーに新会社「NTT DATA AIVista」を設立してエージェンティックAI事業を加速します。
   ・「Smart AI Agent」によるプロセス自動化を推進し、2027年度にAIエージェント関連で売上高3000億円を目指しています。
-  ・SalesforceやServiceNow、OpenAIやMistral AIなど、多様なテクノロジーパートナーと連携したエコシステムを構築中です。
-  ・自社開発の軽量LLM「tsuzumi 2」の活用や、クラウド基盤との連携により、幅広いAIソリューションの提供体制を整えています。
+  ・OpenAIやMistral AIなどとの連携により、幅広いAIモデルとプラットフォームを提供する体制を整えています。
+  ・AIの積極的活用とガバナンスの両輪で、安心安全なAI利用の支援と「AI Driven Company」への移行を基本方針としています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![NTTデータがAI新戦略、シリコンバレーに新会社設立--生成AI受注はグローバルで2000件突破](https://japan.zdnet.com/storage/2025/12/11/2234ee198d678c7af0358c3d4c8bf70a/t/184/138/d/251211_nttdata_l.jpg)
 
 ## 要約
-NTTデータは生成AIを活用したグローバル受注が2000件を突破し、シリコンバレーに新会社を設立してエージェンティックAI事業を加速します。
+NTTデータは生成AI関連のグローバル受注が2000件を突破し、シリコンバレーに新会社「NTT DATA AIVista」を設立してエージェンティックAI事業を加速します。
 ・「Smart AI Agent」によるプロセス自動化を推進し、2027年度にAIエージェント関連で売上高3000億円を目指しています。
-・SalesforceやServiceNow、OpenAIやMistral AIなど、多様なテクノロジーパートナーと連携したエコシステムを構築中です。
-・自社開発の軽量LLM「tsuzumi 2」の活用や、クラウド基盤との連携により、幅広いAIソリューションの提供体制を整えています。
+・OpenAIやMistral AIなどとの連携により、幅広いAIモデルとプラットフォームを提供する体制を整えています。
+・AIの積極的活用とガバナンスの両輪で、安心安全なAI利用の支援と「AI Driven Company」への移行を基本方針としています。

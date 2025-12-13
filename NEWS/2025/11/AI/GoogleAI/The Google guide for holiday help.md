@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp
 summary: |-
-  GoogleはAIツールを活用した年末年始の計画・準備支援策を複数提供しています。
-  - 買い物では、Geminiによる作業代行や価格比較、新機能「エージェント型チェックアウト」を紹介しています。
-  - 計画・旅行では、Google Mapsの混雑予測やビジネスへの自動問い合わせ機能が役立ちます。
-  - また、Pixelカメラの設定活用や人気ギフトのトレンド「Holiday 100」も確認できます。
+  AIを活用して年末年始の計画や買い物を効率化する方法が紹介されています。
+  ・Geminiによる作業の代行や、Google Mapsを活用した混雑回避・情報収集が提案されています。
+  ・Google ShoppingのAIツールを使った価格比較や、Pixelカメラの設定による写真撮影のコツも含まれます。
+  ・さらに、人気ギフトのトレンド「Holiday 100」など、計画に役立つ各種機能がまとめられています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![The Google guide for holiday help](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp)
 
 ## 要約
-GoogleはAIツールを活用した年末年始の計画・準備支援策を複数提供しています。
-- 買い物では、Geminiによる作業代行や価格比較、新機能「エージェント型チェックアウト」を紹介しています。
-- 計画・旅行では、Google Mapsの混雑予測やビジネスへの自動問い合わせ機能が役立ちます。
-- また、Pixelカメラの設定活用や人気ギフトのトレンド「Holiday 100」も確認できます。
+AIを活用して年末年始の計画や買い物を効率化する方法が紹介されています。
+・Geminiによる作業の代行や、Google Mapsを活用した混雑回避・情報収集が提案されています。
+・Google ShoppingのAIツールを使った価格比較や、Pixelカメラの設定による写真撮影のコツも含まれます。
+・さらに、人気ギフトのトレンド「Holiday 100」など、計画に役立つ各種機能がまとめられています。
