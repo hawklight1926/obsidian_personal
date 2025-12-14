@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/11/06ff31089c7868947b398175e7664013/t/184/138/d/ps-image-pop-16x9_1280.jpg
 summary: |-
-  ChatGPTアプリからAdobe PhotoshopなどのAdobeアプリを直接利用できる新機能が無料で提供開始されました。  
-  ・ChatGPT内で会話形式の指示を出すだけで、画像編集や文書作成などの作業を実行できます。  
-  ・利用にはAdobeのサブスクリプションやアプリのダウンロード、ログインが不要です。  
-  ・この機能はChatGPTのデスクトップ版、ウェブ版、iOS版で順次利用可能となります。
+  ChatGPTからAdobe Photoshopなどのアプリが直接利用できる新機能が無料で提供されます。  
+  ・ChatGPT内で会話形式のプロンプトを入力するだけで、画像編集や文書作成などの作業を実行できます。  
+  ・利用にはAdobeのサブスクリプションやログインが不要で、ChatGPTのデスクトップ版、ウェブ版、iOS版で順次利用可能です。  
+  ・具体的には、写真の明るさ調整や招待状作成、文書結合などの作業をAIが支援します。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![「ChatGPT」から「Adobe Photoshop」などが無料で利用可能に](https://japan.zdnet.com/storage/2025/12/11/06ff31089c7868947b398175e7664013/t/184/138/d/ps-image-pop-16x9_1280.jpg)
 
 ## 要約
-ChatGPTアプリからAdobe PhotoshopなどのAdobeアプリを直接利用できる新機能が無料で提供開始されました。  
-・ChatGPT内で会話形式の指示を出すだけで、画像編集や文書作成などの作業を実行できます。  
-・利用にはAdobeのサブスクリプションやアプリのダウンロード、ログインが不要です。  
-・この機能はChatGPTのデスクトップ版、ウェブ版、iOS版で順次利用可能となります。
+ChatGPTからAdobe Photoshopなどのアプリが直接利用できる新機能が無料で提供されます。  
+・ChatGPT内で会話形式のプロンプトを入力するだけで、画像編集や文書作成などの作業を実行できます。  
+・利用にはAdobeのサブスクリプションやログインが不要で、ChatGPTのデスクトップ版、ウェブ版、iOS版で順次利用可能です。  
+・具体的には、写真の明るさ調整や招待状作成、文書結合などの作業をAIが支援します。
