@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate-Blog-121125.max-600x600.format-webp.webp
 summary: |-
-  GoogleはGeminiを活用し、Google翻訳のテキスト翻訳品質を向上させ、新たにヘッドフォン向けライブ音声翻訳のベータ版を提供します。  
-  ・Geminiにより、慣用句や俗語などニュアンスを含む表現の翻訳がより自然で正確になります。  
-  ・ライブ音声翻訳ベータ版では、話者のトーンや強調を保持したリアルタイム翻訳をヘッドフォンで体験できます。  
-  ・さらに、翻訳アプリ内の言語学習ツールが拡張され、発話練習へのフィードバックや学習進捗の追跡が可能になりました。
+  Google翻訳にGeminiの最先端翻訳機能を導入し、より自然で正確な翻訳を実現します。
+  ・Geminiにより、慣用句や俗語などのニュアンスを含むテキスト翻訳の品質が向上します。
+  ・リアルタイム音声翻訳のベータ版を導入し、ヘッドフォンで話者のトーンや強調を保った通訳が可能になります。
+  ・翻訳アプリ内の言語学習ツールを拡充し、発話練習へのフィードバックや学習進捗の追跡機能を強化しました。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![Bringing state-of-the-art Gemini translation capabilities to Google Translate](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate-Blog-121125.max-600x600.format-webp.webp)
 
 ## 要約
-GoogleはGeminiを活用し、Google翻訳のテキスト翻訳品質を向上させ、新たにヘッドフォン向けライブ音声翻訳のベータ版を提供します。  
-・Geminiにより、慣用句や俗語などニュアンスを含む表現の翻訳がより自然で正確になります。  
-・ライブ音声翻訳ベータ版では、話者のトーンや強調を保持したリアルタイム翻訳をヘッドフォンで体験できます。  
-・さらに、翻訳アプリ内の言語学習ツールが拡張され、発話練習へのフィードバックや学習進捗の追跡が可能になりました。
+Google翻訳にGeminiの最先端翻訳機能を導入し、より自然で正確な翻訳を実現します。
+・Geminiにより、慣用句や俗語などのニュアンスを含むテキスト翻訳の品質が向上します。
+・リアルタイム音声翻訳のベータ版を導入し、ヘッドフォンで話者のトーンや強調を保った通訳が可能になります。
+・翻訳アプリ内の言語学習ツールを拡充し、発話練習へのフィードバックや学習進捗の追跡機能を強化しました。
