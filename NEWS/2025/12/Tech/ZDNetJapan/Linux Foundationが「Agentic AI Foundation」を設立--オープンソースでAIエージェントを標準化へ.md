@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/11/1b93f5addfc09ec49888a9ec3d0718d9/t/184/138/d/gettyimages-1496275880_hero.jpg
 summary: |-
-  Linux Foundationが「Agentic AI Foundation（AAIF）」を設立し、AIエージェントのオープンな標準化を進めます。  
-  ・AIエージェントのインフラをオープンで相互運用可能にすることを目指しています。  
-  ・Anthropicの「Model Context Protocol」やOpenAIの「AGENTS.md」などの基盤技術を統合します。  
-  ・これにより、透明性の高いガバナンスと共通標準に基づいた開発を促進します。
+  Linux Foundationは「Agentic AI Foundation（AAIF）」を設立し、AIエージェントの標準化を推進します。
+  - オープンで相互運用可能なインフラ構築と、オープンソースに基づくガバナンス確立を目指します。
+  - 基盤技術として、Anthropicの「Model Context Protocol」やOpenAIの「AGENTS.md」などを統合します。
+  - これにより、プロプライエタリー化ではなく、透明性の高い共通標準に基づく発展を促進します。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![Linux Foundationが「Agentic AI Foundation」を設立--オープンソースでAIエージェントを標準化へ](https://japan.zdnet.com/storage/2025/12/11/1b93f5addfc09ec49888a9ec3d0718d9/t/184/138/d/gettyimages-1496275880_hero.jpg)
 
 ## 要約
-Linux Foundationが「Agentic AI Foundation（AAIF）」を設立し、AIエージェントのオープンな標準化を進めます。  
-・AIエージェントのインフラをオープンで相互運用可能にすることを目指しています。  
-・Anthropicの「Model Context Protocol」やOpenAIの「AGENTS.md」などの基盤技術を統合します。  
-・これにより、透明性の高いガバナンスと共通標準に基づいた開発を促進します。
+Linux Foundationは「Agentic AI Foundation（AAIF）」を設立し、AIエージェントの標準化を推進します。
+- オープンで相互運用可能なインフラ構築と、オープンソースに基づくガバナンス確立を目指します。
+- 基盤技術として、Anthropicの「Model Context Protocol」やOpenAIの「AGENTS.md」などを統合します。
+- これにより、プロプライエタリー化ではなく、透明性の高い共通標準に基づく発展を促進します。
