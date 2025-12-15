@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  Googleは、生成AIと自社サービスを接続するMCPプロトコルを全サービスでサポートすると発表しました。  
+  Googleは、生成AIと自社サービスを連携させるMCPサーバーを全サービスで提供開始すると発表しました。  
   ・GeminiなどのAIからGoogle検索やBigQueryなどのサービスを自然言語で操作できるようになります。  
-  ・既存のAPI基盤を強化し、GoogleおよびGoogle Cloudサービス全体で統一された接続層を提供します。  
-  ・これにより、ユーザーは複雑な設定なしでAIを各種サービスに容易に連携させることが可能となります。
+  ・既存のAPI基盤を強化し、GoogleおよびGoogle Cloudの全サービスに統合レイヤーを提供します。  
+  ・ユーザーは自前のMCPサーバーを管理せずに、生成AIを手軽にGoogleサービスに接続可能となります。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-Googleは、生成AIと自社サービスを接続するMCPプロトコルを全サービスでサポートすると発表しました。  
+Googleは、生成AIと自社サービスを連携させるMCPサーバーを全サービスで提供開始すると発表しました。  
 ・GeminiなどのAIからGoogle検索やBigQueryなどのサービスを自然言語で操作できるようになります。  
-・既存のAPI基盤を強化し、GoogleおよびGoogle Cloudサービス全体で統一された接続層を提供します。  
-・これにより、ユーザーは複雑な設定なしでAIを各種サービスに容易に連携させることが可能となります。
+・既存のAPI基盤を強化し、GoogleおよびGoogle Cloudの全サービスに統合レイヤーを提供します。  
+・ユーザーは自前のMCPサーバーを管理せずに、生成AIを手軽にGoogleサービスに接続可能となります。
