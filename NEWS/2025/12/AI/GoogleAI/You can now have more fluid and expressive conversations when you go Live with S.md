@@ -6,10 +6,11 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Searchlive_thumb.max-600x600.format-webp.webp
 summary: |-
-  Google検索のAI音声会話機能「Search Live」が、より自然で流暢な応答を可能にするGeminiモデルに更新されます。
-  - 音声での双方向会話により、DIYの手順や地学などのトピックについて、リアルタイムで情報を探せます。
-  - 応答の声の自然さや速度が向上し、より表現豊かな対話が可能になります。
-  - 米国ユーザー向けに今週中に順次展開され、Googleアプリから利用できます。
+  Google検索の「ライブ」機能で、AIとの双方向音声会話がより自然で流暢になります。
+  - 最新のGeminiモデルにより、音声応答がより自然な話し方や速度で可能になりました。
+  - 例えばDIYの手順確認や地学などの学習時に、音声でリアルタイムに情報を得られます。
+  - 利用にはGoogleアプリでライブアイコンをタップし、音声で質問する必要があります。
+  - この更新は今後1週間で米国の全ユーザーに順次展開されます。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +20,8 @@ memo: ""
 ![You can now have more fluid and expressive conversations when you go Live with Search.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Searchlive_thumb.max-600x600.format-webp.webp)
 
 ## 要約
-Google検索のAI音声会話機能「Search Live」が、より自然で流暢な応答を可能にするGeminiモデルに更新されます。
-- 音声での双方向会話により、DIYの手順や地学などのトピックについて、リアルタイムで情報を探せます。
-- 応答の声の自然さや速度が向上し、より表現豊かな対話が可能になります。
-- 米国ユーザー向けに今週中に順次展開され、Googleアプリから利用できます。
+Google検索の「ライブ」機能で、AIとの双方向音声会話がより自然で流暢になります。
+- 最新のGeminiモデルにより、音声応答がより自然な話し方や速度で可能になりました。
+- 例えばDIYの手順確認や地学などの学習時に、音声でリアルタイムに情報を得られます。
+- 利用にはGoogleアプリでライブアイコンをタップし、音声で質問する必要があります。
+- この更新は今後1週間で米国の全ユーザーに順次展開されます。
