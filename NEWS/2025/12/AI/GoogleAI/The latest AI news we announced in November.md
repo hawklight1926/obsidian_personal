@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/November_AI_Recap_ss.max-600x600.format-webp.webp
 summary: |-
-  Googleは2025年11月、新AIモデル「Gemini 3」のリリースなど主要なAIアップデートを発表しました。  
-  ・多モーダル理解に優れた「Gemini 3」を検索やアプリで提供し、より知的な検索体験を実現します。  
-  ・画像生成モデル「Nano Banana Pro」やエージェント開発プラットフォーム「Google Antigravity」も新登場しました。  
-  ・さらに、AIクラウドインフラへ400億ドルを投資し、MapsやAndroid AutoへのGemini統合も進めています。
+  2025年11月、GoogleはAIモデル「Gemini 3」のリリースなど、複数の主要なAIアップデートを発表しました。  
+  ・「Gemini 3」は高度な推論機能を持ち、検索やアプリで利用可能です。  
+  ・画像生成モデル「Nano Banana Pro」や、自律的な開発プラットフォーム「Google Antigravity」も新たに導入されました。  
+  ・さらに、Google MapsやAndroid AutoへのGemini統合により、音声を活用した直感的な操作が可能になります。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![The latest AI news we announced in November](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/November_AI_Recap_ss.max-600x600.format-webp.webp)
 
 ## 要約
-Googleは2025年11月、新AIモデル「Gemini 3」のリリースなど主要なAIアップデートを発表しました。  
-・多モーダル理解に優れた「Gemini 3」を検索やアプリで提供し、より知的な検索体験を実現します。  
-・画像生成モデル「Nano Banana Pro」やエージェント開発プラットフォーム「Google Antigravity」も新登場しました。  
-・さらに、AIクラウドインフラへ400億ドルを投資し、MapsやAndroid AutoへのGemini統合も進めています。
+2025年11月、GoogleはAIモデル「Gemini 3」のリリースなど、複数の主要なAIアップデートを発表しました。  
+・「Gemini 3」は高度な推論機能を持ち、検索やアプリで利用可能です。  
+・画像生成モデル「Nano Banana Pro」や、自律的な開発プラットフォーム「Google Antigravity」も新たに導入されました。  
+・さらに、Google MapsやAndroid AutoへのGemini統合により、音声を活用した直感的な操作が可能になります。

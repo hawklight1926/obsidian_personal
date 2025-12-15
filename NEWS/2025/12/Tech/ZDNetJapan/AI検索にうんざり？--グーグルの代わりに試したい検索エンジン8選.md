@@ -7,8 +7,8 @@ rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/11/2f5e014ec17d7dfd4d4c3c4087d460fc/t/184/138/d/what-are-the-best-search-engines-without-ai_hero.jpg
 summary: |-
   AIを前面に押し出す検索エンジンが増える中、AI機能を使わずに従来型の検索結果を表示する代替手段が存在します。
-  - BraveやDuckDuckGoはプライバシー重視の検索エンジンで、設定によりAI機能を無効化できます。
-  - Dogpileは複数の大手検索エンジンの結果を集約し、AIを含まずに提示します。
+  - BraveやDuckDuckGoなどはAI機能を搭載していますが、設定で無効化が可能です。
+  - Dogpileは複数の検索エンジンの結果を集約し、AIを含まない形で提示します。
   - Ecosiaは環境保護活動を行う「グリーン検索エンジン」で、デフォルトでは従来型の検索を提供しています。
 read: false
 ignored: false
@@ -20,6 +20,6 @@ memo: ""
 
 ## 要約
 AIを前面に押し出す検索エンジンが増える中、AI機能を使わずに従来型の検索結果を表示する代替手段が存在します。
-- BraveやDuckDuckGoはプライバシー重視の検索エンジンで、設定によりAI機能を無効化できます。
-- Dogpileは複数の大手検索エンジンの結果を集約し、AIを含まずに提示します。
+- BraveやDuckDuckGoなどはAI機能を搭載していますが、設定で無効化が可能です。
+- Dogpileは複数の検索エンジンの結果を集約し、AIを含まない形で提示します。
 - Ecosiaは環境保護活動を行う「グリーン検索エンジン」で、デフォルトでは従来型の検索を提供しています。
