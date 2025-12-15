@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EOY_2025_Header.max-600x600.format-webp.webp
 summary: |-
-  2025年のGoogleでは、AIを活用したChrome拡張機能や各種サービスの年間振り返り機能が提供されました。  
-  - Chrome向けにAI搭載拡張機能が導入され、ブラウザの機能強化が図られています。  
-  - 「Year in Search 2025」では検索トレンドをまとめた動画が公開され、過去と未来を結ぶインスピレーションが示されました。  
-  - Google PhotosやYouTubeでも個人向けの年間振り返り（Recap）機能が提供され、利用者は自身のデータを確認・共有できます。
+  Googleは2025年の主要なサービス動向を振り返りました。
+  - Chrome拡張機能ではAIを活用したブラウザ強化が進みました。
+  - 「Year in Search 2025」では検索トレンドを通じて社会の関心を分析しています。
+  - Google PhotosやYouTubeでは個人向けの年間振り返り機能が提供されています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![2025 at Google](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EOY_2025_Header.max-600x600.format-webp.webp)
 
 ## 要約
-2025年のGoogleでは、AIを活用したChrome拡張機能や各種サービスの年間振り返り機能が提供されました。  
-- Chrome向けにAI搭載拡張機能が導入され、ブラウザの機能強化が図られています。  
-- 「Year in Search 2025」では検索トレンドをまとめた動画が公開され、過去と未来を結ぶインスピレーションが示されました。  
-- Google PhotosやYouTubeでも個人向けの年間振り返り（Recap）機能が提供され、利用者は自身のデータを確認・共有できます。
+Googleは2025年の主要なサービス動向を振り返りました。
+- Chrome拡張機能ではAIを活用したブラウザ強化が進みました。
+- 「Year in Search 2025」では検索トレンドを通じて社会の関心を分析しています。
+- Google PhotosやYouTubeでは個人向けの年間振り返り機能が提供されています。
