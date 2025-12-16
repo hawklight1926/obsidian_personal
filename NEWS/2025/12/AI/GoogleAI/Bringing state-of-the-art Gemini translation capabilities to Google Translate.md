@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate-Blog-121125.max-600x600.format-webp.webp
 summary: |-
-  Google翻訳にGeminiの最先端翻訳機能を導入し、より自然で正確な翻訳を提供します。
-  - イディオムや俗語など、ニュアンスのある表現の翻訳品質が向上しました。
-  - ヘッドフォンで利用できるリアルタイム音声翻訳のベータ版を提供開始します。
-  - 翻訳アプリ内で学習できる言語を追加し、言語学習ツールも拡充しました。
+  GoogleはGeminiの最新翻訳機能をGoogle翻訳に導入し、テキスト翻訳の品質向上とヘッドホンでのリアルタイム音声翻訳のベータ版提供を開始しました。
+  - イディオムや俗語を含むテキスト翻訳が、より自然で正確になります。
+  - ヘッドホンを用いた音声対音声のリアルタイム翻訳では、話者のニュアンスを保持します。
+  - 翻訳アプリ内では、より多くの言語で学習と練習を行う機能が拡張されました。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![Bringing state-of-the-art Gemini translation capabilities to Google Translate](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate-Blog-121125.max-600x600.format-webp.webp)
 
 ## 要約
-Google翻訳にGeminiの最先端翻訳機能を導入し、より自然で正確な翻訳を提供します。
-- イディオムや俗語など、ニュアンスのある表現の翻訳品質が向上しました。
-- ヘッドフォンで利用できるリアルタイム音声翻訳のベータ版を提供開始します。
-- 翻訳アプリ内で学習できる言語を追加し、言語学習ツールも拡充しました。
+GoogleはGeminiの最新翻訳機能をGoogle翻訳に導入し、テキスト翻訳の品質向上とヘッドホンでのリアルタイム音声翻訳のベータ版提供を開始しました。
+- イディオムや俗語を含むテキスト翻訳が、より自然で正確になります。
+- ヘッドホンを用いた音声対音声のリアルタイム翻訳では、話者のニュアンスを保持します。
+- 翻訳アプリ内では、より多くの言語で学習と練習を行う機能が拡張されました。

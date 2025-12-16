@@ -7,9 +7,9 @@ rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gradient_Canvas_hero_FS1ek3X.max-600x600.format-webp.webp
 summary: |-
   GoogleはAIとアートの10年以上の協業を記念し、新たな展示「Gradient Canvas」を公開しました。
-  - サンフランシスコ・ベイエリアの生態系に着想を得た13点の新作アートを展示しています。
-  - 作品は、人間の知覚、機械の視覚、自然界の関係をAIを橋渡しとして探求しています。
-  - 展示はオンライン（Google Arts & Culture）と、マウンテンビューの物理的スペースの両方で閲覧可能です。
+  ・13点の新作アートは、ベイエリアの生態系に着想を得て、人間・自然・機械の共進化する関係を探求しています。
+  ・作品はGoogleツールとAIを活用して制作され、オンライン展示プラットフォーム「Google Arts & Culture」で閲覧可能です。
+  ・この取り組みは、DeepDreamに端を発する長期的なアーティスト支援プログラムの一環として位置づけられています。
 read: false
 ignored: false
 pinned: false
@@ -20,6 +20,6 @@ memo: ""
 
 ## 要約
 GoogleはAIとアートの10年以上の協業を記念し、新たな展示「Gradient Canvas」を公開しました。
-- サンフランシスコ・ベイエリアの生態系に着想を得た13点の新作アートを展示しています。
-- 作品は、人間の知覚、機械の視覚、自然界の関係をAIを橋渡しとして探求しています。
-- 展示はオンライン（Google Arts & Culture）と、マウンテンビューの物理的スペースの両方で閲覧可能です。
+・13点の新作アートは、ベイエリアの生態系に着想を得て、人間・自然・機械の共進化する関係を探求しています。
+・作品はGoogleツールとAIを活用して制作され、オンライン展示プラットフォーム「Google Arts & Culture」で閲覧可能です。
+・この取り組みは、DeepDreamに端を発する長期的なアーティスト支援プログラムの一環として位置づけられています。

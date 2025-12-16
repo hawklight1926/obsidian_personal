@@ -6,11 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google-2025-AI-Playbook-for-Sus.max-600x600.format-webp.webp
 summary: |-
-  GoogleがAIを活用したサステナビリティ報告の効率化と質向上のための実践的ガイドを公開しました。
-  
-  *   自社での2年間のAI導入実践に基づき、データ管理や検証業務のボトルネック解消を目指します。
-  *   プロセス監査のフレームワークや、Gemini等を活用するためのプロンプトテンプレートを含む実用的なツールキットです。
-  *   これにより、組織は事務作業の負担を減らし、戦略的な進展にリソースを集中させることが期待されます。
+  Googleが、AIを活用してサステナビリティ報告を効率化するための実践的なガイドブックを公開しました。
+  *   自社での2年間の実践に基づき、データが分散し手間のかかる報告プロセスの課題解決を目指します。
+  *   プロセス監査の枠組みや、Gemini等を使った実務向けのプロンプトテンプレートを提供しています。
+  *   これにより、企業は戦略的な活動にリソースを集中させることが可能になるとしています。
 read: false
 ignored: false
 pinned: false
@@ -20,8 +19,7 @@ memo: ""
 ![We’re publishing an AI playbook to help others with sustainability reporting.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google-2025-AI-Playbook-for-Sus.max-600x600.format-webp.webp)
 
 ## 要約
-GoogleがAIを活用したサステナビリティ報告の効率化と質向上のための実践的ガイドを公開しました。
-
-*   自社での2年間のAI導入実践に基づき、データ管理や検証業務のボトルネック解消を目指します。
-*   プロセス監査のフレームワークや、Gemini等を活用するためのプロンプトテンプレートを含む実用的なツールキットです。
-*   これにより、組織は事務作業の負担を減らし、戦略的な進展にリソースを集中させることが期待されます。
+Googleが、AIを活用してサステナビリティ報告を効率化するための実践的なガイドブックを公開しました。
+*   自社での2年間の実践に基づき、データが分散し手間のかかる報告プロセスの課題解決を目指します。
+*   プロセス監査の枠組みや、Gemini等を使った実務向けのプロンプトテンプレートを提供しています。
+*   これにより、企業は戦略的な活動にリソースを集中させることが可能になるとしています。
