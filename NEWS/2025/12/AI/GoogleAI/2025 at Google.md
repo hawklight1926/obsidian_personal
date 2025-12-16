@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EOY_2025_Header.max-600x600.format-webp.webp
 summary: |-
-  Googleは2025年の主要なサービスやトレンドを振り返るコンテンツを公開しました。  
-  - 検索トレンドをまとめた「Year in Search 2025」や、AI機能を強化するChrome拡張機能を紹介しています。  
-  - Google TVでは年間のエンターテインメントを、Google PhotosやYouTubeではユーザー個人の利用履歴を振り返る「Recap」機能を提供しています。  
-  - これらは、ユーザーが一年を振り返り、カスタマイズして共有できるように設計されています。
+  2025年にGoogleが提供した主要サービスや機能の振り返りが行われています。
+  ・Chrome拡張機能のAI活用や、検索トレンドをまとめた「Year in Search 2025」の公開がありました。
+  ・Google TVでは年間のエンターテインメントを、Google PhotosやYouTubeでは個人向けの利用履歴振り返り機能が提供されています。
+  ・これらはユーザーが一年を振り返り、カスタマイズして共有できるサービスです。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![2025 at Google](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EOY_2025_Header.max-600x600.format-webp.webp)
 
 ## 要約
-Googleは2025年の主要なサービスやトレンドを振り返るコンテンツを公開しました。  
-- 検索トレンドをまとめた「Year in Search 2025」や、AI機能を強化するChrome拡張機能を紹介しています。  
-- Google TVでは年間のエンターテインメントを、Google PhotosやYouTubeではユーザー個人の利用履歴を振り返る「Recap」機能を提供しています。  
-- これらは、ユーザーが一年を振り返り、カスタマイズして共有できるように設計されています。
+2025年にGoogleが提供した主要サービスや機能の振り返りが行われています。
+・Chrome拡張機能のAI活用や、検索トレンドをまとめた「Year in Search 2025」の公開がありました。
+・Google TVでは年間のエンターテインメントを、Google PhotosやYouTubeでは個人向けの利用履歴振り返り機能が提供されています。
+・これらはユーザーが一年を振り返り、カスタマイズして共有できるサービスです。

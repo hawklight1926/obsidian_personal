@@ -7,8 +7,8 @@ rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/09/16/0bb24828315a33581896d75feb6cb9be/t/184/138/d/250916_datacenter_as_1280_1440519189_02.jpg
 summary: |-
   HPEは2026年度に向け、ネットワーク・クラウド・AI分野で「第三極」のクラウドプラットフォーム確立を目指す方針を発表しました。
-  - 重点領域として、ネットワーク市場でのリーダーシップ強化、サービス「HPE GreenLake」の成長加速、最新技術によるシェア獲得、AIインフラの成長を掲げています。
-  - ネットワーク事業ではJuniper統合で規模を拡大し、AIを活用した自律運用（AI for Networking）とAIワークロード向け最適化（Networking for AI）を推進します。
+  - 重点領域として、ネットワーク市場でのリーダーシップ強化や「HPE GreenLake」によるサービス成長加速などを掲げています。
+  - Juniper統合で拡大したネットワーク事業では、AIを活用した自律運用（AI for Networking）とAIワークロード向け最適化（Networking for AI）の両面から推進します。
   - クラウドでは、セキュリティやコストを背景としたプライベートクラウド回帰の動きに対応し、統合運用管理ソリューション「HPE CloudOps Software suite」を提供します。
 read: false
 ignored: false
@@ -20,6 +20,6 @@ memo: ""
 
 ## 要約
 HPEは2026年度に向け、ネットワーク・クラウド・AI分野で「第三極」のクラウドプラットフォーム確立を目指す方針を発表しました。
-- 重点領域として、ネットワーク市場でのリーダーシップ強化、サービス「HPE GreenLake」の成長加速、最新技術によるシェア獲得、AIインフラの成長を掲げています。
-- ネットワーク事業ではJuniper統合で規模を拡大し、AIを活用した自律運用（AI for Networking）とAIワークロード向け最適化（Networking for AI）を推進します。
+- 重点領域として、ネットワーク市場でのリーダーシップ強化や「HPE GreenLake」によるサービス成長加速などを掲げています。
+- Juniper統合で拡大したネットワーク事業では、AIを活用した自律運用（AI for Networking）とAIワークロード向け最適化（Networking for AI）の両面から推進します。
 - クラウドでは、セキュリティやコストを背景としたプライベートクラウド回帰の動きに対応し、統合運用管理ソリューション「HPE CloudOps Software suite」を提供します。

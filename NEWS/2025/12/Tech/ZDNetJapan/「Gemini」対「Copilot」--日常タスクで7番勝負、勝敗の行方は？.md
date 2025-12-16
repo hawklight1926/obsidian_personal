@@ -6,10 +6,10 @@ category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/14/0039a9eb64fdea2838eb6f020a368cdd/t/184/138/d/chatgpt-vs-gemini_hero.jpg
 summary: |-
-  GoogleのGeminiとMicrosoftのCopilotを日常タスクで比較した結果、Geminiが優れた性能を示しました。
-  ・旅行計画の作成では、Geminiは詳細で柔軟な旅程を提案したのに対し、Copilotは制約の多い提案に留まりました。
-  ・地図作成の依頼に対しては、Geminiが実用的な解決策を提供した一方、Copilotは不正確な結果を生成しました。
-  ・全7つの課題のうち、Geminiは5つで勝利し、日常的な用途においてより信頼性が高いことが示されました。
+  Googleの「Gemini」とMicrosoftの「Copilot」を日常タスクで比較した結果、Geminiが優位でした。
+  - 旅程作成では、Geminiは複数国を網羅する詳細な計画を提示したのに対し、Copilotは条件を誤解し限定的な提案にとどまりました。
+  - 地図作成においても、Geminiは実用的な解決策を提供できた一方で、Copilotの出力は不完全でした。
+  - この検証は、一般的なユーザーがブラウザーで行う典型的なタスクを想定して実施されています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![「Gemini」対「Copilot」--日常タスクで7番勝負、勝敗の行方は？](https://japan.zdnet.com/storage/2025/12/14/0039a9eb64fdea2838eb6f020a368cdd/t/184/138/d/chatgpt-vs-gemini_hero.jpg)
 
 ## 要約
-GoogleのGeminiとMicrosoftのCopilotを日常タスクで比較した結果、Geminiが優れた性能を示しました。
-・旅行計画の作成では、Geminiは詳細で柔軟な旅程を提案したのに対し、Copilotは制約の多い提案に留まりました。
-・地図作成の依頼に対しては、Geminiが実用的な解決策を提供した一方、Copilotは不正確な結果を生成しました。
-・全7つの課題のうち、Geminiは5つで勝利し、日常的な用途においてより信頼性が高いことが示されました。
+Googleの「Gemini」とMicrosoftの「Copilot」を日常タスクで比較した結果、Geminiが優位でした。
+- 旅程作成では、Geminiは複数国を網羅する詳細な計画を提示したのに対し、Copilotは条件を誤解し限定的な提案にとどまりました。
+- 地図作成においても、Geminiは実用的な解決策を提供できた一方で、Copilotの出力は不完全でした。
+- この検証は、一般的なユーザーがブラウザーで行う典型的なタスクを想定して実施されています。
