@@ -6,11 +6,11 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleBeam_Hero.max-600x600.format-webp.webp
 summary: |-
-  Googleは、AIを活用した3D映像通信プラットフォーム「Google Beam」を発表し、2025年に大きな進展を見せました。
-  ・5月のI/Oで発表され、2D映像を3D体験に変換するAI技術やリアルタイム音声翻訳の可能性が示されました。
-  ・HPとの協業製品の発表やZoomとの連携など、業界リーダーとのパートナーシップを拡大しています。
-  ・Googleを含む多くの企業が導入を開始し、対面に近いコミュニケーションが可能と評価され、採用事例が増加しています。
-  ・また、USO（慰問協会）とのパイロットプログラムを開始し、軍人と家族の繋がりを支援する取り組みも始めました。
+  GoogleはProject Starlineを進化させ、AIを活用した3D映像通信プラットフォーム「Google Beam」を2025年に発表しました。
+  ・Google I/Oでは、2D映像を3D体験に変換するAI技術や、リアルタイム音声翻訳などの将来性が示されました。
+  ・HPとの協業によるビジネス向け製品の提供や、Zoomとの連携により、業界での導入と評価が進んでいます。
+  ・Googleを含む多くの企業が導入を開始し、特に面接やメンタリングなど5つの主要ユースケースで効果を発揮しています。
+  ・また、USO（慰問協会）とのパイロットプログラムを通じて、軍関係者と家族のつながりを支援する取り組みも始まりました。
 read: false
 ignored: false
 pinned: false
@@ -20,8 +20,8 @@ memo: ""
 ![4 highlights from Google Beam in 2025](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleBeam_Hero.max-600x600.format-webp.webp)
 
 ## 要約
-Googleは、AIを活用した3D映像通信プラットフォーム「Google Beam」を発表し、2025年に大きな進展を見せました。
-・5月のI/Oで発表され、2D映像を3D体験に変換するAI技術やリアルタイム音声翻訳の可能性が示されました。
-・HPとの協業製品の発表やZoomとの連携など、業界リーダーとのパートナーシップを拡大しています。
-・Googleを含む多くの企業が導入を開始し、対面に近いコミュニケーションが可能と評価され、採用事例が増加しています。
-・また、USO（慰問協会）とのパイロットプログラムを開始し、軍人と家族の繋がりを支援する取り組みも始めました。
+GoogleはProject Starlineを進化させ、AIを活用した3D映像通信プラットフォーム「Google Beam」を2025年に発表しました。
+・Google I/Oでは、2D映像を3D体験に変換するAI技術や、リアルタイム音声翻訳などの将来性が示されました。
+・HPとの協業によるビジネス向け製品の提供や、Zoomとの連携により、業界での導入と評価が進んでいます。
+・Googleを含む多くの企業が導入を開始し、特に面接やメンタリングなど5つの主要ユースケースで効果を発揮しています。
+・また、USO（慰問協会）とのパイロットプログラムを通じて、軍関係者と家族のつながりを支援する取り組みも始まりました。
