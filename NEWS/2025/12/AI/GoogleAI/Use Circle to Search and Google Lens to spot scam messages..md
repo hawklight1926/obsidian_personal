@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_7.max-600x600.format-webp.webp
 summary: |-
-  GoogleがCircle to SearchとLensに、詐欺メールを検出する新機能を追加しました。
-  - 不審なメールを長押ししてCircle to SearchやLensで検索すると、AIが詐欺の可能性を評価します。
-  - システムが詐欺と判断した場合、その概要と次のステップに関するガイダンスが表示されます。
-  - この機能は世界的に提供され、信頼性の高い判断が可能な場合に作動します。
+  詐欺師がSNSやメッセージアプリで送る不審なメッセージやリンクを検出するため、Circle to SearchとLensに新機能が追加されました。  
+  - 画面上でメッセージを囲む（Circle to Search）か、スクリーンショットを分析（Lens）することで、AIが詐欺の可能性を評価します。  
+  - システムはウェブ情報とAIを活用し、詐欺と判断した場合は概要と対処法を提示します。  
+  - この機能は全世界で利用可能で、システムが高信頼度と判断した場合に作動します。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![Use Circle to Search and Google Lens to spot scam messages.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_7.max-600x600.format-webp.webp)
 
 ## 要約
-GoogleがCircle to SearchとLensに、詐欺メールを検出する新機能を追加しました。
-- 不審なメールを長押ししてCircle to SearchやLensで検索すると、AIが詐欺の可能性を評価します。
-- システムが詐欺と判断した場合、その概要と次のステップに関するガイダンスが表示されます。
-- この機能は世界的に提供され、信頼性の高い判断が可能な場合に作動します。
+詐欺師がSNSやメッセージアプリで送る不審なメッセージやリンクを検出するため、Circle to SearchとLensに新機能が追加されました。  
+- 画面上でメッセージを囲む（Circle to Search）か、スクリーンショットを分析（Lens）することで、AIが詐欺の可能性を評価します。  
+- システムはウェブ情報とAIを活用し、詐欺と判断した場合は概要と対処法を提示します。  
+- この機能は全世界で利用可能で、システムが高信頼度と判断した場合に作動します。
