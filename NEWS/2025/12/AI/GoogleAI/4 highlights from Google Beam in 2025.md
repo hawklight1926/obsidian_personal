@@ -6,10 +6,11 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleBeam_Hero.max-600x600.format-webp.webp
 summary: |-
-  GoogleはProject Starlineを発展させ、AIを活用した3D映像通信プラットフォーム「Google Beam」を2025年に発表しました。
-  ・5月のI/Oで発表され、2D映像を3D体験に変換するAIモデルやリアルタイム翻訳の可能性が示されました。
-  ・HPとの協業製品が発表され、Zoomとの連携や業界関係者から高い評価を得て、企業への導入が進んでいます。
-  ・Googleを含む多くの企業が試験導入し、対面に近いコミュニケーションが可能と評価され、面接やチーム協業などでの活用が期待されています。
+  Googleは2025年、AIを駆使した立体感のある遠隔コミュニケーションプラットフォーム「Google Beam」を発表しました。
+  - 5月のI/Oでは、2D映像を3D体験に変換するAIモデルを発表し、進化を披露しました。
+  - 業界団体との連携を進め、HPとの共同製品は「InfoComm 2025」でベストオブショーを受賞しています。
+  - 多くの企業がオフィスに導入を開始し、特に面接やメンタリングなど5つの利用場面で効果を発揮しています。
+  - 社会貢献の一環として、USOセンターでのパイロットプログラムも開始されました。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +20,8 @@ memo: ""
 ![4 highlights from Google Beam in 2025](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleBeam_Hero.max-600x600.format-webp.webp)
 
 ## 要約
-GoogleはProject Starlineを発展させ、AIを活用した3D映像通信プラットフォーム「Google Beam」を2025年に発表しました。
-・5月のI/Oで発表され、2D映像を3D体験に変換するAIモデルやリアルタイム翻訳の可能性が示されました。
-・HPとの協業製品が発表され、Zoomとの連携や業界関係者から高い評価を得て、企業への導入が進んでいます。
-・Googleを含む多くの企業が試験導入し、対面に近いコミュニケーションが可能と評価され、面接やチーム協業などでの活用が期待されています。
+Googleは2025年、AIを駆使した立体感のある遠隔コミュニケーションプラットフォーム「Google Beam」を発表しました。
+- 5月のI/Oでは、2D映像を3D体験に変換するAIモデルを発表し、進化を披露しました。
+- 業界団体との連携を進め、HPとの共同製品は「InfoComm 2025」でベストオブショーを受賞しています。
+- 多くの企業がオフィスに導入を開始し、特に面接やメンタリングなど5つの利用場面で効果を発揮しています。
+- 社会貢献の一環として、USOセンターでのパイロットプログラムも開始されました。
