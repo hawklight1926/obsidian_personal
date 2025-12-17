@@ -7,8 +7,9 @@ rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp
 summary: |-
   Google Workspaceが実施した22〜39歳の職場におけるAI利用に関する調査結果を発表しました。
-  - 調査はハリス世論調査との共同で実施され、主に3つの重要なテーマが明らかになりました。
-  - 詳細なデータと考察は、Google Workspaceのプロダクト担当副社長によるプレスリリースで確認できます。
+  - 調査はGoogle WorkspaceがHarris Pollと共同で実施しました。
+  - 結果からは、主に3つの重要なテーマが明らかになっています。
+  - 詳細なデータと製品担当副社長の見解は、プレスリリースで公開されています。
 read: false
 ignored: false
 pinned: false
@@ -19,5 +20,6 @@ memo: ""
 
 ## 要約
 Google Workspaceが実施した22〜39歳の職場におけるAI利用に関する調査結果を発表しました。
-- 調査はハリス世論調査との共同で実施され、主に3つの重要なテーマが明らかになりました。
-- 詳細なデータと考察は、Google Workspaceのプロダクト担当副社長によるプレスリリースで確認できます。
+- 調査はGoogle WorkspaceがHarris Pollと共同で実施しました。
+- 結果からは、主に3つの重要なテーマが明らかになっています。
+- 詳細なデータと製品担当副社長の見解は、プレスリリースで公開されています。
