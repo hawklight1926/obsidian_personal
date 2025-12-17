@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/G3nImpactChallenge-16x9_RD7-V01.max-600x600.format-webp.webp
 summary: |-
-  Gemma 3n Impact Challengeでは、開発者たちがオンデバイスAIモデルを用いて現実世界の問題解決に取り組むプロジェクトを多数発表しました。
-  - 受賞プロジェクトには、視覚障害者向けAIアシスタントや認知障害者の自律を支援するツールなどが含まれます。
-  - 具体的には、胸に装着したカメラの映像を処理する「Gemma Vision」や、オフラインで動作するデジタルコンパニオン「Vite Vere」などが開発されました。
-  - これらの取り組みは、Gemma 3nのマルチモーダル機能が様々な領域で社会的インパクトをもたらし得ることを示しています。
+  Gemma 3n Impact Challengeでは、開発者がオンデバイスAIを用いて現実世界の問題解決に取り組むプロジェクトが多数発表されました。  
+  ・視覚障害者向けAIアシスタントや、認知障害者の自立を支援するデジタルコンパニオンなど、アクセシビリティ分野での応用が目立ちます。  
+  ・また、セキュリティガードの状況認識支援や、通信環境のない地域へのAI導入など、多様な社会課題への実用的な解決策が示されています。  
+  ・これらのプロジェクトは、Gemma 3nのマルチモーダル機能と端末上での処理能力を活かし、効率的かつパーソナライズされたシステムを実現しています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![These developers are changing lives with Gemma 3n](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/G3nImpactChallenge-16x9_RD7-V01.max-600x600.format-webp.webp)
 
 ## 要約
-Gemma 3n Impact Challengeでは、開発者たちがオンデバイスAIモデルを用いて現実世界の問題解決に取り組むプロジェクトを多数発表しました。
-- 受賞プロジェクトには、視覚障害者向けAIアシスタントや認知障害者の自律を支援するツールなどが含まれます。
-- 具体的には、胸に装着したカメラの映像を処理する「Gemma Vision」や、オフラインで動作するデジタルコンパニオン「Vite Vere」などが開発されました。
-- これらの取り組みは、Gemma 3nのマルチモーダル機能が様々な領域で社会的インパクトをもたらし得ることを示しています。
+Gemma 3n Impact Challengeでは、開発者がオンデバイスAIを用いて現実世界の問題解決に取り組むプロジェクトが多数発表されました。  
+・視覚障害者向けAIアシスタントや、認知障害者の自立を支援するデジタルコンパニオンなど、アクセシビリティ分野での応用が目立ちます。  
+・また、セキュリティガードの状況認識支援や、通信環境のない地域へのAI導入など、多様な社会課題への実用的な解決策が示されています。  
+・これらのプロジェクトは、Gemma 3nのマルチモーダル機能と端末上での処理能力を活かし、効率的かつパーソナライズされたシステムを実現しています。
