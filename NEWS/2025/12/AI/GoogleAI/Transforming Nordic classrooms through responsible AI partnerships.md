@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20250828_100318_7978_websize.max-600x600.format-webp.webp
 summary: |-
-  Googleが北欧の教育機関と連携し、責任あるAI活用を通じて教室の変革を進めています。
-  - アイスランドでは、Gemini等のAIツールを試験導入し、個別学習の強化と教師のAIリテラシー向上を図っています。
-  - スウェーデンでは、Geminiを活用して教材作成の効率化を進め、教師の負担軽減と生徒との時間確保を実現しています。
-  - ノルウェーでは、データ保護影響評価を完了させ、Google教育ツールの安全な利用環境を整備し、行政負担の軽減に成功しています。
+  Googleが北欧諸国と連携し、教育現場でのAI活用を進めています。
+  ・アイスランドでは、Geminiなどを用いたパイロットプログラムを通じて、個別学習の強化とAIリテラシー向上を図っています。
+  ・スウェーデンでは、教員の教材作成時間を削減し、生徒と向き合う時間を増やすことにAIが貢献しています。
+  ・ノルウェーでは、データ保護影響評価を完了させ、安全なデジタル学習環境の基盤を整えました。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![Transforming Nordic classrooms through responsible AI partnerships](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20250828_100318_7978_websize.max-600x600.format-webp.webp)
 
 ## 要約
-Googleが北欧の教育機関と連携し、責任あるAI活用を通じて教室の変革を進めています。
-- アイスランドでは、Gemini等のAIツールを試験導入し、個別学習の強化と教師のAIリテラシー向上を図っています。
-- スウェーデンでは、Geminiを活用して教材作成の効率化を進め、教師の負担軽減と生徒との時間確保を実現しています。
-- ノルウェーでは、データ保護影響評価を完了させ、Google教育ツールの安全な利用環境を整備し、行政負担の軽減に成功しています。
+Googleが北欧諸国と連携し、教育現場でのAI活用を進めています。
+・アイスランドでは、Geminiなどを用いたパイロットプログラムを通じて、個別学習の強化とAIリテラシー向上を図っています。
+・スウェーデンでは、教員の教材作成時間を削減し、生徒と向き合う時間を増やすことにAIが貢献しています。
+・ノルウェーでは、データ保護影響評価を完了させ、安全なデジタル学習環境の基盤を整えました。

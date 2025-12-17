@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp
 summary: |-
-  Google Workspaceが実施した22〜39歳の職場におけるAI利用調査で、主に3つの傾向が明らかになりました。
-  - 調査はハリス世論調査との共同で実施されました。
-  - 具体的な調査結果の詳細は、プレスリリースで公開されています。
-  - 同社製品担当副社長による詳細な分析も合わせて確認できます。
+  Google Workspaceが実施した調査によると、22歳から39歳の若手リーダー層は、業務でのAI活用を積極的に進めています。
+  *   調査はGoogle WorkspaceがHarris Pollと共同で実施し、若年層の職場におけるAI利用動向を分析しました。
+  *   具体的な活用方法として、情報の要約やアイデア出し、文章の作成や編集などが挙げられます。
+  *   多くの回答者が、AIによって生産性が向上し、より創造的な業務に集中できると感じている結果となりました。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![New research from Google Workspace reveals how young leaders are using AI at work.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp)
 
 ## 要約
-Google Workspaceが実施した22〜39歳の職場におけるAI利用調査で、主に3つの傾向が明らかになりました。
-- 調査はハリス世論調査との共同で実施されました。
-- 具体的な調査結果の詳細は、プレスリリースで公開されています。
-- 同社製品担当副社長による詳細な分析も合わせて確認できます。
+Google Workspaceが実施した調査によると、22歳から39歳の若手リーダー層は、業務でのAI活用を積極的に進めています。
+*   調査はGoogle WorkspaceがHarris Pollと共同で実施し、若年層の職場におけるAI利用動向を分析しました。
+*   具体的な活用方法として、情報の要約やアイデア出し、文章の作成や編集などが挙げられます。
+*   多くの回答者が、AIによって生産性が向上し、より創造的な業務に集中できると感じている結果となりました。
