@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EOY_2025_Header.max-600x600.format-webp.webp
 summary: |-
-  Googleは2025年の主要なサービスと機能を振り返っています。
-  - Chrome拡張機能ではAIを活用したブラウザ強化を紹介しました。
-  - 「Year in Search 2025」では検索トレンドをまとめた動画と分析を公開しています。
-  - Google PhotosやYouTubeでは、ユーザーの個人向け振り返り機能「Recap」を提供しました。
+  Googleは2025年の主要なサービスや機能を振り返るコンテンツを公開しました。
+  - Chrome拡張機能ではAIを活用した機能が強化され、ブラウザの利便性向上が図られました。
+  - 「Year in Search 2025」では検索トレンドを分析し、過去と未来の再解釈をテーマとしています。
+  - Google PhotosやYouTubeでは、ユーザーの一年を振り返るパーソナルな「Recap」機能が提供されています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![2025 at Google](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EOY_2025_Header.max-600x600.format-webp.webp)
 
 ## 要約
-Googleは2025年の主要なサービスと機能を振り返っています。
-- Chrome拡張機能ではAIを活用したブラウザ強化を紹介しました。
-- 「Year in Search 2025」では検索トレンドをまとめた動画と分析を公開しています。
-- Google PhotosやYouTubeでは、ユーザーの個人向け振り返り機能「Recap」を提供しました。
+Googleは2025年の主要なサービスや機能を振り返るコンテンツを公開しました。
+- Chrome拡張機能ではAIを活用した機能が強化され、ブラウザの利便性向上が図られました。
+- 「Year in Search 2025」では検索トレンドを分析し、過去と未来の再解釈をテーマとしています。
+- Google PhotosやYouTubeでは、ユーザーの一年を振り返るパーソナルな「Recap」機能が提供されています。

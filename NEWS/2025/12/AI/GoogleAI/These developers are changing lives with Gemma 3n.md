@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/G3nImpactChallenge-16x9_RD7-V01.max-600x600.format-webp.webp
 summary: |-
-  Gemma 3n Impact Challengeでは、開発者たちがオンデバイスAIを用いて現実世界の問題解決に取り組むプロジェクトを多数開発しました。  
-  ・視覚障害者向けAIアシスタントや、認知障害者の自律を促すデジタルコンパニオンなど、アクセシビリティ分野での応用が目立ちます。  
-  ・また、警備員向けの高度な監視システムや、通信環境の悪い地域向けの教育ハブなど、多様な課題への実用的な解決策が示されました。  
-  ・これらのプロジェクトは、Gemma 3nのマルチモーダル機能と端末上での処理能力を活かし、実際の生活に影響を与えることを実証しています。
+  Gemma 3n Impact Challengeでは、開発者たちがオンデバイスAIモデルを用いて現実世界の問題解決に取り組むプロジェクトを多数発表しました。  
+  ・優勝した「Gemma Vision」は、視覚障害者が胸に装着したカメラと音声操作で利用できるAIアシスタントです。  
+  ・「Vite Vere Offline」は認知障害者の自律を促すデジタル相棒を、Gemma 3nによりオフラインで動作可能にしました。  
+  ・その他、音声障害者向けカスタムアシスタントや、低コストAAC技術、辺境地域向け教育ハブなど、多様な実用的ソリューションが開発されています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![These developers are changing lives with Gemma 3n](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/G3nImpactChallenge-16x9_RD7-V01.max-600x600.format-webp.webp)
 
 ## 要約
-Gemma 3n Impact Challengeでは、開発者たちがオンデバイスAIを用いて現実世界の問題解決に取り組むプロジェクトを多数開発しました。  
-・視覚障害者向けAIアシスタントや、認知障害者の自律を促すデジタルコンパニオンなど、アクセシビリティ分野での応用が目立ちます。  
-・また、警備員向けの高度な監視システムや、通信環境の悪い地域向けの教育ハブなど、多様な課題への実用的な解決策が示されました。  
-・これらのプロジェクトは、Gemma 3nのマルチモーダル機能と端末上での処理能力を活かし、実際の生活に影響を与えることを実証しています。
+Gemma 3n Impact Challengeでは、開発者たちがオンデバイスAIモデルを用いて現実世界の問題解決に取り組むプロジェクトを多数発表しました。  
+・優勝した「Gemma Vision」は、視覚障害者が胸に装着したカメラと音声操作で利用できるAIアシスタントです。  
+・「Vite Vere Offline」は認知障害者の自律を促すデジタル相棒を、Gemma 3nによりオフラインで動作可能にしました。  
+・その他、音声障害者向けカスタムアシスタントや、低コストAAC技術、辺境地域向け教育ハブなど、多様な実用的ソリューションが開発されています。
