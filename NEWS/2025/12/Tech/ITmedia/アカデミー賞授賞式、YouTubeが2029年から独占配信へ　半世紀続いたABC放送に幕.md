@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: |-
-  AMPAS（映画芸術科学アカデミー）は、2029年から2033年までのアカデミー賞授賞式をYouTubeで独占生中継すると発表しました。
-  - 1976年から続くABCでの放送に代わり、ネット配信へ大きく軸足を移します。
-  - 配信では、授賞式本編に加え、バックステージや公式パーティーへのアクセスなど多様なコンテンツを提供する予定です。
-  - これは、若年層を含むより広い観客へのリーチを目指すAMPASの戦略の一環と位置付けられています。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -17,7 +13,4 @@ memo: ""
 ---
 
 ## 要約
-AMPAS（映画芸術科学アカデミー）は、2029年から2033年までのアカデミー賞授賞式をYouTubeで独占生中継すると発表しました。
-- 1976年から続くABCでの放送に代わり、ネット配信へ大きく軸足を移します。
-- 配信では、授賞式本編に加え、バックステージや公式パーティーへのアクセスなど多様なコンテンツを提供する予定です。
-- これは、若年層を含むより広い観客へのリーチを目指すAMPASの戦略の一環と位置付けられています。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: |-
-  LINEヤフーは、チケット販売サービス「PassMarket」を2026年6月30日で終了すると発表しました。  
-  - チケットの購入・利用は2026年6月30日まで可能で、既存チケットへのアクセスは同年9月1日以降できなくなります。  
-  - チケット販売者向け機能は、最終イベント開催日である2026年6月30日までに順次縮小されます。  
-  - 同サービスは2013年に開始され、2022年には「Yahoo!チケット」のサービスを統合していました。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -17,7 +13,4 @@ memo: ""
 ---
 
 ## 要約
-LINEヤフーは、チケット販売サービス「PassMarket」を2026年6月30日で終了すると発表しました。  
-- チケットの購入・利用は2026年6月30日まで可能で、既存チケットへのアクセスは同年9月1日以降できなくなります。  
-- チケット販売者向け機能は、最終イベント開催日である2026年6月30日までに順次縮小されます。  
-- 同サービスは2013年に開始され、2022年には「Yahoo!チケット」のサービスを統合していました。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

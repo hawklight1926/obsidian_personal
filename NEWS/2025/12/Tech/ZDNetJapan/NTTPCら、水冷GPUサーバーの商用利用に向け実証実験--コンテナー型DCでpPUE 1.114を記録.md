@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/09/16/9196ea080a0d4990a973c70f08862503/t/184/138/d/250916_datacenter_as_1280_1440519189.jpg
-summary: |-
-  NTTPCコミュニケーションズら3社が、水冷GPUサーバーの商用利用に向けた実証実験に成功しました。
-  ・コンテナー型データセンター内で水冷GPUサーバーを運用し、高効率を示すpPUE 1.114を記録しました。
-  ・データセンター、サーバー、ソフトウェアを統合的に調整することで、運用効率の最大化を実証しています。
-  ・各社が連携し、国内での水冷GPUサーバーの商用利用拡大を目指します。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -19,7 +15,4 @@ memo: ""
 ![NTTPCら、水冷GPUサーバーの商用利用に向け実証実験--コンテナー型DCでpPUE 1.114を記録](https://japan.zdnet.com/storage/2025/09/16/9196ea080a0d4990a973c70f08862503/t/184/138/d/250916_datacenter_as_1280_1440519189.jpg)
 
 ## 要約
-NTTPCコミュニケーションズら3社が、水冷GPUサーバーの商用利用に向けた実証実験に成功しました。
-・コンテナー型データセンター内で水冷GPUサーバーを運用し、高効率を示すpPUE 1.114を記録しました。
-・データセンター、サーバー、ソフトウェアを統合的に調整することで、運用効率の最大化を実証しています。
-・各社が連携し、国内での水冷GPUサーバーの商用利用拡大を目指します。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

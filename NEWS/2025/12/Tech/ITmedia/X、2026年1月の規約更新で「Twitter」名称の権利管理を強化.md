@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: |-
-  Xは2026年1月15日から適用される利用規約を更新し、ユーザーによる「Twitter」の名称やロゴなどの無断使用を禁止することを明記しました。
-  ・具体的には、ユーザーが「Twitter」のブランド資産を商用利用する場合、Xからの事前の書面による許可が必要と規定されています。
-  ・これは、旧「Twitter」の広範な認知度を背景に、ブランドを厳格に管理する戦略の一環と見られます。
-  ・規約の変更は全ユーザーに影響するため、Xは新規約を確認するよう呼びかけています。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -17,7 +13,4 @@ memo: ""
 ---
 
 ## 要約
-Xは2026年1月15日から適用される利用規約を更新し、ユーザーによる「Twitter」の名称やロゴなどの無断使用を禁止することを明記しました。
-・具体的には、ユーザーが「Twitter」のブランド資産を商用利用する場合、Xからの事前の書面による許可が必要と規定されています。
-・これは、旧「Twitter」の広範な認知度を背景に、ブランドを厳格に管理する戦略の一環と見られます。
-・規約の変更は全ユーザーに影響するため、Xは新規約を確認するよう呼びかけています。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

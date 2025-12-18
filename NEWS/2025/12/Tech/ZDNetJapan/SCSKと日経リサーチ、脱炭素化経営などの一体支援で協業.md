@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/04/23/27bbac9b83c7ded844ea39e720c2d340/t/184/138/d/thumb_sp_22carbon-neutral_1280.jpg
-summary: |-
-  SCSKと日経リサーチは、企業のサプライチェーン全体における脱炭素化とサステナビリティ経営を一体的に支援するため協業を開始しました。
-  - 具体的には、SCSKのCO2排出量自動算定ソリューション「CO×CO カルテ」と、日経リサーチの「日経サステナブルリンク」を組み合わせます。
-  - これにより、サプライチェーンの可視化と改善支援を統合的に提供し、特に中堅中小企業の対応負担軽減を目指します。
-  - 背景には、国際的な情報開示基準の強化や、サプライチェーン全体（スコープ3含む）のCO2排出量管理が喫緊の課題となっていることがあります。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -19,7 +15,4 @@ memo: ""
 ![SCSKと日経リサーチ、脱炭素化経営などの一体支援で協業](https://japan.zdnet.com/storage/2025/04/23/27bbac9b83c7ded844ea39e720c2d340/t/184/138/d/thumb_sp_22carbon-neutral_1280.jpg)
 
 ## 要約
-SCSKと日経リサーチは、企業のサプライチェーン全体における脱炭素化とサステナビリティ経営を一体的に支援するため協業を開始しました。
-- 具体的には、SCSKのCO2排出量自動算定ソリューション「CO×CO カルテ」と、日経リサーチの「日経サステナブルリンク」を組み合わせます。
-- これにより、サプライチェーンの可視化と改善支援を統合的に提供し、特に中堅中小企業の対応負担軽減を目指します。
-- 背景には、国際的な情報開示基準の強化や、サプライチェーン全体（スコープ3含む）のCO2排出量管理が喫緊の課題となっていることがあります。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

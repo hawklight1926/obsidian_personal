@@ -5,11 +5,7 @@ updated:
 category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/G3nImpactChallenge-16x9_RD7-V01.max-600x600.format-webp.webp
-summary: |-
-  Gemma 3n Impact Challengeでは、開発者たちがオンデバイスAIを用いて現実世界の問題解決に取り組むプロジェクトを多数開発しました。
-  ・視覚障害者向けAIアシスタントや、認知障害者の自立を支援するデジタルコンパニオンなど、アクセシビリティ分野での応用例が目立ちます。
-  ・また、セキュリティガードの監視支援や、通信環境のない地域へのAI導入など、多様な社会課題への実用的な解決策が示されました。
-  ・これらのプロジェクトは、Gemma 3nのマルチモーダル機能と端末上での処理能力を活かし、効率的かつパーソナライズされた支援を実現しています。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -19,7 +15,4 @@ memo: ""
 ![These developers are changing lives with Gemma 3n](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/G3nImpactChallenge-16x9_RD7-V01.max-600x600.format-webp.webp)
 
 ## 要約
-Gemma 3n Impact Challengeでは、開発者たちがオンデバイスAIを用いて現実世界の問題解決に取り組むプロジェクトを多数開発しました。
-・視覚障害者向けAIアシスタントや、認知障害者の自立を支援するデジタルコンパニオンなど、アクセシビリティ分野での応用例が目立ちます。
-・また、セキュリティガードの監視支援や、通信環境のない地域へのAI導入など、多様な社会課題への実用的な解決策が示されました。
-・これらのプロジェクトは、Gemma 3nのマルチモーダル機能と端末上での処理能力を活かし、効率的かつパーソナライズされた支援を実現しています。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

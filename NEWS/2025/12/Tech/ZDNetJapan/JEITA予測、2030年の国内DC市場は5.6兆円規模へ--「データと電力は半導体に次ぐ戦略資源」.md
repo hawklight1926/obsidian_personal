@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/16/7b91f7f86f2b5470d90a1e9942c6f422/t/184/138/d/251216_jeita_l.jpg
-summary: |-
-  JEITAは、2030年の国内データセンターサービス市場が5兆6500億円規模に成長すると予測しています。  
-  ・クラウドサービス分野が市場成長の中心となり、AI活用の広がりや産業のデジタル化が需要を牽引します。  
-  ・経済安全保障の観点から、国内でのデータセンター基盤整備の重要性が指摘されています。  
-  ・世界市場に比べ国内の成長率は緩やかですが、制御系システム（OT）データを活用した特化型AIなどで差別化が可能と分析しています。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -19,7 +15,4 @@ memo: ""
 ![JEITA予測、2030年の国内DC市場は5.6兆円規模へ--「データと電力は半導体に次ぐ戦略資源」](https://japan.zdnet.com/storage/2025/12/16/7b91f7f86f2b5470d90a1e9942c6f422/t/184/138/d/251216_jeita_l.jpg)
 
 ## 要約
-JEITAは、2030年の国内データセンターサービス市場が5兆6500億円規模に成長すると予測しています。  
-・クラウドサービス分野が市場成長の中心となり、AI活用の広がりや産業のデジタル化が需要を牽引します。  
-・経済安全保障の観点から、国内でのデータセンター基盤整備の重要性が指摘されています。  
-・世界市場に比べ国内の成長率は緩やかですが、制御系システム（OT）データを活用した特化型AIなどで差別化が可能と分析しています。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

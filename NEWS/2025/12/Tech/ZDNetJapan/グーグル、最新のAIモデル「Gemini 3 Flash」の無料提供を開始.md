@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/18/d09d7b314004cc044317c8dd092f1789/t/184/138/d/gemini-3-flash_1280.jpg
-summary: |-
-  Googleは最新AIモデル「Gemini 3 Flash」の無料提供を開始し、Google検索やGeminiアプリのデフォルトモデルに採用しました。
-  ・高速性と高性能な推論機能、マルチモーダル機能のバランスを両立させたことが特徴です。
-  ・画像や動画、音声への対応など、マルチモーダル機能の質と柔軟性が向上しています。
-  ・一部のベンチマークでは競合モデルを上回る性能を示しており、段階的に全ユーザーへ無料提供されています。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -19,7 +15,4 @@ memo: ""
 ![グーグル、最新のAIモデル「Gemini 3 Flash」の無料提供を開始](https://japan.zdnet.com/storage/2025/12/18/d09d7b314004cc044317c8dd092f1789/t/184/138/d/gemini-3-flash_1280.jpg)
 
 ## 要約
-Googleは最新AIモデル「Gemini 3 Flash」の無料提供を開始し、Google検索やGeminiアプリのデフォルトモデルに採用しました。
-・高速性と高性能な推論機能、マルチモーダル機能のバランスを両立させたことが特徴です。
-・画像や動画、音声への対応など、マルチモーダル機能の質と柔軟性が向上しています。
-・一部のベンチマークでは競合モデルを上回る性能を示しており、段階的に全ユーザーへ無料提供されています。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

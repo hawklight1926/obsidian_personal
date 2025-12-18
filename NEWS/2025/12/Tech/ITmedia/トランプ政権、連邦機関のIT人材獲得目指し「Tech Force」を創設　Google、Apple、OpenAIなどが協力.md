@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: |-
-  NTTグループが「Tech Force」と名付けた新たな技術人材育成プログラムの開始を発表しました。  
-  ・約1000人の若手技術者を対象に、2年間の雇用保証付きでAIやデータサイエンス等のスキルを習得させます。  
-  ・プログラム修了後はグループ内での配置や、外部企業への就職の可能性も想定されています。  
-  ・政府の効率化部門（DOGE）と連携し、2026年までの期間限定プロジェクトとして実施される予定です。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -17,7 +13,4 @@ memo: ""
 ---
 
 ## 要約
-NTTグループが「Tech Force」と名付けた新たな技術人材育成プログラムの開始を発表しました。  
-・約1000人の若手技術者を対象に、2年間の雇用保証付きでAIやデータサイエンス等のスキルを習得させます。  
-・プログラム修了後はグループ内での配置や、外部企業への就職の可能性も想定されています。  
-・政府の効率化部門（DOGE）と連携し、2026年までの期間限定プロジェクトとして実施される予定です。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

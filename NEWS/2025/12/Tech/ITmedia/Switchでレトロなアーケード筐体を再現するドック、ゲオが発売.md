@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: |-
-  任天堂のSwitchと次世代機に対応する、8つのボタン付きの無線コントローラー「ジョイコン互換ハブ」が発表されました。  
-  ・価格は8778円で、19日より全国のトイザらス約400店舗で販売されます。  
-  ・本体の充電が不要で、Switchと次世代機の両方でゲームを遊べる仕様です。  
-  ・ボタンは3つのモードで切り替え可能で、特にDPモードは格闘ゲームに適しているとされています。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -17,7 +13,4 @@ memo: ""
 ---
 
 ## 要約
-任天堂のSwitchと次世代機に対応する、8つのボタン付きの無線コントローラー「ジョイコン互換ハブ」が発表されました。  
-・価格は8778円で、19日より全国のトイザらス約400店舗で販売されます。  
-・本体の充電が不要で、Switchと次世代機の両方でゲームを遊べる仕様です。  
-・ボタンは3つのモードで切り替え可能で、特にDPモードは格闘ゲームに適しているとされています。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

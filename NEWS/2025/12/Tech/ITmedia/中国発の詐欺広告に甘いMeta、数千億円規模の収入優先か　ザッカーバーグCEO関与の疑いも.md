@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: |-
-  Metaは2024年、中国における広告収入が大幅に減少しました。
-  - 中国企業がMetaのプラットフォームを利用した広告の約4分の1が、政治的禁止コンテンツに関連していたと内部で推定されていました。
-  - これを受け、Metaは広告審査体制を強化し、中国での新規広告代理店へのアクセスを制限しました。
-  - その結果、中国での広告収入は減少した一方、禁止コンテンツの割合は19%から9%に低下しました。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -17,7 +13,4 @@ memo: ""
 ---
 
 ## 要約
-Metaは2024年、中国における広告収入が大幅に減少しました。
-- 中国企業がMetaのプラットフォームを利用した広告の約4分の1が、政治的禁止コンテンツに関連していたと内部で推定されていました。
-- これを受け、Metaは広告審査体制を強化し、中国での新規広告代理店へのアクセスを制限しました。
-- その結果、中国での広告収入は減少した一方、禁止コンテンツの割合は19%から9%に低下しました。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

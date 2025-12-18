@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/17/94e4bc28a4fb5480b025447894bf34fe/t/184/138/d/gettyimages-1241768331_hero.jpg
-summary: |-
-  AIの進化によりプログラマーの需要が急落しているが、これは技術が人間の仕事を変える歴史的な転換点です。  
-  ・AIは熟練プログラマーよりも速く低コストでコードを生成できるため、企業は人員をAIに置き換える傾向にあります。  
-  ・歴史的に、裁縫や木工が手作業から動力工具へ移行しても手技術が残ったように、プログラミングも根本的には消滅しないでしょう。  
-  ・AIコーディングツールは現代の「動力工具」であり、プログラマーはその活用方法を習得する新たな役割へと移行することが予想されます。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -19,7 +15,4 @@ memo: ""
 ![AI時代にプログラミングは消滅するのか--「手仕事」からの脱却がもたらす開発の未来](https://japan.zdnet.com/storage/2025/12/17/94e4bc28a4fb5480b025447894bf34fe/t/184/138/d/gettyimages-1241768331_hero.jpg)
 
 ## 要約
-AIの進化によりプログラマーの需要が急落しているが、これは技術が人間の仕事を変える歴史的な転換点です。  
-・AIは熟練プログラマーよりも速く低コストでコードを生成できるため、企業は人員をAIに置き換える傾向にあります。  
-・歴史的に、裁縫や木工が手作業から動力工具へ移行しても手技術が残ったように、プログラミングも根本的には消滅しないでしょう。  
-・AIコーディングツールは現代の「動力工具」であり、プログラマーはその活用方法を習得する新たな役割へと移行することが予想されます。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

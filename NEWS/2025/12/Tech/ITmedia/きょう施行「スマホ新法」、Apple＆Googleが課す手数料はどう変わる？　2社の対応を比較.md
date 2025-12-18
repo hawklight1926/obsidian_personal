@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: |-
-  スマートフォンアプリ市場の競争促進を目的とした「デジタル市場法」が12月18日に施行されました。  
-  ・これに伴い、AppleとGoogleは開発者への手数料などを一部変更しました。  
-  ・具体的には、開発者が自社の決済サービスを利用可能となり、ユーザーをアプリストア外に誘導して手数料を抑えた販売が可能になります。  
-  ・これにより、開発者の収益向上やユーザーのコスト削減が期待されています。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -17,7 +13,4 @@ memo: ""
 ---
 
 ## 要約
-スマートフォンアプリ市場の競争促進を目的とした「デジタル市場法」が12月18日に施行されました。  
-・これに伴い、AppleとGoogleは開発者への手数料などを一部変更しました。  
-・具体的には、開発者が自社の決済サービスを利用可能となり、ユーザーをアプリストア外に誘導して手数料を抑えた販売が可能になります。  
-・これにより、開発者の収益向上やユーザーのコスト削減が期待されています。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

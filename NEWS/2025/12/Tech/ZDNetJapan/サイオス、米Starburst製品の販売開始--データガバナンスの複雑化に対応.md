@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/17/39d8581736988fa271bde8f56fa459b6/t/184/138/d/20251217_adobestock_390323189_1280x960.jpg
-summary: |-
-  サイオステクノロジーは、米Starburst Dataのデータ分析基盤製品の日本での販売を開始しました。
-  - Starburstの製品は、多様なデータソースに直接アクセスして統合分析を可能にし、ETL処理の必要性を低減します。
-  - オープンソースクエリーエンジン「Trino」を基盤としており、大規模なデータ分析を高速で実行できます。
-  - これにより、データガバナンスの複雑化やインフラコストの課題に対応し、AI活用を含むデータ戦略を支援します。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -19,7 +15,4 @@ memo: ""
 ![サイオス、米Starburst製品の販売開始--データガバナンスの複雑化に対応](https://japan.zdnet.com/storage/2025/12/17/39d8581736988fa271bde8f56fa459b6/t/184/138/d/20251217_adobestock_390323189_1280x960.jpg)
 
 ## 要約
-サイオステクノロジーは、米Starburst Dataのデータ分析基盤製品の日本での販売を開始しました。
-- Starburstの製品は、多様なデータソースに直接アクセスして統合分析を可能にし、ETL処理の必要性を低減します。
-- オープンソースクエリーエンジン「Trino」を基盤としており、大規模なデータ分析を高速で実行できます。
-- これにより、データガバナンスの複雑化やインフラコストの課題に対応し、AI活用を含むデータ戦略を支援します。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

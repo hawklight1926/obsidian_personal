@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: |-
-  AIは社会に導入されたのではなく、社会がAIを利用する形で普及したという認識が広がっています。  
-  - 2024年から2025年にかけて実施された調査では、学生・教員のAI利用が急増し、特にChatGPTの使用が目立ちました。  
-  - AIへの過度な依存への懸念は減少傾向にある一方、学習意欲の低下を心配する声は依然として高いままです。  
-  - 課題やレポート作成でのAI利用については、責任の所在が不明確なまま利用が進む課題が指摘されています。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -17,7 +13,4 @@ memo: ""
 ---
 
 ## 要約
-AIは社会に導入されたのではなく、社会がAIを利用する形で普及したという認識が広がっています。  
-- 2024年から2025年にかけて実施された調査では、学生・教員のAI利用が急増し、特にChatGPTの使用が目立ちました。  
-- AIへの過度な依存への懸念は減少傾向にある一方、学習意欲の低下を心配する声は依然として高いままです。  
-- 課題やレポート作成でのAI利用については、責任の所在が不明確なまま利用が進む課題が指摘されています。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

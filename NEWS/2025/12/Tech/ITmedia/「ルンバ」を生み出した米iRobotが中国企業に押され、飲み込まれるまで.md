@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: |-
-  iRobotは米国破産法11条の適用を申請し、中国企業の支援による再建を目指すことになりました。
-  ・1990年にMITの研究者らが設立し、当初は軍事・災害対応ロボットを開発していました。
-  ・2002年に発売した「Roomba」が家庭用掃除ロボット市場を開拓し、ヒット商品となりました。
-  ・近年は家電メーカーとの業務用ロボット開発なども行っていましたが、経営再建に至りました。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -17,7 +13,4 @@ memo: ""
 ---
 
 ## 要約
-iRobotは米国破産法11条の適用を申請し、中国企業の支援による再建を目指すことになりました。
-・1990年にMITの研究者らが設立し、当初は軍事・災害対応ロボットを開発していました。
-・2002年に発売した「Roomba」が家庭用掃除ロボット市場を開拓し、ヒット商品となりました。
-・近年は家電メーカーとの業務用ロボット開発なども行っていましたが、経営再建に至りました。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

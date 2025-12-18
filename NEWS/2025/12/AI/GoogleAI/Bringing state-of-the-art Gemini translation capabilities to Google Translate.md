@@ -5,11 +5,7 @@ updated:
 category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate-Blog-121125.max-600x600.format-webp.webp
-summary: |-
-  GoogleはGeminiを活用し、Google翻訳のテキスト翻訳品質を向上させるとともに、ヘッドホン向けのライブ音声翻訳ベータ版を導入しました。  
-  ・Geminiにより、イディオムや俗語などニュアンスのある表現の翻訳がより自然で正確になります。  
-  ・ライブ翻訳ベータ版では、話者のトーンや抑揚を保ちつつ、ヘッドホンでリアルタイム翻訳を聞くことが可能です。  
-  ・さらに、翻訳アプリ内の言語学習ツールが拡張され、より多くの国で利用できるようになりました。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -19,7 +15,4 @@ memo: ""
 ![Bringing state-of-the-art Gemini translation capabilities to Google Translate](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate-Blog-121125.max-600x600.format-webp.webp)
 
 ## 要約
-GoogleはGeminiを活用し、Google翻訳のテキスト翻訳品質を向上させるとともに、ヘッドホン向けのライブ音声翻訳ベータ版を導入しました。  
-・Geminiにより、イディオムや俗語などニュアンスのある表現の翻訳がより自然で正確になります。  
-・ライブ翻訳ベータ版では、話者のトーンや抑揚を保ちつつ、ヘッドホンでリアルタイム翻訳を聞くことが可能です。  
-・さらに、翻訳アプリ内の言語学習ツールが拡張され、より多くの国で利用できるようになりました。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

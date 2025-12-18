@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/12/17/bbc810583e16935dc75ffd41137538d5/t/184/138/d/newbutton-screenshot-2025-12-16-124357_1280.jpg
-summary: |-
-  Google検索のメインページに追加されたプラス記号から、ファイルや画像を直接アップロードしてAIモードを利用できるようになりました。
-  - これまでAIモード内でのみ可能だったファイル分析が、検索画面から直接行えるようになり、利用の手間が省けます。
-  - アップロードしたファイルの内容について、AIモードに質問して詳細な分析を得ることが可能です。
-  - この機能は、AIモードが提供されている全地域で、デスクトップ版を中心に順次利用可能になる予定です。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -19,7 +15,4 @@ memo: ""
 ![グーグル、検索ページから「AIモード」を利用しやすく](https://japan.zdnet.com/storage/2025/12/17/bbc810583e16935dc75ffd41137538d5/t/184/138/d/newbutton-screenshot-2025-12-16-124357_1280.jpg)
 
 ## 要約
-Google検索のメインページに追加されたプラス記号から、ファイルや画像を直接アップロードしてAIモードを利用できるようになりました。
-- これまでAIモード内でのみ可能だったファイル分析が、検索画面から直接行えるようになり、利用の手間が省けます。
-- アップロードしたファイルの内容について、AIモードに質問して詳細な分析を得ることが可能です。
-- この機能は、AIモードが提供されている全地域で、デスクトップ版を中心に順次利用可能になる予定です。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

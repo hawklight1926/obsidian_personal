@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: |-
-  Googleが、ユーザーのメールやカレンダーなどのデータを分析し、1日の予定をまとめたAIアシスタント「CC」を発表しました。  
-  - 主な機能は、GmailやGoogleカレンダーと連携し、ユーザーの1日を要約した「Your Day Ahead」というメールを送信することです。  
-  - ユーザーは、このメールに返信することで、タスクの追加やスケジュール調整などの指示をAIに行うことができます。  
-  - 現在は米国と英国の一部ユーザーを対象とした試験的なサービスで、データはGoogleのプライバシーポリシーに基づいて管理されます。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -17,7 +13,4 @@ memo: ""
 ---
 
 ## 要約
-Googleが、ユーザーのメールやカレンダーなどのデータを分析し、1日の予定をまとめたAIアシスタント「CC」を発表しました。  
-- 主な機能は、GmailやGoogleカレンダーと連携し、ユーザーの1日を要約した「Your Day Ahead」というメールを送信することです。  
-- ユーザーは、このメールに返信することで、タスクの追加やスケジュール調整などの指示をAIに行うことができます。  
-- 現在は米国と英国の一部ユーザーを対象とした試験的なサービスで、データはGoogleのプライバシーポリシーに基づいて管理されます。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

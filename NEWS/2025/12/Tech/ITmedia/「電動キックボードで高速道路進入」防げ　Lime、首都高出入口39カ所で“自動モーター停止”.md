@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: |-
-  Limeは、特定地域での電動キックボードの速度制限や停止を自動で行う「ジオフェンシング」技術の実証実験を実施しました。  
-  ・実験は、大阪市の繁華街で駐輪違反や速度超過を防止する目的で行われました。  
-  ・GPSを用いて車両の位置を把握し、指定エリアへの進入を自動的に制御する仕組みです。  
-  ・これにより、利用者の安全確保と地域の交通課題解決を目指しています。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -17,7 +13,4 @@ memo: ""
 ---
 
 ## 要約
-Limeは、特定地域での電動キックボードの速度制限や停止を自動で行う「ジオフェンシング」技術の実証実験を実施しました。  
-・実験は、大阪市の繁華街で駐輪違反や速度超過を防止する目的で行われました。  
-・GPSを用いて車両の位置を把握し、指定エリアへの進入を自動的に制御する仕組みです。  
-・これにより、利用者の安全確保と地域の交通課題解決を目指しています。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

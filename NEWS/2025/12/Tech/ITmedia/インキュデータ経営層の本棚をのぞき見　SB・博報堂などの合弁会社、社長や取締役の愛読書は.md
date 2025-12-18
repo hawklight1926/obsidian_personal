@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: |-
-  IT・Web関連企業の経営者が影響を受けた書籍を紹介する記事です。  
-  - 1冊目は、財務的価値の評価手法など実践的な知識を学べる「実践！ファイナンス」です。  
-  - 2冊目は、組織論やリーダーシップを学ぶ礎となった「人望」です。  
-  - 3冊目は、在宅勤務中の思考整理に役立った「2020年6月30日にとても大きな決断をした」です。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -17,7 +13,4 @@ memo: ""
 ---
 
 ## 要約
-IT・Web関連企業の経営者が影響を受けた書籍を紹介する記事です。  
-- 1冊目は、財務的価値の評価手法など実践的な知識を学べる「実践！ファイナンス」です。  
-- 2冊目は、組織論やリーダーシップを学ぶ礎となった「人望」です。  
-- 3冊目は、在宅勤務中の思考整理に役立った「2020年6月30日にとても大きな決断をした」です。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

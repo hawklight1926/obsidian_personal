@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: |-
-  「3COINS」ブランドの格安タブレットが12月22日に10.1インチモデルを発売し、Android 15の軽量版「Go Edition」を搭載します。
-  - 価格は1万6500円で、SoCはAllwinner A333、メモリは3GB（仮想メモリで最大3GB追加可能）です。
-  - ディスプレイは1280×800ドットのADS液晶を採用し、カメラは前面と背面にそれぞれ200万画素を搭載しています。
-  - 通信機能としてWi-FiとBluetoothに対応し、USB Type-C充電やmicroSDカードスロットなども備えています。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -17,7 +13,4 @@ memo: ""
 ---
 
 ## 要約
-「3COINS」ブランドの格安タブレットが12月22日に10.1インチモデルを発売し、Android 15の軽量版「Go Edition」を搭載します。
-- 価格は1万6500円で、SoCはAllwinner A333、メモリは3GB（仮想メモリで最大3GB追加可能）です。
-- ディスプレイは1280×800ドットのADS液晶を採用し、カメラは前面と背面にそれぞれ200万画素を搭載しています。
-- 通信機能としてWi-FiとBluetoothに対応し、USB Type-C充電やmicroSDカードスロットなども備えています。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

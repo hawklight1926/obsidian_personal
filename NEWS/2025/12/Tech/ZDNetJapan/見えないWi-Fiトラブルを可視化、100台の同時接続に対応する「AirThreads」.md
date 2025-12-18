@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/03/19/97605c1c26b676de7a76dac68941488c/t/184/138/d/250319_network_as_1280_310209942.jpg
-summary: |-
-  Wi-Fiの目に見えない通信トラブルを可視化し、最大100台の同時接続テストに対応するサービス「AirThreads」がアップデートされました。  
-  ・企業や学校など大規模無線LAN環境で、実際の利用状況を再現したIPレベルの通信テストを支援します。  
-  ・従来は多数の端末や人員を用意するのが難しく、「接続はできるが遅い」といった問題の検証が課題でした。  
-  ・専用ハードウェアとオンサイトサービスにより、問題箇所の特定から改善提案までをワンストップで提供します。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -19,7 +15,4 @@ memo: ""
 ![見えないWi-Fiトラブルを可視化、100台の同時接続に対応する「AirThreads」](https://japan.zdnet.com/storage/2025/03/19/97605c1c26b676de7a76dac68941488c/t/184/138/d/250319_network_as_1280_310209942.jpg)
 
 ## 要約
-Wi-Fiの目に見えない通信トラブルを可視化し、最大100台の同時接続テストに対応するサービス「AirThreads」がアップデートされました。  
-・企業や学校など大規模無線LAN環境で、実際の利用状況を再現したIPレベルの通信テストを支援します。  
-・従来は多数の端末や人員を用意するのが難しく、「接続はできるが遅い」といった問題の検証が課題でした。  
-・専用ハードウェアとオンサイトサービスにより、問題箇所の特定から改善提案までをワンストップで提供します。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

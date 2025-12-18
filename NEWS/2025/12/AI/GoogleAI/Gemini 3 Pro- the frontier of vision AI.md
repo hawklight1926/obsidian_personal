@@ -5,11 +5,7 @@ updated:
 category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiAFVAI_Wagtial_RD1-V01.max-600x600.format-webp.webp
-summary: |-
-  Gemini 3 Proは、文書、空間、画面、動画理解において最先端の性能を発揮するGoogleのマルチモーダルAIモデルです。
-  ・文書理解では、複雑なレイアウトや手書き文字の認識から、表や図表の多段階推論まで高度に処理できます。
-  ・空間・画面理解により、物理的世界やOS画面の認識が可能で、タスク自動化などの応用が期待されます。
-  ・動画理解では、10FPSでの処理と高度な推論モードにより、複雑な因果関係の把握が大きく進歩しています。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -19,7 +15,4 @@ memo: ""
 ![Gemini 3 Pro: the frontier of vision AI](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiAFVAI_Wagtial_RD1-V01.max-600x600.format-webp.webp)
 
 ## 要約
-Gemini 3 Proは、文書、空間、画面、動画理解において最先端の性能を発揮するGoogleのマルチモーダルAIモデルです。
-・文書理解では、複雑なレイアウトや手書き文字の認識から、表や図表の多段階推論まで高度に処理できます。
-・空間・画面理解により、物理的世界やOS画面の認識が可能で、タスク自動化などの応用が期待されます。
-・動画理解では、10FPSでの処理と高度な推論モードにより、複雑な因果関係の把握が大きく進歩しています。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

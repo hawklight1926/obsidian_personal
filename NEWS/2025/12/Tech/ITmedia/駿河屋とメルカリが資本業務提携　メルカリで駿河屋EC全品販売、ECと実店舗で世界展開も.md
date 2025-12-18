@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: |-
-  日本航空は、航空機の機内食「空弁」を海外で展開する取り組みを発表しました。
-  ・日本発の空弁ECサイト「空弁.jp」の全商品を定価で購入可能にするほか、海外でのECサイト展開を進めます。
-  ・日本国内の空弁専門店のノウハウを活用し、海外の空港や駅での店舗展開も計画しています。
-  ・約3000便分の実績データとAI技術を組み合わせ、需要予測の精度向上や廃棄削減を目指します。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -17,7 +13,4 @@ memo: ""
 ---
 
 ## 要約
-日本航空は、航空機の機内食「空弁」を海外で展開する取り組みを発表しました。
-・日本発の空弁ECサイト「空弁.jp」の全商品を定価で購入可能にするほか、海外でのECサイト展開を進めます。
-・日本国内の空弁専門店のノウハウを活用し、海外の空港や駅での店舗展開も計画しています。
-・約3000便分の実績データとAI技術を組み合わせ、需要予測の精度向上や廃棄削減を目指します。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

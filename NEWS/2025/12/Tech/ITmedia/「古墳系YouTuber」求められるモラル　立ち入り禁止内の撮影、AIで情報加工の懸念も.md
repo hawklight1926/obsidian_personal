@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ITmedia
 image: 
-summary: |-
-  SNSやYouTubeで共有される「観光地YouTuber」の動画が、地域住民のプライバシー侵害や文化財保護の観点から問題となっています。
-  - 過度な撮影により住民生活が脅かされる事例や、立ち入り禁止区域への侵入が発生しています。
-  - 生成AIの進展で実在しない風景の作成が容易になり、誤った歴史認識を広める懸念が指摘されています。
-  - 観光地と居住区域が近接する世界遺産などでは、事前の住民合意形成やウェブ情報の信頼性確認が課題です。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -17,7 +13,4 @@ memo: ""
 ---
 
 ## 要約
-SNSやYouTubeで共有される「観光地YouTuber」の動画が、地域住民のプライバシー侵害や文化財保護の観点から問題となっています。
-- 過度な撮影により住民生活が脅かされる事例や、立ち入り禁止区域への侵入が発生しています。
-- 生成AIの進展で実在しない風景の作成が容易になり、誤った歴史認識を広める懸念が指摘されています。
-- 観光地と居住区域が近接する世界遺産などでは、事前の住民合意形成やウェブ情報の信頼性確認が課題です。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)

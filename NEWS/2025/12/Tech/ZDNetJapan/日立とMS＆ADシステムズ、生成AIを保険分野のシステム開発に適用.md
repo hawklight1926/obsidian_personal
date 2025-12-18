@@ -5,11 +5,7 @@ updated:
 category: Tech
 rss: ZDNetJapan
 image: https://japan.zdnet.com/storage/2025/02/20/3f1df6775d071eff66d8be55587b07f1/t/184/138/d/250220_enterprise_as_1280_721823729.jpeg
-summary: |-
-  日立とMS＆ADシステムズは、生成AIを保険分野のミッションクリティカルなシステム開発に本格適用する取り組みを開始します。
-  - 生成AI活用にはプロンプト作成の負荷と回答品質のばらつきという課題がありました。
-  - 両社は、プロンプト生成を支援し高品質な出力を実現する開発フレームワークを導入し、2025年12月から実業務での利用を開始します。
-  - 今後は要件定義や外部設計など上流工程を含む全工程への適用を目指し、開発プロセスの効率化を進めます。
+summary: "(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)"
 read: false
 ignored: false
 pinned: false
@@ -19,7 +15,4 @@ memo: ""
 ![日立とMS＆ADシステムズ、生成AIを保険分野のシステム開発に適用](https://japan.zdnet.com/storage/2025/02/20/3f1df6775d071eff66d8be55587b07f1/t/184/138/d/250220_enterprise_as_1280_721823729.jpeg)
 
 ## 要約
-日立とMS＆ADシステムズは、生成AIを保険分野のミッションクリティカルなシステム開発に本格適用する取り組みを開始します。
-- 生成AI活用にはプロンプト作成の負荷と回答品質のばらつきという課題がありました。
-- 両社は、プロンプト生成を支援し高品質な出力を実現する開発フレームワークを導入し、2025年12月から実業務での利用を開始します。
-- 今後は要件定義や外部設計など上流工程を含む全工程への適用を目指し、開発プロセスの効率化を進めます。
+(要約生成に失敗しました: DeepSeek APIエラー (invalid_request_error): Insufficient Balance)
