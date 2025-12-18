@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  「3COINS」が12月22日に発売する10.1インチAndroidタブレットは、Android 15 Go Editionを搭載し、価格は1万6500円です。
-  - SoCはAllwinner A333を採用し、メモリは3GB（最大6GB）、ストレージは64GBです。
-  - ディスプレイは10.1インチのADS液晶で、カメラは前後に200万画素を搭載しています。
-  - 通信機能としてWi-Fi、Bluetooth、有線LANに対応し、付属品はACアダプタと保証書のみです。
+  「3COINS」ブランドの格安タブレットが12月22日に10.1インチモデルを発売し、Android 15の軽量版「Go Edition」を搭載します。
+  - 価格は1万6500円で、SoCはAllwinner A333、メモリは3GB（仮想メモリで最大3GB追加可能）です。
+  - ディスプレイは1280×800ドットのADS液晶を採用し、カメラは前面と背面にそれぞれ200万画素を搭載しています。
+  - 通信機能としてWi-FiとBluetoothに対応し、USB Type-C充電やmicroSDカードスロットなども備えています。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-「3COINS」が12月22日に発売する10.1インチAndroidタブレットは、Android 15 Go Editionを搭載し、価格は1万6500円です。
-- SoCはAllwinner A333を採用し、メモリは3GB（最大6GB）、ストレージは64GBです。
-- ディスプレイは10.1インチのADS液晶で、カメラは前後に200万画素を搭載しています。
-- 通信機能としてWi-Fi、Bluetooth、有線LANに対応し、付属品はACアダプタと保証書のみです。
+「3COINS」ブランドの格安タブレットが12月22日に10.1インチモデルを発売し、Android 15の軽量版「Go Edition」を搭載します。
+- 価格は1万6500円で、SoCはAllwinner A333、メモリは3GB（仮想メモリで最大3GB追加可能）です。
+- ディスプレイは1280×800ドットのADS液晶を採用し、カメラは前面と背面にそれぞれ200万画素を搭載しています。
+- 通信機能としてWi-FiとBluetoothに対応し、USB Type-C充電やmicroSDカードスロットなども備えています。

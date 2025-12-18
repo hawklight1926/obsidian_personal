@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate-Blog-121125.max-600x600.format-webp.webp
 summary: |-
-  GoogleがGeminiを活用した高度な翻訳機能をGoogle Translateに導入しました。  
-  ・Geminiにより、イディオムや俗語を含むテキスト翻訳の精度と自然さが向上します。  
-  ・新たなベータ版では、ヘッドフォンで音声をリアルタイム翻訳する機能を提供し、話者のニュアンスを保持します。  
-  ・さらに、翻訳アプリ内で学習できる言語を拡大し、進捗管理などの学習ツールも強化されました。
+  GoogleはGeminiを活用し、Google翻訳のテキスト翻訳品質を向上させるとともに、ヘッドホン向けのライブ音声翻訳ベータ版を導入しました。  
+  ・Geminiにより、イディオムや俗語などニュアンスのある表現の翻訳がより自然で正確になります。  
+  ・ライブ翻訳ベータ版では、話者のトーンや抑揚を保ちつつ、ヘッドホンでリアルタイム翻訳を聞くことが可能です。  
+  ・さらに、翻訳アプリ内の言語学習ツールが拡張され、より多くの国で利用できるようになりました。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![Bringing state-of-the-art Gemini translation capabilities to Google Translate](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate-Blog-121125.max-600x600.format-webp.webp)
 
 ## 要約
-GoogleがGeminiを活用した高度な翻訳機能をGoogle Translateに導入しました。  
-・Geminiにより、イディオムや俗語を含むテキスト翻訳の精度と自然さが向上します。  
-・新たなベータ版では、ヘッドフォンで音声をリアルタイム翻訳する機能を提供し、話者のニュアンスを保持します。  
-・さらに、翻訳アプリ内で学習できる言語を拡大し、進捗管理などの学習ツールも強化されました。
+GoogleはGeminiを活用し、Google翻訳のテキスト翻訳品質を向上させるとともに、ヘッドホン向けのライブ音声翻訳ベータ版を導入しました。  
+・Geminiにより、イディオムや俗語などニュアンスのある表現の翻訳がより自然で正確になります。  
+・ライブ翻訳ベータ版では、話者のトーンや抑揚を保ちつつ、ヘッドホンでリアルタイム翻訳を聞くことが可能です。  
+・さらに、翻訳アプリ内の言語学習ツールが拡張され、より多くの国で利用できるようになりました。
