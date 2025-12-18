@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/G3nImpactChallenge-16x9_RD7-V01.max-600x600.format-webp.webp
 summary: |-
-  Gemma 3n Impact Challengeでは、開発者たちがオンデバイスAIモデルを用いて現実世界の問題解決に取り組むプロジェクトを多数発表しました。  
-  ・優勝した「Gemma Vision」は、視覚障害者が胸に装着したカメラと音声操作で利用できるAIアシスタントです。  
-  ・「Vite Vere Offline」は認知障害者の自律を促すデジタル相棒を、Gemma 3nによりオフラインで動作可能にしました。  
-  ・その他、音声障害者向けカスタムアシスタントや、低コストAAC技術、辺境地域向け教育ハブなど、多様な実用的ソリューションが開発されています。
+  Gemma 3n Impact Challengeでは、開発者が現実世界の問題解決のため、オンデバイスAIを活用したモバイルファーストのソリューションを多数開発しました。
+  ・視覚障害者向けAIアシスタントや、認知障害者の自立を支援するデジタルツールなど、多様な支援技術が生まれています。
+  ・具体的には、音声コマンドでの操作、オフライン環境での動作、個人の音声パターンに特化した学習など、様々なアプローチが見られます。
+  ・これらのプロジェクトは、Gemma 3nのマルチモーダル機能を活用し、専用ハードウェアや効率的なファインチューニング手法と組み合わせることで実現されました。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![These developers are changing lives with Gemma 3n](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/G3nImpactChallenge-16x9_RD7-V01.max-600x600.format-webp.webp)
 
 ## 要約
-Gemma 3n Impact Challengeでは、開発者たちがオンデバイスAIモデルを用いて現実世界の問題解決に取り組むプロジェクトを多数発表しました。  
-・優勝した「Gemma Vision」は、視覚障害者が胸に装着したカメラと音声操作で利用できるAIアシスタントです。  
-・「Vite Vere Offline」は認知障害者の自律を促すデジタル相棒を、Gemma 3nによりオフラインで動作可能にしました。  
-・その他、音声障害者向けカスタムアシスタントや、低コストAAC技術、辺境地域向け教育ハブなど、多様な実用的ソリューションが開発されています。
+Gemma 3n Impact Challengeでは、開発者が現実世界の問題解決のため、オンデバイスAIを活用したモバイルファーストのソリューションを多数開発しました。
+・視覚障害者向けAIアシスタントや、認知障害者の自立を支援するデジタルツールなど、多様な支援技術が生まれています。
+・具体的には、音声コマンドでの操作、オフライン環境での動作、個人の音声パターンに特化した学習など、様々なアプローチが見られます。
+・これらのプロジェクトは、Gemma 3nのマルチモーダル機能を活用し、専用ハードウェアや効率的なファインチューニング手法と組み合わせることで実現されました。

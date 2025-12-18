@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_flash_model_blog_heade.max-600x600.format-webp.webp
 summary: |-
-  Gemini 3 Flashは、高速性と低コストを実現したGoogleの最新AIモデルです。
-  - 従来モデルを上回る推論性能と高速処理を両立し、複雑なタスクにも対応します。
-  - 開発者向けにAPIを通じて提供され、エージェントワークフローやマルチモーダル分析に優れています。
-  - 一般ユーザーはGeminiアプリや検索機能から利用でき、日常的な質問から高度な計画立案まで支援します。
+  Googleは高速処理に特化した最新AIモデル「Gemini 3 Flash」をリリースしました。  
+  ・Gemini 3 Proと同等の高度な推論能力を維持しつつ、従来モデルより3倍高速で低コストです。  
+  ・複雑なコーディングやマルチモーダル分析など、開発者向けのエージェントワークフローに優れています。  
+  ・一般ユーザーはGeminiアプリや検索から、開発者はGoogle AI StudioなどのAPIを通じて利用できます。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![Gemini 3 Flash: frontier intelligence built for speed](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_flash_model_blog_heade.max-600x600.format-webp.webp)
 
 ## 要約
-Gemini 3 Flashは、高速性と低コストを実現したGoogleの最新AIモデルです。
-- 従来モデルを上回る推論性能と高速処理を両立し、複雑なタスクにも対応します。
-- 開発者向けにAPIを通じて提供され、エージェントワークフローやマルチモーダル分析に優れています。
-- 一般ユーザーはGeminiアプリや検索機能から利用でき、日常的な質問から高度な計画立案まで支援します。
+Googleは高速処理に特化した最新AIモデル「Gemini 3 Flash」をリリースしました。  
+・Gemini 3 Proと同等の高度な推論能力を維持しつつ、従来モデルより3倍高速で低コストです。  
+・複雑なコーディングやマルチモーダル分析など、開発者向けのエージェントワークフローに優れています。  
+・一般ユーザーはGeminiアプリや検索から、開発者はGoogle AI StudioなどのAPIを通じて利用できます。
