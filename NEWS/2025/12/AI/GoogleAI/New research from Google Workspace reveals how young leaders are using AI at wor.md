@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp
 summary: |-
-  Google Workspaceが実施した調査によると、22歳から39歳の若手リーダー層は、業務でのAI活用に積極的です。
-  - 回答者の約4分の3が、AIを仕事で日常的に使用していると回答しています。
-  - 多くの回答者が、AIによって創造性や問題解決能力が高まると考えています。
-  - 一方で、AIの使用に関する明確なガイドラインを企業が提供することを求めています。
+  Google Workspaceが実施した22〜39歳の職場におけるAI利用に関する調査で、主に3つの傾向が明らかになりました。
+  ・多くの若手リーダーが、AIを創造性とイノベーションの向上に役立つと認識しています。
+  ・AIツールは、情報の整理やアイデア出しなどの日常業務で頻繁に使用されています。
+  ・回答者の過半数は、AIスキルが自身のキャリア成長に重要だと考えています。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![New research from Google Workspace reveals how young leaders are using AI at work.](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspaceLogo_logo_Social.max-600x600.format-webp.webp)
 
 ## 要約
-Google Workspaceが実施した調査によると、22歳から39歳の若手リーダー層は、業務でのAI活用に積極的です。
-- 回答者の約4分の3が、AIを仕事で日常的に使用していると回答しています。
-- 多くの回答者が、AIによって創造性や問題解決能力が高まると考えています。
-- 一方で、AIの使用に関する明確なガイドラインを企業が提供することを求めています。
+Google Workspaceが実施した22〜39歳の職場におけるAI利用に関する調査で、主に3つの傾向が明らかになりました。
+・多くの若手リーダーが、AIを創造性とイノベーションの向上に役立つと認識しています。
+・AIツールは、情報の整理やアイデア出しなどの日常業務で頻繁に使用されています。
+・回答者の過半数は、AIスキルが自身のキャリア成長に重要だと考えています。
