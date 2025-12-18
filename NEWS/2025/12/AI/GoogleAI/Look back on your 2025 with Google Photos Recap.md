@@ -6,10 +6,10 @@ category: AI
 rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BlogPostIn-Line_ShareCard_ANV01.max-600x600.format-webp.webp
 summary: |-
-  Googleフォトの「2025年 Recap」が公開され、今年はカスタマイズ性と共有機能が強化されました。  
-  ・特定の人物や写真を非表示にできるなど、パーソナライズ機能が追加されています。  
-  ・CapCut連携により専用テンプレートで編集し、ソーシャルメディアやWhatsAppへの共有が容易になりました。  
-  ・米国ユーザー向けにはGemini連携で趣味やハイライトを自動抽出する機能も導入されています。
+  Googleフォトの「2025年 振り返り」機能が、よりカスタマイズ可能で共有しやすくなりました。
+  ・特定の人物や写真を非表示にできるなど、個人用にカスタマイズできます。
+  ・CapCut連携により専用テンプレートで編集し、SNSやWhatsAppに直接共有できます。
+  ・米国ではGemini機能により、趣味やハイライトを自動でまとめることも可能です。
 read: false
 ignored: false
 pinned: false
@@ -19,7 +19,7 @@ memo: ""
 ![Look back on your 2025 with Google Photos Recap](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BlogPostIn-Line_ShareCard_ANV01.max-600x600.format-webp.webp)
 
 ## 要約
-Googleフォトの「2025年 Recap」が公開され、今年はカスタマイズ性と共有機能が強化されました。  
-・特定の人物や写真を非表示にできるなど、パーソナライズ機能が追加されています。  
-・CapCut連携により専用テンプレートで編集し、ソーシャルメディアやWhatsAppへの共有が容易になりました。  
-・米国ユーザー向けにはGemini連携で趣味やハイライトを自動抽出する機能も導入されています。
+Googleフォトの「2025年 振り返り」機能が、よりカスタマイズ可能で共有しやすくなりました。
+・特定の人物や写真を非表示にできるなど、個人用にカスタマイズできます。
+・CapCut連携により専用テンプレートで編集し、SNSやWhatsAppに直接共有できます。
+・米国ではGemini機能により、趣味やハイライトを自動でまとめることも可能です。

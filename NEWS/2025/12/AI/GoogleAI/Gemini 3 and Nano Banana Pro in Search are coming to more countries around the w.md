@@ -7,9 +7,9 @@ rss: GoogleAI
 image: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini3inGoogleSearch_Social.max-600x600.format-webp.webp
 summary: |-
   Googleが最高性能のAIモデル「Gemini 3」を、約120の国と地域のGoogle検索AIモードに英語で提供開始しました。
-  - 有料サブスクリプション加入者は、複雑な質問のニュアンスを理解する高度な推論能力を利用できます。
+  - 有料サブスクリプション「Google AI Pro/Ultra」ユーザーは、複雑な質問のニュアンスを理解する高度な推論機能を利用できます。
   - マルチモーダル理解とエージェント的コーディング能力により、動的な視覚的レイアウトやインタラクティブなツールが生成されます。
-  - 画像生成モデル「Nano Banana Pro」も拡大され、インフォグラフィックなどの視覚化が可能です。
+  - 画像生成モデル「Nano Banana Pro」も拡大導入され、インフォグラフィックなどの視覚化を支援します。
 read: false
 ignored: false
 pinned: false
@@ -20,6 +20,6 @@ memo: ""
 
 ## 要約
 Googleが最高性能のAIモデル「Gemini 3」を、約120の国と地域のGoogle検索AIモードに英語で提供開始しました。
-- 有料サブスクリプション加入者は、複雑な質問のニュアンスを理解する高度な推論能力を利用できます。
+- 有料サブスクリプション「Google AI Pro/Ultra」ユーザーは、複雑な質問のニュアンスを理解する高度な推論機能を利用できます。
 - マルチモーダル理解とエージェント的コーディング能力により、動的な視覚的レイアウトやインタラクティブなツールが生成されます。
-- 画像生成モデル「Nano Banana Pro」も拡大され、インフォグラフィックなどの視覚化が可能です。
+- 画像生成モデル「Nano Banana Pro」も拡大導入され、インフォグラフィックなどの視覚化を支援します。

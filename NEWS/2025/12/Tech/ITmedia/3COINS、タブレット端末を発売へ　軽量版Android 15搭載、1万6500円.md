@@ -6,10 +6,10 @@ category: Tech
 rss: ITmedia
 image: 
 summary: |-
-  GMOインターネットの格安スマートフォン「3COINS」が、12月22日に価格を10.1%値上げし、OSをAndroid 15の軽量版「Go Edition」に更新します。
-  - 新価格は1万6500円（税込）で、タブレットとしての利用も想定されています。
-  - スペックは、Allwinner A333チップ、3GBメモリ（仮想3GB追加可能）、64GBストレージ、8インチADS液晶を搭載します。
-  - カメラは前後200万画素、USB-C充電、microSDスロット、Wi-Fi/Bluetoothに対応し、充電器と保証書のみ付属します。
+  「3COINS」が12月22日に発売する10.1インチAndroidタブレットは、Android 15 Go Editionを搭載し、価格は1万6500円です。
+  - SoCはAllwinner A333を採用し、メモリは3GB（最大6GB）、ストレージは64GBです。
+  - ディスプレイは10.1インチのADS液晶で、カメラは前後に200万画素を搭載しています。
+  - 通信機能としてWi-Fi、Bluetooth、有線LANに対応し、付属品はACアダプタと保証書のみです。
 read: false
 ignored: false
 pinned: false
@@ -17,7 +17,7 @@ memo: ""
 ---
 
 ## 要約
-GMOインターネットの格安スマートフォン「3COINS」が、12月22日に価格を10.1%値上げし、OSをAndroid 15の軽量版「Go Edition」に更新します。
-- 新価格は1万6500円（税込）で、タブレットとしての利用も想定されています。
-- スペックは、Allwinner A333チップ、3GBメモリ（仮想3GB追加可能）、64GBストレージ、8インチADS液晶を搭載します。
-- カメラは前後200万画素、USB-C充電、microSDスロット、Wi-Fi/Bluetoothに対応し、充電器と保証書のみ付属します。
+「3COINS」が12月22日に発売する10.1インチAndroidタブレットは、Android 15 Go Editionを搭載し、価格は1万6500円です。
+- SoCはAllwinner A333を採用し、メモリは3GB（最大6GB）、ストレージは64GBです。
+- ディスプレイは10.1インチのADS液晶で、カメラは前後に200万画素を搭載しています。
+- 通信機能としてWi-Fi、Bluetooth、有線LANに対応し、付属品はACアダプタと保証書のみです。
